@@ -1,0 +1,170 @@
+[
+    {
+        "id": "la-perm-a01-athletic-title",
+        "data": {
+            "id": "la-perm-a01-athletic-title",
+            "text": "蹦蹦大跳繩"
+        }
+    },
+    {
+        "id": "la-perm-a01-balloonstore-title",
+        "data": {
+            "id": "la-perm-a01-balloonstore-title",
+            "text": "氣球商店"
+        }
+    },
+    {
+        "id": "la-perm-a01-candystore-title",
+        "data": {
+            "id": "la-perm-a01-candystore-title",
+            "text": "糖果商店"
+        }
+    },
+    {
+        "id": "la-perm-a01-exchangebooth-title",
+        "data": {
+            "id": "la-perm-a01-exchangebooth-title",
+            "text": "音波菈牡市場"
+        }
+    },
+    {
+        "id": "la-perm-a01-ferriswheel-title",
+        "data": {
+            "id": "la-perm-a01-ferriswheel-title",
+            "text": "奇瑟基之輪"
+        }
+    },
+    {
+        "id": "la-perm-a01-house-present-title",
+        "data": {
+            "id": "la-perm-a01-house-present-title",
+            "text": "禮物"
+        }
+    },
+    {
+        "id": "la-perm-a01-live-title",
+        "data": {
+            "id": "la-perm-a01-live-title",
+            "text": "Live"
+        }
+    },
+    {
+        "id": "la-perm-a01-materialbooth-title",
+        "data": {
+            "id": "la-perm-a01-materialbooth-title",
+            "text": "素材轉換所"
+        }
+    },
+    {
+        "id": "la-perm-a01-memoryboard-title",
+        "data": {
+            "id": "la-perm-a01-memoryboard-title",
+            "text": "回憶卡展示架"
+        }
+    },
+    {
+        "id": "la-perm-a01-multiplay-event-portal-title",
+        "data": {
+            "id": "la-perm-a01-multiplay-event-portal-title",
+            "text": "活動"
+        }
+    },
+    {
+        "id": "la-perm-a01-multiplay-live-title",
+        "data": {
+            "id": "la-perm-a01-multiplay-live-title",
+            "text": "多人Live"
+        }
+    },
+    {
+        "id": "la-perm-a01-multiplay-mg-title",
+        "data": {
+            "id": "la-perm-a01-multiplay-mg-title",
+            "text": "多人遊戲"
+        }
+    },
+    {
+        "id": "la-perm-a01-penlightstore-title",
+        "data": {
+            "id": "la-perm-a01-penlightstore-title",
+            "text": "應援棒商店"
+        }
+    },
+    {
+        "id": "la-perm-a01-restaurant-title",
+        "data": {
+            "id": "la-perm-a01-restaurant-title",
+            "text": "食材妙廚房"
+        }
+    },
+    {
+        "id": "la-perm-a01-station-title",
+        "data": {
+            "id": "la-perm-a01-station-title",
+            "text": "Holowork"
+        }
+    },
+    {
+        "id": "la-perm-a01-theater-title",
+        "data": {
+            "id": "la-perm-a01-theater-title",
+            "text": "影廳"
+        }
+    },
+    {
+        "id": "la-perm-a02-accessorystore-title",
+        "data": {
+            "id": "la-perm-a02-accessorystore-title",
+            "text": "高帽商店"
+        }
+    },
+    {
+        "id": "la-perm-a02-coinbooth-title",
+        "data": {
+            "id": "la-perm-a02-coinbooth-title",
+            "text": "電玩巨蛋城硬幣兌換所"
+        }
+    },
+    {
+        "id": "la-perm-a02-highandlow-title",
+        "data": {
+            "id": "la-perm-a02-highandlow-title",
+            "text": "比大小"
+        }
+    },
+    {
+        "id": "la-perm-a02-holocircuit-title",
+        "data": {
+            "id": "la-perm-a02-holocircuit-title",
+            "text": "極限跑道"
+        }
+    },
+    {
+        "id": "la-perm-a02-photobooth-title",
+        "data": {
+            "id": "la-perm-a02-photobooth-title",
+            "text": "一起拍照"
+        }
+    },
+    {
+        "id": "la-perm-a02-pokertable-title",
+        "data": {
+            "id": "la-perm-a02-pokertable-title",
+            "text": "撲克屋！"
+        }
+    },
+    {
+        "id": "la-perm-a02-scratchstore-title",
+        "data": {
+            "id": "la-perm-a02-scratchstore-title",
+            "text": "刮刮樂"
+        }
+    },
+    {
+        "id": "la-perm-a02-station-title",
+        "data": {
+            "id": "la-perm-a02-station-title",
+            "text": "Holowork"
+        }
+    }
+]

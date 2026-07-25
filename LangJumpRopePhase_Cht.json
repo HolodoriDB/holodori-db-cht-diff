@@ -1,0 +1,44 @@
+[
+    {
+        "id": "la-jump_rope_phase-phase1",
+        "data": {
+            "id": "la-jump_rope_phase-phase1",
+            "text": "PON級"
+        }
+    },
+    {
+        "id": "la-jump_rope_phase-phase2",
+        "data": {
+            "id": "la-jump_rope_phase-phase2",
+            "text": "普通級"
+        }
+    },
+    {
+        "id": "la-jump_rope_phase-phase3",
+        "data": {
+            "id": "la-jump_rope_phase-phase3",
+            "text": "強者級"
+        }
+    },
+    {
+        "id": "la-jump_rope_phase-phase4",
+        "data": {
+            "id": "la-jump_rope_phase-phase4",
+            "text": "超強級"
+        }
+    },
+    {
+        "id": "la-jump_rope_phase-phase5",
+        "data": {
+            "id": "la-jump_rope_phase-phase5",
+            "text": "GOD級"
+        }
+    },
+    {
+        "id": "la-jump_rope_phase-phase6",
+        "data": {
+            "id": "la-jump_rope_phase-phase6",
+            "text": "GOD級"
+        }
+    }
+]

@@ -1,0 +1,114 @@
+[
+    {
+        "id": "la-mini_game-circuit-description",
+        "data": {
+            "id": "la-mini_game-circuit-description",
+            "text": "最多可支援16名玩家同時參與的障礙競速遊戲"
+        }
+    },
+    {
+        "id": "la-mini_game-circuit-name",
+        "data": {
+            "id": "la-mini_game-circuit-name",
+            "text": "極限跑道"
+        }
+    },
+    {
+        "id": "la-mini_game-circuit-ranking_score_type_lang_id",
+        "data": {
+            "id": "la-mini_game-circuit-ranking_score_type_lang_id",
+            "text": "TIME"
+        }
+    },
+    {
+        "id": "la-mini_game-circuit-ranking_view_description_lang_id",
+        "data": {
+            "id": "la-mini_game-circuit-ranking_view_description_lang_id",
+            "text": "最佳時間 顯示前100名"
+        }
+    },
+    {
+        "id": "la-mini_game-combo_card_game-description",
+        "data": {
+            "id": "la-mini_game-combo_card_game-description",
+            "text": "組合牌型賺取硬幣的卡牌遊戲"
+        }
+    },
+    {
+        "id": "la-mini_game-combo_card_game-name",
+        "data": {
+            "id": "la-mini_game-combo_card_game-name",
+            "text": "撲克屋！"
+        }
+    },
+    {
+        "id": "la-mini_game-combo_card_game-ranking_score_type_lang_id",
+        "data": {
+            "id": "la-mini_game-combo_card_game-ranking_score_type_lang_id",
+            "text": "RATING"
+        }
+    },
+    {
+        "id": "la-mini_game-combo_card_game-ranking_view_description_lang_id",
+        "data": {
+            "id": "la-mini_game-combo_card_game-ranking_view_description_lang_id",
+            "text": "累計硬幣獎勵率 顯示前100名"
+        }
+    },
+    {
+        "id": "la-mini_game-cooking_puzzle-description",
+        "data": {
+            "id": "la-mini_game-cooking_puzzle-description",
+            "text": "收集素材製作料理的益智遊戲"
+        }
+    },
+    {
+        "id": "la-mini_game-cooking_puzzle-name",
+        "data": {
+            "id": "la-mini_game-cooking_puzzle-name",
+            "text": "食材妙廚房"
+        }
+    },
+    {
+        "id": "la-mini_game-cooking_puzzle-ranking_score_type_lang_id",
+        "data": {
+            "id": "la-mini_game-cooking_puzzle-ranking_score_type_lang_id",
+            "text": "SCORE"
+        }
+    },
+    {
+        "id": "la-mini_game-cooking_puzzle-ranking_view_description_lang_id",
+        "data": {
+            "id": "la-mini_game-cooking_puzzle-ranking_view_description_lang_id",
+            "text": "最佳分數 顯示前100名"
+        }
+    },
+    {
+        "id": "la-mini_game-jump_rope-description",
+        "data": {
+            "id": "la-mini_game-jump_rope-description",
+            "text": "大家一起跳大跳繩的跳躍遊戲"
+        }
+    },
+    {
+        "id": "la-mini_game-jump_rope-name",
+        "data": {
+            "id": "la-mini_game-jump_rope-name",
+            "text": "蹦蹦大跳繩"
+        }
+    },
+    {
+        "id": "la-mini_game-jump_rope-ranking_score_type_lang_id",
+        "data": {
+            "id": "la-mini_game-jump_rope-ranking_score_type_lang_id",
+            "text": "SCORE"
+        }
+    },
+    {
+        "id": "la-mini_game-jump_rope-ranking_view_description_lang_id",
+        "data": {
+            "id": "la-mini_game-jump_rope-ranking_view_description_lang_id",
+            "text": "最佳分數 顯示前100名"
+        }
+    }
+]

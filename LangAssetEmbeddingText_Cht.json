@@ -1,0 +1,436 @@
+[
+    {
+        "id": "la-asset_embedding_text-facility-a01-athletic",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a01-athletic",
+            "text": "嬉鬧操場"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a01-candystore",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a01-candystore",
+            "text": "h3ro行動車"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a01-clocktower",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a01-clocktower",
+            "text": "誓約之塔"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a01-exchangebooth",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a01-exchangebooth",
+            "text": "音波菈牡市場"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a01-facerock",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a01-facerock",
+            "text": "顏岩山"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a01-ferriswheel",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a01-ferriswheel",
+            "text": "奇瑟基之輪"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a01-house",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a01-house",
+            "text": "holo之家"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a01-multiplay",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a01-multiplay",
+            "text": "幸運連線"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a01-station",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a01-station",
+            "text": "玩家驛站"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a01-theater",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a01-theater",
+            "text": "HOLO影城"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-bartable",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-bartable",
+            "text": "渡鴉酒吧"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-blackjack",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-blackjack",
+            "text": "月之王牌"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-clocklever",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-clocklever",
+            "text": "切換搖桿"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-coinbooth",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-coinbooth",
+            "text": "電玩巨蛋城硬幣兌換所"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-cranegame",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-cranegame",
+            "text": "蘿蔔蔔夾娃娃機"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-dancegame",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-dancegame",
+            "text": "舞動不死鳥"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-fightinggame",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-fightinggame",
+            "text": "鐵拳擂台"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-highandlow",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-highandlow",
+            "text": "貪婪卡牌"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-holocircuit",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-holocircuit",
+            "text": "極限跑道"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-itemgacha",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-itemgacha",
+            "text": "扭蛋金剛"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-materialbooth",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-materialbooth",
+            "text": "素材轉換所"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-photobooth",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-photobooth",
+            "text": "超級拍貼機"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-pokertable",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-pokertable",
+            "text": "撲克屋！"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-racebetting",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-racebetting",
+            "text": "佩克拉狂熱競技"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-scratchstore",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-scratchstore",
+            "text": "洽馬洽馬極運輪盤"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-shootinggame",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-shootinggame",
+            "text": "飯糰驚魂"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-slotgame",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-slotgame",
+            "text": "超級老虎機"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-facility-a02-station",
+        "data": {
+            "id": "la-asset_embedding_text-facility-a02-station",
+            "text": "超級雲霄飛車"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-cmn-change-evening",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-cmn-change-evening",
+            "text": "等到傍晚"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-cmn-change-night",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-cmn-change-night",
+            "text": "等到夜晚"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-cmn-change-noon",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-cmn-change-noon",
+            "text": "等到早晨"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-cmn-changetime",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-cmn-changetime",
+            "text": "時間變更"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-cmn-naderu",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-cmn-naderu",
+            "text": "撫摸"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-cmn-open",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-cmn-open",
+            "text": "開啟"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-cmn-pick",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-cmn-pick",
+            "text": "拾取"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-cmn-sit",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-cmn-sit",
+            "text": "坐下"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a01-candystore-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a01-candystore-00",
+            "text": "窺視"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a01-facerock-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a01-facerock-00",
+            "text": "擺出姿勢"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a01-facerock-01",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a01-facerock-01",
+            "text": "仰視"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a01-ferriswheel-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a01-ferriswheel-00",
+            "text": "敲門"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a01-house-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a01-house-00",
+            "text": "查看holo之家"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a01-livehouse-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a01-livehouse-00",
+            "text": "拍打"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a01-restaurant-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a01-restaurant-00",
+            "text": "仰視"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a01-secretbase-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a01-secretbase-00",
+            "text": "敲門"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a01-station-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a01-station-00",
+            "text": "敲門"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-bartable-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-bartable-00",
+            "text": "坐下"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-bartable-sit",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-bartable-sit",
+            "text": "坐下"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-clocklever-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-clocklever-00",
+            "text": "切換搖桿"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-clocklever-casino",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-clocklever-casino",
+            "text": "切換至賭場區域"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-clocklever-game",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-clocklever-game",
+            "text": "切換至遊戲區域"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-clocklever-pre",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-clocklever-pre",
+            "text": "操控搖桿"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-clocklever-pre-cancel",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-clocklever-pre-cancel",
+            "text": "取消"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-cranegame-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-cranegame-00",
+            "text": "遊玩"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-cranegame-01",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-cranegame-01",
+            "text": "窺視"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-dancegame-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-dancegame-00",
+            "text": "遊玩"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-entrance-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-entrance-00",
+            "text": "投擲硬幣"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-fightinggame-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-fightinggame-00",
+            "text": "遊玩"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-itemgacha-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-itemgacha-00",
+            "text": "轉動搖桿"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-photobooth-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-photobooth-00",
+            "text": "拍攝"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-racebetting-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-racebetting-00",
+            "text": "遊玩"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-shootinggame-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-shootinggame-00",
+            "text": "遊玩"
+        }
+    },
+    {
+        "id": "la-asset_embedding_text-park_action-facility-a02-slotgame-00",
+        "data": {
+            "id": "la-asset_embedding_text-park_action-facility-a02-slotgame-00",
+            "text": "遊玩"
+        }
+    }
+]

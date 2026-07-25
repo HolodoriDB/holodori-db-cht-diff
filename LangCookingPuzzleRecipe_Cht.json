@@ -1,0 +1,478 @@
+[
+    {
+        "id": "la-cooking_recipe_001-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_001-level_1-description",
+            "text": "亞綺羅森研發的頂級美味可麗餅。微甜的麵皮與鮪魚美乃滋的鹹香完美結合，讓越來越多的holo成員一吃就上癮。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_001-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_001-level_1-name",
+            "text": "鮪魚美乃滋可麗餅"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_001-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_001-level_2-description",
+            "text": "亞綺羅森研發的頂級美味可麗餅。微甜的麵皮與鮪魚美乃滋的鹹香完美結合，讓越來越多的holo成員一吃就上癮。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_001-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_001-level_2-name",
+            "text": "鮪魚美乃滋可麗餅"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_001-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_001-level_3-description",
+            "text": "亞綺羅森研發的頂級美味可麗餅。微甜的麵皮與鮪魚美乃滋的鹹香完美結合，讓越來越多的holo成員一吃就上癮。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_001-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_001-level_3-name",
+            "text": "鮪魚美乃滋可麗餅"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_002-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_002-level_1-description",
+            "text": "哈洽馬獨創的另類拉麵。狼蛛如同蝦子般的風味與濃厚湯頭，交織出令人驚豔的極品佳餚。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_002-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_002-level_1-name",
+            "text": "狼蛛拉麵"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_002-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_002-level_2-description",
+            "text": "哈洽馬獨創的另類拉麵。狼蛛如同蝦子般的風味與濃厚湯頭，交織出令人驚豔的極品佳餚。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_002-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_002-level_2-name",
+            "text": "狼蛛拉麵"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_002-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_002-level_3-description",
+            "text": "哈洽馬獨創的另類拉麵。狼蛛如同蝦子般的風味與濃厚湯頭，交織出令人驚豔的極品佳餚。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_002-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_002-level_3-name",
+            "text": "狼蛛拉麵"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_003-level_1-description",
+            "text": "連最愛吃辣的狐狸都讚不絕口的辣味咖哩飯。吹雪好像有意再提升辣度，但被身邊的人阻止了。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_003-level_1-name",
+            "text": "超辣咖哩"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_2-area-a01-11-1-2-stage5-description",
+        "data": {
+            "id": "la-cooking_recipe_003-level_2-area-a01-11-1-2-stage5-description",
+            "text": "連最愛吃辣的狐狸都讚不絕口的辣味咖哩飯。吹雪好像有意再提升辣度，但被身邊的人阻止了。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_2-area-a01-11-1-2-stage5-name",
+        "data": {
+            "id": "la-cooking_recipe_003-level_2-area-a01-11-1-2-stage5-name",
+            "text": "超辣咖哩"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_003-level_2-description",
+            "text": "連最愛吃辣的狐狸都讚不絕口的辣味咖哩飯。吹雪好像有意再提升辣度，但被身邊的人阻止了。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_003-level_2-name",
+            "text": "超辣咖哩"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_003-level_3-description",
+            "text": "連最愛吃辣的狐狸都讚不絕口的辣味咖哩飯。吹雪好像有意再提升辣度，但被身邊的人阻止了。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_003-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_003-level_3-name",
+            "text": "超辣咖哩"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_004-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_004-level_1-description",
+            "text": "祭強力推薦這款以炸蝦獅為靈感的菜單。造型鬆軟可愛，分量豐盛有料，能同時滿足你的胃口與心靈。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_004-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_004-level_1-name",
+            "text": "炸蝦獅天婦羅蓋飯"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_004-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_004-level_2-description",
+            "text": "祭強力推薦這款以炸蝦獅為靈感的菜單。造型鬆軟可愛，分量豐盛有料，能同時滿足你的胃口與心靈。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_004-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_004-level_2-name",
+            "text": "炸蝦獅天婦羅蓋飯"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_004-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_004-level_3-description",
+            "text": "祭強力推薦這款以炸蝦獅為靈感的菜單。造型鬆軟可愛，分量豐盛有料，能同時滿足你的胃口與心靈。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_004-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_004-level_3-name",
+            "text": "炸蝦獅天婦羅蓋飯"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_005-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_005-level_1-description",
+            "text": "肉汁與愛情會同時在嘴裡蔓延的漢堡排。美味到連研發者巧可本人都忍不住自誇「莫非我是天才？」。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_005-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_005-level_1-name",
+            "text": "巧可漢堡排♡"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_005-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_005-level_2-description",
+            "text": "肉汁與愛情會同時在嘴裡蔓延的漢堡排。美味到連研發者巧可本人都忍不住自誇「莫非我是天才？」。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_005-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_005-level_2-name",
+            "text": "巧可漢堡排♡"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_005-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_005-level_3-description",
+            "text": "肉汁與愛情會同時在嘴裡蔓延的漢堡排。美味到連研發者巧可本人都忍不住自誇「莫非我是天才？」。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_005-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_005-level_3-name",
+            "text": "巧可漢堡排♡"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_006-level_1-description",
+            "text": "琉依經常做的馬鈴薯沙拉，擄獲了無數holo成員的心。一吃必成老主顧。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_006-level_1-name",
+            "text": "琉依姐特製馬鈴薯沙拉"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_006-level_2-description",
+            "text": "琉依經常做的馬鈴薯沙拉，擄獲了無數holo成員的心。一吃必成老主顧。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_006-level_2-name",
+            "text": "琉依姐特製馬鈴薯沙拉"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_3-area-a01-20-1-4-stage6-description",
+        "data": {
+            "id": "la-cooking_recipe_006-level_3-area-a01-20-1-4-stage6-description",
+            "text": "琉依經常做的馬鈴薯沙拉，擄獲了無數holo成員的心。一吃必成老主顧。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_3-area-a01-20-1-4-stage6-name",
+        "data": {
+            "id": "la-cooking_recipe_006-level_3-area-a01-20-1-4-stage6-name",
+            "text": "琉依姐特製馬鈴薯沙拉"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_006-level_3-description",
+            "text": "琉依經常做的馬鈴薯沙拉，擄獲了無數holo成員的心。一吃必成老主顧。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_006-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_006-level_3-name",
+            "text": "琉依姐特製馬鈴薯沙拉"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_007-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_007-level_1-description",
+            "text": "嘗遍無數拉麵的牡丹獻上的極品之作。從食材到湯頭，每一口都是頂級嚴選。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_007-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_007-level_1-name",
+            "text": "獅獅白特製拉麵"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_007-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_007-level_2-description",
+            "text": "嘗遍無數拉麵的牡丹獻上的極品之作。從食材到湯頭，每一口都是頂級嚴選。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_007-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_007-level_2-name",
+            "text": "獅獅白特製拉麵"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_007-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_007-level_3-description",
+            "text": "嘗遍無數拉麵的牡丹獻上的極品之作。從食材到湯頭，每一口都是頂級嚴選。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_007-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_007-level_3-name",
+            "text": "獅獅白特製拉麵"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_008-level_1-description",
+            "text": "米飯、香腸與梅乾，簡單完美的搭配，是一道讓莉莉華忍不住讚嘆「就是這樣才對味！」並大力推薦的頂級美味。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_008-level_1-name",
+            "text": "極限料理"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_2-area-a01-11-1-2-stage4-description",
+        "data": {
+            "id": "la-cooking_recipe_008-level_2-area-a01-11-1-2-stage4-description",
+            "text": "米飯、香腸與梅乾，簡單完美的搭配，是一道讓莉莉華忍不住讚嘆「就是這樣才對味！」並大力推薦的頂級美味。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_2-area-a01-11-1-2-stage4-name",
+        "data": {
+            "id": "la-cooking_recipe_008-level_2-area-a01-11-1-2-stage4-name",
+            "text": "極限料理"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_008-level_2-description",
+            "text": "米飯、香腸與梅乾，簡單完美的搭配，是一道讓莉莉華忍不住讚嘆「就是這樣才對味！」並大力推薦的頂級美味。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_008-level_2-name",
+            "text": "極限料理"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_008-level_3-description",
+            "text": "米飯、香腸與梅乾，簡單完美的搭配，是一道讓莉莉華忍不住讚嘆「就是這樣才對味！」並大力推薦的頂級美味。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_008-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_008-level_3-name",
+            "text": "極限料理"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_009-level_1-description",
+            "text": "Kronii最愛的溫泉蛋烏龍麵。嚼勁十足的麵條裹上濃郁柔潤的溫泉蛋，每吸一口……便是滿滿的幸福。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_009-level_1-name",
+            "text": "溫泉蛋烏龍麵"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_2-area-a01-20-1-4-stage5-description",
+        "data": {
+            "id": "la-cooking_recipe_009-level_2-area-a01-20-1-4-stage5-description",
+            "text": "Kronii最愛的溫泉蛋烏龍麵。嚼勁十足的麵條裹上濃郁柔潤的溫泉蛋，每吸一口……便是滿滿的幸福。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_2-area-a01-20-1-4-stage5-name",
+        "data": {
+            "id": "la-cooking_recipe_009-level_2-area-a01-20-1-4-stage5-name",
+            "text": "溫泉蛋烏龍麵"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_009-level_2-description",
+            "text": "Kronii最愛的溫泉蛋烏龍麵。嚼勁十足的麵條裹上濃郁柔潤的溫泉蛋，每吸一口……便是滿滿的幸福。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_009-level_2-name",
+            "text": "溫泉蛋烏龍麵"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_009-level_3-description",
+            "text": "Kronii最愛的溫泉蛋烏龍麵。嚼勁十足的麵條裹上濃郁柔潤的溫泉蛋，每吸一口……便是滿滿的幸福。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_009-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_009-level_3-name",
+            "text": "溫泉蛋烏龍麵"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_010-level_1-description",
+        "data": {
+            "id": "la-cooking_recipe_010-level_1-description",
+            "text": "Reine的傾心之作，盛裝於手印盤裡的牛奶麥片。牛奶與麥片以完美比例融合，美味無可挑剔。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_010-level_1-name",
+        "data": {
+            "id": "la-cooking_recipe_010-level_1-name",
+            "text": "牛奶麥片"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_010-level_2-description",
+        "data": {
+            "id": "la-cooking_recipe_010-level_2-description",
+            "text": "Reine的傾心之作，盛裝於手印盤裡的牛奶麥片。牛奶與麥片以完美比例融合，美味無可挑剔。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_010-level_2-name",
+        "data": {
+            "id": "la-cooking_recipe_010-level_2-name",
+            "text": "牛奶麥片"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_010-level_3-description",
+        "data": {
+            "id": "la-cooking_recipe_010-level_3-description",
+            "text": "Reine的傾心之作，盛裝於手印盤裡的牛奶麥片。牛奶與麥片以完美比例融合，美味無可挑剔。"
+        }
+    },
+    {
+        "id": "la-cooking_recipe_010-level_3-name",
+        "data": {
+            "id": "la-cooking_recipe_010-level_3-name",
+            "text": "牛奶麥片"
+        }
+    }
+]

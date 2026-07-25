@@ -1,0 +1,72 @@
+[
+    {
+        "id": "la-effect-filter-category-all-parameter-up",
+        "data": {
+            "id": "la-effect-filter-category-all-parameter-up",
+            "text": "全能力UP"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-judgement-enhance",
+        "data": {
+            "id": "la-effect-filter-category-judgement-enhance",
+            "text": "判定強化"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-life-recovery",
+        "data": {
+            "id": "la-effect-filter-category-life-recovery",
+            "text": "回復生命值"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-performance-up",
+        "data": {
+            "id": "la-effect-filter-category-performance-up",
+            "text": "表現力UP"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-score-up",
+        "data": {
+            "id": "la-effect-filter-category-score-up",
+            "text": "分數UP"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-score-up-effect-up",
+        "data": {
+            "id": "la-effect-filter-category-score-up-effect-up",
+            "text": "分數支援"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-sense-up",
+        "data": {
+            "id": "la-effect-filter-category-sense-up",
+            "text": "品味UP"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-skill-activation-probability-up",
+        "data": {
+            "id": "la-effect-filter-category-skill-activation-probability-up",
+            "text": "提升技能發動機率UP"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-skill-effect-up",
+        "data": {
+            "id": "la-effect-filter-category-skill-effect-up",
+            "text": "分數支援"
+        }
+    },
+    {
+        "id": "la-effect-filter-category-technique-up",
+        "data": {
+            "id": "la-effect-filter-category-technique-up",
+            "text": "技巧UP"
+        }
+    }
+]

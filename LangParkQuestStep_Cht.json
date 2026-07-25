@@ -1,0 +1,5364 @@
+[
+    {
+        "id": "la-quest-area-a01-01-1-1",
+        "data": {
+            "id": "la-quest-area-a01-01-1-1",
+            "text": "從Live舞台傳來愉快的笑聲。向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-01-1-2",
+        "data": {
+            "id": "la-quest-area-a01-01-1-2",
+            "text": "氣氛好像越來越熱烈。向{character}打招呼後開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-02-1-1",
+        "data": {
+            "id": "la-quest-area-a01-02-1-1",
+            "text": "IRyS＆Anya正在嬉鬧操場聊天。向她們搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-02-1-2",
+        "data": {
+            "id": "la-quest-area-a01-02-1-2",
+            "text": "目標1萬次！與{character}一起遊玩蹦蹦大跳繩吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-02-1-3",
+        "data": {
+            "id": "la-quest-area-a01-02-1-3",
+            "text": "調整好凌亂的呼吸，與在嬉鬧操場的IRyS＆Anya對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-03-1-1",
+        "data": {
+            "id": "la-quest-area-a01-03-1-1",
+            "text": "祭＆Iofi正在樂園入口開心地聊天。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-03-1-2",
+        "data": {
+            "id": "la-quest-area-a01-03-1-2",
+            "text": "透過Holo成員關卡解鎖3名holo成員吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-03-1-3",
+        "data": {
+            "id": "la-quest-area-a01-03-1-3",
+            "text": "順利打完招呼！與在holo之家前的祭＆Iofi對話後，一起開布丁派對吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-04-1-1",
+        "data": {
+            "id": "la-quest-area-a01-04-1-1",
+            "text": "感受到愉快的氣氛。與在幸運連線前的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-04-1-2",
+        "data": {
+            "id": "la-quest-area-a01-04-1-2",
+            "text": "與大家一起遊玩Live，達到過關分數吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-04-1-3",
+        "data": {
+            "id": "la-quest-area-a01-04-1-3",
+            "text": "Live結束！休息一下，與在幸運連線的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-05-1-1",
+        "data": {
+            "id": "la-quest-area-a01-05-1-1",
+            "text": "在HOLO影城集合！趕快去找沁音＆Kobo吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-05-1-2",
+        "data": {
+            "id": "la-quest-area-a01-05-1-2",
+            "text": "時機就是關鍵！與{character}遊玩蹦蹦大跳繩吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-05-1-3",
+        "data": {
+            "id": "la-quest-area-a01-05-1-3",
+            "text": "勝負的結果？！向在嬉鬧操場的沁音＆Kobo問問看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-06-1-1",
+        "data": {
+            "id": "la-quest-area-a01-06-1-1",
+            "text": "holoX據點正在開作戰會議。與{character}聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-06-1-2",
+        "data": {
+            "id": "la-quest-area-a01-06-1-2",
+            "text": "潛入調查的時刻到了。在幸運連線調查科技吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-06-1-3",
+        "data": {
+            "id": "la-quest-area-a01-06-1-3",
+            "text": "與{character}遊玩蹦蹦大跳繩吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-07-1-1",
+        "data": {
+            "id": "la-quest-area-a01-07-1-1",
+            "text": "澪＆Zeta好像正在樂園入口約會。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-07-1-2",
+        "data": {
+            "id": "la-quest-area-a01-07-1-2",
+            "text": "閃耀的瞬間。獲得50個成就吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-07-1-3",
+        "data": {
+            "id": "la-quest-area-a01-07-1-3",
+            "text": "回味著約會的甜蜜氛圍，向在廣場的澪＆Zeta打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-08-1-1",
+        "data": {
+            "id": "la-quest-area-a01-08-1-1",
+            "text": "出狀況了？向在holo之家前的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-08-1-2",
+        "data": {
+            "id": "la-quest-area-a01-08-1-2",
+            "text": "手機遺失！憑著記憶，在樂園裡展開搜尋！"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-09-1-1",
+        "data": {
+            "id": "la-quest-area-a01-09-1-1",
+            "text": "Calliope＆佩克拉好像在Live舞台。過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-09-1-2",
+        "data": {
+            "id": "la-quest-area-a01-09-1-2",
+            "text": "與正在玩家驛站聊天的Calliope＆佩克拉會合吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-09-1-3",
+        "data": {
+            "id": "la-quest-area-a01-09-1-3",
+            "text": "進行1次Holowork吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-09-1-4",
+        "data": {
+            "id": "la-quest-area-a01-09-1-4",
+            "text": "與在玩家驛站的佩克拉對話後，送她離開吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-10-1-1",
+        "data": {
+            "id": "la-quest-area-a01-10-1-1",
+            "text": "向正在廣場聊天的波爾卡＆Ollie打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-10-1-2",
+        "data": {
+            "id": "la-quest-area-a01-10-1-2",
+            "text": "解鎖Holo成員面板吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-10-1-3",
+        "data": {
+            "id": "la-quest-area-a01-10-1-3",
+            "text": "計畫決定好了！與在holo之家前的波爾卡＆Ollie對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-11-1-1",
+        "data": {
+            "id": "la-quest-area-a01-11-1-1",
+            "text": "holo之家裡好像有什麼騷動。向{character}打聽看看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-11-1-2",
+        "data": {
+            "id": "la-quest-area-a01-11-1-2",
+            "text": "輕鬆前往飽食之旅。填飽肚子，休息一下吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-12-1-1",
+        "data": {
+            "id": "la-quest-area-a01-12-1-1",
+            "text": "向心滿意足地從飽食之旅走出來的綾目＆諾艾爾搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-12-1-2",
+        "data": {
+            "id": "la-quest-area-a01-12-1-2",
+            "text": "立刻前往嬉鬧操場。與{character}遊玩蹦蹦大跳繩吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-12-1-3",
+        "data": {
+            "id": "la-quest-area-a01-12-1-3",
+            "text": "與在嬉鬧操場玩得盡興的綾目＆諾艾爾對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-13-1-1",
+        "data": {
+            "id": "la-quest-area-a01-13-1-1",
+            "text": "從holo之家傳來巧可＆Baelz愉快的笑聲。過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-13-1-2",
+        "data": {
+            "id": "la-quest-area-a01-13-1-2",
+            "text": "透過Holo成員關卡解鎖5名holo成員吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-13-1-3",
+        "data": {
+            "id": "la-quest-area-a01-13-1-3",
+            "text": "大家一起開點心派對！與在holo之家室內的巧可＆Baelz對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-14-1-1",
+        "data": {
+            "id": "la-quest-area-a01-14-1-1",
+            "text": "跟隨聲音指引的方向。前往Live舞台與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-14-1-2",
+        "data": {
+            "id": "la-quest-area-a01-14-1-2",
+            "text": "保持步調一致。與{character}一起開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-15-1-1",
+        "data": {
+            "id": "la-quest-area-a01-15-1-1",
+            "text": "小粥＆Risu好像正在廣場愉快地聊天。過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-15-1-2",
+        "data": {
+            "id": "la-quest-area-a01-15-1-2",
+            "text": "補充能量！與{character}一起自主訓練吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-15-1-3",
+        "data": {
+            "id": "la-quest-area-a01-15-1-3",
+            "text": "自主訓練大有成果！與在Live舞台的小粥＆Risu對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-16-1-1",
+        "data": {
+            "id": "la-quest-area-a01-16-1-1",
+            "text": "向正在廣場談話的芙蕾雅＆Kronii打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-16-1-2",
+        "data": {
+            "id": "la-quest-area-a01-16-1-2",
+            "text": "解鎖15次Holo成員面板吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-16-1-3",
+        "data": {
+            "id": "la-quest-area-a01-16-1-3",
+            "text": "充實美好的一天！前往廣場，向芙蕾雅＆Kronii打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-17-1-1",
+        "data": {
+            "id": "la-quest-area-a01-17-1-1",
+            "text": "The Cell 重臨好像在開祕密作戰會議？趕快過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-17-1-2",
+        "data": {
+            "id": "la-quest-area-a01-17-1-2",
+            "text": "讓監獄變得亮晶晶！先在holo之家備齊打掃用具吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-17-1-3",
+        "data": {
+            "id": "la-quest-area-a01-17-1-3",
+            "text": "接著在玩家驛站取得打掃用具吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-17-1-4",
+        "data": {
+            "id": "la-quest-area-a01-17-1-4",
+            "text": "萬事俱備！在The Cell 重臨，將打掃用具交給{character}吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-17-1-5",
+        "data": {
+            "id": "la-quest-area-a01-17-1-5",
+            "text": "工作完成後，在holo之家享受喝茶時光吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-18-1-1",
+        "data": {
+            "id": "la-quest-area-a01-18-1-1",
+            "text": "玩家驛站忙成一團？趕快去找吹雪＆Kaela吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-18-1-2",
+        "data": {
+            "id": "la-quest-area-a01-18-1-2",
+            "text": "整理設備，升級玩家驛站吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-18-1-3",
+        "data": {
+            "id": "la-quest-area-a01-18-1-3",
+            "text": "設備收拾完畢！在玩家驛站與吹雪＆Kaela聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-19-1-1",
+        "data": {
+            "id": "la-quest-area-a01-19-1-1",
+            "text": "超VeryBad前面好熱鬧。去看看發生了什麼事吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-19-1-2",
+        "data": {
+            "id": "la-quest-area-a01-19-1-2",
+            "text": "有趣的活動企劃定案！收集Holo金幣吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-19-1-3",
+        "data": {
+            "id": "la-quest-area-a01-19-1-3",
+            "text": "準備完畢！回超VeryBad，開始活動！"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-20-1-1",
+        "data": {
+            "id": "la-quest-area-a01-20-1-1",
+            "text": "從顏岩山傳來歌聲？趕快去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-20-1-2",
+        "data": {
+            "id": "la-quest-area-a01-20-1-2",
+            "text": "樂園的守護神，真的在守護著我們嗎？！前往廣場與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-20-1-3",
+        "data": {
+            "id": "la-quest-area-a01-20-1-3",
+            "text": "在樂園四處逛逛，從各處眺望顏岩山吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-20-1-4",
+        "data": {
+            "id": "la-quest-area-a01-20-1-4",
+            "text": "走得有點累。在飽食之旅放鬆心情，恢復體力吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-21-1-1",
+        "data": {
+            "id": "la-quest-area-a01-21-1-1",
+            "text": "綿芽＆Moona正在回憶卡展示架前開心地聊天。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-21-1-2",
+        "data": {
+            "id": "la-quest-area-a01-21-1-2",
+            "text": "嘗試變更回憶卡展示架吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-21-1-3",
+        "data": {
+            "id": "la-quest-area-a01-21-1-3",
+            "text": "那裡好像在玩什麼奇妙的遊戲。與在回憶卡展示架前的綿芽＆Moona對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-22-1-1",
+        "data": {
+            "id": "la-quest-area-a01-22-1-1",
+            "text": "大量行李送達holo之家。與{character}對話，查探情況吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-22-1-2",
+        "data": {
+            "id": "la-quest-area-a01-22-1-2",
+            "text": "搬入新商品的材料，升級音波菈牡市場吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-23-1-1",
+        "data": {
+            "id": "la-quest-area-a01-23-1-1",
+            "text": "與在音波菈牡市場的音音＆小夜璃會合後，一起聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-23-1-2",
+        "data": {
+            "id": "la-quest-area-a01-23-1-2",
+            "text": "靈光乍現的化學反應！構思計畫，升級音波菈牡市場吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-23-1-3",
+        "data": {
+            "id": "la-quest-area-a01-23-1-3",
+            "text": "費盡心血想出的點子？向在音波菈牡市場的音音＆小夜璃問問看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-24-1-1",
+        "data": {
+            "id": "la-quest-area-a01-24-1-1",
+            "text": "沁音＆彼方正在奮鬥中？！趕快前往玩家驛站吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-24-1-2",
+        "data": {
+            "id": "la-quest-area-a01-24-1-2",
+            "text": "升級玩家驛站，因應船班增加吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-24-1-3",
+        "data": {
+            "id": "la-quest-area-a01-24-1-3",
+            "text": "更新玩家驛站的設備！看看沁音＆彼方的情況吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-25-1-1",
+        "data": {
+            "id": "la-quest-area-a01-25-1-1",
+            "text": "巫女＆澪正在玩家驛站談話。趕快過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-25-1-2",
+        "data": {
+            "id": "la-quest-area-a01-25-1-2",
+            "text": "閃耀為力量之源！升級玩家驛站吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-25-1-3",
+        "data": {
+            "id": "la-quest-area-a01-25-1-3",
+            "text": "玩家驛站打掃完畢！向巫女＆澪報告成果吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-26-1-1",
+        "data": {
+            "id": "la-quest-area-a01-26-1-1",
+            "text": "與在holo之家的小粥＆永遠會合後，一起聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-26-1-2",
+        "data": {
+            "id": "la-quest-area-a01-26-1-2",
+            "text": "升級玩家驛站，增加船班吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-26-1-3",
+        "data": {
+            "id": "la-quest-area-a01-26-1-3",
+            "text": "玩家驛站升級了！趕快去找在holo之家的小粥＆永遠吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-27-1-1",
+        "data": {
+            "id": "la-quest-area-a01-27-1-1",
+            "text": "向在飽食之旅剛吃完飯的璐娜＆牡丹打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-27-1-2",
+        "data": {
+            "id": "la-quest-area-a01-27-1-2",
+            "text": "傑作的預感！完成試作品，升級音波菈牡市場吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-27-1-3",
+        "data": {
+            "id": "la-quest-area-a01-27-1-3",
+            "text": "必會銷售一空？！去音波菈牡市場看看璐娜＆牡丹的試作品吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-28-1-1",
+        "data": {
+            "id": "la-quest-area-a01-28-1-1",
+            "text": "從Live舞台傳來音樂的旋律。去看看Ina'nis＆Kiara的情況吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-28-1-2",
+        "data": {
+            "id": "la-quest-area-a01-28-1-2",
+            "text": "全新的創意！構思新商品，升級音波菈牡市場吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-28-1-3",
+        "data": {
+            "id": "la-quest-area-a01-28-1-3",
+            "text": "新商品的提案順利嗎？在音波菈牡市場向Ina'nis＆Kiara問問看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-01-1-1",
+        "data": {
+            "id": "la-quest-area-a02-01-1-1",
+            "text": "在想事情？與{character}聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-01-1-2",
+        "data": {
+            "id": "la-quest-area-a02-01-1-2",
+            "text": "一曲入魂！在Live遊玩25首樂曲吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-01-1-3",
+        "data": {
+            "id": "la-quest-area-a02-01-1-3",
+            "text": "想出了許多表演的點子！向在大廳的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-02-1-1",
+        "data": {
+            "id": "la-quest-area-a02-02-1-1",
+            "text": "鬥志高昂的聲音響徹全場！與在極限跑道入口的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-02-1-2",
+        "data": {
+            "id": "la-quest-area-a02-02-1-2",
+            "text": "挑戰極速！與{character}對話後，在極限跑道突破前8名的難關吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-02-1-3",
+        "data": {
+            "id": "la-quest-area-a02-02-1-3",
+            "text": "最終激戰！與在極限跑道入口等待的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-03-1-1",
+        "data": {
+            "id": "la-quest-area-a02-03-1-1",
+            "text": "正在打掃？與在電玩巨蛋城大廳的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-03-1-2",
+        "data": {
+            "id": "la-quest-area-a02-03-1-2",
+            "text": "秉持待客之心。升級超級雲霄飛車吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-03-1-3",
+        "data": {
+            "id": "la-quest-area-a02-03-1-3",
+            "text": "多虧有你，讓超級雲霄飛車煥然一新。與在電玩巨蛋城大廳的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-04-1-1",
+        "data": {
+            "id": "la-quest-area-a02-04-1-1",
+            "text": "好像在討論設施的事。與在電玩巨蛋城大廳的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-04-1-2",
+        "data": {
+            "id": "la-quest-area-a02-04-1-2",
+            "text": "升級超級雲霄飛車，將它改造得更舒適吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-04-1-3",
+        "data": {
+            "id": "la-quest-area-a02-04-1-3",
+            "text": "更新接待手冊！在電玩巨蛋城大廳聽聽{character}的感想吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-05-1-1",
+        "data": {
+            "id": "la-quest-area-a02-05-1-1",
+            "text": "從電玩巨蛋城大廳傳來聲響。向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-05-1-2",
+        "data": {
+            "id": "la-quest-area-a02-05-1-2",
+            "text": "立刻升級！進行1次成員特訓吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-05-1-3",
+        "data": {
+            "id": "la-quest-area-a02-05-1-3",
+            "text": "特別強化訓練的成果如何？！在電玩巨蛋城大廳向{character}問問看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-06-1-1",
+        "data": {
+            "id": "la-quest-area-a02-06-1-1",
+            "text": "從遊戲區域傳來{character}非常愉快的笑聲。過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-06-1-2",
+        "data": {
+            "id": "la-quest-area-a02-06-1-2",
+            "text": "暖好身後，開始練習。與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-06-1-3",
+        "data": {
+            "id": "la-quest-area-a02-06-1-3",
+            "text": "練習結束後情緒莫名高漲？與在遊戲區域的{character}聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-07-1-1",
+        "data": {
+            "id": "la-quest-area-a02-07-1-1",
+            "text": "從電玩巨蛋城大廳傳來說話聲。向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-07-1-2",
+        "data": {
+            "id": "la-quest-area-a02-07-1-2",
+            "text": "大獲全勝的預感！將電玩巨蛋城硬幣交給在電玩巨蛋城大廳的{character}吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-07-1-3",
+        "data": {
+            "id": "la-quest-area-a02-07-1-3",
+            "text": "勝負未定！在電玩巨蛋城大廳與{character}對話後，繼續遊玩吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-08-1-1",
+        "data": {
+            "id": "la-quest-area-a02-08-1-1",
+            "text": "從電玩巨蛋城大廳傳來{character}開心的笑聲。趕快過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-08-1-2",
+        "data": {
+            "id": "la-quest-area-a02-08-1-2",
+            "text": "透過Holo成員關卡解鎖10名holo成員吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-08-1-3",
+        "data": {
+            "id": "la-quest-area-a02-08-1-3",
+            "text": "熱情高漲，將興奮的心情傳達給在電玩巨蛋城大廳的{character}吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-09-1-1",
+        "data": {
+            "id": "la-quest-area-a02-09-1-1",
+            "text": "在熱鬧的電玩巨蛋城大廳找到{character}後，向她搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-09-1-2",
+        "data": {
+            "id": "la-quest-area-a02-09-1-2",
+            "text": "刷新紀錄！達成300個成就吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-09-1-3",
+        "data": {
+            "id": "la-quest-area-a02-09-1-3",
+            "text": "熱火一燃，勢不可擋！在電玩巨蛋城大廳與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-10-1-1",
+        "data": {
+            "id": "la-quest-area-a02-10-1-1",
+            "text": "好像有人在電玩巨蛋城大廳分享搭乘超級雲霄飛車的感想。與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-10-1-2",
+        "data": {
+            "id": "la-quest-area-a02-10-1-2",
+            "text": "升級超級雲霄飛車，目標是成為最受歡迎的No.1！"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-10-1-3",
+        "data": {
+            "id": "la-quest-area-a02-10-1-3",
+            "text": "瞬間完成？！與在電玩巨蛋城大廳的{character}確認情況吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-11-1-1",
+        "data": {
+            "id": "la-quest-area-a02-11-1-1",
+            "text": "差不多該練習了。向在賭場區域的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-11-1-2",
+        "data": {
+            "id": "la-quest-area-a02-11-1-2",
+            "text": "跟上節奏！向{character}搭話後，開始練習"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-11-1-3",
+        "data": {
+            "id": "la-quest-area-a02-11-1-3",
+            "text": "帶著滿足的疲憊感，與在賭場區域的{character}一起回顧今天的練習吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-12-1-1",
+        "data": {
+            "id": "la-quest-area-a02-12-1-1",
+            "text": "賭場區域那邊好像很熱鬧。向{character}問問看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-12-1-2",
+        "data": {
+            "id": "la-quest-area-a02-12-1-2",
+            "text": "與{character}對話後，開始對局！在撲克屋！取得前2名吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-12-1-3",
+        "data": {
+            "id": "la-quest-area-a02-12-1-3",
+            "text": "戲劇性落幕？向在賭場區域結束對局的{character}問問看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-13-1-1",
+        "data": {
+            "id": "la-quest-area-a02-13-1-1",
+            "text": "誰在大聲歡鬧？與在遊戲區域的{character}確認情況吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-13-1-2",
+        "data": {
+            "id": "la-quest-area-a02-13-1-2",
+            "text": "解鎖50次Holo成員面板吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-13-1-3",
+        "data": {
+            "id": "la-quest-area-a02-13-1-3",
+            "text": "興奮得靜不下來？向在遊戲區域的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-14-1-1",
+        "data": {
+            "id": "la-quest-area-a02-14-1-1",
+            "text": "從賭場區域傳來慘叫聲！趕快去看看{character}的情況"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-14-1-2",
+        "data": {
+            "id": "la-quest-area-a02-14-1-2",
+            "text": "目標是一夜致富！在比大小賺取電玩巨蛋城硬幣吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-14-1-3",
+        "data": {
+            "id": "la-quest-area-a02-14-1-3",
+            "text": "勝利的女神會微笑嗎？在賭場區域關注{character}吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-15-1-1",
+        "data": {
+            "id": "la-quest-area-a02-15-1-1",
+            "text": "練習時間快到了。與在賭場區域的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-15-1-2",
+        "data": {
+            "id": "la-quest-area-a02-15-1-2",
+            "text": "調整好步調，開始練習！向{character}打招呼後，馬上開始吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-15-1-3",
+        "data": {
+            "id": "la-quest-area-a02-15-1-3",
+            "text": "完美完工！與在賭場區域休息的{character}分享喜悅吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-16-1-1",
+        "data": {
+            "id": "la-quest-area-a02-16-1-1",
+            "text": "靈光一閃的好主意？！在電玩巨蛋城大廳與{character}對話後，想辦法實現吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-16-1-2",
+        "data": {
+            "id": "la-quest-area-a02-16-1-2",
+            "text": "讓想法成真！升級超級雲霄飛車吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a02-16-1-3",
+        "data": {
+            "id": "la-quest-area-a02-16-1-3",
+            "text": "在電玩巨蛋城大廳與{character}對話後，體驗更新後的超級雲霄飛車吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00001-1-1",
+        "data": {
+            "id": "la-quest-chr-00001-1-1",
+            "text": "前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00001-1-2",
+        "data": {
+            "id": "la-quest-chr-00001-1-2",
+            "text": "溫暖的約會要開始了。趕快去找在樂園裡等待的{character}吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00001-1-3",
+        "data": {
+            "id": "la-quest-chr-00001-1-3",
+            "text": "盡情遊玩後就去練習吧！與在Live舞台的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00002-1-1",
+        "data": {
+            "id": "la-quest-chr-00002-1-1",
+            "text": "前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00002-1-2",
+        "data": {
+            "id": "la-quest-chr-00002-1-2",
+            "text": "開始認真練習！向在Live舞台的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00002-1-3",
+        "data": {
+            "id": "la-quest-chr-00002-1-3",
+            "text": "自主訓練後的獎勵就是可以出去玩。趕快前往樂園入口吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00004-1-1",
+        "data": {
+            "id": "la-quest-chr-00004-1-1",
+            "text": "前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00004-1-2",
+        "data": {
+            "id": "la-quest-chr-00004-1-2",
+            "text": "歡欣雀躍的練習時間。向在Live舞台的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00004-1-3",
+        "data": {
+            "id": "la-quest-chr-00004-1-3",
+            "text": "回holo之家，享用美味的飯菜和飲料吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00005-1-1",
+        "data": {
+            "id": "la-quest-chr-00005-1-1",
+            "text": "前往廣場吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00005-1-2",
+        "data": {
+            "id": "la-quest-chr-00005-1-2",
+            "text": "擄獲大家的胃！在holo之家裡與{character}討論後，決定菜單吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00005-1-3",
+        "data": {
+            "id": "la-quest-chr-00005-1-3",
+            "text": "這就是頂級美味！前往樂園入口，獻上傑作吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00005-1-4",
+        "data": {
+            "id": "la-quest-chr-00005-1-4",
+            "text": "吃飽喝足。與在Live舞台的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00006-1-1",
+        "data": {
+            "id": "la-quest-chr-00006-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00006-1-2",
+        "data": {
+            "id": "la-quest-chr-00006-1-2",
+            "text": "夜晚的風很涼爽。在廣場與{character}輕聲聊天吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00006-1-3",
+        "data": {
+            "id": "la-quest-chr-00006-1-3",
+            "text": "沉浸在夜晚的餘韻中。在holo之家室內與{character}一起放鬆吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00006-1-4",
+        "data": {
+            "id": "la-quest-chr-00006-1-4",
+            "text": "盡情享受之後，向在Live舞台的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00007-1-1",
+        "data": {
+            "id": "la-quest-chr-00007-1-1",
+            "text": "前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00007-1-2",
+        "data": {
+            "id": "la-quest-chr-00007-1-2",
+            "text": "精力充沛！與在Live舞台的{character}共度一段熱力四射的美好時光"
+        }
+    },
+    {
+        "id": "la-quest-chr-00007-1-3",
+        "data": {
+            "id": "la-quest-chr-00007-1-3",
+            "text": "肚子又餓了！在holo之家裡與{character}一起吃飯吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00010-1-1",
+        "data": {
+            "id": "la-quest-chr-00010-1-1",
+            "text": "與在廣場的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00010-1-2",
+        "data": {
+            "id": "la-quest-chr-00010-1-2",
+            "text": "聊得太起勁，可能會遲到。趕快前往Live舞台與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00010-1-3",
+        "data": {
+            "id": "la-quest-chr-00010-1-3",
+            "text": "盡情跳舞後感覺神清氣爽。前往廣場與{character}輕鬆聊天吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00011-1-1",
+        "data": {
+            "id": "la-quest-chr-00011-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00011-1-2",
+        "data": {
+            "id": "la-quest-chr-00011-1-2",
+            "text": "沒想到會睡回籠覺？趕快前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00011-1-3",
+        "data": {
+            "id": "la-quest-chr-00011-1-3",
+            "text": "全員到齊，準備就緒。與在Live舞台的{character}對話後，一起愉快地練習吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00011-1-4",
+        "data": {
+            "id": "la-quest-chr-00011-1-4",
+            "text": "決定接下來去野餐。在holo之家裡與{character}對話後，一起準備便當吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00011-1-5",
+        "data": {
+            "id": "la-quest-chr-00011-1-5",
+            "text": "美味的便當完成！趕快去野餐吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00012-1-1",
+        "data": {
+            "id": "la-quest-chr-00012-1-1",
+            "text": "與在holo之家室內的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00012-1-2",
+        "data": {
+            "id": "la-quest-chr-00012-1-2",
+            "text": "帶著笑容投入練習！前往廣場，與{character}快樂地跳舞吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00012-1-3",
+        "data": {
+            "id": "la-quest-chr-00012-1-3",
+            "text": "與大家一起搬運行李，在holo之家裡與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00012-1-4",
+        "data": {
+            "id": "la-quest-chr-00012-1-4",
+            "text": "好戲才剛開始。與在Live舞台的{character}對話後，再次開始特訓！"
+        }
+    },
+    {
+        "id": "la-quest-chr-00013-1-1",
+        "data": {
+            "id": "la-quest-chr-00013-1-1",
+            "text": "前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00013-1-2",
+        "data": {
+            "id": "la-quest-chr-00013-1-2",
+            "text": "辛苦過後放鬆一下吧。前往廣場，輕鬆地散步吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00013-1-3",
+        "data": {
+            "id": "la-quest-chr-00013-1-3",
+            "text": "好像聽見海風的呼喚。前往西南海岸，繼續散步吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00013-1-4",
+        "data": {
+            "id": "la-quest-chr-00013-1-4",
+            "text": "猜地點遊戲的照片，到底是在哪裡拍的？！上山確認看看吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00013-1-5",
+        "data": {
+            "id": "la-quest-chr-00013-1-5",
+            "text": "要怎麼讓散步完美結束呢？在Live舞台向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00014-1-1",
+        "data": {
+            "id": "la-quest-chr-00014-1-1",
+            "text": "與在holo之家室內的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00014-1-2",
+        "data": {
+            "id": "la-quest-chr-00014-1-2",
+            "text": "一覺醒來精神就超好！與在Live舞台的{character}一起開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00014-1-3",
+        "data": {
+            "id": "la-quest-chr-00014-1-3",
+            "text": "在藍天下野餐。在西北草原與{character}一起吃午餐吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00014-1-4",
+        "data": {
+            "id": "la-quest-chr-00014-1-4",
+            "text": "玩得愉快又滿足。向在holo之家室內的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00015-1-1",
+        "data": {
+            "id": "la-quest-chr-00015-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00015-1-2",
+        "data": {
+            "id": "la-quest-chr-00015-1-2",
+            "text": "是時候展現預習的成果！在Live舞台秀出最精彩的表演吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00015-1-3",
+        "data": {
+            "id": "la-quest-chr-00015-1-3",
+            "text": "趁這股熱情還沒消退！與在Live舞台的{character}對話後，開始練習"
+        }
+    },
+    {
+        "id": "la-quest-chr-00015-1-4",
+        "data": {
+            "id": "la-quest-chr-00015-1-4",
+            "text": "盡情跳舞後肚子又餓了！前往廣場吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00016-1-1",
+        "data": {
+            "id": "la-quest-chr-00016-1-1",
+            "text": "與在holo之家室內的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00016-1-2",
+        "data": {
+            "id": "la-quest-chr-00016-1-2",
+            "text": "接下來要練習Live。先散散步，再順路前往廣場吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00016-1-3",
+        "data": {
+            "id": "la-quest-chr-00016-1-3",
+            "text": "將雀躍的心融入歌聲。與在Live舞台的{character}對話後開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00017-1-1",
+        "data": {
+            "id": "la-quest-chr-00017-1-1",
+            "text": "與在holo之家室內的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00017-1-2",
+        "data": {
+            "id": "la-quest-chr-00017-1-2",
+            "text": "以完美的舞步為目標！前往Live舞台，進行舞蹈特訓吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00017-1-3",
+        "data": {
+            "id": "la-quest-chr-00017-1-3",
+            "text": "心情愉快，練習也特別有幹勁。在Live舞台與{character}對話後，開始特訓"
+        }
+    },
+    {
+        "id": "la-quest-chr-00018-1-1",
+        "data": {
+            "id": "la-quest-chr-00018-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00018-1-2",
+        "data": {
+            "id": "la-quest-chr-00018-1-2",
+            "text": "喘著氣奔向舞台！向在Live舞台的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00018-1-3",
+        "data": {
+            "id": "la-quest-chr-00018-1-3",
+            "text": "潮聲之境暗藏祕密！前往棧橋，看看會發生什麼事吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00019-1-1",
+        "data": {
+            "id": "la-quest-chr-00019-1-1",
+            "text": "前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00019-1-2",
+        "data": {
+            "id": "la-quest-chr-00019-1-2",
+            "text": "喉嚨狀態非常完美。與在Live舞台的{character}對話後開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00019-1-3",
+        "data": {
+            "id": "la-quest-chr-00019-1-3",
+            "text": "帶著充滿成就感的笑容！前往廣場，與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00019-1-4",
+        "data": {
+            "id": "la-quest-chr-00019-1-4",
+            "text": "有什麼推薦的和解方式？在棧橋與{character}確認情況吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00021-1-1",
+        "data": {
+            "id": "la-quest-chr-00021-1-1",
+            "text": "前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00021-1-2",
+        "data": {
+            "id": "la-quest-chr-00021-1-2",
+            "text": "活力唱跳！與在Live舞台的{character}共創最精彩的舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00021-1-3",
+        "data": {
+            "id": "la-quest-chr-00021-1-3",
+            "text": "練習結束後玩遊戲放鬆一下！前往holo之家前吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00021-1-4",
+        "data": {
+            "id": "la-quest-chr-00021-1-4",
+            "text": "黃昏時分的散步。前往廣場，與{character}聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00022-1-1",
+        "data": {
+            "id": "la-quest-chr-00022-1-1",
+            "text": "與在廣場的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00022-1-2",
+        "data": {
+            "id": "la-quest-chr-00022-1-2",
+            "text": "進入holo之家，企劃直播內容吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00022-1-3",
+        "data": {
+            "id": "la-quest-chr-00022-1-3",
+            "text": "直播準備順利完成！在前往Live舞台的途中向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00022-1-4",
+        "data": {
+            "id": "la-quest-chr-00022-1-4",
+            "text": "大家的心情都變得非常高昂！與在Live舞台的{character}對話後，開始練習！"
+        }
+    },
+    {
+        "id": "la-quest-chr-00023-1-1",
+        "data": {
+            "id": "la-quest-chr-00023-1-1",
+            "text": "前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00023-1-2",
+        "data": {
+            "id": "la-quest-chr-00023-1-2",
+            "text": "訓練好像要開始了。在Live舞台向{character}打招呼，開始特訓！"
+        }
+    },
+    {
+        "id": "la-quest-chr-00023-1-3",
+        "data": {
+            "id": "la-quest-chr-00023-1-3",
+            "text": "好像快想到好主意了。在holo之家裡聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00026-1-1",
+        "data": {
+            "id": "la-quest-chr-00026-1-1",
+            "text": "前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00026-1-2",
+        "data": {
+            "id": "la-quest-chr-00026-1-2",
+            "text": "直擊心靈的呼吸節奏。在Live舞台與{character}對話後，開始進行換氣特訓"
+        }
+    },
+    {
+        "id": "la-quest-chr-00026-1-3",
+        "data": {
+            "id": "la-quest-chr-00026-1-3",
+            "text": "約定的時間好像到了。在草原與{character}會合後，前往野餐吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00026-1-4",
+        "data": {
+            "id": "la-quest-chr-00026-1-4",
+            "text": "眺望海平線。前往海邊，與{character}一起散步吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00027-1-1",
+        "data": {
+            "id": "la-quest-chr-00027-1-1",
+            "text": "與在holo之家室內的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00027-1-2",
+        "data": {
+            "id": "la-quest-chr-00027-1-2",
+            "text": "不能對有困難的人視而不見！前往Live舞台，幫忙歌唱練習吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00027-1-3",
+        "data": {
+            "id": "la-quest-chr-00027-1-3",
+            "text": "救星登場！在Live舞台與{character}對話後，開始訓練！"
+        }
+    },
+    {
+        "id": "la-quest-chr-00028-1-1",
+        "data": {
+            "id": "la-quest-chr-00028-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00028-1-2",
+        "data": {
+            "id": "la-quest-chr-00028-1-2",
+            "text": "剛睡醒就神清氣爽？與在Live舞台的{character}愉快地開始練習"
+        }
+    },
+    {
+        "id": "la-quest-chr-00028-1-3",
+        "data": {
+            "id": "la-quest-chr-00028-1-3",
+            "text": "散步前先休息一下。在holo之家輕鬆等待吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00030-1-1",
+        "data": {
+            "id": "la-quest-chr-00030-1-1",
+            "text": "前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00030-1-2",
+        "data": {
+            "id": "la-quest-chr-00030-1-2",
+            "text": "幹勁十足！與在Live舞台的{character}一起去練習吧！"
+        }
+    },
+    {
+        "id": "la-quest-chr-00030-1-3",
+        "data": {
+            "id": "la-quest-chr-00030-1-3",
+            "text": "以最燦爛的笑容迎接。在樂園入口等待船班吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00031-1-1",
+        "data": {
+            "id": "la-quest-chr-00031-1-1",
+            "text": "與在holo之家室內的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00031-1-2",
+        "data": {
+            "id": "la-quest-chr-00031-1-2",
+            "text": "草原深處隱藏了什麼祕密？親自確認真相吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00031-1-3",
+        "data": {
+            "id": "la-quest-chr-00031-1-3",
+            "text": "拍了很多好照片。接下來在Live舞台，與{character}一起開始自主訓練！"
+        }
+    },
+    {
+        "id": "la-quest-chr-00032-1-1",
+        "data": {
+            "id": "la-quest-chr-00032-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00032-1-2",
+        "data": {
+            "id": "la-quest-chr-00032-1-2",
+            "text": "忘掉恐怖電影，帶著笑容前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00032-1-3",
+        "data": {
+            "id": "la-quest-chr-00032-1-3",
+            "text": "與在Live舞台的{character}對話後，開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00032-1-4",
+        "data": {
+            "id": "la-quest-chr-00032-1-4",
+            "text": "帶著滿足的疲憊感，前往廣場回顧今天的訓練吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00034-1-1",
+        "data": {
+            "id": "la-quest-chr-00034-1-1",
+            "text": "前往樂園入口吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00034-1-2",
+        "data": {
+            "id": "la-quest-chr-00034-1-2",
+            "text": "行李搬完後，進入holo之家，與{character}一起度過歡鬧的時光吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00034-1-3",
+        "data": {
+            "id": "la-quest-chr-00034-1-3",
+            "text": "睡意全消？移動至Live舞台，與{character}一起度過最棒的練習時光吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00035-1-1",
+        "data": {
+            "id": "la-quest-chr-00035-1-1",
+            "text": "前往廣場吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00035-1-2",
+        "data": {
+            "id": "la-quest-chr-00035-1-2",
+            "text": "用番茄醬畫些什麼吧？在holo之家裡與{character}一起吃蛋包飯吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00035-1-3",
+        "data": {
+            "id": "la-quest-chr-00035-1-3",
+            "text": "差不多該練習了。趕快前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00035-1-4",
+        "data": {
+            "id": "la-quest-chr-00035-1-4",
+            "text": "偶然的相遇讓心情格外激動。向在Live舞台的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00036-1-1",
+        "data": {
+            "id": "la-quest-chr-00036-1-1",
+            "text": "前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00036-1-2",
+        "data": {
+            "id": "la-quest-chr-00036-1-2",
+            "text": "練習後有獎勵在等著。與在Live舞台的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00036-1-3",
+        "data": {
+            "id": "la-quest-chr-00036-1-3",
+            "text": "大家一起吃，味道更美味！在holo之家裡與{character}對話後，一起吃飯吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00037-1-1",
+        "data": {
+            "id": "la-quest-chr-00037-1-1",
+            "text": "前往樂園入口吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00037-1-2",
+        "data": {
+            "id": "la-quest-chr-00037-1-2",
+            "text": "兩人的祕密特訓。向在Live舞台的{character}搭話後，開始練習！"
+        }
+    },
+    {
+        "id": "la-quest-chr-00037-1-3",
+        "data": {
+            "id": "la-quest-chr-00037-1-3",
+            "text": "應該就在那附近。在holo之家裡尋找重要的遊戲機吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00039-1-1",
+        "data": {
+            "id": "la-quest-chr-00039-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00039-1-2",
+        "data": {
+            "id": "la-quest-chr-00039-1-2",
+            "text": "不會再迷路了吧？能順利到達Live舞台嗎？？"
+        }
+    },
+    {
+        "id": "la-quest-chr-00039-1-3",
+        "data": {
+            "id": "la-quest-chr-00039-1-3",
+            "text": "再迷路就太離譜了吧？這次能順利到達Live舞台嗎？？"
+        }
+    },
+    {
+        "id": "la-quest-chr-00039-1-4",
+        "data": {
+            "id": "la-quest-chr-00039-1-4",
+            "text": "體力活就交給我！將行李搬到holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-00039-1-5",
+        "data": {
+            "id": "la-quest-chr-00039-1-5",
+            "text": "讓人等太久了！借助前輩的支援，趕快前往Live舞台吧！"
+        }
+    },
+    {
+        "id": "la-quest-chr-00039-1-6",
+        "data": {
+            "id": "la-quest-chr-00039-1-6",
+            "text": "向在Live舞台等待的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03001-1-1",
+        "data": {
+            "id": "la-quest-chr-03001-1-1",
+            "text": "前往樂園入口吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03001-1-2",
+        "data": {
+            "id": "la-quest-chr-03001-1-2",
+            "text": "從搖晃的船上回到家！進入holo之家，休息一下吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03001-1-3",
+        "data": {
+            "id": "la-quest-chr-03001-1-3",
+            "text": "應該去了休息室，怎麼還沒回來？趕快前往Live舞台吧！"
+        }
+    },
+    {
+        "id": "la-quest-chr-03001-1-4",
+        "data": {
+            "id": "la-quest-chr-03001-1-4",
+            "text": "救援成功？找到在Live舞台的{character}後，向她打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03002-1-1",
+        "data": {
+            "id": "la-quest-chr-03002-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03002-1-2",
+        "data": {
+            "id": "la-quest-chr-03002-1-2",
+            "text": "調整好心情，開始練習！向在Live舞台的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03002-1-3",
+        "data": {
+            "id": "la-quest-chr-03002-1-3",
+            "text": "練習結束後，肚子也餓了。前往廣場吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03002-1-4",
+        "data": {
+            "id": "la-quest-chr-03002-1-4",
+            "text": "前輩買了太多東西，一起將行李送至holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03003-1-1",
+        "data": {
+            "id": "la-quest-chr-03003-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03003-1-2",
+        "data": {
+            "id": "la-quest-chr-03003-1-2",
+            "text": "廣場好像有人。練習前繞過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03003-1-3",
+        "data": {
+            "id": "la-quest-chr-03003-1-3",
+            "text": "兩人手牽手，一起開心地前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03003-1-4",
+        "data": {
+            "id": "la-quest-chr-03003-1-4",
+            "text": "大家都到齊了嗎？向在Live舞台的{character}搭話後，開始練習！"
+        }
+    },
+    {
+        "id": "la-quest-chr-03004-1-1",
+        "data": {
+            "id": "la-quest-chr-03004-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03004-1-2",
+        "data": {
+            "id": "la-quest-chr-03004-1-2",
+            "text": "瘋狂探險隊，出發！帶著夥伴，踏上未知的冒險旅程吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03004-1-3",
+        "data": {
+            "id": "la-quest-chr-03004-1-3",
+            "text": "遊玩結束後，一起吃便當。回廣場吧。"
+        }
+    },
+    {
+        "id": "la-quest-chr-03004-1-4",
+        "data": {
+            "id": "la-quest-chr-03004-1-4",
+            "text": "接下來的行程已經決定好了，向在Live舞台的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03005-1-1",
+        "data": {
+            "id": "la-quest-chr-03005-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03005-1-2",
+        "data": {
+            "id": "la-quest-chr-03005-1-2",
+            "text": "一定能找到。前往廣場尋找消失的行動電源吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03005-1-3",
+        "data": {
+            "id": "la-quest-chr-03005-1-3",
+            "text": "繼續前進，一口氣走到Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03005-1-4",
+        "data": {
+            "id": "la-quest-chr-03005-1-4",
+            "text": "順利找到後，總算能放心了。向在Live舞台的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03006-1-1",
+        "data": {
+            "id": "la-quest-chr-03006-1-1",
+            "text": "前往樂園入口吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03006-1-2",
+        "data": {
+            "id": "la-quest-chr-03006-1-2",
+            "text": "被香甜的氣味吸引。進入holo之家室內，與{character}一起喝茶吧！"
+        }
+    },
+    {
+        "id": "la-quest-chr-03006-1-3",
+        "data": {
+            "id": "la-quest-chr-03006-1-3",
+            "text": "用甜點補充能量！前往Live舞台會合後，加入練習吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03006-1-4",
+        "data": {
+            "id": "la-quest-chr-03006-1-4",
+            "text": "好，開始練習！與在Live舞台的{character}對話後，盡情歌唱吧！"
+        }
+    },
+    {
+        "id": "la-quest-chr-03007-1-1",
+        "data": {
+            "id": "la-quest-chr-03007-1-1",
+            "text": "前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03007-1-2",
+        "data": {
+            "id": "la-quest-chr-03007-1-2",
+            "text": "帶著滿足的疲憊與飢餓感。進入holo之家，直奔餐廳吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03007-1-3",
+        "data": {
+            "id": "la-quest-chr-03007-1-3",
+            "text": "點心裝在另一個胃！天氣這麼好，出門來個小野餐吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03007-1-4",
+        "data": {
+            "id": "la-quest-chr-03007-1-4",
+            "text": "透過野餐放鬆身心。在Live舞台向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03008-1-1",
+        "data": {
+            "id": "la-quest-chr-03008-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03008-1-2",
+        "data": {
+            "id": "la-quest-chr-03008-1-2",
+            "text": "用飯菜水果補充能量！前往Live舞台練習吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03008-1-3",
+        "data": {
+            "id": "la-quest-chr-03008-1-3",
+            "text": "馬上開始！向在Live舞台的{character}打招呼後，開始特訓！"
+        }
+    },
+    {
+        "id": "la-quest-chr-03009-1-1",
+        "data": {
+            "id": "la-quest-chr-03009-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03009-1-2",
+        "data": {
+            "id": "la-quest-chr-03009-1-2",
+            "text": "曬曬太陽讓全身恢復活力！前往廣場散步吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-03009-1-3",
+        "data": {
+            "id": "la-quest-chr-03009-1-3",
+            "text": "沐浴在晨曦的光輝下！與在Live舞台的{character}對話後，開始練習"
+        }
+    },
+    {
+        "id": "la-quest-chr-04001-1-1",
+        "data": {
+            "id": "la-quest-chr-04001-1-1",
+            "text": "前往廣場吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04001-1-2",
+        "data": {
+            "id": "la-quest-chr-04001-1-2",
+            "text": "今天是自主訓練的好日子。與在Live舞台的{character}一起訓練吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04001-1-3",
+        "data": {
+            "id": "la-quest-chr-04001-1-3",
+            "text": "練習和玩耍都要全力以赴！回holo之家，遊玩期待已久的遊戲吧！"
+        }
+    },
+    {
+        "id": "la-quest-chr-04002-1-1",
+        "data": {
+            "id": "la-quest-chr-04002-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04002-1-2",
+        "data": {
+            "id": "la-quest-chr-04002-1-2",
+            "text": "做伸展操能讓身體變輕盈？與在Live舞台的{character}對話後，開始練習"
+        }
+    },
+    {
+        "id": "la-quest-chr-04002-1-3",
+        "data": {
+            "id": "la-quest-chr-04002-1-3",
+            "text": "船好像快到了。前往樂園入口迎接吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04003-1-1",
+        "data": {
+            "id": "la-quest-chr-04003-1-1",
+            "text": "前往holo之家前吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04003-1-2",
+        "data": {
+            "id": "la-quest-chr-04003-1-2",
+            "text": "將緊張轉變為興奮。前往大家等待的舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04003-1-3",
+        "data": {
+            "id": "la-quest-chr-04003-1-3",
+            "text": "深呼吸，像平常一樣就好。向在Live舞台的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04003-1-4",
+        "data": {
+            "id": "la-quest-chr-04003-1-4",
+            "text": "雖然緊張，但在大家的陪伴下玩得非常愉快。前往廣場聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04007-1-1",
+        "data": {
+            "id": "la-quest-chr-04007-1-1",
+            "text": "前往廣場吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04007-1-2",
+        "data": {
+            "id": "la-quest-chr-04007-1-2",
+            "text": "用唱歌彌補遲到吧！與在Live舞台的{character}對話後，開始特訓！"
+        }
+    },
+    {
+        "id": "la-quest-chr-04007-1-3",
+        "data": {
+            "id": "la-quest-chr-04007-1-3",
+            "text": "只要與大家一起，哪裡都能成為舞台！前往尋找下一個練習場所吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04010-1-1",
+        "data": {
+            "id": "la-quest-chr-04010-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04010-1-2",
+        "data": {
+            "id": "la-quest-chr-04010-1-2",
+            "text": "切換開關！在Live舞台與{character}對話後，來場充實的練習吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04010-1-3",
+        "data": {
+            "id": "la-quest-chr-04010-1-3",
+            "text": "今天吃什麼？進入holo之家，與大家一起享受熱鬧的用餐時光"
+        }
+    },
+    {
+        "id": "la-quest-chr-04012-1-1",
+        "data": {
+            "id": "la-quest-chr-04012-1-1",
+            "text": "前往樂園入口吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04012-1-2",
+        "data": {
+            "id": "la-quest-chr-04012-1-2",
+            "text": "搬完大量行李後，向在holo之家室內的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04012-1-3",
+        "data": {
+            "id": "la-quest-chr-04012-1-3",
+            "text": "重要的耳機不見了？前往Live舞台全力搜尋！"
+        }
+    },
+    {
+        "id": "la-quest-chr-04012-1-4",
+        "data": {
+            "id": "la-quest-chr-04012-1-4",
+            "text": "順便也找到了充電器？與在Live舞台的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04013-1-1",
+        "data": {
+            "id": "la-quest-chr-04013-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04013-1-2",
+        "data": {
+            "id": "la-quest-chr-04013-1-2",
+            "text": "最後有找到你要找的東西嗎？前往Live舞台，與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04013-1-3",
+        "data": {
+            "id": "la-quest-chr-04013-1-3",
+            "text": "一起享用珍藏的點心！與在holo之家室內的{character}一起享受吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04014-1-1",
+        "data": {
+            "id": "la-quest-chr-04014-1-1",
+            "text": "與在棧橋的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04014-1-2",
+        "data": {
+            "id": "la-quest-chr-04014-1-2",
+            "text": "光聽不滿足？跟隨優美的歌聲，前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04014-1-3",
+        "data": {
+            "id": "la-quest-chr-04014-1-3",
+            "text": "懲罰時間還沒結束？在Live舞台向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04015-1-1",
+        "data": {
+            "id": "la-quest-chr-04015-1-1",
+            "text": "進入holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04015-1-2",
+        "data": {
+            "id": "la-quest-chr-04015-1-2",
+            "text": "外面傳來喧鬧聲。追上前往廣場的{character}吧！"
+        }
+    },
+    {
+        "id": "la-quest-chr-04015-1-3",
+        "data": {
+            "id": "la-quest-chr-04015-1-3",
+            "text": "幸福洋溢的野餐日。大家一起去野餐吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04015-1-4",
+        "data": {
+            "id": "la-quest-chr-04015-1-4",
+            "text": "愉快的野餐卻瀰漫著奇妙氛圍？與在Live舞台的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04016-1-1",
+        "data": {
+            "id": "la-quest-chr-04016-1-1",
+            "text": "與在holo之家室內的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04016-1-2",
+        "data": {
+            "id": "la-quest-chr-04016-1-2",
+            "text": "餐後的奢侈時光。與大家一起前往波光粼粼的海邊吧！"
+        }
+    },
+    {
+        "id": "la-quest-chr-04016-1-3",
+        "data": {
+            "id": "la-quest-chr-04016-1-3",
+            "text": "海風輕拂下難免昏昏欲睡？前往Live舞台，與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04017-1-1",
+        "data": {
+            "id": "la-quest-chr-04017-1-1",
+            "text": "與在廣場的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04017-1-2",
+        "data": {
+            "id": "la-quest-chr-04017-1-2",
+            "text": "比賽打噴嚏而忘了時間？趕快前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-04017-1-3",
+        "data": {
+            "id": "la-quest-chr-04017-1-3",
+            "text": "準備就緒。在Live舞台向{character}打招呼，馬上開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-06002-1-1",
+        "data": {
+            "id": "la-quest-chr-06002-1-1",
+            "text": "前往棧橋吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-06002-1-2",
+        "data": {
+            "id": "la-quest-chr-06002-1-2",
+            "text": "Live舞台現在空無一人，正是練習的好機會。趕快過去練習吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-06002-1-3",
+        "data": {
+            "id": "la-quest-chr-06002-1-3",
+            "text": "偶然相繫的緣分。在Live舞台與偶遇的{character}一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-06002-1-4",
+        "data": {
+            "id": "la-quest-chr-06002-1-4",
+            "text": "讓喉嚨休息也很重要。繞去廣場，放鬆一下吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-06003-1-1",
+        "data": {
+            "id": "la-quest-chr-06003-1-1",
+            "text": "與在樂園的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-06003-1-2",
+        "data": {
+            "id": "la-quest-chr-06003-1-2",
+            "text": "一口氣看完那部動畫？經過廣場，與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-06003-1-3",
+        "data": {
+            "id": "la-quest-chr-06003-1-3",
+            "text": "夥伴增加，快樂加倍！在holo之家裡吃完飯後，開始追動畫吧！"
+        }
+    },
+    {
+        "id": "la-quest-chr-06003-1-4",
+        "data": {
+            "id": "la-quest-chr-06003-1-4",
+            "text": "與大家一起盡情遊玩後，向在Live舞台的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-06004-1-1",
+        "data": {
+            "id": "la-quest-chr-06004-1-1",
+            "text": "與在棧橋的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-06004-1-2",
+        "data": {
+            "id": "la-quest-chr-06004-1-2",
+            "text": "兩人一起開始自主訓練！在Live舞台向{character}打招呼後，一起合唱吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-06004-1-3",
+        "data": {
+            "id": "la-quest-chr-06004-1-3",
+            "text": "與巧遇的前輩一起開心地回家。在廣場與{character}聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-06005-1-1",
+        "data": {
+            "id": "la-quest-chr-06005-1-1",
+            "text": "與在廣場的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-06005-1-2",
+        "data": {
+            "id": "la-quest-chr-06005-1-2",
+            "text": "樂趣無窮！大家一起前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-chr-06005-1-3",
+        "data": {
+            "id": "la-quest-chr-06005-1-3",
+            "text": "練習前嗨過頭？向在Live舞台的{character}打招呼後，開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-00026-1-1",
+        "data": {
+            "id": "la-quest-daily-bet_coin-00026-1-1",
+            "text": "爆牌了嗎？在月之王牌與垂頭喪氣的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-00026-1-2",
+        "data": {
+            "id": "la-quest-daily-bet_coin-00026-1-2",
+            "text": "勝利是留給準備好的人的。冷靜賺取電玩巨蛋城硬幣反擊吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-00026-1-3",
+        "data": {
+            "id": "la-quest-daily-bet_coin-00026-1-3",
+            "text": "熱情尚未消散？在大廳與情緒高漲的{character}聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-00030-1-1",
+        "data": {
+            "id": "la-quest-daily-bet_coin-00030-1-1",
+            "text": "不甘心的淚水是勝利的調味料。在渡鴉酒吧聽聽{character}訴苦吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-00030-1-2",
+        "data": {
+            "id": "la-quest-daily-bet_coin-00030-1-2",
+            "text": "借酒澆愁不如復仇！收集電玩巨蛋城硬幣上演逆轉劇吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-00030-1-3",
+        "data": {
+            "id": "la-quest-daily-bet_coin-00030-1-3",
+            "text": "雪恥成功了嗎？！在大廳與{character}一起回味吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-00034-1-1",
+        "data": {
+            "id": "la-quest-daily-bet_coin-00034-1-1",
+            "text": "在超級雲霄飛車前向充滿幹勁的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-00034-1-2",
+        "data": {
+            "id": "la-quest-daily-bet_coin-00034-1-2",
+            "text": "現在正是進攻時機！累積電玩巨蛋城硬幣吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-00034-1-3",
+        "data": {
+            "id": "la-quest-daily-bet_coin-00034-1-3",
+            "text": "憑藉氣勢與運氣！在大廳與得意洋洋的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-00035-1-1",
+        "data": {
+            "id": "la-quest-daily-bet_coin-00035-1-1",
+            "text": "押中本命？！在佩克拉狂熱競技與興奮的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-00035-1-2",
+        "data": {
+            "id": "la-quest-daily-bet_coin-00035-1-2",
+            "text": "一次翻盤的決勝局！收集電玩巨蛋城硬幣吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-00035-1-3",
+        "data": {
+            "id": "la-quest-daily-bet_coin-00035-1-3",
+            "text": "勝利光環爆發？向在大廳的{character}打聽結果吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-03005-1-1",
+        "data": {
+            "id": "la-quest-daily-bet_coin-03005-1-1",
+            "text": "在蘿蔔蔔夾娃娃機前與抓到獎品而開心的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-03005-1-2",
+        "data": {
+            "id": "la-quest-daily-bet_coin-03005-1-2",
+            "text": "開開心心賺硬幣！收集電玩巨蛋城硬幣吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-03005-1-3",
+        "data": {
+            "id": "la-quest-daily-bet_coin-03005-1-3",
+            "text": "軍資湊足了嗎？在大廳向滿心雀躍的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-04001-1-1",
+        "data": {
+            "id": "la-quest-daily-bet_coin-04001-1-1",
+            "text": "在貪婪卡牌聽到哀號！與{character}聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-04001-1-2",
+        "data": {
+            "id": "la-quest-daily-bet_coin-04001-1-2",
+            "text": "逆轉的軍資！湊集電玩巨蛋城硬幣吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-04001-1-3",
+        "data": {
+            "id": "la-quest-daily-bet_coin-04001-1-3",
+            "text": "錢包鼓鼓好得意？與在大廳的{character}一起迎接下一場決戰吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-06002-1-1",
+        "data": {
+            "id": "la-quest-daily-bet_coin-06002-1-1",
+            "text": "{character}在扭蛋金剛前引起騷動？去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-06002-1-2",
+        "data": {
+            "id": "la-quest-daily-bet_coin-06002-1-2",
+            "text": "下次一定會中！累積電玩巨蛋城硬幣，收穫好運吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-06002-1-3",
+        "data": {
+            "id": "la-quest-daily-bet_coin-06002-1-3",
+            "text": "硬幣數量終於湊齊？！在大廳與心情愉快的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-06004-1-1",
+        "data": {
+            "id": "la-quest-daily-bet_coin-06004-1-1",
+            "text": "{character}在超級老虎機前氣得跺腳？！向她搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-06004-1-2",
+        "data": {
+            "id": "la-quest-daily-bet_coin-06004-1-2",
+            "text": "將輸掉的電玩巨蛋城硬幣翻倍賺回來！賺取反擊的本金吧！"
+        }
+    },
+    {
+        "id": "la-quest-daily-bet_coin-06004-1-3",
+        "data": {
+            "id": "la-quest-daily-bet_coin-06004-1-3",
+            "text": "在大廳前向緊握本金的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-00005-1-1",
+        "data": {
+            "id": "la-quest-daily-card-00005-1-1",
+            "text": "不必忍耐，來玩撲克屋！吧！向在前方的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-00005-1-2",
+        "data": {
+            "id": "la-quest-daily-card-00005-1-2",
+            "text": "滿懷熱切的心情投入牌局，與{character}一起盡情遊玩撲克屋！吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-00015-1-1",
+        "data": {
+            "id": "la-quest-daily-card-00015-1-1",
+            "text": "展現賭徒天賦？在貪婪卡牌與狀態絕佳的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-00015-1-2",
+        "data": {
+            "id": "la-quest-daily-card-00015-1-2",
+            "text": "時來運轉，乘勝追擊！與{character}一起在撲克屋！大顯身手吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-00018-1-1",
+        "data": {
+            "id": "la-quest-daily-card-00018-1-1",
+            "text": "向在撲克屋！前看起來正在沉思的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-00018-1-2",
+        "data": {
+            "id": "la-quest-daily-card-00018-1-2",
+            "text": "目標只有第一！與渴望勝利的{character}一起開心遊玩撲克屋！吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-00019-1-1",
+        "data": {
+            "id": "la-quest-daily-card-00019-1-1",
+            "text": "將激情化為硬幣！在賭場區域與追求刺激的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-00019-1-2",
+        "data": {
+            "id": "la-quest-daily-card-00019-1-2",
+            "text": "與絕不認輸的{character}一起投入撲克屋！牌桌吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-00037-1-1",
+        "data": {
+            "id": "la-quest-daily-card-00037-1-1",
+            "text": "出牌前就已定勝負？與在撲克屋！前的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-00037-1-2",
+        "data": {
+            "id": "la-quest-daily-card-00037-1-2",
+            "text": "與氣場全開的{character}在撲克屋！牌桌上稱霸全場吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-03002-1-1",
+        "data": {
+            "id": "la-quest-daily-card-03002-1-1",
+            "text": "看那笑容是全押中了？與在投注機台前的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-03002-1-2",
+        "data": {
+            "id": "la-quest-daily-card-03002-1-2",
+            "text": "與自信滿滿的{character}在撲克屋！牌桌上掌控全局吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-04013-1-1",
+        "data": {
+            "id": "la-quest-daily-card-04013-1-1",
+            "text": "穩贏的預感讓人忍不住哼起歌！與在賭場區域手氣正旺的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-04013-1-2",
+        "data": {
+            "id": "la-quest-daily-card-04013-1-2",
+            "text": "好運也會降臨牌桌！與{character}在撲克屋！贏得勝利吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-04015-1-1",
+        "data": {
+            "id": "la-quest-daily-card-04015-1-1",
+            "text": "在貪婪卡牌前與沉浸妄想無可自拔的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-card-04015-1-2",
+        "data": {
+            "id": "la-quest-daily-card-04015-1-2",
+            "text": "鬥智也是樂趣之一！與{character}在撲克屋！熱血對局吧！"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-00002-1-1",
+        "data": {
+            "id": "la-quest-daily-circuit-00002-1-1",
+            "text": "在極限跑道前向正在做暖身運動的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-00002-1-2",
+        "data": {
+            "id": "la-quest-daily-circuit-00002-1-2",
+            "text": "讓興奮全力加速！與{character}一起挑戰極限跑道吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-00016-1-1",
+        "data": {
+            "id": "la-quest-daily-circuit-00016-1-1",
+            "text": "想玩什麼？向在遊戲區域的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-00016-1-2",
+        "data": {
+            "id": "la-quest-daily-circuit-00016-1-2",
+            "text": "禁忌的獎勵就在眼前！與{character}一起在極限跑道狂飆吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-00017-1-1",
+        "data": {
+            "id": "la-quest-daily-circuit-00017-1-1",
+            "text": "今天感覺一定能贏？與在超級老虎機的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-00017-1-2",
+        "data": {
+            "id": "la-quest-daily-circuit-00017-1-2",
+            "text": "這份好運是真的嗎？！與{character}一起馳騁極限跑道吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-00039-1-1",
+        "data": {
+            "id": "la-quest-daily-circuit-00039-1-1",
+            "text": "感覺不太有自信？與在極限跑道的{character}聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-00039-1-2",
+        "data": {
+            "id": "la-quest-daily-circuit-00039-1-2",
+            "text": "好好見識武士的氣度！在極限跑道與{character}一起無畏奔馳吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-03004-1-1",
+        "data": {
+            "id": "la-quest-daily-circuit-03004-1-1",
+            "text": "在極限跑道前向妄想開花的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-03004-1-2",
+        "data": {
+            "id": "la-quest-daily-circuit-03004-1-2",
+            "text": "將煩惱化為速度！與{character}對話後，一起開心遊玩極限跑道吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-03008-1-1",
+        "data": {
+            "id": "la-quest-daily-circuit-03008-1-1",
+            "text": "一切正常！在超級雲霄飛車前向努力安檢的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-03008-1-2",
+        "data": {
+            "id": "la-quest-daily-circuit-03008-1-2",
+            "text": "一路不停衝向終點！與{character}一起遊玩極限跑道吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-04002-1-1",
+        "data": {
+            "id": "la-quest-daily-circuit-04002-1-1",
+            "text": "最棒的一張照片？在超級拍貼機前與興奮的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-04002-1-2",
+        "data": {
+            "id": "la-quest-daily-circuit-04002-1-2",
+            "text": "與{character}一起熱身後，挑戰極限跑道的冠軍吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-04012-1-1",
+        "data": {
+            "id": "la-quest-daily-circuit-04012-1-1",
+            "text": "前去慰勞在舞動不死鳥揮灑汗水的{character}吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-circuit-04012-1-2",
+        "data": {
+            "id": "la-quest-daily-circuit-04012-1-2",
+            "text": "緊接著就是極限跑道？！與{character}一起遊玩吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00004-1-1",
+        "data": {
+            "id": "la-quest-daily-cooking-00004-1-1",
+            "text": "光是吃飯還不夠？在玩家驛站與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00004-1-2",
+        "data": {
+            "id": "la-quest-daily-cooking-00004-1-2",
+            "text": "尋找美食與美酒，與{character}一起遊玩食材妙廚房吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00005-1-1",
+        "data": {
+            "id": "la-quest-daily-cooking-00005-1-1",
+            "text": "在顏岩山好像突然湧現靈感。與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00005-1-2",
+        "data": {
+            "id": "la-quest-daily-cooking-00005-1-2",
+            "text": "肚子餓了無法招募！與{character}一起盡情遊玩食材妙廚房吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00006-1-1",
+        "data": {
+            "id": "la-quest-daily-cooking-00006-1-1",
+            "text": "在holoro小舖向手持應援棒熱情揮舞的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00006-1-2",
+        "data": {
+            "id": "la-quest-daily-cooking-00006-1-2",
+            "text": "比賽前的營養補給！與{character}一起開心遊玩食材妙廚房吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00007-1-1",
+        "data": {
+            "id": "la-quest-daily-cooking-00007-1-1",
+            "text": "練習後肚子好餓！向在Live舞台的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00007-1-2",
+        "data": {
+            "id": "la-quest-daily-cooking-00007-1-2",
+            "text": "菜單在腦袋中堵塞！與{character}一起開心遊玩食材妙廚房吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00011-1-1",
+        "data": {
+            "id": "la-quest-daily-cooking-00011-1-1",
+            "text": "在飽食之旅前與被高湯誘惑來的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00011-1-2",
+        "data": {
+            "id": "la-quest-daily-cooking-00011-1-2",
+            "text": "高湯的祕密是？！與{character}一起在食材妙廚房一探究竟吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00014-1-1",
+        "data": {
+            "id": "la-quest-daily-cooking-00014-1-1",
+            "text": "在飽食之旅前向專心研究的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00014-1-2",
+        "data": {
+            "id": "la-quest-daily-cooking-00014-1-2",
+            "text": "夢幻全餐？與{character}一起遊玩食材妙廚房吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00032-1-1",
+        "data": {
+            "id": "la-quest-daily-cooking-00032-1-1",
+            "text": "準備直播時肚子餓了？去holo之家看看{character}的情況吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00032-1-2",
+        "data": {
+            "id": "la-quest-daily-cooking-00032-1-2",
+            "text": "將食慾轉變為能量，與{character}一起遊玩食材妙廚房吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00036-1-1",
+        "data": {
+            "id": "la-quest-daily-cooking-00036-1-1",
+            "text": "猶豫不決也是樂趣之一！在飽食之旅與煩惱的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-00036-1-2",
+        "data": {
+            "id": "la-quest-daily-cooking-00036-1-2",
+            "text": "等朋友來時，與{character}一起盡情遊玩食材妙廚房吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-03006-1-1",
+        "data": {
+            "id": "la-quest-daily-cooking-03006-1-1",
+            "text": "DJ活動的構想越來越豐富？與在超VeryBad的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-03006-1-2",
+        "data": {
+            "id": "la-quest-daily-cooking-03006-1-2",
+            "text": "邊用餐邊討論計畫吧。與{character}一起遊玩食材妙廚房吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-04010-1-1",
+        "data": {
+            "id": "la-quest-daily-cooking-04010-1-1",
+            "text": "平靜的時光。在棧橋向正在散步的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-04010-1-2",
+        "data": {
+            "id": "la-quest-daily-cooking-04010-1-2",
+            "text": "肚子咕咕叫可能是信號？與{character}一起開心遊玩食材妙廚房吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-06003-1-1",
+        "data": {
+            "id": "la-quest-daily-cooking-06003-1-1",
+            "text": "本想來吃飯的？與在飽食之旅的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-cooking-06003-1-2",
+        "data": {
+            "id": "la-quest-daily-cooking-06003-1-2",
+            "text": "尋找能乾杯的人。與{character}一起開心遊玩食材妙廚房吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-00013-1-1",
+        "data": {
+            "id": "la-quest-daily-delivery-00013-1-1",
+            "text": "需要幫忙嗎？在holo之家前與正在尋找東西的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-00013-1-2",
+        "data": {
+            "id": "la-quest-daily-delivery-00013-1-2",
+            "text": "找到遺失物了嗎？向在Live舞台的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-00027-1-1",
+        "data": {
+            "id": "la-quest-daily-delivery-00027-1-1",
+            "text": "在超VeryBad與看起來有點沮喪的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-00027-1-2",
+        "data": {
+            "id": "la-quest-daily-delivery-00027-1-2",
+            "text": "應該有備用的！與前往holo之家尋找設備的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-00028-1-1",
+        "data": {
+            "id": "la-quest-daily-delivery-00028-1-1",
+            "text": "有點想吃點心。在廣場向肚子餓的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-00028-1-2",
+        "data": {
+            "id": "la-quest-daily-delivery-00028-1-2",
+            "text": "全速奔向點心香氣！追上趕去h3ro行動車的{character}吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-03003-1-1",
+        "data": {
+            "id": "la-quest-daily-delivery-03003-1-1",
+            "text": "在樂啾機動15號與看起來很開心的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-03003-1-2",
+        "data": {
+            "id": "la-quest-daily-delivery-03003-1-2",
+            "text": "與肚子餓得咕嚕咕嚕叫、正前往飽食之旅的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-03007-1-1",
+        "data": {
+            "id": "la-quest-daily-delivery-03007-1-1",
+            "text": "重要的東西帶了嗎？與在h3ro行動車的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-03007-1-2",
+        "data": {
+            "id": "la-quest-daily-delivery-03007-1-2",
+            "text": "便當沒事吧？與匆匆趕回來的{character}在holo之家會合吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-04003-1-1",
+        "data": {
+            "id": "la-quest-daily-delivery-04003-1-1",
+            "text": "融入色彩的情感。與在幸運連線前的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-04003-1-2",
+        "data": {
+            "id": "la-quest-daily-delivery-04003-1-2",
+            "text": "找到繪畫工具了嗎？在音波菈牡市場與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-04007-1-1",
+        "data": {
+            "id": "la-quest-daily-delivery-04007-1-1",
+            "text": "向在廣場看起來有點緊張的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-delivery-04007-1-2",
+        "data": {
+            "id": "la-quest-daily-delivery-04007-1-2",
+            "text": "打開是驚喜！在港口與等待行李的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-group-04016-1-1",
+        "data": {
+            "id": "la-quest-daily-group-04016-1-1",
+            "text": "與在棧橋的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-group-04016-1-2",
+        "data": {
+            "id": "la-quest-daily-group-04016-1-2",
+            "text": "與在holo之家的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00001-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00001-1-1",
+            "text": "從Live舞台傳來發聲練習的聲音。向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00001-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00001-1-2",
+            "text": "一切準備就緒！在Live舞台與{character}對話後，一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00002-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00002-1-1",
+            "text": "{character}練習前好像在廣場。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00002-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00002-1-2",
+            "text": "與前往holo之家取回遺失物的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00002-1-3",
+        "data": {
+            "id": "la-quest-daily-live-00002-1-3",
+            "text": "盡情歡唱吧！在Live舞台與{character}對話後，開始練習"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00004-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00004-1-1",
+            "text": "在Live舞台研究表演！向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00004-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00004-1-2",
+            "text": "不如展開行動！在Live舞台與{character}對話後，一起訓練吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00005-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00005-1-1",
+            "text": "那邊有什麼？與被The Cell 重臨吸引的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00005-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00005-1-2",
+            "text": "在Live舞台與氣勢全開的{character}對話後，開始練習"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00006-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00006-1-1",
+            "text": "在holo之家裡向正在準備直播的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00006-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00006-1-2",
+            "text": "充分利用空檔時間！前往Live舞台與{character}一起訓練吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00007-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00007-1-1",
+            "text": "看著奇瑟基之輪會加劇妄想？與{character}聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00007-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00007-1-2",
+            "text": "練習後再繼續妄想。在Live舞台與{character}對話後，一起訓練吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00010-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00010-1-1",
+            "text": "在holo之家向剛起床還迷迷糊糊的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00010-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00010-1-2",
+            "text": "睡飽後狀態絕佳！在Live舞台與{character}一起開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00011-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00011-1-1",
+            "text": "在holo之家前，偷看神祕妄想逐漸失控的{character}吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00011-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00011-1-2",
+            "text": "太投入可能會遲到？在Live舞台與{character}對話後，開始練習"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00012-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00012-1-1",
+            "text": "瀰漫著美味咖哩的香氣。在holo之家裡與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00012-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00012-1-2",
+            "text": "肚子飽飽幹勁十足！在Live舞台與{character}對話後，一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00013-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00013-1-1",
+            "text": "{character}好像要開始在Live舞台練習了。向她搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00013-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00013-1-2",
+            "text": "練習曲決定好了？在Live舞台與{character}對話後，趕快開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00014-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00014-1-1",
+            "text": "練習後要記得補充糖分。在h3ro行動車與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00014-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00014-1-2",
+            "text": "剩下的只差行動！在Live舞台與{character}對話後，開始練習"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00015-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00015-1-1",
+            "text": "從holo之家裡傳來巨大聲響。向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00015-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00015-1-2",
+            "text": "趕不上練習了！衝進Live舞台與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00016-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00016-1-1",
+            "text": "{character}好像在樂啾機動15號玩得很開心。過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00016-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00016-1-2",
+            "text": "解放膨脹的妄想！在Live舞台與{character}一起開始訓練"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00017-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00017-1-1",
+            "text": "直播氣氛熱絡，看來心情很愉快。與在holo之家的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00017-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00017-1-2",
+            "text": "以練習後的獎勵為動力！在Live舞台與{character}一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00018-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00018-1-1",
+            "text": "{character}練習前好像在玩家驛站。與她聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00018-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00018-1-2",
+            "text": "今天狀態怎麼樣？在Live舞台向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00018-1-3",
+        "data": {
+            "id": "la-quest-daily-live-00018-1-3",
+            "text": "拿出幹勁開始訓練！在Live舞台與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00019-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00019-1-1",
+            "text": "擊敗強敵？！在holo之家向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00019-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00019-1-2",
+            "text": "接下來的安排也讓人期待！先在Live舞台與{character}對話後，一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00021-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00021-1-1",
+            "text": "狀態看起來非常完美。在Live舞台與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00021-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00021-1-2",
+            "text": "能看出準備的成果嗎？與在Live舞台的{character}一起開始練習"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00022-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00022-1-1",
+            "text": "在Live舞台與興奮不已的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00022-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00022-1-2",
+            "text": "以100首為目標！與在Live舞台的{character}一起開始訓練"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00023-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00023-1-1",
+            "text": "練習前的意象訓練效果極佳！與在Live舞台的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00023-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00023-1-2",
+            "text": "揚帆高歌！在Live舞台與{character}一起開始訓練"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00026-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00026-1-1",
+            "text": "在Live舞台向準備開始練習的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00026-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00026-1-2",
+            "text": "練習計畫完美無缺！在Live舞台與{character}一起訓練吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00027-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00027-1-1",
+            "text": "在holo之家裡發現遺失物？！向{character}打探詳情吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00027-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00027-1-2",
+            "text": "聯絡好了！放心向在Live舞台的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00028-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00028-1-1",
+            "text": "在熱鬧氣氛未散的嬉鬧操場向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00028-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00028-1-2",
+            "text": "大跳繩前的暖身運動已完成？在Live舞台與{character}一起開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00030-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00030-1-1",
+            "text": "{character}好像正在棧橋拍攝。向她搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00030-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00030-1-2",
+            "text": "練習前的發文已送出！在Live舞台與{character}一起開始訓練"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00031-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00031-1-1",
+            "text": "{character}好像正在holoX據點拍攝。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00031-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00031-1-2",
+            "text": "太入迷可能會遲到！在Live舞台與{character}一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00032-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00032-1-1",
+            "text": "輕鬆的散步小路。與正在散步的{character}愉快聊天吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00032-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00032-1-2",
+            "text": "將笑聲化為歌聲！與在Live舞台的{character}一起合唱吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00034-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00034-1-1",
+            "text": "透過意象訓練就興奮起來了嗎？在Live舞台與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00034-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00034-1-2",
+            "text": "停下來太可惜了！在Live舞台與{character}一起開始練習"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00035-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00035-1-1",
+            "text": "好像從棧橋傳來{character}爽朗的笑聲。過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00035-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00035-1-2",
+            "text": "自主訓練的成果公開！在Live舞台向{character}打招呼後，一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00036-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00036-1-1",
+            "text": "在holo之家向正在打掃的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00036-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00036-1-2",
+            "text": "練習前要做什麼？與在Live舞台的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00036-1-3",
+        "data": {
+            "id": "la-quest-daily-live-00036-1-3",
+            "text": "冷笑話和身體狀態都絕佳！在Live舞台與{character}對話後，開始練習"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00037-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00037-1-1",
+            "text": "從廣場傳來{character}的聲音。向她打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00037-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00037-1-2",
+            "text": "MC練習的下一步就是上Live舞台！與{character}一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00039-1-1",
+        "data": {
+            "id": "la-quest-daily-live-00039-1-1",
+            "text": "跳了幾次？向正在嬉鬧操場遊玩的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-00039-1-2",
+        "data": {
+            "id": "la-quest-daily-live-00039-1-2",
+            "text": "玩樂讓活力倍增！在Live舞台與{character}一起訓練吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03001-1-1",
+        "data": {
+            "id": "la-quest-daily-live-03001-1-1",
+            "text": "{character}在玩家驛站前沉浸於妄想。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03001-1-2",
+        "data": {
+            "id": "la-quest-daily-live-03001-1-2",
+            "text": "妄想全開！在Live舞台與{character}一起練習，徹底解放吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03002-1-1",
+        "data": {
+            "id": "la-quest-daily-live-03002-1-1",
+            "text": "好像從飽食之旅飄來陣陣香氣。與{character}聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03002-1-2",
+        "data": {
+            "id": "la-quest-daily-live-03002-1-2",
+            "text": "吃多了也沒關係嗎？與在Live舞台的{character}對話後，開始練習"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03003-1-1",
+        "data": {
+            "id": "la-quest-daily-live-03003-1-1",
+            "text": "向在眺望顏岩山的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03003-1-2",
+        "data": {
+            "id": "la-quest-daily-live-03003-1-2",
+            "text": "懷著期待的心情與在Live舞台的{character}對話後，開始練習！"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03004-1-1",
+        "data": {
+            "id": "la-quest-daily-live-03004-1-1",
+            "text": "在HOLO影城向興奮無比的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03004-1-2",
+        "data": {
+            "id": "la-quest-daily-live-03004-1-2",
+            "text": "受到刺激的{character}幹勁提升！在Live舞台向她搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03005-1-1",
+        "data": {
+            "id": "la-quest-daily-live-03005-1-1",
+            "text": "在holo之家的幸福時光？問問{character}在看什麼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03005-1-2",
+        "data": {
+            "id": "la-quest-daily-live-03005-1-2",
+            "text": "訓練後還有安排。在Live舞台與{character}對話後，一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03006-1-1",
+        "data": {
+            "id": "la-quest-daily-live-03006-1-1",
+            "text": "在The Cell 重臨向看起來很嗨的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03006-1-2",
+        "data": {
+            "id": "la-quest-daily-live-03006-1-2",
+            "text": "為了「盛情款待」，在Live舞台與{character}一起開始練習"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03007-1-1",
+        "data": {
+            "id": "la-quest-daily-live-03007-1-1",
+            "text": "holoX據點好像很熱鬧？與{character}見面後聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03007-1-2",
+        "data": {
+            "id": "la-quest-daily-live-03007-1-2",
+            "text": "在Live舞台與充滿幹勁的{character}對話後，一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03008-1-1",
+        "data": {
+            "id": "la-quest-daily-live-03008-1-1",
+            "text": "直播好像剛好結束。與在holo之家的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03008-1-2",
+        "data": {
+            "id": "la-quest-daily-live-03008-1-2",
+            "text": "練習前先填飽肚子。在飽食之旅向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03008-1-3",
+        "data": {
+            "id": "la-quest-daily-live-03008-1-3",
+            "text": "補充完畢！在Live舞台與{character}對話後，開始訓練！"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03009-1-1",
+        "data": {
+            "id": "la-quest-daily-live-03009-1-1",
+            "text": "樂啾機動15號前有異狀？向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-03009-1-2",
+        "data": {
+            "id": "la-quest-daily-live-03009-1-2",
+            "text": "轉眼就到了練習時間！在Live舞台與{character}一起開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04001-1-1",
+        "data": {
+            "id": "la-quest-daily-live-04001-1-1",
+            "text": "在超VeryBad前向興奮的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04001-1-2",
+        "data": {
+            "id": "la-quest-daily-live-04001-1-2",
+            "text": "向在Live舞台的{character}搭話後，邊選曲邊練習吧！"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04002-1-1",
+        "data": {
+            "id": "la-quest-daily-live-04002-1-1",
+            "text": "在樂園向滿心歡喜的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04002-1-2",
+        "data": {
+            "id": "la-quest-daily-live-04002-1-2",
+            "text": "趁熱打鐵！在Live舞台與{character}一起開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04003-1-1",
+        "data": {
+            "id": "la-quest-daily-live-04003-1-1",
+            "text": "在holoro小舖前向看起來很開心的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04003-1-2",
+        "data": {
+            "id": "la-quest-daily-live-04003-1-2",
+            "text": "喉嚨狀態絕佳。在Live舞台與{character}對話後，一起訓練吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04007-1-1",
+        "data": {
+            "id": "la-quest-daily-live-04007-1-1",
+            "text": "{character}正在holo之家的餐廳休息？向她打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04007-1-2",
+        "data": {
+            "id": "la-quest-daily-live-04007-1-2",
+            "text": "趕得上練習時間嗎？在Live舞台向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04010-1-1",
+        "data": {
+            "id": "la-quest-daily-live-04010-1-1",
+            "text": "傳來悅耳的發聲練習聲。在Live舞台與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04010-1-2",
+        "data": {
+            "id": "la-quest-daily-live-04010-1-2",
+            "text": "聽到一個音即可確定。在Live舞台與{character}一起開始訓練"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04012-1-1",
+        "data": {
+            "id": "la-quest-daily-live-04012-1-1",
+            "text": "姿勢總是擺不好？在Live舞台與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04012-1-2",
+        "data": {
+            "id": "la-quest-daily-live-04012-1-2",
+            "text": "只能先做再說！在Live舞台與{character}對話後，一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04013-1-1",
+        "data": {
+            "id": "la-quest-daily-live-04013-1-1",
+            "text": "在音波菈牡市場向正在購物的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04013-1-2",
+        "data": {
+            "id": "la-quest-daily-live-04013-1-2",
+            "text": "購物後，在Live舞台與{character}對話，並開始訓練"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04014-1-1",
+        "data": {
+            "id": "la-quest-daily-live-04014-1-1",
+            "text": "在h3ro行動車獲得獎勵？向{character}問問看吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04014-1-2",
+        "data": {
+            "id": "la-quest-daily-live-04014-1-2",
+            "text": "提起幹勁開始練習！與在Live舞台的{character}聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04015-1-1",
+        "data": {
+            "id": "la-quest-daily-live-04015-1-1",
+            "text": "練習前先玩蹦蹦大跳繩？在嬉鬧操場與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04015-1-2",
+        "data": {
+            "id": "la-quest-daily-live-04015-1-2",
+            "text": "狀態極佳！在Live舞台與等待的{character}一起開始練習"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04016-1-1",
+        "data": {
+            "id": "la-quest-daily-live-04016-1-1",
+            "text": "在Live舞台向正在等人的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04016-1-2",
+        "data": {
+            "id": "la-quest-daily-live-04016-1-2",
+            "text": "等待時先開始自主訓練！在Live舞台與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04017-1-1",
+        "data": {
+            "id": "la-quest-daily-live-04017-1-1",
+            "text": "在Live舞台向正在等人的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-04017-1-2",
+        "data": {
+            "id": "la-quest-daily-live-04017-1-2",
+            "text": "早一步動力全開！與在Live舞台的{character}一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-06002-1-1",
+        "data": {
+            "id": "la-quest-daily-live-06002-1-1",
+            "text": "在Live舞台向看起來很愉快的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-06002-1-2",
+        "data": {
+            "id": "la-quest-daily-live-06002-1-2",
+            "text": "練習也要全心投入？在Live舞台與{character}對話後，一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-06003-1-1",
+        "data": {
+            "id": "la-quest-daily-live-06003-1-1",
+            "text": "正在顏岩山拍攝？去看看{character}的情況吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-06003-1-2",
+        "data": {
+            "id": "la-quest-daily-live-06003-1-2",
+            "text": "或許會帶來好運！在Live舞台與{character}對話後，一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-06004-1-1",
+        "data": {
+            "id": "la-quest-daily-live-06004-1-1",
+            "text": "去看看正在饒有興致地眺望誓約之塔的{character}吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-06004-1-2",
+        "data": {
+            "id": "la-quest-daily-live-06004-1-2",
+            "text": "練習時間快到了。與在Live舞台的{character}對話後，一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-06005-1-1",
+        "data": {
+            "id": "la-quest-daily-live-06005-1-1",
+            "text": "在幸運連線前向滿心愉悅的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-06005-1-2",
+        "data": {
+            "id": "la-quest-daily-live-06005-1-2",
+            "text": "好多練習想嘗試！在Live舞台與{character}一起開始訓練"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00001-1-1",
+        "data": {
+            "id": "la-quest-daily-rope-00001-1-1",
+            "text": "{character}正在回顧從誓約之塔看到的景色，向她搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00001-1-2",
+        "data": {
+            "id": "la-quest-daily-rope-00001-1-2",
+            "text": "直播準備前，與{character}一起開心遊玩蹦蹦大跳繩吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00010-1-1",
+        "data": {
+            "id": "la-quest-daily-rope-00010-1-1",
+            "text": "在嬉鬧操場與沉迷於健壯手臂的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00010-1-2",
+        "data": {
+            "id": "la-quest-daily-rope-00010-1-2",
+            "text": "還記得要做什麼嗎？與{character}對話後，一起開心遊玩蹦蹦大跳繩吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00012-1-1",
+        "data": {
+            "id": "la-quest-daily-rope-00012-1-1",
+            "text": "從嬉鬧操場傳來{character}愉快的笑聲。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00012-1-2",
+        "data": {
+            "id": "la-quest-daily-rope-00012-1-2",
+            "text": "忘掉重力。與{character}對話後，一起在蹦蹦大跳繩創造奇蹟吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00019-1-1",
+        "data": {
+            "id": "la-quest-daily-rope-00019-1-1",
+            "text": "在音波菈牡市場向看起來正陷入煩惱的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00019-1-2",
+        "data": {
+            "id": "la-quest-daily-rope-00019-1-2",
+            "text": "遊玩蹦蹦大跳繩放鬆身心！與{character}一起遊玩吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00021-1-1",
+        "data": {
+            "id": "la-quest-daily-rope-00021-1-1",
+            "text": "在幸運連線向興奮的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00021-1-2",
+        "data": {
+            "id": "la-quest-daily-rope-00021-1-2",
+            "text": "將快樂轉變為力量！與{character}一起在蹦蹦大跳繩創下最高紀錄吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00022-1-1",
+        "data": {
+            "id": "la-quest-daily-rope-00022-1-1",
+            "text": "向看起來心情愉快，正在散步的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00022-1-2",
+        "data": {
+            "id": "la-quest-daily-rope-00022-1-2",
+            "text": "剛吃完牛肉蓋飯沒問題嗎？與{character}一起遊玩蹦蹦大跳繩吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00023-1-1",
+        "data": {
+            "id": "la-quest-daily-rope-00023-1-1",
+            "text": "在奇瑟基之輪向沉浸於危險妄想的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00023-1-2",
+        "data": {
+            "id": "la-quest-daily-rope-00023-1-2",
+            "text": "趁妄想尚未爆發前，與{character}一起在蹦蹦大跳繩痛快宣洩吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00031-1-1",
+        "data": {
+            "id": "la-quest-daily-rope-00031-1-1",
+            "text": "在嬉鬧操場向準備大跳特跳的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-00031-1-2",
+        "data": {
+            "id": "la-quest-daily-rope-00031-1-2",
+            "text": "做完暖身運動，與{character}對話後，一起遊玩蹦蹦大跳繩吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-03001-1-1",
+        "data": {
+            "id": "la-quest-daily-rope-03001-1-1",
+            "text": "在HOLO影城大笑的是？向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-03001-1-2",
+        "data": {
+            "id": "la-quest-daily-rope-03001-1-2",
+            "text": "忍住笑意。與{character}對話後，一起遊玩蹦蹦大跳繩吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-03009-1-1",
+        "data": {
+            "id": "la-quest-daily-rope-03009-1-1",
+            "text": "向正在眺望The Cell 重臨的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-03009-1-2",
+        "data": {
+            "id": "la-quest-daily-rope-03009-1-2",
+            "text": "以破紀錄為目標！向{character}打招呼後，一起遊玩蹦蹦大跳繩吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-04014-1-1",
+        "data": {
+            "id": "la-quest-daily-rope-04014-1-1",
+            "text": "向正羨慕望著holoX據點的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-04014-1-2",
+        "data": {
+            "id": "la-quest-daily-rope-04014-1-2",
+            "text": "聯絡完前輩們之後，與{character}一起挑戰蹦蹦大跳繩"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-06005-1-1",
+        "data": {
+            "id": "la-quest-daily-rope-06005-1-1",
+            "text": "嬉鬧操場前十分熱鬧。與{character}聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-rope-06005-1-2",
+        "data": {
+            "id": "la-quest-daily-rope-06005-1-2",
+            "text": "與幹勁十足的{character}對話後，一起盡情遊玩蹦蹦大跳繩吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-01-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-01-1-1",
+            "text": "登陸的島嶼景象令人震驚！向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-01-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-01-1-2",
+            "text": "想近一點觀看Live舞台。前往廣場吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-01-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-01-1-3",
+            "text": "想看站上舞台的景色，前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-01-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-01-1-4",
+            "text": "決定Live成員吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-01-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-01-1-5",
+            "text": "在舞台上獻唱一首最特別的樂園開幕曲吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-01-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-01-1-6",
+            "text": "開始探險。在樂園裡四處逛逛吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-01-1-7",
+        "data": {
+            "id": "la-quest-main-w1-01-01-1-7",
+            "text": "holo成員各自在島上享受著美好時光。前往Live舞台集合吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-02-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-02-1-1",
+            "text": "首先要建造holo成員的家。前往holo之家建築預定地吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-02-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-02-1-2",
+            "text": "終於要開始開發樂園！建造holo之家吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-02-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-02-1-3",
+            "text": "holo之家終於完工了！進去裝修吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-02-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-02-1-4",
+            "text": "下一班船快到了。在樂園入口領取行李吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-02-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-02-1-5",
+            "text": "個人物品與音響器材都順利送達。將行李分送給大家吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-02-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-02-1-6",
+            "text": "趕快裝修holo之家的室內，享受完工派對吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-03-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-03-1-1",
+            "text": "holo成員們聚在一起討論著什麼。向在廣場的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-03-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-03-1-2",
+            "text": "設施的建造方針定案！去拜訪在holo之家室內的{character}吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-03-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-03-1-3",
+            "text": "準備動工。前往樂園入口，查看船班狀況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-03-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-03-1-4",
+            "text": "已確認船班狀況！前往建築預定地，進行報告吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-03-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-03-1-5",
+            "text": "建築作業正式開始。一起合力完成理想的設施吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-03-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-03-1-6",
+            "text": "嬉鬧操場終於完工了！來玩蹦蹦大跳繩吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-04-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-04-1-1",
+            "text": "好像有人抵達島上了。前往樂園入口看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-04-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-04-1-2",
+            "text": "討論未來計畫前，先逛逛樂園。首先前往嬉鬧操場吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-04-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-04-1-3",
+            "text": "逛完嬉鬧操場後，前往Live舞台。與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-04-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-04-1-4",
+            "text": "肚子餓了。進入holo之家，趁用餐時進行討論吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-04-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-04-1-5",
+            "text": "目標是成為能連結全世界的場所。開始建造設施吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-04-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-04-1-6",
+            "text": "幸運連線完成！開心遊玩「多人Live」吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-04-1-7",
+        "data": {
+            "id": "la-quest-main-w1-01-04-1-7",
+            "text": "確認測試的結果。與在幸運連線裡的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-05-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-05-1-1",
+            "text": "外面好像有什麼騷動。走出幸運連線看看吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-05-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-05-1-2",
+            "text": "出現神祕設施！去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-05-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-05-1-3",
+            "text": "第一屆樂園侵略會議開幕。與在holoX據點前的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-05-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-05-1-4",
+            "text": "前往Live舞台拍攝宣傳影片吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-05-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-05-1-5",
+            "text": "宣傳影片第二彈。前往樂園入口吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-05-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-05-1-6",
+            "text": "船已經抵達港口。送完行李後繼續拍攝吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-05-1-7",
+        "data": {
+            "id": "la-quest-main-w1-01-05-1-7",
+            "text": "將最後的行李搬到holoX據點吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-05-1-8",
+        "data": {
+            "id": "la-quest-main-w1-01-05-1-8",
+            "text": "完成內部裝潢前先補充元氣！進入holo之家，向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-05-1-9",
+        "data": {
+            "id": "la-quest-main-w1-01-05-1-9",
+            "text": "終於進入最後階段。前往holoX據點，完成內部裝潢吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-06-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-06-1-1",
+            "text": "練習時間快到了。去Live舞台看看holo成員的情況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-06-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-06-1-2",
+            "text": "為了開幕日的重要練習。與在Live舞台的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-06-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-06-1-3",
+            "text": "從holo之家傳來愉快的笑聲。進去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-07-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-07-1-1",
+            "text": "樂園也進展得很順利！出去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-07-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-07-1-2",
+            "text": "船快抵達了。前往樂園入口等待吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-07-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-07-1-3",
+            "text": "自由遊覽樂園。在幸運連線遊玩蹦蹦大跳繩吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-07-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-07-1-4",
+            "text": "在幸運連線盡情遊玩！回味之餘，去拜訪{character}吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-07-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-07-1-5",
+            "text": "上台表演前，先在廣場休息一下吧。"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-07-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-07-1-6",
+            "text": "準備好開唱。與在Live舞台的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-07-1-7",
+        "data": {
+            "id": "la-quest-main-w1-01-07-1-7",
+            "text": "盡情玩到肚子咕咕叫。進入holo之家吃飯吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-07-1-8",
+        "data": {
+            "id": "la-quest-main-w1-01-07-1-8",
+            "text": "喚起大家共同回憶的場所。建造理想的電影院吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-07-1-9",
+        "data": {
+            "id": "la-quest-main-w1-01-07-1-9",
+            "text": "進入HOLO影城，與大家一起舉辦試映會吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-08-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-08-1-1",
+            "text": "練習完Live的holo成員正在廣場聊天。走近看看吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-08-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-08-1-2",
+            "text": "樂園入口好像出狀況了？先向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-08-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-08-1-3",
+            "text": "將器材搬入holo之家，與{character}對話後，開始進行設置吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-08-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-08-1-4",
+            "text": "決定建造holo成員專用港口。前往樂園入口，進行建造前的準備作業吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-08-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-08-1-5",
+            "text": "大量行李送達港口。與大家一起合力分送吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-08-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-08-1-6",
+            "text": "順利搬完行李。與在廣場的大家會合吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-08-1-7",
+        "data": {
+            "id": "la-quest-main-w1-01-08-1-7",
+            "text": "一切準備就緒。建造玩家驛站吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-09-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-09-1-1",
+            "text": "holo之家那邊好像有什麼騷動。進去確認情況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-09-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-09-1-2",
+            "text": "大家聚集在holo之家前。前往會合後，一起去探險吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-09-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-09-1-3",
+            "text": "需要推車運點心。前往港口，與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-09-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-09-1-4",
+            "text": "順利取得推車！朝棧橋前進吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-09-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-09-1-5",
+            "text": "在棧橋盡情享受海景！在嬉鬧操場向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-09-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-09-1-6",
+            "text": "在岩山欣賞風景，享用點心吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-09-1-7",
+        "data": {
+            "id": "la-quest-main-w1-01-09-1-7",
+            "text": "以樂園宅急便為目標，製作行動販賣車吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-10-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-10-1-1",
+            "text": "大家聚集在Live舞台上。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-10-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-10-1-2",
+            "text": "向在Live舞台的{character}搭話，開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-10-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-10-1-3",
+            "text": "練習結束。在holo之家裡吃午餐休息一下吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-11-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-11-1-1",
+            "text": "聽見熱鬧的聲音。去看看1期生的設施吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-11-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-11-1-2",
+            "text": "飽食之旅終於開張！在店內接待客人吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-11-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-11-1-3",
+            "text": "飽食之旅門庭若市。為肚子餓的大家製作料理吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-11-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-11-1-4",
+            "text": "食材和飲料都快用完了。前往holo之家拿行李吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-11-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-11-1-5",
+            "text": "食材和飲料都快用完了。前往玩家驛站拿行李吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-11-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-11-1-6",
+            "text": "順利取得食材和飲料。進入飽食之旅，將行李送達吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-12-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-12-1-1",
+            "text": "傳來充滿朝氣的歡笑聲。去廣場看看吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-12-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-12-1-2",
+            "text": "練習時間快開始了。在Live舞台向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-12-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-12-1-3",
+            "text": "練習結束後，大家肚子都餓了。在holo之家做便當吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-12-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-12-1-4",
+            "text": "便當完成。順道繞去h3ro行動車，準備餐後甜點吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-12-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-12-1-5",
+            "text": "準備完成。帶著便當和甜點去野餐吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-12-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-12-1-6",
+            "text": "在野餐時想到好點子。在holo之家裡討論細節吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-12-1-7",
+        "data": {
+            "id": "la-quest-main-w1-01-12-1-7",
+            "text": "設計完成。開始動工打造理想的周邊商店吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-13-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-13-1-1",
+            "text": "練習時間快到了。趕快移動至Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-13-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-13-1-2",
+            "text": "即將開始練習。與在Live舞台的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-13-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-13-1-3",
+            "text": "在holo之家裡，討論設施的相關內容吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-13-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-13-1-4",
+            "text": "移動至廣場，與大家會合吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-13-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-13-1-5",
+            "text": "行李太多需要分工合作。一起合力分送行李吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-13-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-13-1-6",
+            "text": "順利送達。先前往玩家驛站吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-13-1-7",
+        "data": {
+            "id": "la-quest-main-w1-01-13-1-7",
+            "text": "開始建造摩天輪！完成讓大家都能眺望美景的景點吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-14-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-14-1-1",
+            "text": "練習時間快開始了。前往Live舞台會合吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-14-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-14-1-2",
+            "text": "練習結束後的放鬆時光！前往幸運連線吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-14-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-14-1-3",
+            "text": "在幸運連線遊玩「多人Live」吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-14-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-14-1-4",
+            "text": "與在幸運連線的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-14-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-14-1-5",
+            "text": "與大家一起盡情遊玩後，進入holo之家，向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-14-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-14-1-6",
+            "text": "開始設計。打造樂園的地標——時鐘塔吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-15-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-15-1-1",
+            "text": "好像傳來愉快的笑聲。去看看ID1期生的行動販賣車吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-15-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-15-1-2",
+            "text": "在樂園四處走走，聽聽大家對行動販賣車首次亮相的感想吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-15-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-15-1-3",
+            "text": "追蹤人影吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-15-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-15-1-4",
+            "text": "接著移動至幸運連線，向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-15-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-15-1-5",
+            "text": "行動販賣車大受好評！巡遊樂園，將氣球分送給大家吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-15-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-15-1-6",
+            "text": "行動販賣車巡遊結束。差不多該回廣場了"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-16-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-16-1-1",
+            "text": "在holo之家的直播開始了。進去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-16-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-16-1-2",
+            "text": "迷你Live開演！向在Live舞台的{character}搭話，一起享受吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-17-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-17-1-1",
+            "text": "Advent的設施好像完工了。趕快過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-17-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-17-1-2",
+            "text": "警察抓小偷開始！尋找最佳的藏身之處吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-17-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-17-1-3",
+            "text": "好像有小偷躲在Live舞台。前去逮捕小偷吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-17-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-17-1-4",
+            "text": "成功逮捕小偷！將小偷帶回The Cell 重臨吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-17-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-17-1-5",
+            "text": "好像還有小偷藏匿。再次展開搜查吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-17-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-17-1-6",
+            "text": "嬉鬧操場有動靜。前去逮捕小偷吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-17-1-7",
+        "data": {
+            "id": "la-quest-main-w1-01-17-1-7",
+            "text": "學到蹦蹦大跳繩的訣竅。打破蹦蹦大跳繩的最高紀錄吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-17-1-8",
+        "data": {
+            "id": "la-quest-main-w1-01-17-1-8",
+            "text": "盡情遊玩後，先前往廣場吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-18-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-18-1-1",
+            "text": "從ReGLOSS的設施傳來開心的笑聲。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-18-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-18-1-2",
+            "text": "設施順利完工，馬上開始籌備慶祝活動吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-18-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-18-1-3",
+            "text": "籌備慶祝活動。組成探索隊，出發尋找漂亮的裝飾品吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-18-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-18-1-4",
+            "text": "讓慶祝活動更添風采。前往其他設施，尋找理想的裝飾品吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-18-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-18-1-5",
+            "text": "素材準備齊全。回去開始裝飾吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-18-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-18-1-6",
+            "text": "料理快完成了。進入holo之家看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-18-1-7",
+        "data": {
+            "id": "la-quest-main-w1-01-18-1-7",
+            "text": "一切準備就緒！在超VeryBad夢幻樂園分站，開始舉辦派對吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-19-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-19-1-1",
+            "text": "holoro的大家好像正在享受假日時光。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-19-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-19-1-2",
+            "text": "holoro的成員們紛紛前往廣場。跟上這趟自由之旅吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-19-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-19-1-3",
+            "text": "在Live舞台練習唱歌。向在舞台前的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-19-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-19-1-4",
+            "text": "幽靈獵人holoro出動。在HOLO影城查明神祕聲音的來源吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-19-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-19-1-5",
+            "text": "樂園入口好像有什麼好玩的。過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-19-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-19-1-6",
+            "text": "好像有個地方可以看到美麗的夕陽。趕快過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-19-1-7",
+        "data": {
+            "id": "la-quest-main-w1-01-19-1-7",
+            "text": "想辦法讓氣氛變得更熱烈。前往holoro小舖開作戰會議吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-20-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-20-1-1",
+            "text": "開幕日迫在眉睫。前往Live舞台，齊心協力一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-20-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-20-1-2",
+            "text": "與在Live舞台的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-20-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-20-1-3",
+            "text": "在holo之家開會決定開幕日吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-21-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-21-1-1",
+            "text": "0期生在岩山努力建造設施。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-21-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-21-1-2",
+            "text": "辛苦的獎勵。在holo之家裡輕鬆享用午餐吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-21-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-21-1-3",
+            "text": "在岩山繼續建造設施！完成樂園的象徵吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-21-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-21-1-4",
+            "text": "前往廣場與大家會合！今天也充滿幹勁地繼續進行作業吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-21-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-21-1-5",
+            "text": "完成前的最後收尾。共同努力到最後吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-21-1-6",
+        "data": {
+            "id": "la-quest-main-w1-01-21-1-6",
+            "text": "在顏岩山上乾杯，慶祝所有設施完工吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-22-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-22-1-1",
+            "text": "廣場好像有人。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-22-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-22-1-2",
+            "text": "Live彩排快開始了。趕快前往舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-22-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-22-1-3",
+            "text": "前往樂園入口。巡遊這座滿載大家夢想的樂園吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-22-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-22-1-4",
+            "text": "在holo之家裡舉辦盛大的誓師大會，提高明天的士氣吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-23-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-23-1-1",
+            "text": "誓師大會順利結束。在holo之家前向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-23-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-23-1-2",
+            "text": "開園準備完成。從HOLO影城開始，依序遊覽各個設施吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-23-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-23-1-3",
+            "text": "大家的熱情燃到最高點！接下來趕快去準備holoro小舖吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-23-1-4",
+        "data": {
+            "id": "la-quest-main-w1-01-23-1-4",
+            "text": "演出準備也將進入最後階段。前往樂啾機動15號吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-23-1-5",
+        "data": {
+            "id": "la-quest-main-w1-01-23-1-5",
+            "text": "最後前往幸運連線。確認一切準備就緒吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-24-1-1",
+        "data": {
+            "id": "la-quest-main-w1-01-24-1-1",
+            "text": "期待已久的開園日！讓來樂園的客人玩得盡興吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-24-1-2",
+        "data": {
+            "id": "la-quest-main-w1-01-24-1-2",
+            "text": "終於要登上Live舞台了！在開幕Live上讓全場觀眾陷入瘋狂吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-24-1-3",
+        "data": {
+            "id": "la-quest-main-w1-01-24-1-3",
+            "text": "順利完成Live吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-01-1-1",
+        "data": {
+            "id": "la-quest-main-w1-02-01-1-1",
+            "text": "大家好像都在holo之家休息。進去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-01-1-2",
+        "data": {
+            "id": "la-quest-main-w1-02-01-1-2",
+            "text": "按照神祕邀請函的指示，前往大門前吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-01-1-3",
+        "data": {
+            "id": "la-quest-main-w1-02-01-1-3",
+            "text": "啟航吧！乘著浪花前往新區域"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-01-1-4",
+        "data": {
+            "id": "la-quest-main-w1-02-01-1-4",
+            "text": "向在豪華大廳的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-02-1-1",
+        "data": {
+            "id": "la-quest-main-w1-02-02-1-1",
+            "text": "大廳內部傳來熱鬧的聲音。繼續前進吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-02-1-2",
+        "data": {
+            "id": "la-quest-main-w1-02-02-1-2",
+            "text": "對決的戰火即將點燃！遊玩極限跑道吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-02-1-3",
+        "data": {
+            "id": "la-quest-main-w1-02-02-1-3",
+            "text": "激烈的比賽結束！與在遊戲區域入口的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-02-1-4",
+        "data": {
+            "id": "la-quest-main-w1-02-02-1-4",
+            "text": "回味著刺激的比賽，在兌換所使用電玩巨蛋城硬幣兌換道具吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-02-1-5",
+        "data": {
+            "id": "la-quest-main-w1-02-02-1-5",
+            "text": "在兌換所前集合吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-03-1-1",
+        "data": {
+            "id": "la-quest-main-w1-02-03-1-1",
+            "text": "前往遊戲區域螢幕前。向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-03-1-2",
+        "data": {
+            "id": "la-quest-main-w1-02-03-1-2",
+            "text": "{character}好像快回來了。前往大廳入口迎接她吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-03-1-3",
+        "data": {
+            "id": "la-quest-main-w1-02-03-1-3",
+            "text": "遊戲區域終於完工！打造人人都能盡情遊樂的夢幻世界吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-03-1-4",
+        "data": {
+            "id": "la-quest-main-w1-02-03-1-4",
+            "text": "出狀況了！快與大家一起召開緊急會議吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-04-1-1",
+        "data": {
+            "id": "la-quest-main-w1-02-04-1-1",
+            "text": "遊戲區域系統當機。在holo之家進行討論吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-04-1-2",
+        "data": {
+            "id": "la-quest-main-w1-02-04-1-2",
+            "text": "追上急忙前往Live舞台前的心吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-04-1-3",
+        "data": {
+            "id": "la-quest-main-w1-02-04-1-3",
+            "text": "在Live舞台隨著音樂律動，將煩惱一掃而空吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-04-1-4",
+        "data": {
+            "id": "la-quest-main-w1-02-04-1-4",
+            "text": "大家好像聚集在協奏花園。向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-04-1-5",
+        "data": {
+            "id": "la-quest-main-w1-02-04-1-5",
+            "text": "前往剛結束直播的JP成員身邊。向在holo之家裡的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-1",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-1",
+            "text": "電玩巨蛋城大廳鬧哄哄的。趕快過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-10",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-10",
+            "text": "過關區域關卡「遊戲與美食的歡樂時光」，收集修理素材吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-10-mission_description",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-10-mission_description",
+            "text": "區域關卡"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-11",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-11",
+            "text": "拳力出擊！維修鐵拳擂台，準備戰鬥吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-12",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-12",
+            "text": "瀰漫著不安的氣氛。與在遊戲區域入口的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-2",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-2",
+            "text": "讓大家重新綻放笑容。開始維修遊戲區域吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-3",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-3",
+            "text": "目標是完好如初！讓扭蛋金剛回復原樣吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-4",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-4",
+            "text": "期待未知的驚喜。遊玩扭蛋金剛吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-5",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-5",
+            "text": "以寶藏為目標！維修蘿蔔蔔夾娃娃機吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-6",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-6",
+            "text": "過關區域關卡「修行！極限跑道！」，收集修理素材吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-6-mission_description",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-6-mission_description",
+            "text": "區域關卡"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-7",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-7",
+            "text": "驚魂再現？！維修飯糰驚魂吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-8",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-8",
+            "text": "維修進展順利！修好舞動不死鳥，重現熱舞的精彩魅力吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-05-1-9",
+        "data": {
+            "id": "la-quest-main-w1-02-05-1-9",
+            "text": "與在舞動不死鳥前的{character}對話後，開始對決！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-06-1-1",
+        "data": {
+            "id": "la-quest-main-w1-02-06-1-1",
+            "text": "開始探索！前往協奏花園，尋找holo金屬吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-06-1-2",
+        "data": {
+            "id": "la-quest-main-w1-02-06-1-2",
+            "text": "探索協奏花園。找出掌握關鍵的澪吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-06-1-3",
+        "data": {
+            "id": "la-quest-main-w1-02-06-1-3",
+            "text": "發現！登上顏岩山，去找{character}吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-06-1-4",
+        "data": {
+            "id": "la-quest-main-w1-02-06-1-4",
+            "text": "以敏銳的嗅覺展開調查！追蹤奇妙的氣味找出原因吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-06-1-5",
+        "data": {
+            "id": "la-quest-main-w1-02-06-1-5",
+            "text": "獲得慰勞品！回遊戲區域與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-06-1-6",
+        "data": {
+            "id": "la-quest-main-w1-02-06-1-6",
+            "text": "開始維修超級拍貼機！讓大家留下回憶的地方重獲新生吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-06-1-7",
+        "data": {
+            "id": "la-quest-main-w1-02-06-1-7",
+            "text": "奇蹟的一張！遊玩修好的超級拍貼機吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-07-1-1",
+        "data": {
+            "id": "la-quest-main-w1-02-07-1-1",
+            "text": "遊戲區域修好了！向在極限跑道入口的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-07-1-2",
+        "data": {
+            "id": "la-quest-main-w1-02-07-1-2",
+            "text": "盡情遊玩極限跑道後，與在遊戲區域入口的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-07-1-3",
+        "data": {
+            "id": "la-quest-main-w1-02-07-1-3",
+            "text": "前往遊戲區域Live舞台入口與大家討論吧。與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-07-1-4",
+        "data": {
+            "id": "la-quest-main-w1-02-07-1-4",
+            "text": "比一個人時更閃耀。大家一起練習Live吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-08-1-1",
+        "data": {
+            "id": "la-quest-main-w1-02-08-1-1",
+            "text": "大家好像聚集在電玩巨蛋城。前往大廳吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-08-1-2",
+        "data": {
+            "id": "la-quest-main-w1-02-08-1-2",
+            "text": "究竟會發生什麼事呢？操控搖桿創造驚喜吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-08-1-3",
+        "data": {
+            "id": "la-quest-main-w1-02-08-1-3",
+            "text": "前往大廳內部。查看電玩巨蛋城的另一風貌吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-08-1-4",
+        "data": {
+            "id": "la-quest-main-w1-02-08-1-4",
+            "text": "賭場區域盛大開幕掀起熱潮。趕快移動至桌前吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-08-1-5",
+        "data": {
+            "id": "la-quest-main-w1-02-08-1-5",
+            "text": "傳說開幕！遊玩「撲克屋！」吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-09-1-1",
+        "data": {
+            "id": "la-quest-main-w1-02-09-1-1",
+            "text": "傳來愉快的笑聲。趕快前往賭場區域Live舞台入口吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-09-1-10",
+        "data": {
+            "id": "la-quest-main-w1-02-09-1-10",
+            "text": "創意的進展？回賭場區域入口與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-09-1-2",
+        "data": {
+            "id": "la-quest-main-w1-02-09-1-2",
+            "text": "練習成果絕佳！移動至電玩巨蛋城大廳吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-09-1-3",
+        "data": {
+            "id": "la-quest-main-w1-02-09-1-3",
+            "text": "徵求好點子！前往賭場區域向{character}要點提示吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-09-1-4",
+        "data": {
+            "id": "la-quest-main-w1-02-09-1-4",
+            "text": "重新出發！與在賭場區域的{character}談談吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-09-1-5",
+        "data": {
+            "id": "la-quest-main-w1-02-09-1-5",
+            "text": "盡情遊玩後準備拿出真本事。與在賭場區域的{character}談談吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-09-1-6",
+        "data": {
+            "id": "la-quest-main-w1-02-09-1-6",
+            "text": "快遞出發！前往用光硬幣的{character}等待的賭場區域吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-09-1-7",
+        "data": {
+            "id": "la-quest-main-w1-02-09-1-7",
+            "text": "繼續商量。向在賭場區域的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-09-1-8",
+        "data": {
+            "id": "la-quest-main-w1-02-09-1-8",
+            "text": "集結大家的智慧！與在賭場區域的{character}討論後，獲得提示吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-09-1-9",
+        "data": {
+            "id": "la-quest-main-w1-02-09-1-9",
+            "text": "將硬幣交給在賭場區域的{character}，化解危機吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-10-1-1",
+        "data": {
+            "id": "la-quest-main-w1-02-10-1-1",
+            "text": "正式開戰！與在大廳的{character}會合後，開始對決直播吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-10-1-2",
+        "data": {
+            "id": "la-quest-main-w1-02-10-1-2",
+            "text": "與在遊戲區域舞動不死鳥前的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-10-1-3",
+        "data": {
+            "id": "la-quest-main-w1-02-10-1-3",
+            "text": "揭開最終決戰的序幕！掌握節奏，在舞蹈對決中贏得勝利吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-10-1-4",
+        "data": {
+            "id": "la-quest-main-w1-02-10-1-4",
+            "text": "持續熱戰！與在遊戲區域飯糰驚魂前的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-10-1-5",
+        "data": {
+            "id": "la-quest-main-w1-02-10-1-5",
+            "text": "君子之爭！與在極限跑道入口的{character}對話後，迎接命運之戰"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-11-1-1",
+        "data": {
+            "id": "la-quest-main-w1-02-11-1-1",
+            "text": "抓住逆轉的機會！向在賭場區域的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-11-1-2",
+        "data": {
+            "id": "la-quest-main-w1-02-11-1-2",
+            "text": "運氣也是實力的一部分？在超級老虎機前與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-11-1-3",
+        "data": {
+            "id": "la-quest-main-w1-02-11-1-3",
+            "text": "與在超級老虎機前的{character}對話後，扭轉局勢吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-11-1-4",
+        "data": {
+            "id": "la-quest-main-w1-02-11-1-4",
+            "text": "向在撲克牌桌前的{character}打招呼，迎接最終對決！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-12-1-1",
+        "data": {
+            "id": "la-quest-main-w1-02-12-1-1",
+            "text": "爆炸事件尚未結束。在大廳打聽holo金屬禁忌的祕密吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-12-1-2",
+        "data": {
+            "id": "la-quest-main-w1-02-12-1-2",
+            "text": "向在遊戲區域Live舞台入口的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-12-1-3",
+        "data": {
+            "id": "la-quest-main-w1-02-12-1-3",
+            "text": "前往聚光燈下。在holo之家裡與{character}交談吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-12-1-4",
+        "data": {
+            "id": "la-quest-main-w1-02-12-1-4",
+            "text": "前往夢想舞台。在賭場區域Live舞台入口，與{character}會合吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-12-1-5",
+        "data": {
+            "id": "la-quest-main-w1-02-12-1-5",
+            "text": "讓情感融入旋律。在大家等待的賭場區域呈現最精彩的Live吧"
+        }
+    }
+]

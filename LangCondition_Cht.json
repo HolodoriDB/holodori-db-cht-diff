@@ -1,0 +1,534 @@
+[
+    {
+        "id": "la-cd-cook-unlock_normal-description",
+        "data": {
+            "id": "la-cd-cook-unlock_normal-description",
+            "text": "過關食材妙廚房EASY模式後即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-cook-unlock_score_attack-description",
+        "data": {
+            "id": "la-cd-cook-unlock_score_attack-description",
+            "text": "過關NORMAL模式＆區域關卡「享受散步＆美食的放鬆時光♪」後即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
+            "text": "過關主線關卡「飆速！極限跑道！」後即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup-description",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup-description",
+            "text": "過關主線關卡「飆速！極限跑道！」後即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+        "data": {
+            "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
+            "text": "兌換全部同名道具即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description",
+        "data": {
+            "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001-description",
+            "text": "兌換全部同名道具後即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-exchangebooth-level-02",
+        "data": {
+            "id": "la-cd-facility-a01-exchangebooth-level-02",
+            "text": "音波菈牡市場總店的設施Lv2"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-exchangebooth-level-03",
+        "data": {
+            "id": "la-cd-facility-a01-exchangebooth-level-03",
+            "text": "音波菈牡市場總店的設施Lv3"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-exchangebooth-level-04",
+        "data": {
+            "id": "la-cd-facility-a01-exchangebooth-level-04",
+            "text": "音波菈牡市場總店的設施Lv4"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-exchangebooth-level-05",
+        "data": {
+            "id": "la-cd-facility-a01-exchangebooth-level-05",
+            "text": "音波菈牡市場總店的設施Lv5"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-station-level-02",
+        "data": {
+            "id": "la-cd-facility-a01-station-level-02",
+            "text": "玩家驛站的設施Lv2"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-station-level-03",
+        "data": {
+            "id": "la-cd-facility-a01-station-level-03",
+            "text": "玩家驛站的設施Lv3"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-station-level-04",
+        "data": {
+            "id": "la-cd-facility-a01-station-level-04",
+            "text": "玩家驛站的設施Lv4"
+        }
+    },
+    {
+        "id": "la-cd-facility-a01-station-level-05",
+        "data": {
+            "id": "la-cd-facility-a01-station-level-05",
+            "text": "玩家驛站的設施Lv5"
+        }
+    },
+    {
+        "id": "la-cd-jump_rope-unlock_normal-description",
+        "data": {
+            "id": "la-cd-jump_rope-unlock_normal-description",
+            "text": "過關蹦蹦大跳繩EASY模式後即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-jump_rope-unlock_score_attack-description",
+        "data": {
+            "id": "la-cd-jump_rope-unlock_score_attack-description",
+            "text": "過關NORMAL模式＆區域關卡「目標1萬次？｣即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-player_level-10",
+        "data": {
+            "id": "la-cd-player_level-10",
+            "text": "夢幻Rank10以上"
+        }
+    },
+    {
+        "id": "la-cd-player_level-15",
+        "data": {
+            "id": "la-cd-player_level-15",
+            "text": "夢幻Rank15以上"
+        }
+    },
+    {
+        "id": "la-cd-player_level-20",
+        "data": {
+            "id": "la-cd-player_level-20",
+            "text": "夢幻Rank20以上"
+        }
+    },
+    {
+        "id": "la-cd-player_level-25",
+        "data": {
+            "id": "la-cd-player_level-25",
+            "text": "夢幻Rank25以上"
+        }
+    },
+    {
+        "id": "la-cd-player_level-30",
+        "data": {
+            "id": "la-cd-player_level-30",
+            "text": "夢幻Rank30以上"
+        }
+    },
+    {
+        "id": "la-cd-player_level-35",
+        "data": {
+            "id": "la-cd-player_level-35",
+            "text": "夢幻Rank35以上"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-02-1-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-02-1-unlock",
+            "text": "過關蹦蹦大跳繩NORMAL模式即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-02-1-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-02-1-unlock-description",
+            "text": "過關蹦蹦大跳繩NORMAL模式即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-11-1-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-11-1-unlock",
+            "text": "過關指定關卡吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-11-1-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-11-1-unlock-description",
+            "text": "過關EP13即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-14-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-14-unlock",
+            "text": "等待至夜晚吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-14-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-14-unlock-description",
+            "text": "可在誓約之塔變更時間"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-16-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-16-unlock",
+            "text": "等待至傍晚吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-16-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-16-unlock-description",
+            "text": "可在誓約之塔變更時間"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-23-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-23-unlock",
+            "text": "過關指定關卡吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-23-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-23-unlock-description",
+            "text": "通過電玩巨蛋城主線關卡EP4後即可解鎖。"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-24-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-24-unlock",
+            "text": "過關指定關卡吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-24-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-24-unlock-description",
+            "text": "通過協奏花園主線關卡EP24後即可解鎖。"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-25-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-25-unlock",
+            "text": "達到夢幻Rank32後即可解鎖。"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-25-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-25-unlock-description",
+            "text": "遊玩關卡與Live吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-26-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-26-unlock",
+            "text": "達到夢幻Rank35後即可解鎖。"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-26-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-26-unlock-description",
+            "text": "遊玩關卡與Live吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-27-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-27-unlock",
+            "text": "達到夢幻Rank33後即可解鎖。"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-27-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-27-unlock-description",
+            "text": "遊玩關卡與Live吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-28-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a01-28-unlock",
+            "text": "達到夢幻Rank35後即可解鎖。"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-28-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-28-unlock-description",
+            "text": "遊玩關卡與Live吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a02-08-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a02-08-unlock",
+            "text": "過關指定關卡吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a02-08-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a02-08-unlock-description",
+            "text": "過關區域關卡「特別的兩人」後即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a02-10-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a02-10-unlock",
+            "text": "達到夢幻Rank34後即可解鎖。"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a02-10-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a02-10-unlock-description",
+            "text": "遊玩關卡與Live吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a02-16-unlock",
+        "data": {
+            "id": "la-cd-quest-area-a02-16-unlock",
+            "text": "達到夢幻Rank35後即可解鎖。"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a02-16-unlock-description",
+        "data": {
+            "id": "la-cd-quest-area-a02-16-unlock-description",
+            "text": "遊玩關卡與Live吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-main-w1-01-03-unlock",
+        "data": {
+            "id": "la-cd-quest-main-w1-01-03-unlock",
+            "text": "解鎖Holo成員吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-main-w1-01-06-unlock",
+        "data": {
+            "id": "la-cd-quest-main-w1-01-06-unlock",
+            "text": "過關指定關卡吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-main-w1-01-12-unlock",
+        "data": {
+            "id": "la-cd-quest-main-w1-01-12-unlock",
+            "text": "將夢幻Rank提升至12吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-main-w1-01-24-unlock",
+        "data": {
+            "id": "la-cd-quest-main-w1-01-24-unlock",
+            "text": "將夢幻Rank提升至17吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-main-w1-02-09-unlock",
+        "data": {
+            "id": "la-cd-quest-main-w1-02-09-unlock",
+            "text": "將夢幻Rank提升至23吧"
+        }
+    },
+    {
+        "id": "la-cd-unit_score-105000",
+        "data": {
+            "id": "la-cd-unit_score-105000",
+            "text": "最高隊伍分數105000分以上"
+        }
+    },
+    {
+        "id": "la-cd-unit_score-115000",
+        "data": {
+            "id": "la-cd-unit_score-115000",
+            "text": "最高隊伍分數115000分以上"
+        }
+    },
+    {
+        "id": "la-cd-unit_score-125000",
+        "data": {
+            "id": "la-cd-unit_score-125000",
+            "text": "最高隊伍分數125000分以上"
+        }
+    },
+    {
+        "id": "la-cd-unit_score-130000",
+        "data": {
+            "id": "la-cd-unit_score-130000",
+            "text": "最高隊伍分數130000分以上"
+        }
+    },
+    {
+        "id": "la-cd-unit_score-150000",
+        "data": {
+            "id": "la-cd-unit_score-150000",
+            "text": "最高隊伍分數150000分以上"
+        }
+    },
+    {
+        "id": "la-cd-unit_score-45000",
+        "data": {
+            "id": "la-cd-unit_score-45000",
+            "text": "最高隊伍分數45000分以上"
+        }
+    },
+    {
+        "id": "la-cd-unit_score-60000",
+        "data": {
+            "id": "la-cd-unit_score-60000",
+            "text": "最高隊伍分數60000分以上"
+        }
+    },
+    {
+        "id": "la-cd-unit_score-65000",
+        "data": {
+            "id": "la-cd-unit_score-65000",
+            "text": "最高隊伍分數65000分以上"
+        }
+    },
+    {
+        "id": "la-cd-unit_score-80000",
+        "data": {
+            "id": "la-cd-unit_score-80000",
+            "text": "最高隊伍分數80000分以上"
+        }
+    },
+    {
+        "id": "la-cd-unit_score-95000",
+        "data": {
+            "id": "la-cd-unit_score-95000",
+            "text": "最高隊伍分數95000分以上"
+        }
+    },
+    {
+        "id": "la-cd-unlock-work_slot-2",
+        "data": {
+            "id": "la-cd-unlock-work_slot-2",
+            "text": "推進區域關卡「發自靈魂的加油」即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-unlock-work_slot-2-description",
+        "data": {
+            "id": "la-cd-unlock-work_slot-2-description",
+            "text": "推進區域關卡「發自靈魂的加油」後即可解鎖"
+        }
+    },
+    {
+        "id": "la-locktest-cd-quest-area-a01-01",
+        "data": {
+            "id": "la-locktest-cd-quest-area-a01-01",
+            "text": "過關主線關卡3話"
+        }
+    },
+    {
+        "id": "la-locktest-cd-quest-area-a01-02",
+        "data": {
+            "id": "la-locktest-cd-quest-area-a01-02",
+            "text": "過關主線關卡3話"
+        }
+    },
+    {
+        "id": "la-locktest-cd-quest-area-a01-03",
+        "data": {
+            "id": "la-locktest-cd-quest-area-a01-03",
+            "text": "過關主線關卡6話"
+        }
+    },
+    {
+        "id": "la-locktestdesc-cd-quest-area-a01-01",
+        "data": {
+            "id": "la-locktestdesc-cd-quest-area-a01-01",
+            "text": "推進主線關卡即可解鎖"
+        }
+    },
+    {
+        "id": "la-locktestdesc-cd-quest-area-a01-02",
+        "data": {
+            "id": "la-locktestdesc-cd-quest-area-a01-02",
+            "text": "推進主線關卡即可解鎖"
+        }
+    },
+    {
+        "id": "la-locktestdesc-cd-quest-area-a01-03",
+        "data": {
+            "id": "la-locktestdesc-cd-quest-area-a01-03",
+            "text": "推進主線關卡即可解鎖"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-03-unlock-description",
+        "data": {
+            "id": "la-quest-main-w1-01-03-unlock-description",
+            "text": "過關holo成員關卡，即可解鎖holo成員"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-06-unlock-description",
+        "data": {
+            "id": "la-quest-main-w1-01-06-unlock-description",
+            "text": "過關區域關卡「正在潛入調查中」即可解鎖"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-12-unlock-description",
+        "data": {
+            "id": "la-quest-main-w1-01-12-unlock-description",
+            "text": "挑戰區域關卡與Holo成員關卡\n即可提升夢幻Rank"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-01-24-unlock-description",
+        "data": {
+            "id": "la-quest-main-w1-01-24-unlock-description",
+            "text": "挑戰區域關卡與Holo成員關卡\n即可提升夢幻Rank"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-02-09-unlock-description",
+        "data": {
+            "id": "la-quest-main-w1-02-09-unlock-description",
+            "text": "挑戰區域關卡與Holo成員關卡\n即可提升夢幻Rank"
+        }
+    }
+]

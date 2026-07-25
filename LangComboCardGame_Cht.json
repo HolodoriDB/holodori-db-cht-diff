@@ -1,0 +1,44 @@
+[
+    {
+        "id": "la-combo_card_game-game_playing_display_clear_condition_lang-default",
+        "data": {
+            "id": "la-combo_card_game-game_playing_display_clear_condition_lang-default",
+            "text": "挑戰取得高分吧！"
+        }
+    },
+    {
+        "id": "la-combo_card_game-game_playing_display_clear_condition_lang-play",
+        "data": {
+            "id": "la-combo_card_game-game_playing_display_clear_condition_lang-play",
+            "text": "遊玩到最後吧！"
+        }
+    },
+    {
+        "id": "la-combo_card_game-game_playing_display_clear_condition_lang-rank",
+        "data": {
+            "id": "la-combo_card_game-game_playing_display_clear_condition_lang-rank",
+            "text": "挑戰進入前<size=56>{0}</size>名吧！"
+        }
+    },
+    {
+        "id": "la-combo_card_game-game_start_display_clear_condition_lang-default",
+        "data": {
+            "id": "la-combo_card_game-game_start_display_clear_condition_lang-default",
+            "text": "組合牌型挑戰高分吧！"
+        }
+    },
+    {
+        "id": "la-combo_card_game-game_start_display_clear_condition_lang-play",
+        "data": {
+            "id": "la-combo_card_game-game_start_display_clear_condition_lang-play",
+            "text": "遊玩到最後吧！"
+        }
+    },
+    {
+        "id": "la-combo_card_game-game_start_display_clear_condition_lang-rank",
+        "data": {
+            "id": "la-combo_card_game-game_start_display_clear_condition_lang-rank",
+            "text": "挑戰進入前{0}名吧！"
+        }
+    }
+]

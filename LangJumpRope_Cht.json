@@ -1,0 +1,58 @@
+[
+    {
+        "id": "la-jump_rope-game_playing_display_clear_condition_lang-count",
+        "data": {
+            "id": "la-jump_rope-game_playing_display_clear_condition_lang-count",
+            "text": "挑戰跳<size=56>{0}</size>次吧！"
+        }
+    },
+    {
+        "id": "la-jump_rope-game_playing_display_clear_condition_lang-score_attack",
+        "data": {
+            "id": "la-jump_rope-game_playing_display_clear_condition_lang-score_attack",
+            "text": "挑戰最佳分數吧！"
+        }
+    },
+    {
+        "id": "la-jump_rope-game_playing_display_clear_condition_lang-survival",
+        "data": {
+            "id": "la-jump_rope-game_playing_display_clear_condition_lang-survival",
+            "text": "挑戰跳得最久吧！"
+        }
+    },
+    {
+        "id": "la-jump_rope-game_start_display_clear_condition_lang-count",
+        "data": {
+            "id": "la-jump_rope-game_start_display_clear_condition_lang-count",
+            "text": "挑戰跳{0}次吧！"
+        }
+    },
+    {
+        "id": "la-jump_rope-game_start_display_clear_condition_lang-score_attack",
+        "data": {
+            "id": "la-jump_rope-game_start_display_clear_condition_lang-score_attack",
+            "text": "挑戰最佳分數吧！"
+        }
+    },
+    {
+        "id": "la-jump_rope-game_start_display_clear_condition_lang-survival",
+        "data": {
+            "id": "la-jump_rope-game_start_display_clear_condition_lang-survival",
+            "text": "挑戰跳得最久吧！"
+        }
+    },
+    {
+        "id": "la-jump_rope-mode_select_display_clear_condition_lang-score_attack",
+        "data": {
+            "id": "la-jump_rope-mode_select_display_clear_condition_lang-score_attack",
+            "text": "挑戰\\n最佳分數吧！"
+        }
+    },
+    {
+        "id": "la-jump_rope-mode_select_display_clear_condition_lang-survival",
+        "data": {
+            "id": "la-jump_rope-mode_select_display_clear_condition_lang-survival",
+            "text": "挑戰跳得最久吧！"
+        }
+    }
+]

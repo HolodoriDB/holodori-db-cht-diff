@@ -1,0 +1,30 @@
+[
+    {
+        "id": "la-cooking_puzzle-game_start_display_clear_condition_lang-count",
+        "data": {
+            "id": "la-cooking_puzzle-game_start_display_clear_condition_lang-count",
+            "text": "完成{0}道料理吧！"
+        }
+    },
+    {
+        "id": "la-cooking_puzzle-game_start_display_clear_condition_lang-score_attack",
+        "data": {
+            "id": "la-cooking_puzzle-game_start_display_clear_condition_lang-score_attack",
+            "text": "挑戰最佳分數吧！"
+        }
+    },
+    {
+        "id": "la-cooking_puzzle-mode_select_display_clear_condition_lang-count",
+        "data": {
+            "id": "la-cooking_puzzle-mode_select_display_clear_condition_lang-count",
+            "text": "完成\\n指定數量的料理吧！"
+        }
+    },
+    {
+        "id": "la-cooking_puzzle-mode_select_display_clear_condition_lang-score_attack",
+        "data": {
+            "id": "la-cooking_puzzle-mode_select_display_clear_condition_lang-score_attack",
+            "text": "挑戰\\n最佳分數吧！"
+        }
+    }
+]

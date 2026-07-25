@@ -1,0 +1,4930 @@
+[
+    {
+        "id": "la-emblem-chr-best_score_rating_00001-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00001-1000",
+            "text": "時乃空 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00001-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00001-1500",
+            "text": "時乃空 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00001-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00001-500",
+            "text": "時乃空 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00002-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00002-1000",
+            "text": "蘿蔔子 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00002-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00002-1500",
+            "text": "蘿蔔子 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00002-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00002-500",
+            "text": "蘿蔔子 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00004-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00004-1000",
+            "text": "亞綺．羅森塔爾 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00004-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00004-1500",
+            "text": "亞綺．羅森塔爾 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00004-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00004-500",
+            "text": "亞綺．羅森塔爾 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00005-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00005-1000",
+            "text": "赤井心 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00005-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00005-1500",
+            "text": "赤井心 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00005-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00005-500",
+            "text": "赤井心 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00006-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00006-1000",
+            "text": "白上吹雪 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00006-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00006-1500",
+            "text": "白上吹雪 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00006-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00006-500",
+            "text": "白上吹雪 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00007-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00007-1000",
+            "text": "夏色祭 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00007-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00007-1500",
+            "text": "夏色祭 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00007-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00007-500",
+            "text": "夏色祭 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00010-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00010-1000",
+            "text": "百鬼綾目 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00010-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00010-1500",
+            "text": "百鬼綾目 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00010-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00010-500",
+            "text": "百鬼綾目 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00011-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00011-1000",
+            "text": "癒月巧可 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00011-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00011-1500",
+            "text": "癒月巧可 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00011-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00011-500",
+            "text": "癒月巧可 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00012-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00012-1000",
+            "text": "大空昴 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00012-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00012-1500",
+            "text": "大空昴 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00012-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00012-500",
+            "text": "大空昴 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00013-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00013-1000",
+            "text": "AZKi 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00013-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00013-1500",
+            "text": "AZKi 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00013-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00013-500",
+            "text": "AZKi 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00014-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00014-1000",
+            "text": "大神澪 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00014-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00014-1500",
+            "text": "大神澪 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00014-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00014-500",
+            "text": "大神澪 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00015-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00015-1000",
+            "text": "櫻巫女 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00015-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00015-1500",
+            "text": "櫻巫女 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00015-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00015-500",
+            "text": "櫻巫女 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00016-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00016-1000",
+            "text": "貓又小粥 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00016-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00016-1500",
+            "text": "貓又小粥 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00016-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00016-500",
+            "text": "貓又小粥 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00017-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00017-1000",
+            "text": "戌神沁音 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00017-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00017-1500",
+            "text": "戌神沁音 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00017-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00017-500",
+            "text": "戌神沁音 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00018-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00018-1000",
+            "text": "星街彗星 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00018-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00018-1500",
+            "text": "星街彗星 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00018-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00018-500",
+            "text": "星街彗星 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00019-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00019-1000",
+            "text": "兔田佩克拉 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00019-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00019-1500",
+            "text": "兔田佩克拉 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00019-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00019-500",
+            "text": "兔田佩克拉 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00021-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00021-1000",
+            "text": "不知火芙蕾雅 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00021-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00021-1500",
+            "text": "不知火芙蕾雅 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00021-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00021-500",
+            "text": "不知火芙蕾雅 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00022-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00022-1000",
+            "text": "白銀諾艾爾 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00022-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00022-1500",
+            "text": "白銀諾艾爾 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00022-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00022-500",
+            "text": "白銀諾艾爾 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00023-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00023-1000",
+            "text": "寶鐘瑪琳 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00023-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00023-1500",
+            "text": "寶鐘瑪琳 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00023-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00023-500",
+            "text": "寶鐘瑪琳 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00026-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00026-1000",
+            "text": "角卷綿芽 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00026-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00026-1500",
+            "text": "角卷綿芽 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00026-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00026-500",
+            "text": "角卷綿芽 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00027-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00027-1000",
+            "text": "常闇永遠 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00027-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00027-1500",
+            "text": "常闇永遠 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00027-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00027-500",
+            "text": "常闇永遠 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00028-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00028-1000",
+            "text": "姬森璐娜 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00028-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00028-1500",
+            "text": "姬森璐娜 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00028-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00028-500",
+            "text": "姬森璐娜 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00030-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00030-1000",
+            "text": "雪花菈米 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00030-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00030-1500",
+            "text": "雪花菈米 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00030-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00030-500",
+            "text": "雪花菈米 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00031-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00031-1000",
+            "text": "桃鈴音音 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00031-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00031-1500",
+            "text": "桃鈴音音 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00031-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00031-500",
+            "text": "桃鈴音音 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00032-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00032-1000",
+            "text": "獅白牡丹 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00032-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00032-1500",
+            "text": "獅白牡丹 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00032-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00032-500",
+            "text": "獅白牡丹 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00034-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00034-1000",
+            "text": "尾丸波爾卡 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00034-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00034-1500",
+            "text": "尾丸波爾卡 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00034-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00034-500",
+            "text": "尾丸波爾卡 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00035-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00035-1000",
+            "text": "拉普拉斯．暗黑 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00035-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00035-1500",
+            "text": "拉普拉斯．暗黑 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00035-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00035-500",
+            "text": "拉普拉斯．暗黑 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00036-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00036-1000",
+            "text": "鷹嶺琉依 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00036-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00036-1500",
+            "text": "鷹嶺琉依 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00036-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00036-500",
+            "text": "鷹嶺琉依 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00037-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00037-1000",
+            "text": "博衣小夜璃 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00037-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00037-1500",
+            "text": "博衣小夜璃 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00037-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00037-500",
+            "text": "博衣小夜璃 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00039-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00039-1000",
+            "text": "風真伊呂波 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00039-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00039-1500",
+            "text": "風真伊呂波 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_00039-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_00039-500",
+            "text": "風真伊呂波 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03001-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03001-1000",
+            "text": "Ayunda Risu 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03001-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03001-1500",
+            "text": "Ayunda Risu 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03001-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03001-500",
+            "text": "Ayunda Risu 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03002-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03002-1000",
+            "text": "Moona Hoshinova 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03002-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03002-1500",
+            "text": "Moona Hoshinova 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03002-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03002-500",
+            "text": "Moona Hoshinova 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03003-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03003-1000",
+            "text": "Airani Iofifteen 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03003-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03003-1500",
+            "text": "Airani Iofifteen 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03003-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03003-500",
+            "text": "Airani Iofifteen 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03004-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03004-1000",
+            "text": "Kureiji Ollie 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03004-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03004-1500",
+            "text": "Kureiji Ollie 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03004-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03004-500",
+            "text": "Kureiji Ollie 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03005-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03005-1000",
+            "text": "Anya Melfissa 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03005-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03005-1500",
+            "text": "Anya Melfissa 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03005-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03005-500",
+            "text": "Anya Melfissa 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03006-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03006-1000",
+            "text": "Pavolia Reine 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03006-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03006-1500",
+            "text": "Pavolia Reine 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03006-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03006-500",
+            "text": "Pavolia Reine 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03007-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03007-1000",
+            "text": "Vestia Zeta 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03007-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03007-1500",
+            "text": "Vestia Zeta 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03007-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03007-500",
+            "text": "Vestia Zeta 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03008-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03008-1000",
+            "text": "Kaela Kovalskia 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03008-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03008-1500",
+            "text": "Kaela Kovalskia 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03008-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03008-500",
+            "text": "Kaela Kovalskia 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03009-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03009-1000",
+            "text": "Kobo Kanaeru 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03009-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03009-1500",
+            "text": "Kobo Kanaeru 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_03009-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_03009-500",
+            "text": "Kobo Kanaeru 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04001-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04001-1000",
+            "text": "Mori Calliope 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04001-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04001-1500",
+            "text": "Mori Calliope 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04001-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04001-500",
+            "text": "Mori Calliope 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04002-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04002-1000",
+            "text": "Takanashi Kiara 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04002-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04002-1500",
+            "text": "Takanashi Kiara 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04002-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04002-500",
+            "text": "Takanashi Kiara 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04003-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04003-1000",
+            "text": "Ninomae Ina'nis 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04003-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04003-1500",
+            "text": "Ninomae Ina'nis 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04003-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04003-500",
+            "text": "Ninomae Ina'nis 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04007-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04007-1000",
+            "text": "IRyS 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04007-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04007-1500",
+            "text": "IRyS 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04007-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04007-500",
+            "text": "IRyS 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04010-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04010-1000",
+            "text": "Ouro Kronii 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04010-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04010-1500",
+            "text": "Ouro Kronii 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04010-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04010-500",
+            "text": "Ouro Kronii 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04012-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04012-1000",
+            "text": "Hakos Baelz 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04012-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04012-1500",
+            "text": "Hakos Baelz 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04012-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04012-500",
+            "text": "Hakos Baelz 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04013-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04013-1000",
+            "text": "Shiori Novella 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04013-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04013-1500",
+            "text": "Shiori Novella 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04013-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04013-500",
+            "text": "Shiori Novella 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04014-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04014-1000",
+            "text": "Koseki Bijou 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04014-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04014-1500",
+            "text": "Koseki Bijou 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04014-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04014-500",
+            "text": "Koseki Bijou 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04015-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04015-1000",
+            "text": "Nerissa Ravencroft 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04015-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04015-1500",
+            "text": "Nerissa Ravencroft 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04015-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04015-500",
+            "text": "Nerissa Ravencroft 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04016-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04016-1000",
+            "text": "Fuwawa Abyssgard 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04016-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04016-1500",
+            "text": "Fuwawa Abyssgard 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04016-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04016-500",
+            "text": "Fuwawa Abyssgard 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04017-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04017-1000",
+            "text": "Mococo Abyssgard 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04017-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04017-1500",
+            "text": "Mococo Abyssgard 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_04017-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_04017-500",
+            "text": "Mococo Abyssgard 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_06002-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_06002-1000",
+            "text": "音乃瀨奏 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_06002-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_06002-1500",
+            "text": "音乃瀨奏 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_06002-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_06002-500",
+            "text": "音乃瀨奏 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_06003-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_06003-1000",
+            "text": "一條莉莉華 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_06003-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_06003-1500",
+            "text": "一條莉莉華 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_06003-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_06003-500",
+            "text": "一條莉莉華 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_06004-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_06004-1000",
+            "text": "儒烏風亭螺鈿 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_06004-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_06004-1500",
+            "text": "儒烏風亭螺鈿 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_06004-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_06004-500",
+            "text": "儒烏風亭螺鈿 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_06005-1000",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_06005-1000",
+            "text": "轟一 最佳分數 1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_06005-1500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_06005-1500",
+            "text": "轟一 最佳分數 1500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-best_score_rating_06005-500",
+        "data": {
+            "id": "la-emblem-chr-best_score_rating_06005-500",
+            "text": "轟一 最佳分數 500"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00001",
+        "data": {
+            "id": "la-emblem-chr-character_get_00001",
+            "text": "解鎖holo成員 時乃空"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00002",
+        "data": {
+            "id": "la-emblem-chr-character_get_00002",
+            "text": "解鎖holo成員 蘿蔔子"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00004",
+        "data": {
+            "id": "la-emblem-chr-character_get_00004",
+            "text": "解鎖holo成員 亞綺．羅森塔爾"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00005",
+        "data": {
+            "id": "la-emblem-chr-character_get_00005",
+            "text": "解鎖holo成員 赤井心"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00006",
+        "data": {
+            "id": "la-emblem-chr-character_get_00006",
+            "text": "解鎖holo成員 白上吹雪"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00007",
+        "data": {
+            "id": "la-emblem-chr-character_get_00007",
+            "text": "解鎖holo成員 夏色祭"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00010",
+        "data": {
+            "id": "la-emblem-chr-character_get_00010",
+            "text": "解鎖holo成員 百鬼綾目"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00011",
+        "data": {
+            "id": "la-emblem-chr-character_get_00011",
+            "text": "解鎖holo成員 癒月巧可"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00012",
+        "data": {
+            "id": "la-emblem-chr-character_get_00012",
+            "text": "解鎖holo成員 大空昴"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00013",
+        "data": {
+            "id": "la-emblem-chr-character_get_00013",
+            "text": "解鎖holo成員 AZKi"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00014",
+        "data": {
+            "id": "la-emblem-chr-character_get_00014",
+            "text": "解鎖holo成員 大神澪"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00015",
+        "data": {
+            "id": "la-emblem-chr-character_get_00015",
+            "text": "解鎖holo成員 櫻巫女"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00016",
+        "data": {
+            "id": "la-emblem-chr-character_get_00016",
+            "text": "解鎖holo成員 貓又小粥"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00017",
+        "data": {
+            "id": "la-emblem-chr-character_get_00017",
+            "text": "解鎖holo成員 戌神沁音"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00018",
+        "data": {
+            "id": "la-emblem-chr-character_get_00018",
+            "text": "解鎖holo成員 星街彗星"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00019",
+        "data": {
+            "id": "la-emblem-chr-character_get_00019",
+            "text": "解鎖holo成員 兔田佩克拉"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00021",
+        "data": {
+            "id": "la-emblem-chr-character_get_00021",
+            "text": "解鎖holo成員 不知火芙蕾雅"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00022",
+        "data": {
+            "id": "la-emblem-chr-character_get_00022",
+            "text": "解鎖holo成員 白銀諾艾爾"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00023",
+        "data": {
+            "id": "la-emblem-chr-character_get_00023",
+            "text": "解鎖holo成員 寶鐘瑪琳"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00026",
+        "data": {
+            "id": "la-emblem-chr-character_get_00026",
+            "text": "解鎖holo成員 角卷綿芽"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00027",
+        "data": {
+            "id": "la-emblem-chr-character_get_00027",
+            "text": "解鎖holo成員 常闇永遠"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00028",
+        "data": {
+            "id": "la-emblem-chr-character_get_00028",
+            "text": "解鎖holo成員 姬森璐娜"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00030",
+        "data": {
+            "id": "la-emblem-chr-character_get_00030",
+            "text": "解鎖holo成員 雪花菈米"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00031",
+        "data": {
+            "id": "la-emblem-chr-character_get_00031",
+            "text": "解鎖holo成員 桃鈴音音"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00032",
+        "data": {
+            "id": "la-emblem-chr-character_get_00032",
+            "text": "解鎖holo成員 獅白牡丹"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00034",
+        "data": {
+            "id": "la-emblem-chr-character_get_00034",
+            "text": "解鎖holo成員 尾丸波爾卡"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00035",
+        "data": {
+            "id": "la-emblem-chr-character_get_00035",
+            "text": "解鎖holo成員 拉普拉斯．暗黑"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00036",
+        "data": {
+            "id": "la-emblem-chr-character_get_00036",
+            "text": "解鎖holo成員 鷹嶺琉依"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00037",
+        "data": {
+            "id": "la-emblem-chr-character_get_00037",
+            "text": "解鎖holo成員 博衣小夜璃"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_00039",
+        "data": {
+            "id": "la-emblem-chr-character_get_00039",
+            "text": "解鎖holo成員 風真伊呂波"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_03001",
+        "data": {
+            "id": "la-emblem-chr-character_get_03001",
+            "text": "解鎖holo成員 Ayunda Risu"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_03002",
+        "data": {
+            "id": "la-emblem-chr-character_get_03002",
+            "text": "解鎖holo成員 Moona Hoshinova"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_03003",
+        "data": {
+            "id": "la-emblem-chr-character_get_03003",
+            "text": "解鎖holo成員 Airani Iofifteen"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_03004",
+        "data": {
+            "id": "la-emblem-chr-character_get_03004",
+            "text": "解鎖holo成員 Kureiji Ollie"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_03005",
+        "data": {
+            "id": "la-emblem-chr-character_get_03005",
+            "text": "解鎖holo成員 Anya Melfissa"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_03006",
+        "data": {
+            "id": "la-emblem-chr-character_get_03006",
+            "text": "解鎖holo成員 Pavolia Reine"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_03007",
+        "data": {
+            "id": "la-emblem-chr-character_get_03007",
+            "text": "解鎖holo成員 Vestia Zeta"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_03008",
+        "data": {
+            "id": "la-emblem-chr-character_get_03008",
+            "text": "解鎖holo成員 Kaela Kovalskia"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_03009",
+        "data": {
+            "id": "la-emblem-chr-character_get_03009",
+            "text": "解鎖holo成員 Kobo Kanaeru"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_04001",
+        "data": {
+            "id": "la-emblem-chr-character_get_04001",
+            "text": "解鎖holo成員 Mori Calliope"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_04002",
+        "data": {
+            "id": "la-emblem-chr-character_get_04002",
+            "text": "解鎖holo成員 Takanashi Kiara"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_04003",
+        "data": {
+            "id": "la-emblem-chr-character_get_04003",
+            "text": "解鎖holo成員 Ninomae Ina'nis"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_04007",
+        "data": {
+            "id": "la-emblem-chr-character_get_04007",
+            "text": "解鎖holo成員 IRyS"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_04010",
+        "data": {
+            "id": "la-emblem-chr-character_get_04010",
+            "text": "解鎖holo成員 Ouro Kronii"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_04012",
+        "data": {
+            "id": "la-emblem-chr-character_get_04012",
+            "text": "解鎖holo成員 Hakos Baelz"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_04013",
+        "data": {
+            "id": "la-emblem-chr-character_get_04013",
+            "text": "解鎖holo成員 Shiori Novella"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_04014",
+        "data": {
+            "id": "la-emblem-chr-character_get_04014",
+            "text": "解鎖holo成員 Koseki Bijou"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_04015",
+        "data": {
+            "id": "la-emblem-chr-character_get_04015",
+            "text": "解鎖holo成員 Nerissa Ravencroft"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_04016",
+        "data": {
+            "id": "la-emblem-chr-character_get_04016",
+            "text": "解鎖holo成員 Fuwawa Abyssgard"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_04017",
+        "data": {
+            "id": "la-emblem-chr-character_get_04017",
+            "text": "解鎖holo成員 Mococo Abyssgard"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_06002",
+        "data": {
+            "id": "la-emblem-chr-character_get_06002",
+            "text": "解鎖holo成員 音乃瀨奏"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_06003",
+        "data": {
+            "id": "la-emblem-chr-character_get_06003",
+            "text": "解鎖holo成員 一條莉莉華"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_06004",
+        "data": {
+            "id": "la-emblem-chr-character_get_06004",
+            "text": "解鎖holo成員 儒烏風亭螺鈿"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_get_06005",
+        "data": {
+            "id": "la-emblem-chr-character_get_06005",
+            "text": "解鎖holo成員 轟一"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00001-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00001-01",
+            "text": "時乃空 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00001-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00001-02",
+            "text": "時乃空 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00002-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00002-01",
+            "text": "蘿蔔子 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00002-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00002-02",
+            "text": "蘿蔔子 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00004-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00004-01",
+            "text": "亞綺．羅森塔爾 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00004-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00004-02",
+            "text": "亞綺．羅森塔爾 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00005-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00005-01",
+            "text": "赤井心 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00005-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00005-02",
+            "text": "赤井心 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00006-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00006-01",
+            "text": "白上吹雪 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00006-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00006-02",
+            "text": "白上吹雪 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00007-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00007-01",
+            "text": "夏色祭 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00007-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00007-02",
+            "text": "夏色祭 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00010-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00010-01",
+            "text": "百鬼綾目 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00010-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00010-02",
+            "text": "百鬼綾目 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00011-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00011-01",
+            "text": "癒月巧可 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00011-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00011-02",
+            "text": "癒月巧可 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00012-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00012-01",
+            "text": "大空昴 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00012-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00012-02",
+            "text": "大空昴 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00013-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00013-01",
+            "text": "AZKi Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00013-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00013-02",
+            "text": "AZKi Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00014-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00014-01",
+            "text": "大神澪 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00014-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00014-02",
+            "text": "大神澪 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00015-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00015-01",
+            "text": "櫻巫女 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00015-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00015-02",
+            "text": "櫻巫女 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00016-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00016-01",
+            "text": "貓又小粥 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00016-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00016-02",
+            "text": "貓又小粥 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00017-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00017-01",
+            "text": "戌神沁音 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00017-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00017-02",
+            "text": "戌神沁音 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00018-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00018-01",
+            "text": "星街彗星 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00018-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00018-02",
+            "text": "星街彗星 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00019-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00019-01",
+            "text": "兔田佩克拉 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00019-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00019-02",
+            "text": "兔田佩克拉 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00021-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00021-01",
+            "text": "不知火芙蕾雅 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00021-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00021-02",
+            "text": "不知火芙蕾雅 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00022-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00022-01",
+            "text": "白銀諾艾爾 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00022-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00022-02",
+            "text": "白銀諾艾爾 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00023-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00023-01",
+            "text": "寶鐘瑪琳 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00023-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00023-02",
+            "text": "寶鐘瑪琳 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00026-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00026-01",
+            "text": "角卷綿芽 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00026-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00026-02",
+            "text": "角卷綿芽 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00027-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00027-01",
+            "text": "常闇永遠 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00027-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00027-02",
+            "text": "常闇永遠 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00028-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00028-01",
+            "text": "姬森璐娜 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00028-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00028-02",
+            "text": "姬森璐娜 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00030-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00030-01",
+            "text": "雪花菈米 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00030-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00030-02",
+            "text": "雪花菈米 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00031-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00031-01",
+            "text": "桃鈴音音 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00031-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00031-02",
+            "text": "桃鈴音音 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00032-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00032-01",
+            "text": "獅白牡丹 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00032-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00032-02",
+            "text": "獅白牡丹 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00034-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00034-01",
+            "text": "尾丸波爾卡 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00034-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00034-02",
+            "text": "尾丸波爾卡 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00035-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00035-01",
+            "text": "拉普拉斯．暗黑 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00035-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00035-02",
+            "text": "拉普拉斯．暗黑 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00036-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00036-01",
+            "text": "鷹嶺琉依 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00036-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00036-02",
+            "text": "鷹嶺琉依 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00037-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00037-01",
+            "text": "博衣小夜璃 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00037-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00037-02",
+            "text": "博衣小夜璃 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00039-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_00039-01",
+            "text": "風真伊呂波 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_00039-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_00039-02",
+            "text": "風真伊呂波 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03001-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_03001-01",
+            "text": "Ayunda Risu Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03001-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_03001-02",
+            "text": "Ayunda Risu Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03002-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_03002-01",
+            "text": "Moona Hoshinova Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03002-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_03002-02",
+            "text": "Moona Hoshinova Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03003-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_03003-01",
+            "text": "Airani Iofifteen Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03003-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_03003-02",
+            "text": "Airani Iofifteen Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03004-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_03004-01",
+            "text": "Kureiji Ollie Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03004-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_03004-02",
+            "text": "Kureiji Ollie Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03005-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_03005-01",
+            "text": "Anya Melfissa Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03005-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_03005-02",
+            "text": "Anya Melfissa Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03006-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_03006-01",
+            "text": "Pavolia Reine Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03006-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_03006-02",
+            "text": "Pavolia Reine Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03007-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_03007-01",
+            "text": "Vestia Zeta Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03007-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_03007-02",
+            "text": "Vestia Zeta Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03008-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_03008-01",
+            "text": "Kaela Kovalskia Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03008-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_03008-02",
+            "text": "Kaela Kovalskia Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03009-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_03009-01",
+            "text": "Kobo Kanaeru Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_03009-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_03009-02",
+            "text": "Kobo Kanaeru Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04001-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_04001-01",
+            "text": "Mori Calliope Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04001-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_04001-02",
+            "text": "Mori Calliope Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04002-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_04002-01",
+            "text": "Takanashi Kiara Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04002-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_04002-02",
+            "text": "Takanashi Kiara Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04003-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_04003-01",
+            "text": "Ninomae Ina'nis Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04003-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_04003-02",
+            "text": "Ninomae Ina'nis Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04007-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_04007-01",
+            "text": "IRyS Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04007-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_04007-02",
+            "text": "IRyS Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04010-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_04010-01",
+            "text": "Ouro Kronii Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04010-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_04010-02",
+            "text": "Ouro Kronii Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04012-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_04012-01",
+            "text": "Hakos Baelz Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04012-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_04012-02",
+            "text": "Hakos Baelz Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04013-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_04013-01",
+            "text": "Shiori Novella Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04013-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_04013-02",
+            "text": "Shiori Novella Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04014-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_04014-01",
+            "text": "Koseki Bijou Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04014-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_04014-02",
+            "text": "Koseki Bijou Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04015-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_04015-01",
+            "text": "Nerissa Ravencroft Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04015-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_04015-02",
+            "text": "Nerissa Ravencroft Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04016-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_04016-01",
+            "text": "Fuwawa Abyssgard Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04016-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_04016-02",
+            "text": "Fuwawa Abyssgard Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04017-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_04017-01",
+            "text": "Mococo Abyssgard Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_04017-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_04017-02",
+            "text": "Mococo Abyssgard Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_06002-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_06002-01",
+            "text": "音乃瀨奏 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_06002-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_06002-02",
+            "text": "音乃瀨奏 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_06003-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_06003-01",
+            "text": "一條莉莉華 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_06003-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_06003-02",
+            "text": "一條莉莉華 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_06004-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_06004-01",
+            "text": "儒烏風亭螺鈿 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_06004-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_06004-02",
+            "text": "儒烏風亭螺鈿 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_06005-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_06005-01",
+            "text": "轟一 Holo成員Rank No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_06005-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_06005-02",
+            "text": "轟一 Holo成員Rank No.2"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_sum-01",
+        "data": {
+            "id": "la-emblem-chr-character_level_sum-01",
+            "text": "興奮雀躍的相遇"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_sum-02",
+        "data": {
+            "id": "la-emblem-chr-character_level_sum-02",
+            "text": "全心投入每一天！"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_sum-03",
+        "data": {
+            "id": "la-emblem-chr-character_level_sum-03",
+            "text": "用笑容串聯彼此"
+        }
+    },
+    {
+        "id": "la-emblem-chr-character_level_sum-04",
+        "data": {
+            "id": "la-emblem-chr-character_level_sum-04",
+            "text": "Growin’ Dream"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00001-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00001-1",
+            "text": "時乃空 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00001-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00001-10",
+            "text": "時乃空 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00001-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00001-100",
+            "text": "時乃空 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00001-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00001-1000",
+            "text": "時乃空 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00002-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00002-1",
+            "text": "蘿蔔子 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00002-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00002-10",
+            "text": "蘿蔔子 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00002-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00002-100",
+            "text": "蘿蔔子 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00002-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00002-1000",
+            "text": "蘿蔔子 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00004-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00004-1",
+            "text": "亞綺．羅森塔爾 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00004-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00004-10",
+            "text": "亞綺．羅森塔爾 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00004-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00004-100",
+            "text": "亞綺．羅森塔爾 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00004-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00004-1000",
+            "text": "亞綺．羅森塔爾 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00005-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00005-1",
+            "text": "赤井心 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00005-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00005-10",
+            "text": "赤井心 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00005-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00005-100",
+            "text": "赤井心 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00005-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00005-1000",
+            "text": "赤井心 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00006-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00006-1",
+            "text": "白上吹雪 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00006-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00006-10",
+            "text": "白上吹雪 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00006-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00006-100",
+            "text": "白上吹雪 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00006-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00006-1000",
+            "text": "白上吹雪 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00007-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00007-1",
+            "text": "夏色祭 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00007-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00007-10",
+            "text": "夏色祭 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00007-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00007-100",
+            "text": "夏色祭 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00007-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00007-1000",
+            "text": "夏色祭 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00010-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00010-1",
+            "text": "百鬼綾目 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00010-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00010-10",
+            "text": "百鬼綾目 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00010-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00010-100",
+            "text": "百鬼綾目 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00010-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00010-1000",
+            "text": "百鬼綾目 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00011-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00011-1",
+            "text": "癒月巧可 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00011-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00011-10",
+            "text": "癒月巧可 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00011-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00011-100",
+            "text": "癒月巧可 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00011-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00011-1000",
+            "text": "癒月巧可 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00012-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00012-1",
+            "text": "大空昴 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00012-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00012-10",
+            "text": "大空昴 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00012-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00012-100",
+            "text": "大空昴 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00012-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00012-1000",
+            "text": "大空昴 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00013-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00013-1",
+            "text": "AZKi 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00013-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00013-10",
+            "text": "AZKi 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00013-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00013-100",
+            "text": "AZKi 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00013-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00013-1000",
+            "text": "AZKi 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00014-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00014-1",
+            "text": "大神澪 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00014-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00014-10",
+            "text": "大神澪 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00014-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00014-100",
+            "text": "大神澪 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00014-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00014-1000",
+            "text": "大神澪 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00015-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00015-1",
+            "text": "櫻巫女 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00015-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00015-10",
+            "text": "櫻巫女 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00015-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00015-100",
+            "text": "櫻巫女 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00015-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00015-1000",
+            "text": "櫻巫女 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00016-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00016-1",
+            "text": "貓又小粥 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00016-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00016-10",
+            "text": "貓又小粥 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00016-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00016-100",
+            "text": "貓又小粥 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00016-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00016-1000",
+            "text": "貓又小粥 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00017-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00017-1",
+            "text": "戌神沁音 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00017-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00017-10",
+            "text": "戌神沁音 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00017-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00017-100",
+            "text": "戌神沁音 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00017-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00017-1000",
+            "text": "戌神沁音 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00018-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00018-1",
+            "text": "星街彗星 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00018-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00018-10",
+            "text": "星街彗星 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00018-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00018-100",
+            "text": "星街彗星 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00018-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00018-1000",
+            "text": "星街彗星 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00019-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00019-1",
+            "text": "兔田佩克拉 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00019-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00019-10",
+            "text": "兔田佩克拉 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00019-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00019-100",
+            "text": "兔田佩克拉 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00019-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00019-1000",
+            "text": "兔田佩克拉 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00021-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00021-1",
+            "text": "不知火芙蕾雅 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00021-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00021-10",
+            "text": "不知火芙蕾雅 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00021-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00021-100",
+            "text": "不知火芙蕾雅 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00021-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00021-1000",
+            "text": "不知火芙蕾雅 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00022-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00022-1",
+            "text": "白銀諾艾爾 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00022-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00022-10",
+            "text": "白銀諾艾爾 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00022-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00022-100",
+            "text": "白銀諾艾爾 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00022-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00022-1000",
+            "text": "白銀諾艾爾 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00023-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00023-1",
+            "text": "寶鐘瑪琳 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00023-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00023-10",
+            "text": "寶鐘瑪琳 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00023-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00023-100",
+            "text": "寶鐘瑪琳 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00023-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00023-1000",
+            "text": "寶鐘瑪琳 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00026-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00026-1",
+            "text": "角卷綿芽 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00026-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00026-10",
+            "text": "角卷綿芽 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00026-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00026-100",
+            "text": "角卷綿芽 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00026-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00026-1000",
+            "text": "角卷綿芽 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00027-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00027-1",
+            "text": "常闇永遠 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00027-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00027-10",
+            "text": "常闇永遠 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00027-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00027-100",
+            "text": "常闇永遠 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00027-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00027-1000",
+            "text": "常闇永遠 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00028-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00028-1",
+            "text": "姬森璐娜 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00028-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00028-10",
+            "text": "姬森璐娜 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00028-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00028-100",
+            "text": "姬森璐娜 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00028-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00028-1000",
+            "text": "姬森璐娜 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00030-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00030-1",
+            "text": "雪花菈米 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00030-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00030-10",
+            "text": "雪花菈米 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00030-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00030-100",
+            "text": "雪花菈米 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00030-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00030-1000",
+            "text": "雪花菈米 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00031-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00031-1",
+            "text": "桃鈴音音 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00031-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00031-10",
+            "text": "桃鈴音音 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00031-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00031-100",
+            "text": "桃鈴音音 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00031-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00031-1000",
+            "text": "桃鈴音音 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00032-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00032-1",
+            "text": "獅白牡丹 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00032-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00032-10",
+            "text": "獅白牡丹 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00032-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00032-100",
+            "text": "獅白牡丹 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00032-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00032-1000",
+            "text": "獅白牡丹 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00034-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00034-1",
+            "text": "尾丸波爾卡 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00034-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00034-10",
+            "text": "尾丸波爾卡 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00034-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00034-100",
+            "text": "尾丸波爾卡 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00034-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00034-1000",
+            "text": "尾丸波爾卡 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00035-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00035-1",
+            "text": "拉普拉斯．暗黑 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00035-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00035-10",
+            "text": "拉普拉斯．暗黑 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00035-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00035-100",
+            "text": "拉普拉斯．暗黑 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00035-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00035-1000",
+            "text": "拉普拉斯．暗黑 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00036-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00036-1",
+            "text": "鷹嶺琉依 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00036-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00036-10",
+            "text": "鷹嶺琉依 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00036-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00036-100",
+            "text": "鷹嶺琉依 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00036-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00036-1000",
+            "text": "鷹嶺琉依 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00037-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00037-1",
+            "text": "博衣小夜璃 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00037-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00037-10",
+            "text": "博衣小夜璃 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00037-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00037-100",
+            "text": "博衣小夜璃 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00037-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00037-1000",
+            "text": "博衣小夜璃 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00039-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00039-1",
+            "text": "風真伊呂波 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00039-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00039-10",
+            "text": "風真伊呂波 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00039-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00039-100",
+            "text": "風真伊呂波 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_00039-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_00039-1000",
+            "text": "風真伊呂波 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03001-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03001-1",
+            "text": "Ayunda Risu 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03001-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03001-10",
+            "text": "Ayunda Risu 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03001-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03001-100",
+            "text": "Ayunda Risu 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03001-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03001-1000",
+            "text": "Ayunda Risu 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03002-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03002-1",
+            "text": "Moona Hoshinova 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03002-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03002-10",
+            "text": "Moona Hoshinova 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03002-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03002-100",
+            "text": "Moona Hoshinova 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03002-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03002-1000",
+            "text": "Moona Hoshinova 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03003-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03003-1",
+            "text": "Airani Iofifteen 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03003-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03003-10",
+            "text": "Airani Iofifteen 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03003-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03003-100",
+            "text": "Airani Iofifteen 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03003-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03003-1000",
+            "text": "Airani Iofifteen 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03004-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03004-1",
+            "text": "Kureiji Ollie 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03004-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03004-10",
+            "text": "Kureiji Ollie 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03004-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03004-100",
+            "text": "Kureiji Ollie 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03004-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03004-1000",
+            "text": "Kureiji Ollie 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03005-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03005-1",
+            "text": "Anya Melfissa 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03005-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03005-10",
+            "text": "Anya Melfissa 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03005-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03005-100",
+            "text": "Anya Melfissa 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03005-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03005-1000",
+            "text": "Anya Melfissa 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03006-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03006-1",
+            "text": "Pavolia Reine 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03006-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03006-10",
+            "text": "Pavolia Reine 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03006-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03006-100",
+            "text": "Pavolia Reine 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03006-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03006-1000",
+            "text": "Pavolia Reine 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03007-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03007-1",
+            "text": "Vestia Zeta 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03007-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03007-10",
+            "text": "Vestia Zeta 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03007-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03007-100",
+            "text": "Vestia Zeta 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03007-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03007-1000",
+            "text": "Vestia Zeta 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03008-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03008-1",
+            "text": "Kaela Kovalskia 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03008-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03008-10",
+            "text": "Kaela Kovalskia 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03008-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03008-100",
+            "text": "Kaela Kovalskia 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03008-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03008-1000",
+            "text": "Kaela Kovalskia 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03009-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03009-1",
+            "text": "Kobo Kanaeru 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03009-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03009-10",
+            "text": "Kobo Kanaeru 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03009-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03009-100",
+            "text": "Kobo Kanaeru 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_03009-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_03009-1000",
+            "text": "Kobo Kanaeru 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04001-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04001-1",
+            "text": "Mori Calliope 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04001-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04001-10",
+            "text": "Mori Calliope 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04001-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04001-100",
+            "text": "Mori Calliope 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04001-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04001-1000",
+            "text": "Mori Calliope 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04002-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04002-1",
+            "text": "Takanashi Kiara 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04002-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04002-10",
+            "text": "Takanashi Kiara 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04002-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04002-100",
+            "text": "Takanashi Kiara 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04002-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04002-1000",
+            "text": "Takanashi Kiara 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04003-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04003-1",
+            "text": "Ninomae Ina'nis 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04003-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04003-10",
+            "text": "Ninomae Ina'nis 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04003-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04003-100",
+            "text": "Ninomae Ina'nis 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04003-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04003-1000",
+            "text": "Ninomae Ina'nis 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04007-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04007-1",
+            "text": "IRyS 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04007-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04007-10",
+            "text": "IRyS 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04007-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04007-100",
+            "text": "IRyS 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04007-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04007-1000",
+            "text": "IRyS 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04010-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04010-1",
+            "text": "Ouro Kronii 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04010-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04010-10",
+            "text": "Ouro Kronii 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04010-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04010-100",
+            "text": "Ouro Kronii 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04010-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04010-1000",
+            "text": "Ouro Kronii 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04012-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04012-1",
+            "text": "Hakos Baelz 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04012-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04012-10",
+            "text": "Hakos Baelz 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04012-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04012-100",
+            "text": "Hakos Baelz 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04012-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04012-1000",
+            "text": "Hakos Baelz 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04013-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04013-1",
+            "text": "Shiori Novella 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04013-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04013-10",
+            "text": "Shiori Novella 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04013-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04013-100",
+            "text": "Shiori Novella 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04013-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04013-1000",
+            "text": "Shiori Novella 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04014-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04014-1",
+            "text": "Koseki Bijou 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04014-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04014-10",
+            "text": "Koseki Bijou 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04014-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04014-100",
+            "text": "Koseki Bijou 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04014-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04014-1000",
+            "text": "Koseki Bijou 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04015-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04015-1",
+            "text": "Nerissa Ravencroft 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04015-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04015-10",
+            "text": "Nerissa Ravencroft 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04015-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04015-100",
+            "text": "Nerissa Ravencroft 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04015-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04015-1000",
+            "text": "Nerissa Ravencroft 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04016-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04016-1",
+            "text": "Fuwawa Abyssgard 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04016-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04016-10",
+            "text": "Fuwawa Abyssgard 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04016-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04016-100",
+            "text": "Fuwawa Abyssgard 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04016-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04016-1000",
+            "text": "Fuwawa Abyssgard 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04017-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04017-1",
+            "text": "Mococo Abyssgard 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04017-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04017-10",
+            "text": "Mococo Abyssgard 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04017-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04017-100",
+            "text": "Mococo Abyssgard 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_04017-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_04017-1000",
+            "text": "Mococo Abyssgard 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06002-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06002-1",
+            "text": "音乃瀨奏 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06002-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06002-10",
+            "text": "音乃瀨奏 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06002-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06002-100",
+            "text": "音乃瀨奏 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06002-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06002-1000",
+            "text": "音乃瀨奏 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06003-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06003-1",
+            "text": "一條莉莉華 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06003-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06003-10",
+            "text": "一條莉莉華 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06003-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06003-100",
+            "text": "一條莉莉華 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06003-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06003-1000",
+            "text": "一條莉莉華 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06004-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06004-1",
+            "text": "儒烏風亭螺鈿 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06004-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06004-10",
+            "text": "儒烏風亭螺鈿 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06004-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06004-100",
+            "text": "儒烏風亭螺鈿 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06004-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06004-1000",
+            "text": "儒烏風亭螺鈿 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06005-1",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06005-1",
+            "text": "轟一 高評級 TOP1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06005-10",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06005-10",
+            "text": "轟一 高評級 TOP10"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06005-100",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06005-100",
+            "text": "轟一 高評級 TOP100"
+        }
+    },
+    {
+        "id": "la-emblem-chr-highest_score_rating_06005-1000",
+        "data": {
+            "id": "la-emblem-chr-highest_score_rating_06005-1000",
+            "text": "轟一 高評級 TOP1000"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00001-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00001-01",
+            "text": "時乃空 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00002-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00002-01",
+            "text": "蘿蔔子 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00004-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00004-01",
+            "text": "亞綺．羅森塔爾 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00005-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00005-01",
+            "text": "赤井心 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00006-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00006-01",
+            "text": "白上吹雪 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00007-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00007-01",
+            "text": "夏色祭 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00010-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00010-01",
+            "text": "百鬼綾目 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00011-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00011-01",
+            "text": "癒月巧可 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00012-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00012-01",
+            "text": "大空昴 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00013-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00013-01",
+            "text": "AZKi 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00014-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00014-01",
+            "text": "大神澪 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00015-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00015-01",
+            "text": "櫻巫女 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00016-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00016-01",
+            "text": "貓又小粥 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00017-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00017-01",
+            "text": "戌神沁音 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00018-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00018-01",
+            "text": "星街彗星 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00019-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00019-01",
+            "text": "兔田佩克拉 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00021-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00021-01",
+            "text": "不知火芙蕾雅 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00022-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00022-01",
+            "text": "白銀諾艾爾 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00023-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00023-01",
+            "text": "寶鐘瑪琳 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00026-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00026-01",
+            "text": "角卷綿芽 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00027-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00027-01",
+            "text": "常闇永遠 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00028-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00028-01",
+            "text": "姬森璐娜 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00030-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00030-01",
+            "text": "雪花菈米 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00031-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00031-01",
+            "text": "桃鈴音音 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00032-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00032-01",
+            "text": "獅白牡丹 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00034-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00034-01",
+            "text": "尾丸波爾卡 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00035-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00035-01",
+            "text": "拉普拉斯．暗黑 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00036-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00036-01",
+            "text": "鷹嶺琉依 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00037-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00037-01",
+            "text": "博衣小夜璃 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_00039-01",
+        "data": {
+            "id": "la-emblem-chr-membership_00039-01",
+            "text": "風真伊呂波 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_03001-01",
+        "data": {
+            "id": "la-emblem-chr-membership_03001-01",
+            "text": "Ayunda Risu 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_03002-01",
+        "data": {
+            "id": "la-emblem-chr-membership_03002-01",
+            "text": "Moona Hoshinova 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_03003-01",
+        "data": {
+            "id": "la-emblem-chr-membership_03003-01",
+            "text": "Airani Iofifteen 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_03004-01",
+        "data": {
+            "id": "la-emblem-chr-membership_03004-01",
+            "text": "Kureiji Ollie 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_03005-01",
+        "data": {
+            "id": "la-emblem-chr-membership_03005-01",
+            "text": "Anya Melfissa 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_03006-01",
+        "data": {
+            "id": "la-emblem-chr-membership_03006-01",
+            "text": "Pavolia Reine 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_03007-01",
+        "data": {
+            "id": "la-emblem-chr-membership_03007-01",
+            "text": "Vestia Zeta 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_03008-01",
+        "data": {
+            "id": "la-emblem-chr-membership_03008-01",
+            "text": "Kaela Kovalskia 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_03009-01",
+        "data": {
+            "id": "la-emblem-chr-membership_03009-01",
+            "text": "Kobo Kanaeru 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_04001-01",
+        "data": {
+            "id": "la-emblem-chr-membership_04001-01",
+            "text": "Mori Calliope 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_04002-01",
+        "data": {
+            "id": "la-emblem-chr-membership_04002-01",
+            "text": "Takanashi Kiara 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_04003-01",
+        "data": {
+            "id": "la-emblem-chr-membership_04003-01",
+            "text": "Ninomae Ina'nis 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_04007-01",
+        "data": {
+            "id": "la-emblem-chr-membership_04007-01",
+            "text": "IRyS 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_04010-01",
+        "data": {
+            "id": "la-emblem-chr-membership_04010-01",
+            "text": "Ouro Kronii 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_04012-01",
+        "data": {
+            "id": "la-emblem-chr-membership_04012-01",
+            "text": "Hakos Baelz 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_04013-01",
+        "data": {
+            "id": "la-emblem-chr-membership_04013-01",
+            "text": "Shiori Novella 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_04014-01",
+        "data": {
+            "id": "la-emblem-chr-membership_04014-01",
+            "text": "Koseki Bijou 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_04015-01",
+        "data": {
+            "id": "la-emblem-chr-membership_04015-01",
+            "text": "Nerissa Ravencroft 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_06002-01",
+        "data": {
+            "id": "la-emblem-chr-membership_06002-01",
+            "text": "音乃瀨奏 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_06003-01",
+        "data": {
+            "id": "la-emblem-chr-membership_06003-01",
+            "text": "一條莉莉華 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_06004-01",
+        "data": {
+            "id": "la-emblem-chr-membership_06004-01",
+            "text": "儒烏風亭螺鈿 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_06005-01",
+        "data": {
+            "id": "la-emblem-chr-membership_06005-01",
+            "text": "轟一 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_80001-01",
+        "data": {
+            "id": "la-emblem-chr-membership_80001-01",
+            "text": "FUWAMOCO 會員資格稱號 No.1"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00001-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00001-01",
+            "text": "時乃空 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00002-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00002-01",
+            "text": "蘿蔔子 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00004-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00004-01",
+            "text": "亞綺．羅森塔爾 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00005-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00005-01",
+            "text": "赤井心 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00006-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00006-01",
+            "text": "白上吹雪 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00007-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00007-01",
+            "text": "夏色祭 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00010-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00010-01",
+            "text": "百鬼綾目 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00011-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00011-01",
+            "text": "癒月巧可 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00012-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00012-01",
+            "text": "大空昴 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00013-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00013-01",
+            "text": "AZKi 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00014-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00014-01",
+            "text": "大神澪 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00015-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00015-01",
+            "text": "櫻巫女 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00016-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00016-01",
+            "text": "貓又小粥 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00017-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00017-01",
+            "text": "戌神沁音 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00018-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00018-01",
+            "text": "星街彗星 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00019-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00019-01",
+            "text": "兔田佩克拉 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00021-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00021-01",
+            "text": "不知火芙蕾雅 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00022-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00022-01",
+            "text": "白銀諾艾爾 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00023-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00023-01",
+            "text": "寶鐘瑪琳 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00026-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00026-01",
+            "text": "角卷綿芽 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00027-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00027-01",
+            "text": "常闇永遠 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00028-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00028-01",
+            "text": "姬森璐娜 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00030-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00030-01",
+            "text": "雪花菈米 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00031-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00031-01",
+            "text": "桃鈴音音 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00032-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00032-01",
+            "text": "獅白牡丹 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00034-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00034-01",
+            "text": "尾丸波爾卡 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00035-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00035-01",
+            "text": "拉普拉斯．暗黑 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00036-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00036-01",
+            "text": "鷹嶺琉依 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00037-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00037-01",
+            "text": "博衣小夜璃 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_00039-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_00039-01",
+            "text": "風真伊呂波 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_03001-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_03001-01",
+            "text": "Ayunda Risu 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_03002-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_03002-01",
+            "text": "Moona Hoshinova 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_03003-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_03003-01",
+            "text": "Airani Iofifteen 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_03004-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_03004-01",
+            "text": "Kureiji Ollie 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_03005-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_03005-01",
+            "text": "Anya Melfissa 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_03006-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_03006-01",
+            "text": "Pavolia Reine 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_03007-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_03007-01",
+            "text": "Vestia Zeta 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_03008-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_03008-01",
+            "text": "Kaela Kovalskia 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_03009-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_03009-01",
+            "text": "Kobo Kanaeru 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_04001-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_04001-01",
+            "text": "Mori Calliope 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_04002-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_04002-01",
+            "text": "Takanashi Kiara 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_04003-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_04003-01",
+            "text": "Ninomae Ina'nis 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_04007-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_04007-01",
+            "text": "IRyS 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_04010-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_04010-01",
+            "text": "Ouro Kronii 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_04012-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_04012-01",
+            "text": "Hakos Baelz 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_04013-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_04013-01",
+            "text": "Shiori Novella 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_04014-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_04014-01",
+            "text": "Koseki Bijou 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_04015-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_04015-01",
+            "text": "Nerissa Ravencroft 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_06002-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_06002-01",
+            "text": "音乃瀨奏 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_06003-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_06003-01",
+            "text": "一條莉莉華 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_06004-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_06004-01",
+            "text": "儒烏風亭螺鈿 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_06005-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_06005-01",
+            "text": "轟一 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-chr-membership_join_80001-01",
+        "data": {
+            "id": "la-emblem-chr-membership_join_80001-01",
+            "text": "FUWAMOCO 會員資格加入特典稱號"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-best",
+        "data": {
+            "id": "la-emblem-cmn-best",
+            "text": "超棒"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-coin_get-01",
+        "data": {
+            "id": "la-emblem-cmn-coin_get-01",
+            "text": "大富豪"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-favorite",
+        "data": {
+            "id": "la-emblem-cmn-favorite",
+            "text": "推"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-genius",
+        "data": {
+            "id": "la-emblem-cmn-genius",
+            "text": "天才"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-god",
+        "data": {
+            "id": "la-emblem-cmn-god",
+            "text": "神"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-good",
+        "data": {
+            "id": "la-emblem-cmn-good",
+            "text": "讚"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-goodjob",
+        "data": {
+            "id": "la-emblem-cmn-goodjob",
+            "text": "辛苦了"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-heart-blue",
+        "data": {
+            "id": "la-emblem-cmn-heart-blue",
+            "text": "藍色愛心"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-heart-green",
+        "data": {
+            "id": "la-emblem-cmn-heart-green",
+            "text": "綠色愛心"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-heart-pink",
+        "data": {
+            "id": "la-emblem-cmn-heart-pink",
+            "text": "粉紅色愛心"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-heart-purple",
+        "data": {
+            "id": "la-emblem-cmn-heart-purple",
+            "text": "紫色愛心"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-heart-yellow",
+        "data": {
+            "id": "la-emblem-cmn-heart-yellow",
+            "text": "黃色愛心"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-helpful",
+        "data": {
+            "id": "la-emblem-cmn-helpful",
+            "text": "有你真好"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-lol",
+        "data": {
+            "id": "la-emblem-cmn-lol",
+            "text": "笑"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-player_level-01",
+        "data": {
+            "id": "la-emblem-cmn-player_level-01",
+            "text": "獨當一面"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-player_level-02",
+        "data": {
+            "id": "la-emblem-cmn-player_level-02",
+            "text": "佼佼者"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-pon",
+        "data": {
+            "id": "la-emblem-cmn-pon",
+            "text": "PON"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-precious",
+        "data": {
+            "id": "la-emblem-cmn-precious",
+            "text": "貼貼"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-star-blue",
+        "data": {
+            "id": "la-emblem-cmn-star-blue",
+            "text": "藍色星星"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-star-green",
+        "data": {
+            "id": "la-emblem-cmn-star-green",
+            "text": "綠色星星"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-star-pink",
+        "data": {
+            "id": "la-emblem-cmn-star-pink",
+            "text": "粉紅色星星"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-star-purple",
+        "data": {
+            "id": "la-emblem-cmn-star-purple",
+            "text": "紫色星星"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-star-yellow",
+        "data": {
+            "id": "la-emblem-cmn-star-yellow",
+            "text": "黃色星星"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-swamp",
+        "data": {
+            "id": "la-emblem-cmn-swamp",
+            "text": "沼"
+        }
+    },
+    {
+        "id": "la-emblem-cmn-victory",
+        "data": {
+            "id": "la-emblem-cmn-victory",
+            "text": "冠軍"
+        }
+    },
+    {
+        "id": "la-emblem-live-clear_count-01",
+        "data": {
+            "id": "la-emblem-live-clear_count-01",
+            "text": "明日之星"
+        }
+    },
+    {
+        "id": "la-emblem-live-clear_count-02",
+        "data": {
+            "id": "la-emblem-live-clear_count-02",
+            "text": "酷勁玩家"
+        }
+    },
+    {
+        "id": "la-emblem-live-clear_count-03",
+        "data": {
+            "id": "la-emblem-live-clear_count-03",
+            "text": "星光玩家"
+        }
+    },
+    {
+        "id": "la-emblem-live-deck_score-01",
+        "data": {
+            "id": "la-emblem-live-deck_score-01",
+            "text": "Session Start！"
+        }
+    },
+    {
+        "id": "la-emblem-live-deck_score-02",
+        "data": {
+            "id": "la-emblem-live-deck_score-02",
+            "text": "NOW ON LIVE!!"
+        }
+    },
+    {
+        "id": "la-emblem-live-highest_score_rating_sum-01",
+        "data": {
+            "id": "la-emblem-live-highest_score_rating_sum-01",
+            "text": "Holo成員評級 10000"
+        }
+    },
+    {
+        "id": "la-emblem-live-highest_score_rating_sum-02",
+        "data": {
+            "id": "la-emblem-live-highest_score_rating_sum-02",
+            "text": "Holo成員評級 20000"
+        }
+    },
+    {
+        "id": "la-emblem-live-highest_score_rating_sum-03",
+        "data": {
+            "id": "la-emblem-live-highest_score_rating_sum-03",
+            "text": "Holo成員評級 30000"
+        }
+    },
+    {
+        "id": "la-emblem-live-music_all_perfect_count-01",
+        "data": {
+            "id": "la-emblem-live-music_all_perfect_count-01",
+            "text": "ALL Perfect 100"
+        }
+    },
+    {
+        "id": "la-emblem-live-music_clear_count-01",
+        "data": {
+            "id": "la-emblem-live-music_clear_count-01",
+            "text": "CLEAR 100"
+        }
+    },
+    {
+        "id": "la-emblem-live-music_ex_all-perfect-count-01",
+        "data": {
+            "id": "la-emblem-live-music_ex_all-perfect-count-01",
+            "text": "ALL Perfect EXPERT 100"
+        }
+    },
+    {
+        "id": "la-emblem-live-music_ex_clear-count-01",
+        "data": {
+            "id": "la-emblem-live-music_ex_clear-count-01",
+            "text": "CLEAR EXPERT 100"
+        }
+    },
+    {
+        "id": "la-emblem-live-music_ex_full-combo-count-01",
+        "data": {
+            "id": "la-emblem-live-music_ex_full-combo-count-01",
+            "text": "Full Combo EXPERT 100"
+        }
+    },
+    {
+        "id": "la-emblem-live-music_full_combo_count-01",
+        "data": {
+            "id": "la-emblem-live-music_full_combo_count-01",
+            "text": "Full Combo 100"
+        }
+    },
+    {
+        "id": "la-emblem-live-mvp_count-01",
+        "data": {
+            "id": "la-emblem-live-mvp_count-01",
+            "text": "MVP"
+        }
+    },
+    {
+        "id": "la-emblem-mini_game-circuit-01",
+        "data": {
+            "id": "la-emblem-mini_game-circuit-01",
+            "text": "極限跑道"
+        }
+    },
+    {
+        "id": "la-emblem-mini_game-circuit-02",
+        "data": {
+            "id": "la-emblem-mini_game-circuit-02",
+            "text": "飆速高手"
+        }
+    },
+    {
+        "id": "la-emblem-mini_game-circuit-03",
+        "data": {
+            "id": "la-emblem-mini_game-circuit-03",
+            "text": "極限跑道之王"
+        }
+    },
+    {
+        "id": "la-emblem-mini_game-combo_card_game-01",
+        "data": {
+            "id": "la-emblem-mini_game-combo_card_game-01",
+            "text": "撲克屋！"
+        }
+    },
+    {
+        "id": "la-emblem-mini_game-combo_card_game-02",
+        "data": {
+            "id": "la-emblem-mini_game-combo_card_game-02",
+            "text": "策略高手"
+        }
+    },
+    {
+        "id": "la-emblem-mini_game-combo_card_game-03",
+        "data": {
+            "id": "la-emblem-mini_game-combo_card_game-03",
+            "text": "撲克屋之王！"
+        }
+    },
+    {
+        "id": "la-emblem-mini_game-cooking_puzzle-01",
+        "data": {
+            "id": "la-emblem-mini_game-cooking_puzzle-01",
+            "text": "食材妙廚房"
+        }
+    },
+    {
+        "id": "la-emblem-mini_game-cooking_puzzle-02",
+        "data": {
+            "id": "la-emblem-mini_game-cooking_puzzle-02",
+            "text": "廚藝高手"
+        }
+    },
+    {
+        "id": "la-emblem-mini_game-cooking_puzzle-03",
+        "data": {
+            "id": "la-emblem-mini_game-cooking_puzzle-03",
+            "text": "妙廚之王"
+        }
+    },
+    {
+        "id": "la-emblem-mini_game-jump_rope-01",
+        "data": {
+            "id": "la-emblem-mini_game-jump_rope-01",
+            "text": "蹦蹦大跳繩"
+        }
+    },
+    {
+        "id": "la-emblem-mini_game-jump_rope-02",
+        "data": {
+            "id": "la-emblem-mini_game-jump_rope-02",
+            "text": "跳繩高手"
+        }
+    },
+    {
+        "id": "la-emblem-mini_game-jump_rope-03",
+        "data": {
+            "id": "la-emblem-mini_game-jump_rope-03",
+            "text": "跳繩之王"
+        }
+    },
+    {
+        "id": "la-emblem-park-area_a01-01",
+        "data": {
+            "id": "la-emblem-park-area_a01-01",
+            "text": "協奏花園"
+        }
+    },
+    {
+        "id": "la-emblem-park-area_a02-01",
+        "data": {
+            "id": "la-emblem-park-area_a02-01",
+            "text": "電玩巨蛋城"
+        }
+    }
+]

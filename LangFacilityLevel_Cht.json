@@ -1,0 +1,149 @@
+[
+    {
+        "id": "la-facility-a01-athletic-description",
+        "data": {
+            "id": "la-facility-a01-athletic-description",
+            "text": "3期生建造的運動設施\n可愉快地活動遊玩"
+        }
+    },
+    {
+        "id": "la-facility-a01-candystore-description",
+        "data": {
+            "id": "la-facility-a01-candystore-description",
+            "text": "ID第三期生的行動販賣車\n可買到美味的糖果"
+        }
+    },
+    {
+        "id": "la-facility-a01-clocktower-description",
+        "data": {
+            "id": "la-facility-a01-clocktower-description",
+            "text": "Promise建造的鐘樓\n常被當作會面地點"
+        }
+    },
+    {
+        "id": "la-facility-a01-exchangebooth-description",
+        "data": {
+            "id": "la-facility-a01-exchangebooth-description",
+            "text": "5期生的周邊商店\n販賣各式各樣的商品"
+        }
+    },
+    {
+        "id": "la-facility-a01-exchangebooth-lvup",
+        "data": {
+            "id": "la-facility-a01-exchangebooth-lvup",
+            "text": "更新商品內容"
+        }
+    },
+    {
+        "id": "la-facility-a01-facerock-description",
+        "data": {
+            "id": "la-facility-a01-facerock-description",
+            "text": "刻有0期生容貌的岩山\n守護著樂園"
+        }
+    },
+    {
+        "id": "la-facility-a01-ferriswheel-description",
+        "data": {
+            "id": "la-facility-a01-ferriswheel-description",
+            "text": "4期生建造的摩天輪\n可搭乘纜車欣賞美景"
+        }
+    },
+    {
+        "id": "la-facility-a01-house-description",
+        "data": {
+            "id": "la-facility-a01-house-description",
+            "text": "holo成員們住宿的家\n大家自由自在地在這裡生活"
+        }
+    },
+    {
+        "id": "la-facility-a01-memoryboard-description",
+        "data": {
+            "id": "la-facility-a01-memoryboard-description",
+            "text": "大家可自由使用的留言板\n可裝飾插圖"
+        }
+    },
+    {
+        "id": "la-facility-a01-multiplay-description",
+        "data": {
+            "id": "la-facility-a01-multiplay-description",
+            "text": "Myth的虛擬設施\n可與全世界的玩家一起遊玩"
+        }
+    },
+    {
+        "id": "la-facility-a01-station-description",
+        "data": {
+            "id": "la-facility-a01-station-description",
+            "text": "GAMERS建造的holo成員專用港口\n可用於前往島外"
+        }
+    },
+    {
+        "id": "la-facility-a01-station-lvup",
+        "data": {
+            "id": "la-facility-a01-station-lvup",
+            "text": "高Rank的Holowork出現率提升"
+        }
+    },
+    {
+        "id": "la-facility-a01-theater-description",
+        "data": {
+            "id": "la-facility-a01-theater-description",
+            "text": "2期生經營的電影院\n播放holo成員們的回憶"
+        }
+    },
+    {
+        "id": "la-facility-a02-cranegame-description",
+        "data": {
+            "id": "la-facility-a02-cranegame-description",
+            "text": "蘿蔔子的夾娃娃機\n總是塞滿大量的獎品"
+        }
+    },
+    {
+        "id": "la-facility-a02-dancegame-description",
+        "data": {
+            "id": "la-facility-a02-dancegame-description",
+            "text": "Kiara的舞蹈遊戲\n與漢堡相伴舞動到天亮吧"
+        }
+    },
+    {
+        "id": "la-facility-a02-fightinggame-description",
+        "data": {
+            "id": "la-facility-a02-fightinggame-description",
+            "text": "沁音的格鬥對戰遊戲機台\n戰鬥的沁音粉非常吸引目光"
+        }
+    },
+    {
+        "id": "la-facility-a02-itemgacha-description",
+        "data": {
+            "id": "la-facility-a02-itemgacha-description",
+            "text": "Kaela的轉蛋機\n可隨機獲得道具"
+        }
+    },
+    {
+        "id": "la-facility-a02-photobooth-description",
+        "data": {
+            "id": "la-facility-a02-photobooth-description",
+            "text": "遊戲區域的拍貼機\n多拍幾張可愛的照片吧"
+        }
+    },
+    {
+        "id": "la-facility-a02-shootinggame-description",
+        "data": {
+            "id": "la-facility-a02-shootinggame-description",
+            "text": "小粥的射擊遊戲\n阻止貓星人侵略守護地球吧"
+        }
+    },
+    {
+        "id": "la-facility-a02-station-description",
+        "data": {
+            "id": "la-facility-a02-station-description",
+            "text": "大家建造的雲霄飛車\n可用於前往島外"
+        }
+    },
+    {
+        "id": "la-facility-a02-station-lvup",
+        "data": {
+            "id": "la-facility-a02-station-lvup",
+            "text": "高Rank的Holowork出現率提升"
+        }
+    }
+]

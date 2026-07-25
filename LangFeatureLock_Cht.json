@@ -1,0 +1,373 @@
+[
+    {
+        "id": "la-feature_lock-achievement-description",
+        "data": {
+            "id": "la-feature_lock-achievement-description",
+            "text": "解鎖條件：過關主線關卡6話"
+        }
+    },
+    {
+        "id": "la-feature_lock-achievement-title",
+        "data": {
+            "id": "la-feature_lock-achievement-title",
+            "text": "成就"
+        }
+    },
+    {
+        "id": "la-feature_lock-card-title",
+        "data": {
+            "id": "la-feature_lock-card-title",
+            "text": "成員"
+        }
+    },
+    {
+        "id": "la-feature_lock-card_level_limit_break-description",
+        "data": {
+            "id": "la-feature_lock-card_level_limit_break-description",
+            "text": "解鎖條件：過關主線關卡2章3話"
+        }
+    },
+    {
+        "id": "la-feature_lock-card_level_limit_break-title",
+        "data": {
+            "id": "la-feature_lock-card_level_limit_break-title",
+            "text": "成員特訓"
+        }
+    },
+    {
+        "id": "la-feature_lock-character-title",
+        "data": {
+            "id": "la-feature_lock-character-title",
+            "text": "holo成員"
+        }
+    },
+    {
+        "id": "la-feature_lock-circuit-title",
+        "data": {
+            "id": "la-feature_lock-circuit-title",
+            "text": "極限跑道"
+        }
+    },
+    {
+        "id": "la-feature_lock-combo_card_game-title",
+        "data": {
+            "id": "la-feature_lock-combo_card_game-title",
+            "text": "撲克屋！"
+        }
+    },
+    {
+        "id": "la-feature_lock-cooking_puzzle-title",
+        "data": {
+            "id": "la-feature_lock-cooking_puzzle-title",
+            "text": "食材妙廚房"
+        }
+    },
+    {
+        "id": "la-feature_lock-event-title",
+        "data": {
+            "id": "la-feature_lock-event-title",
+            "text": "活動"
+        }
+    },
+    {
+        "id": "la-feature_lock-exchange-title",
+        "data": {
+            "id": "la-feature_lock-exchange-title",
+            "text": "音波菈牡市場"
+        }
+    },
+    {
+        "id": "la-feature_lock-friend-description",
+        "data": {
+            "id": "la-feature_lock-friend-description",
+            "text": "解鎖條件：過關主線關卡4話"
+        }
+    },
+    {
+        "id": "la-feature_lock-friend-title",
+        "data": {
+            "id": "la-feature_lock-friend-title",
+            "text": "好友"
+        }
+    },
+    {
+        "id": "la-feature_lock-gacha-title",
+        "data": {
+            "id": "la-feature_lock-gacha-title",
+            "text": "轉蛋"
+        }
+    },
+    {
+        "id": "la-feature_lock-jump_rope-title",
+        "data": {
+            "id": "la-feature_lock-jump_rope-title",
+            "text": "蹦蹦大跳繩"
+        }
+    },
+    {
+        "id": "la-feature_lock-live-title",
+        "data": {
+            "id": "la-feature_lock-live-title",
+            "text": "Live"
+        }
+    },
+    {
+        "id": "la-feature_lock-menu-title",
+        "data": {
+            "id": "la-feature_lock-menu-title",
+            "text": "選單"
+        }
+    },
+    {
+        "id": "la-feature_lock-mini_game_convert_reward_up_stamina_to_bet_coin-title",
+        "data": {
+            "id": "la-feature_lock-mini_game_convert_reward_up_stamina_to_bet_coin-title",
+            "text": "電玩巨蛋城硬幣兌換所"
+        }
+    },
+    {
+        "id": "la-feature_lock-mission_pass-description",
+        "data": {
+            "id": "la-feature_lock-mission_pass-description",
+            "text": "解鎖條件：過關主線關卡5話"
+        }
+    },
+    {
+        "id": "la-feature_lock-mission_pass-title",
+        "data": {
+            "id": "la-feature_lock-mission_pass-title",
+            "text": "任務通行證"
+        }
+    },
+    {
+        "id": "la-feature_lock-multi_game-title",
+        "data": {
+            "id": "la-feature_lock-multi_game-title",
+            "text": "多人遊玩"
+        }
+    },
+    {
+        "id": "la-feature_lock-multi_game_invitation-description",
+        "data": {
+            "id": "la-feature_lock-multi_game_invitation-description",
+            "text": "解鎖條件：過關主線關卡4話"
+        }
+    },
+    {
+        "id": "la-feature_lock-multi_game_invitation-title",
+        "data": {
+            "id": "la-feature_lock-multi_game_invitation-title",
+            "text": "邀請"
+        }
+    },
+    {
+        "id": "la-feature_lock-multi_game_live",
+        "data": {
+            "id": "la-feature_lock-multi_game_live",
+            "text": "解鎖條件：過關主線關卡4話"
+        }
+    },
+    {
+        "id": "la-feature_lock-music_highest_score_ranking-description",
+        "data": {
+            "id": "la-feature_lock-music_highest_score_ranking-description",
+            "text": "解鎖條件：過關主線關卡12話"
+        }
+    },
+    {
+        "id": "la-feature_lock-music_highest_score_ranking-title",
+        "data": {
+            "id": "la-feature_lock-music_highest_score_ranking-title",
+            "text": "高分排名"
+        }
+    },
+    {
+        "id": "la-feature_lock-music_highest_score_rating_ranking-description",
+        "data": {
+            "id": "la-feature_lock-music_highest_score_rating_ranking-description",
+            "text": "解鎖條件：過關主線關卡12話"
+        }
+    },
+    {
+        "id": "la-feature_lock-music_highest_score_rating_ranking-title",
+        "data": {
+            "id": "la-feature_lock-music_highest_score_rating_ranking-title",
+            "text": "高評級排名"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_area_quest-title",
+        "data": {
+            "id": "la-feature_lock-park_area_quest-title",
+            "text": "區域關卡"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_character_quest-title",
+        "data": {
+            "id": "la-feature_lock-park_character_quest-title",
+            "text": "Holo成員關卡"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_character_quest_invitation-description",
+        "data": {
+            "id": "la-feature_lock-park_character_quest_invitation-description",
+            "text": "解鎖條件：過關Holo成員關卡，解鎖1名holo成員"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_character_quest_invitation-title",
+        "data": {
+            "id": "la-feature_lock-park_character_quest_invitation-title",
+            "text": "邀請holo成員"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_character_set-title",
+        "data": {
+            "id": "la-feature_lock-park_character_set-title",
+            "text": "holo成員變更"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_character_shop_balloon-title",
+        "data": {
+            "id": "la-feature_lock-park_character_shop_balloon-title",
+            "text": "氣球商店"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_character_shop_candy-title",
+        "data": {
+            "id": "la-feature_lock-park_character_shop_candy-title",
+            "text": "糖果商店"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_character_shop_pen_light-title",
+        "data": {
+            "id": "la-feature_lock-park_character_shop_pen_light-title",
+            "text": "應援棒商店"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_daily_quest-title",
+        "data": {
+            "id": "la-feature_lock-park_daily_quest-title",
+            "text": "每日關卡"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_emotion-title",
+        "data": {
+            "id": "la-feature_lock-park_emotion-title",
+            "text": "表情"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_high_low-title",
+        "data": {
+            "id": "la-feature_lock-park_high_low-title",
+            "text": "貪婪卡牌"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_lottery_gachapon-title",
+        "data": {
+            "id": "la-feature_lock-park_lottery_gachapon-title",
+            "text": "扭蛋金剛"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_lottery_scratch-title",
+        "data": {
+            "id": "la-feature_lock-park_lottery_scratch-title",
+            "text": "洽馬洽馬極運輪盤"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_map-title",
+        "data": {
+            "id": "la-feature_lock-park_map-title",
+            "text": "地圖"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_notification",
+        "data": {
+            "id": "la-feature_lock-park_notification",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_photo_mode-title",
+        "data": {
+            "id": "la-feature_lock-park_photo_mode-title",
+            "text": "攝影模式"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_print_booth-title",
+        "data": {
+            "id": "la-feature_lock-park_print_booth-title",
+            "text": "超級拍貼機"
+        }
+    },
+    {
+        "id": "la-feature_lock-park_time_period-title",
+        "data": {
+            "id": "la-feature_lock-park_time_period-title",
+            "text": "時間變更"
+        }
+    },
+    {
+        "id": "la-feature_lock-poster-title",
+        "data": {
+            "id": "la-feature_lock-poster-title",
+            "text": "回憶卡"
+        }
+    },
+    {
+        "id": "la-feature_lock-skill_tree-description",
+        "data": {
+            "id": "la-feature_lock-skill_tree-description",
+            "text": "解鎖條件：過關主線關卡6話"
+        }
+    },
+    {
+        "id": "la-feature_lock-skill_tree-title",
+        "data": {
+            "id": "la-feature_lock-skill_tree-title",
+            "text": "Holo成員面板"
+        }
+    },
+    {
+        "id": "la-feature_lock-story-title",
+        "data": {
+            "id": "la-feature_lock-story-title",
+            "text": "影廳"
+        }
+    },
+    {
+        "id": "la-feature_lock-work-title",
+        "data": {
+            "id": "la-feature_lock-work-title",
+            "text": "Holowork"
+        }
+    },
+    {
+        "id": "la-tips-exchange-area02-training-item-title",
+        "data": {
+            "id": "la-tips-exchange-area02-training-item-title",
+            "text": "素材轉換所"
+        }
+    },
+    {
+        "id": "la-tips-park-character-shop-area02-hair-accessory-title",
+        "data": {
+            "id": "la-tips-park-character-shop-area02-hair-accessory-title",
+            "text": "高帽商店"
+        }
+    }
+]

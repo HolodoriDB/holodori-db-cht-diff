@@ -1,0 +1,226 @@
+[
+    {
+        "id": "la-appeal_text-function_appeal-a01_exchangebooth-level_up-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a01_exchangebooth-level_up-description",
+            "text": "上架道具數量將增加"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a01_exchangebooth-level_up-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a01_exchangebooth-level_up-name",
+            "text": "音波菈牡商店強化"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a01_station-level_up-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a01_station-level_up-description",
+            "text": "高Rank活動委託出現機率提升"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a01_station-level_up-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a01_station-level_up-name",
+            "text": "玩家驛站強化"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a02_coinbooth-added_lineup-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a02_coinbooth-added_lineup-description",
+            "text": "電玩巨蛋城硬幣兌換所上架道具數量增加"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a02_coinbooth-added_lineup-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a02_coinbooth-added_lineup-name",
+            "text": "新增兌換所品項"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a02_station-level_up-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a02_station-level_up-description",
+            "text": "高Rank活動委託出現機率提升"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-a02_station-level_up-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-a02_station-level_up-name",
+            "text": "超級雲霄飛車強化"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit-description",
+            "text": "極限跑道最大投注金額提升"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit-name",
+            "text": "極限跑道投注金額提升"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit_and_combo_card_game-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit_and_combo_card_game-description",
+            "text": "極限跑道與撲克屋！最大投注金額提升"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit_and_combo_card_game-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-bet_coin_rate_up-circuit_and_combo_card_game-name",
+            "text": "極限跑道&撲克屋投注金額提升"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-random_symbol-level_up-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-random_symbol-level_up-description",
+            "text": "將掉落各種隱藏寶箱"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-random_symbol-level_up-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-random_symbol-level_up-name",
+            "text": "隱藏寶箱內容強化"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-friend-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-friend-description",
+            "text": "好友功能將解鎖"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-friend-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-friend-name",
+            "text": "好友解鎖"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-limit_break-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-limit_break-description",
+            "text": "成員特訓功能將解鎖"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-limit_break-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-limit_break-name",
+            "text": "特訓功能解鎖"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-mission_pass-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-mission_pass-description",
+            "text": "任務通行證功能將解鎖"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-mission_pass-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-mission_pass-name",
+            "text": "任務通行證解鎖"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-present_advent-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-present_advent-description",
+            "text": "有機會從Advent獲得禮物"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-present_advent-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-present_advent-name",
+            "text": "禮物解鎖(Advent)"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-present_gen_0-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-present_gen_0-description",
+            "text": "有機會從第0期生獲得禮物"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-present_gen_0-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-present_gen_0-name",
+            "text": "禮物解鎖(0期生)"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-random_symbol-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-random_symbol-description",
+            "text": "隱藏寶箱功能將解鎖"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-random_symbol-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-random_symbol-name",
+            "text": "隱藏寶箱解鎖"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-score_attack_cook-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-score_attack_cook-description",
+            "text": "SCORE ATTACK MODE解鎖(食材妙廚房)"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-score_attack_cook-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-score_attack_cook-name",
+            "text": "食材妙廚房難易度解鎖"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-score_attack_rope-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-score_attack_rope-description",
+            "text": "SCORE ATTACK MODE解鎖(蹦蹦大跳繩)"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-score_attack_rope-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-score_attack_rope-name",
+            "text": "蹦蹦大跳繩難易度解鎖"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-skill_tree_and_achievement-description",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-skill_tree_and_achievement-description",
+            "text": "Holo成員面板功能和成就功能將解鎖"
+        }
+    },
+    {
+        "id": "la-appeal_text-function_appeal-unlock-skill_tree_and_achievement-name",
+        "data": {
+            "id": "la-appeal_text-function_appeal-unlock-skill_tree_and_achievement-name",
+            "text": "Holo成員面板&成就解鎖"
+        }
+    }
+]

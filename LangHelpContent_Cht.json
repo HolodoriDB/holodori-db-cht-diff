@@ -1,0 +1,1752 @@
+[
+    {
+        "id": "la-help_category-faq-data-modelchange-1-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-1-text",
+            "text": "變更機種前，請先完成帳號連動。\n帳號連動完成，即可於新裝置上繼承遊戲檔案繼續遊玩。\n\n※完成帳號連動後，新裝置原有的遊戲檔案將被覆蓋，\n覆蓋檔案後，原有檔案將無法復原。\n\n已購買的藍鑽石，可於已完成帳號連動的裝置間通用。\n※於不同平台進行帳號連動，亦可正常使用。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-1-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-1-title",
+            "text": "變更機種該如何操作？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-2-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-2-text",
+            "text": "請使用「連動ID登入」「Apple帳戶登入」或「Google帳戶登入」登入遊戲。\n\n【使用連動ID進行連動】\n▼目前使用裝置的操作步驟\n1.依序點選［夢幻樂園］→［選單］→［其他］→［帳號］→［設定連動密碼］\n2.輸入連動密碼後，點選［OK］\n3.複製並保存發送的連動ID\n\n▼新裝置的操作步驟\n1.依序點選［標題］→［選單］→［帳號管理］→［連動ID登入］\n2.輸入連動ID與密碼後，點選［OK］\n\n\n【使用Apple帳戶登入進行連動】\n▼目前使用裝置的操作步驟\n1.依序點選［夢幻樂園］→［選單］→［其他］→［帳號］→［Apple帳戶登入］\n2.使用Apple ID登入，完成帳號連動\n\n▼新裝置的操作步驟\n1.依序點選［標題］→［選單］→［帳號管理］→［Apple帳戶登入］\n2.使用Apple ID登入\n\n\n【使用Google帳戶登入進行連動】\n▼目前使用裝置的操作步驟\n1.依序點選［夢幻樂園］→［選單］→［其他］→［帳號］→［Google帳戶登入］\n2.使用Google帳號登入，完成帳號連動\n\n▼新裝置的操作步驟\n1.依序點選［標題］→［選單］→［帳號管理］→［Google帳戶登入］\n2.使用Google帳號登入"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-2-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-2-title",
+            "text": "iOS裝置間進行帳號連動該如何操作？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-3-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-3-text",
+            "text": "請使用「連動ID登入」或「Google帳戶登入」登入遊戲。\n\n【使用連動ID進行連動】\n▼目前使用裝置的操作步驟\n1.依序點選［夢幻樂園］→［選單］→［其他］→［帳號］→［設定連動密碼］\n2.輸入連動密碼後，點選［OK］\n3.複製並保存發送的連動ID\n\n▼新裝置的操作步驟\n1.依序點選［標題］→［選單］→［帳號管理］→［連動ID登入］\n2.輸入連動ID與密碼後，點選［OK］\n\n\n【使用Google帳戶登入進行連動】\n▼目前使用裝置的操作步驟\n1.依序點選［夢幻樂園］→［選單］→［其他］→［帳號］→［Google帳戶登入］\n2.使用Google帳號登入，完成帳號連動\n\n▼新裝置的操作步驟\n1.依序點選［標題］→［選單］→［帳號管理］→［Google帳戶登入］\n2.使用Google帳號登入"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-3-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-3-title",
+            "text": "Android裝置間進行帳號連動該如何操作？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-4-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-4-text",
+            "text": "請使用「連動ID登入」或「Google帳戶登入」登入遊戲。\n\n【使用連動ID進行連動】\n■目前使用裝置的操作步驟\n1.依序點選［夢幻樂園］→［選單］→［其他］→［帳號］→［設定連動密碼］\n2.輸入連動密碼後，點選［OK］\n3.複製並保存發送的連動ID\n\n■新裝置的操作步驟\n1.依序點選［標題］→［選單］→［帳號管理］→［連動ID登入］\n2.輸入連動ID與密碼後，點選［OK］\n\n\n【使用Google帳戶登入進行連動】\n■目前使用裝置的操作步驟\n1.依序點選［夢幻樂園］→［選單］→［其他］→［帳號］→［Google帳戶登入］\n2.使用Google帳號登入，完成帳號連動\n\n■新裝置的操作步驟\n1.依序點選［標題］→［選單］→［帳號管理］→［Google帳戶登入］\n2.使用Google帳號登入"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-4-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-4-title",
+            "text": "iOS裝置與Android裝置間進行帳號連動該如何操作？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-5-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-5-text",
+            "text": "請使用「連動ID登入」登入遊戲。\n\n▼目前使用裝置的操作步驟\n1.依序點選［夢幻樂園］→［選單］→［其他］→［帳號］→［設定連動密碼］\n2.輸入連動密碼後，點選［OK］\n3.複製並保存發送的連動ID\n\n▼新裝置的操作步驟\n1.依序點選［標題］→［選單］→［帳號管理］→［連動ID登入］\n2.輸入連動ID與密碼後，點選［OK］"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-5-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-5-title",
+            "text": "智慧型手機版（iOS、Android）與Steam版間進行帳號連動該如何操作？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-6-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-6-text",
+            "text": "■解除以Apple、Google帳戶登入的帳號連動\n\n【解除以Apple帳戶登入的帳號連動】\n▼操作步驟\n1.依序點選［夢幻樂園］→［選單］→［其他］→［帳號］→［Apple帳戶登入］\n2.確認目前已連動的帳號資訊後，點選［解除］\n\n\n【使用Google帳戶登入進行連動】\n▼操作步驟\n1.依序點選［夢幻樂園］→［選單］→［其他］→［帳號］→［Google帳戶登入］\n2.確認目前已連動的帳號資訊後，點選［解除］\n\n\n■解除連動ID與密碼\n重新設定連動ID與密碼，即可重新進行檔案繼承設定。\n重新設定後，原有的連動設定將會失效。\n\n▼操作步驟\n1.依序點選［夢幻樂園］→［選單］→［其他］→［帳號］→［設定連動密碼］\n2.輸入連動密碼後，點選［OK］\n3.複製並保存發送的連動ID"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-6-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-6-title",
+            "text": "解除「帳號連動」該如何操作？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-7-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-7-text",
+            "text": "刪除（解除安裝）應用程式後，登入檔案將會消失，無法繼續遊玩。\n\n若未進行帳號連動，將重新開始新遊戲。\n解除安裝應用程式前，請務必先完成帳號連動。\n\n為避免登入檔案遺失，建議先完成帳號連動。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-7-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-7-title",
+            "text": "刪除（解除安裝）應用程式後會發生什麼情況？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-8-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-8-text",
+            "text": "帳號刪除完成後，該帳號檔案將從遊戲伺服器中永久刪除。\n進行帳號刪除前，請務必詳閱以下注意事項。\n\n【注意事項】\n・帳號刪除後，檔案將無法復原。\n・帳號刪除後，所有遊戲檔案將消失，且無法再以該帳號遊玩本遊戲。\n・帳號刪除後，未使用的藍鑽石亦將一併消失。\n・即使刪除帳號，已購買的訂閱服務仍會自動續訂。\n請務必從購買平台上取消訂閱/續訂。\n\n可透過「標題」→「選單」→「刪除帳號」的步驟刪除帳號。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-8-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-8-title",
+            "text": "關於「刪除帳號」？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-9-text",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-9-text",
+            "text": "藍鑽石與紅鑽石可於不同平台間通用。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-data-modelchange-9-title",
+        "data": {
+            "id": "la-help_category-faq-data-modelchange-9-title",
+            "text": "不同平台進行帳號連動時，藍鑽石與紅鑽石將如何處理？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-game-1-text",
+        "data": {
+            "id": "la-help_category-faq-game-1-text",
+            "text": "小遊戲能量將於結算時消耗，因此小遊戲進行中若發生應用程式強制關閉，將不會消耗小遊戲能量。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-game-1-title",
+        "data": {
+            "id": "la-help_category-faq-game-1-title",
+            "text": "在小遊戲進行中若發生應用程式強制關閉，無法重新返回小遊戲，是否會消耗小遊戲能量？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-game-2-text",
+        "data": {
+            "id": "la-help_category-faq-game-2-text",
+            "text": "通過創建房間，即可與好友一起玩小遊戲。\n\n▼創建房間步驟\n［夢幻樂園］→［遊戲］→［前往多人遊玩］→［多人遊戲（與幸運連線内的holo成員對話）］→［創建房間］\n\n創建房間後，選擇要玩的小遊戲即會顯示房間ID。\n進入房間需要房間ID，請告知好友。\n※好友也必須解鎖該小遊戲才能參加。若未解鎖則無法參加。\n\n▼進入房間步驟\n［夢幻樂園］→［遊戲］→［前往多人遊玩］→［多人遊戲（與幸運連線内的holo成員對話）］→［進入房間］"
+        }
+    },
+    {
+        "id": "la-help_category-faq-game-2-title",
+        "data": {
+            "id": "la-help_category-faq-game-2-title",
+            "text": "是否能與朋友一起遊玩小遊戲？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-1-text",
+        "data": {
+            "id": "la-help_category-faq-live-1-text",
+            "text": "自動Live獲得的分數，由於判定加成的分數較低，且不計入Combo的分數加成，因前述特殊的計分方式，導致分數比手動遊玩低。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-1-title",
+        "data": {
+            "id": "la-help_category-faq-live-1-title",
+            "text": "為什麼自動Live獲得的分數比較低？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-2-text",
+        "data": {
+            "id": "la-help_category-faq-live-2-text",
+            "text": "部分效果將以削弱、受限的狀態發動。\n\n▼將被削弱的效果\n・僅在PERFECT時發動\n※AUTO也包含在內。\n\n▼將被限制的效果\n・判定強化：AUTO的判定結果不會發生變動。\n・回復生命值：生命值不會回復。\n\n持有上述效果的技能，僅會發動同時附帶的「分數UP」效果。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-2-title",
+        "data": {
+            "id": "la-help_category-faq-live-2-title",
+            "text": "自動Live能不能發動技能？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-3-text",
+        "data": {
+            "id": "la-help_category-faq-live-3-text",
+            "text": "隊伍分數越高，遊玩Live獲得的分數也會提升。\n可透過培育隊伍中的holo成員隊長與成員提升隊伍分數。\n\n▼如何培育holo成員隊長\n可透過解鎖Holo成員面板培育holo成員隊長。\n\n■欄位種類\n・隊長類型（紅色欄位）：設定為Live隊伍的隊長時即可生效的效果\n・成員類型（藍色欄位）：設定為Live隊伍的成員時即可生效的效果\n・輔助類型（黃色/綠色欄位）：未編入Live隊伍時仍可生效的效果\n・協力欄位：設置成員，即可發動該成員的協力效果\n\n▼如何培育成員\n・成員的等級提升後，各項能力也將同步提升。\n\n・成員進行特訓，即可提升成員的等級上限。\n\n・使用綻放Pt使成員綻放，即可獲得各種效果。\n※獲得相同成員時，將自動轉換為該成員的綻放Pt。\n※最多可綻放至第5階段。\n\n・已持有的成員達到20級以上時，將獲得加成，並以成員強化加成的形式套用至隊伍分數。\n※成員強化加成是已持有的全部成員加成數值的總和。\n※成員強化加成最高上限為50％。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-3-title",
+        "data": {
+            "id": "la-help_category-faq-live-3-title",
+            "text": "該如何提升分數？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-4-text",
+        "data": {
+            "id": "la-help_category-faq-live-4-text",
+            "text": "開啟顯示SLOW、FAST功能後，點擊音符時，若判定有快慢差，將會顯示「SLOW(慢)」或「FAST(快)」。\n\nSLOW、FAST總數將會顯示於成績結算畫面。\n\n可透過［選單］→［其他］→［Live選項］→［詳細設定］→［顯示指引］→［顯示SLOW、FAST］的步驟，切換開啟與關閉顯示SLOW、FAST。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-4-title",
+        "data": {
+            "id": "la-help_category-faq-live-4-title",
+            "text": "如何得知點擊時機的快與慢？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-5-text",
+        "data": {
+            "id": "la-help_category-faq-live-5-text",
+            "text": "此功能可將Live中流動的音符設置與滑動方向等左右反轉。\n鏡像譜面可用於全部Live。\n\n使用鏡像譜面遊玩時，不會有額外加成與獎勵，獲得的分數與一般遊玩模式相同。\n達成All Perfect或Full Combo時，過關紀錄亦與一般遊玩模式相同。\n\n在多人Live中開啟鏡像譜面遊玩，其他玩家是不會知道的。\n\n可透過［選單］→［其他］→［Live選項］→［Live］→［鏡像譜面］的步驟，切換開啟與關閉鏡像譜面。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-5-title",
+        "data": {
+            "id": "la-help_category-faq-live-5-title",
+            "text": "什麼是鏡像譜面？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-1-text",
+        "data": {
+            "id": "la-help_category-faq-others-1-text",
+            "text": "客服諮詢的受理與回覆，日文版支援日文，國際版支援英文。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-1-title",
+        "data": {
+            "id": "la-help_category-faq-others-1-title",
+            "text": "客服諮詢的受理與回覆支援哪些語言？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-2-text",
+        "data": {
+            "id": "la-help_category-faq-others-2-text",
+            "text": "為確保能順暢體驗本服務，建議您使用符合建議配備的裝置遊玩。\n此外，我們也提供了最低系統需求供您參考，但若裝置未符合建議配備，部分功能或動畫可能會出現運作不穩定的情況，或無法獲得良好的遊玩體驗。\n若未符合建議配備的條件，可能發生無法安裝App或無法正常運作的情況，敬請見諒。\n\n■建議配備\n▼iOS\n建議作業系統：iOS 16及其以上版本\n 建議裝置規格：記憶體（RAM）6GB及其以上（iPhone14及其以上）\n\n▼iPadOS\n建議作業系統：iPadOS16及其以上版本\n 建議裝置規格：記憶體（RAM）6GB及其以上\n\n▼Android\n建議作業系統：Android11及其以上版本\n建議裝置規格：記憶體（RAM）6GB及其以上、CPU Snapdragon 8 Gen 1及其以上。\n\n▼Steam\n作業系統：Windows®  11 64-bit\n處理器：AMD Ryzen™ 5 3500 / Intel® Core™ i5-9400\n記憶體：8GB\n顯示卡：Radeon™  RX 580 Graphics / NVIDIA® GeForce® GTX 1060\n\n【最低系統需求】\n▼iOS\nOS：iOS16及其以上\n裝置：RAM 4GB及其以上（iPhone11以上）\n\n▼iPadOS\nOS：iPad16及其以上\n裝置：RAM 4GB及其以上\n\n▼Android\nOS：Android11及其以上\n裝置：RAM 4GB及其以上、Snapdragon 855及其以上\n\n▼Steam\nOS：Windows®  10 64-bit\n處理器：AMD Ryzen™ 3 1200 / Intel® Core™ i5-4430\n記憶體：8GB\n顯示卡：Radeon™  RX 370 Graphics / NVIDIA® GeForce® GTX 950\n\n※最低系統需求僅可啟動遊戲並進行基本遊玩。\n※不保證可獲得良好的遊玩體驗。\n※以上為截至2026年7月的系統需求。因應未來更新，建議配備及最低系統需求可能有所調整。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-2-title",
+        "data": {
+            "id": "la-help_category-faq-others-2-title",
+            "text": "關於建議配備？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-3-text",
+        "data": {
+            "id": "la-help_category-faq-others-3-text",
+            "text": "無法進行應用程式更新時，請嘗試以下操作。\n\n【iOS作業系統】\n1.開啟App Store，點選畫面下方的「Today」\n2.點選Store畫面右上方的個人檔案圖示\n3.在顯示「帳號」的畫面向下滑動\n4.點擊「可用更新」或「即將進行的自動更新」中的「全部更新」或「hololive Dreams」的「更新」按鍵\n※若於裝置設定中開啟自動下載功能，「可用更新」將顯示為「即將進行的自動更新」。\n\n【Android作業系統】\n▼確認下載管理員應用程式是否「啟用」\n1．開啟裝置中的［設定］選單。\n2．點選「應用程式」或「應用程式管理」。\n3．滑動畫面顯示「所有」應用程式。\n4．點選下載管理員應用程式。\n若顯示「啟用」，代表下載管理員為停用狀態。請點擊「啟用」開啟。\n\n▼［清除資料］及［清除快取］\n請於下載管理員應用程式清除各項資訊。\n※請至使用裝置的設定中［清除快取］，勿使用遊戲應用程式中的［清除快取］。\n※請注意，［清除資料］並非刪除（解除安裝）應用程式。\n\n▼清除Google Play商店的快取與資料\n1.點選［應用程式］中的［Google Play商店］。\n2.點擊［清除資料］及［清除快取］。\n※請注意，［清除資料］並非刪除（解除安裝）應用程式。\n※依使用裝置不同，選單名稱可能有所差異，敬請見諒。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-3-title",
+        "data": {
+            "id": "la-help_category-faq-others-3-title",
+            "text": "應用程式無法更新。該如何進行更新？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-4-text",
+        "data": {
+            "id": "la-help_category-faq-others-4-text",
+            "text": "若已完成帳號連動，請於安裝應用程式後，依以下步驟進行檔案繼承。\n\n【使用連動ID進行連動】\n▼操作步驟\n1.依序點選［標題］→［選單］→［帳號管理］→［連動ID登入］\n2.輸入連動ID與密碼後，點選［OK］\n\n\n【使用Apple帳戶登入進行連動】\n▼操作步驟\n1.依序點選［標題］→［選單］→［帳號管理］→［Apple帳戶登入］\n2.使用Apple ID登入\n\n\n【使用Google帳戶登入進行連動】\n▼操作步驟\n1.依序點選［標題］→［選單］→［帳號管理］→［Google帳戶登入］\n2.使用Google帳號登入\n\n\n若未使用檔案繼承功能，可透過［標題］→［選單］→［客服諮詢］→［檔案繼承與復原］的步驟洽詢客服。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-4-title",
+        "data": {
+            "id": "la-help_category-faq-others-4-title",
+            "text": "已刪除應用程式。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-5-text",
+        "data": {
+            "id": "la-help_category-faq-others-5-text",
+            "text": "使用模擬器遊玩，不保證能正常運作。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-5-title",
+        "data": {
+            "id": "la-help_category-faq-others-5-title",
+            "text": "是否能使用模擬器遊玩？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-6-text",
+        "data": {
+            "id": "la-help_category-faq-others-6-text",
+            "text": "可透過購買鑽石，或購買部分付費商品獲得藍鑽石。\n可透過登入獎勵、Live與成就達成獎勵等方式獲得紅鑽石。\n\n可於商店及轉蛋畫面右上方查看藍鑽石與紅鑽石的持有數量。\n消耗鑽石時，若同時持有藍鑽石與紅鑽石，將會優先消耗紅鑽石。\n※部分轉蛋與商品，僅可透過消耗藍鑽石獲得。\n\n藍鑽石的持有上限為1000000。\n若購買後持有的藍鑽石數量將超過上限，則無法購買。\n紅鑽石無持有上限。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-6-title",
+        "data": {
+            "id": "la-help_category-faq-others-6-title",
+            "text": "什麼是藍鑽石與紅鑽石？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-7-text",
+        "data": {
+            "id": "la-help_category-faq-others-7-text",
+            "text": "購買藍鑽石後，需稍候一段時間才會於遊戲中顯示。\n建議可重新啟動遊戲再確認。\n\n若經上述操作仍未顯示，請於「客服諮詢」中的「購買商品」洽詢客服。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-others-7-title",
+        "data": {
+            "id": "la-help_category-faq-others-7-title",
+            "text": "未顯示已購買的藍鑽石。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-1-text",
+        "data": {
+            "id": "la-help_category-faq-questions-1-text",
+            "text": "本應用程式可免費下載遊玩。\n但部分服務需另外收費。\n遊玩本遊戲時所產生的通訊流量等相關費用，概由玩家自行負擔。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-1-title",
+        "data": {
+            "id": "la-help_category-faq-questions-1-title",
+            "text": "是否能免費遊玩？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-10-text",
+        "data": {
+            "id": "la-help_category-faq-questions-10-text",
+            "text": "關於將本企劃相關內容的圖片或影片投稿至社群平台及影片分享平台，只要不違反下方準則所列的禁止事項，原則上皆無問題。\n\n▼著作物利用相關準則\nhttps://www.hololive-dreams.com/en/stream-guideline"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-10-title",
+        "data": {
+            "id": "la-help_category-faq-questions-10-title",
+            "text": "是否能直播（遊戲實況）？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-11-text",
+        "data": {
+            "id": "la-help_category-faq-questions-11-text",
+            "text": "部分成就在初期版本中暫時無法達成。\n\n例：「收集5種成員」等\n※因初期版本僅開放至3種，故無法達成。\n\n請靜候今後的更新。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-11-title",
+        "data": {
+            "id": "la-help_category-faq-questions-11-title",
+            "text": "存在無法達成的成就。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-12-text",
+        "data": {
+            "id": "la-help_category-faq-questions-12-text",
+            "text": "自動Live、創作譜面或於私人房間遊玩時，可能不計入成就達成條件。\n不計入的成就如下。\n\n▼自動Live\n・Live Clear次數/樂曲數\n・FULL COMBO/ALL PERFECT次數/樂曲數\n\n▼創作譜面\n・除了Live Clear次數、創作譜面以外的成就\n\n▼私人房間\n與Live及小遊戲的排名和結果相關的成就\n\n例）\n・多人Live的MVP次數\n・極限跑道的第1名次數\n・撲克屋！的第1名次數\n・撲克屋！同色3張牌型成立次數\n・被發動撲克屋的次數"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-12-title",
+        "data": {
+            "id": "la-help_category-faq-questions-12-title",
+            "text": "部分成就達成條件未採計。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-2-text",
+        "data": {
+            "id": "la-help_category-faq-questions-2-text",
+            "text": "取消會員資格及holo通行證等訂閱服務，可依以下步驟進行。\n\n【iOS作業系統】\n1. 於裝置的［設定］中，點選你的名稱。\n2.點選［訂閱項目］。\n3.點選［hololive Dreams］。\n4.點選［取消訂閱］即可完成取消。\n\n【Android作業系統】\n1.開啟［Google Play 商店應用程式］，點選使用者圖示。\n2.點選［付款與訂閱］。\n3.點選［訂閱］。\n4.點選［hololive Dreams］。\n5.點選［取消訂閱］。\n\n▼注意事項\n・若對操作步驟有疑問，請洽詢使用平台客服。\n・刪除應用程式或遊戲檔案（帳號），仍不會取消訂閱，請務必留意。\n・若要取消訂閱，請於自動續訂前3天（72小時）完成取消。\n※若超過自動續訂前3天（72小時），可能因系統延遲，導致無法於預期時間內完成取消。\n・於有效期限內取消，仍可享有訂閱服務至有效期限結束。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-2-title",
+        "data": {
+            "id": "la-help_category-faq-questions-2-title",
+            "text": "取消訂閱會員資格、Holo通行證該如何操作？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-3-text",
+        "data": {
+            "id": "la-help_category-faq-questions-3-text",
+            "text": "登入獎勵將於每天首次登入時發送至禮物盒。\n可依以下步驟領取登入獎勵。\n\n▼領取步驟\n依序點選［夢幻樂園］→［選單］→［禮物盒］→［待領取物］\n※若已領取，將會顯示於禮物領取紀錄。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-3-title",
+        "data": {
+            "id": "la-help_category-faq-questions-3-title",
+            "text": "未收到登入獎勵。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-4-text",
+        "data": {
+            "id": "la-help_category-faq-questions-4-text",
+            "text": "持有上限為999999999。\n超過持有上限的部分將會自動送至禮物盒。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-4-title",
+        "data": {
+            "id": "la-help_category-faq-questions-4-title",
+            "text": "硬幣、道具有持有上限嗎？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-5-text",
+        "data": {
+            "id": "la-help_category-faq-questions-5-text",
+            "text": "禮物領取紀錄，最多顯示前100筆。\n超過100筆將依序刪除最早紀錄。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-5-title",
+        "data": {
+            "id": "la-help_category-faq-questions-5-title",
+            "text": "無法查看禮物領取紀錄。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-6-text",
+        "data": {
+            "id": "la-help_category-faq-questions-6-text",
+            "text": "部分禮物盒設有領取期限。\n可透過禮物盒畫面查看各禮物盒的領取期限。\n逾期將自動刪除，請儘早領取。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-6-title",
+        "data": {
+            "id": "la-help_category-faq-questions-6-title",
+            "text": "尚未領取的禮物消失了。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-7-text",
+        "data": {
+            "id": "la-help_category-faq-questions-7-text",
+            "text": "封鎖任一玩家後，將設有以下限制。\n・在多人遊玩的自由模式中，不會與已封鎖的玩家進行配對。\n・已封鎖的玩家無法進入您創建的私人房間。\n・無法進入由已封鎖的玩家創建的私人房間。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-7-title",
+        "data": {
+            "id": "la-help_category-faq-questions-7-title",
+            "text": "封鎖玩家後會發生什麼情況？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-8-text",
+        "data": {
+            "id": "la-help_category-faq-questions-8-text",
+            "text": "跨作業系統亦可多人連線遊玩。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-8-title",
+        "data": {
+            "id": "la-help_category-faq-questions-8-title",
+            "text": "是否能跨作業系統多人連線遊玩？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-9-text",
+        "data": {
+            "id": "la-help_category-faq-questions-9-text",
+            "text": "不建議於海外地區進行遊戲，且不保證能正常運作。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-9-title",
+        "data": {
+            "id": "la-help_category-faq-questions-9-title",
+            "text": "能不能在日本國外遊玩日文版？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-trouble-1-text",
+        "data": {
+            "id": "la-help_category-faq-trouble-1-text",
+            "text": "無法查詢連動ID與連動密碼，請重新設定連動密碼。\n重新設定後，原有的連動設定將會失效。\n\n■操作步驟\n1.依序點選［夢幻樂園］→［選單］→［其他］→［帳號］→［設定連動密碼］\n2.輸入連動密碼後，點選［OK］\n3.複製並保存發送的連動ID"
+        }
+    },
+    {
+        "id": "la-help_category-faq-trouble-1-title",
+        "data": {
+            "id": "la-help_category-faq-trouble-1-title",
+            "text": "忘記連動ID與連動密碼。是否有查詢方法？"
+        }
+    },
+    {
+        "id": "la-help_category-faq-trouble-2-text",
+        "data": {
+            "id": "la-help_category-faq-trouble-2-text",
+            "text": "若出現操作緩慢、讀取過久等運作不穩定的情況，可能是由多種因素造成。\n\n此外，請先確認您的裝置是否符合建議配備。\n※不符合建議配備的裝置不在服務支援範圍內，請考慮改用建議配備的裝置。\n\n■建議配備\n▼iOS\n建議作業系統：iOS 16及其以上版本\n 建議裝置規格：記憶體（RAM）6GB及其以上（iPhone14及其以上）\n\n▼iPadOS\n建議作業系統：iPadOS16及其以上版本\n 建議裝置規格：記憶體（RAM）6GB及其以上\n\n▼Android\n建議作業系統：Android11及其以上版本\n建議裝置規格：記憶體（RAM）6GB及其以上、CPU Snapdragon 8 Gen 1及其以上。\n\n▼Steam\n作業系統：Windows®  11 64-bit\n處理器：AMD Ryzen™ 5 3500 / Intel® Core™ i5-9400\n記憶體：8GB\n顯示卡：Radeon™  RX 580 Graphics / NVIDIA® GeForce® GTX 1060\n\n※以上為截至2026年7月的建議作業系統。\n※建議配備可能因日後更新而有所調整。\n\n若裝置已符合建議配備，但仍持續發生問題，請嘗試以下方法。\n\n■請嘗試以下操作\n・在收訊良好的環境下使用\n・重啟App\n・重啟裝置\n・確認裝置可用空間\n※若空間不足，請先增加可用空間後再嘗試重啟。\n\n若嘗試上述方法後依然未能解決，請附上詳細資訊與我們聯繫。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-trouble-2-title",
+        "data": {
+            "id": "la-help_category-faq-trouble-2-title",
+            "text": "發生連線錯誤，應用程式停止運作（強制停止與關閉）"
+        }
+    },
+    {
+        "id": "la-help_category-faq-trouble-3-text",
+        "data": {
+            "id": "la-help_category-faq-trouble-3-text",
+            "text": "轉蛋過程中，若應用程式停止運作，或動畫無法正常顯示，仍可正常獲得成員。\n\n可透過該轉蛋的轉蛋紀錄查看獲得成員。\n\n■如何查看轉蛋紀錄\n1.點選轉蛋\n2.點選發生異常的轉蛋\n3.點選轉蛋紀錄\n\n※轉蛋抽到相同成員時，將自動轉換為該成員的綻放Pt。\n可於該成員的綻放畫面查看綻放Pt的持有數量"
+        }
+    },
+    {
+        "id": "la-help_category-faq-trouble-3-title",
+        "data": {
+            "id": "la-help_category-faq-trouble-3-title",
+            "text": "轉蛋過程中遊戲突然中斷，仍可獲得成員嗎？"
+        }
+    },
+    {
+        "id": "la-help_category-help-account-alignment-1-text",
+        "data": {
+            "id": "la-help_category-help-account-alignment-1-text",
+            "text": "帳號連動後，可於多個裝置共享遊戲檔案遊玩。\n共享裝置已有遊戲檔案時，可覆蓋目前的檔案進行共享。\n\n※若未完成帳號連動，覆蓋檔案後將無法復原，請務必留意。"
+        }
+    },
+    {
+        "id": "la-help_category-help-account-alignment-1-title",
+        "data": {
+            "id": "la-help_category-help-account-alignment-1-title",
+            "text": "關於帳號連動"
+        }
+    },
+    {
+        "id": "la-help_category-help-achievements-1-text",
+        "data": {
+            "id": "la-help_category-help-achievements-1-text",
+            "text": "達成成就後，即可獲得Holo成員RankExp、稱號、紅鑽石等獎勵。\n\n此外，自動Live、創作譜面或於私人房間遊玩時，可能不計入成就達成條件。\n不計入的成就如下。\n\n▼自動Live\n・Live Clear次數/樂曲數\n・FULL COMBO/ALL PERFECT次數/樂曲數\n\n▼創作譜面\n・除了Live Clear次數、創作譜面以外的成就\n\n▼私人房間\n與Live及小遊戲的排名和結果相關的成就\n\n例）\n・多人Live的MVP次數\n・極限跑道的第1名次數\n・撲克屋的第1名次數\n・撲克屋同色3張牌型成立次數\n・被發動撲克屋的次數\n\n可透過［夢幻樂園］→［成就］的步驟查看成就。"
+        }
+    },
+    {
+        "id": "la-help_category-help-achievements-1-title",
+        "data": {
+            "id": "la-help_category-help-achievements-1-title",
+            "text": "關於成就"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-1-text",
+        "data": {
+            "id": "la-help_category-help-card-1-text",
+            "text": "可在成員一覽中查看持有成員。\n\n選擇持有成員，即可查看等級、類型、能力與技能等資訊。\n能力分「表現力」「技巧」「品味」三種，會影響隊伍分數。\n類型分「可愛」「清純」「快樂」三種，會影響技能效果與發動條件。\n\n可在成員詳情畫面中切換5★成員的簽名&留言顯示。\n\n可透過［夢幻樂園］→［選單］→［成員］的步驟查看成員資訊。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-1-title",
+        "data": {
+            "id": "la-help_category-help-card-1-title",
+            "text": "關於成員"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-2-text",
+        "data": {
+            "id": "la-help_category-help-card-2-text",
+            "text": "每位成員皆具備以下三種技能。\n\n▼成員持有技能\n・特殊技能：Live中僅可發動1次的強力技能（發動順序依編組順序決定）\n・主動技能：Live中每經過一段時間會以固定機率發動的技能\n・被動技能：滿足條件即可持續發揮效果的技能\n\n成員綻放即可提升技能效果。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-2-title",
+        "data": {
+            "id": "la-help_category-help-card-2-title",
+            "text": "關於技能"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-3-text",
+        "data": {
+            "id": "la-help_category-help-card-3-text",
+            "text": "技能效果種類如下。\n\n▼技能效果\n・分數UP：於效果期間中，提升獲得分數。\n・分數加成：於效果期間中，提升分數UP技能的效果值。\n・判定強化：於效果期間中，GOOD與GREAT判定為PERFECT。\n・回復生命值：回復一定量的生命值。\n・技能發動機率UP：於效果期間中，提升技能的發動機率。\n・能力值提升：提升指定的能力值。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-3-title",
+        "data": {
+            "id": "la-help_category-help-card-3-title",
+            "text": "關於技能效果"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-4-text",
+        "data": {
+            "id": "la-help_category-help-card-4-text",
+            "text": "消耗訓練Pt，即可提升成員的等級。\n成員的等級提升後，各項能力也將同步提升。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-4-title",
+        "data": {
+            "id": "la-help_category-help-card-4-title",
+            "text": "關於提升等級"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-5-text",
+        "data": {
+            "id": "la-help_category-help-card-5-text",
+            "text": "成員強化加成將會套用於Live時的隊伍分數。\n成員達到20級以上時，將獲得加成。等級越高，加成量也會提升。\n成員強化加成是已持有的全部成員加成數值的總和。\n※成員強化加成最高上限為50％。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-5-title",
+        "data": {
+            "id": "la-help_category-help-card-5-title",
+            "text": "關於成員強化加成"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-6-text",
+        "data": {
+            "id": "la-help_category-help-card-6-text",
+            "text": "・成員進行特訓，即可提升成員的等級上限。\n可透過Live與Holowork等方式獲得特訓所需的道具。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-6-title",
+        "data": {
+            "id": "la-help_category-help-card-6-title",
+            "text": "關於特訓"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-7-text",
+        "data": {
+            "id": "la-help_category-help-card-7-text",
+            "text": "每位成員可消耗綻放Pt進行綻放，最多可綻放至第5階段。\n每次綻放可獲得不同效果。\n\n每位成員皆有專屬的綻放Pt，可用於綻放該成員。\n重複獲得相同成員時，將自動轉換為該成員的綻放Pt。\n\n5★成員亦可使用「藍月石」進行綻放。\n可透過商店的兌換特殊Holo貼紙獲得「藍月石」。"
+        }
+    },
+    {
+        "id": "la-help_category-help-card-7-title",
+        "data": {
+            "id": "la-help_category-help-card-7-title",
+            "text": "關於綻放"
+        }
+    },
+    {
+        "id": "la-help_category-help-character-1-text",
+        "data": {
+            "id": "la-help_category-help-character-1-text",
+            "text": "可在holo成員一覽中查看每位holo成員的解鎖進度。\n選擇已解鎖的holo成員，即可查看Holo成員Rank、Holo成員面板與服裝等資訊。\n\n可透過［夢幻樂園］→［選單］→［holo成員］的步驟查看holo成員資訊。"
+        }
+    },
+    {
+        "id": "la-help_category-help-character-1-title",
+        "data": {
+            "id": "la-help_category-help-character-1-title",
+            "text": "關於holo成員"
+        }
+    },
+    {
+        "id": "la-help_category-help-character-2-text",
+        "data": {
+            "id": "la-help_category-help-character-2-text",
+            "text": "累積Holo成員RankExp達一定量時，即可提升Holo成員Rank。\n達成指定Holo成員的成就，即可獲得該成員的Holo成員RankExp。\nHolo成員Rank提升後，可獲得Holo成員面板Pt與樂園服裝等獎勵。"
+        }
+    },
+    {
+        "id": "la-help_category-help-character-2-title",
+        "data": {
+            "id": "la-help_category-help-character-2-title",
+            "text": "關於Holo成員Rank"
+        }
+    },
+    {
+        "id": "la-help_category-help-character-3-text",
+        "data": {
+            "id": "la-help_category-help-character-3-text",
+            "text": "每位holo成員皆有專屬的holo成員面板，解鎖Holo成員面板欄位，即可獲得可用於Live與小遊戲等內容的增益效果。\n\n▼欄位種類\n・隊長類型（紅色欄位）：設定為Live隊伍的隊長時即可生效的效果\n・成員類型（藍色欄位）：設定為Live隊伍的成員時即可生效的效果\n・輔助類型（黃色/綠色欄位）：未編入Live隊伍時仍可生效的效果\n・協力欄位：設置成員，即可發動該成員的協力效果\n\n可透過holo成員的成就與兌換所獲得解鎖欄位所需的素材。"
+        }
+    },
+    {
+        "id": "la-help_category-help-character-3-title",
+        "data": {
+            "id": "la-help_category-help-character-3-title",
+            "text": "關於Holo成員面板"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-1-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-1-text",
+            "text": "可配合樂曲，自由製作譜面。\n可以自行製作並公開譜面，也可以遊玩其他玩家製作的譜面。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-1-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-1-title",
+            "text": "關於創作譜面"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-10-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-10-text",
+            "text": "點擊「▶」，即可播放製作中的譜面。\n播放方式可以從「播放進度條移動」、「譜面移動」、「不捲動」中選擇。\n\n此外，點擊「l◀」可以從開頭播放，點擊黃色旗標，則可以從譜面指定位置（Cue）開始播放。\n可點擊兩次編輯器右側的小節線編號區域，對Cue進行設定。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-10-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-10-title",
+            "text": "關於譜面製作「播放設定」"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-11-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-11-text",
+            "text": "可以貼上官方提供的譜面，或自行製作的譜面範本。\n\n自己製作的譜面最多可新增30個自訂範本。\n使用選擇工具選取音符後，從選項中選擇「設為範本」即可新增。\n\n此外，可通過長按編輯器畫面，貼上各種範本或刪除自訂範本。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-11-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-11-title",
+            "text": "關於譜面製作「範本」"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-12-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-12-text",
+            "text": "長按編輯器畫面並設定音符速度倍率，即可變更譜面特定範圍內的音符速度。\n\n例如，可暫時放慢速度，或模擬譜面彷彿短暫停止的視覺效果等。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-12-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-12-title",
+            "text": "關於譜面製作「音符速度倍率」"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-13-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-13-text",
+            "text": "點選齒輪圖示，即可調整譜面製作過程中的相關設定。\n\n▼樂曲音量\n可調整製作畫面的樂曲播放音量。\n\n▼音符音效音量\n可調整設置音符時的音效音量。\n\n▼音符高度\n可調整製作畫面的音符高度。\n\n▼顯示音符裝飾外框\n可設定製作畫面的顯示音符裝飾外框。\n\n▼顯示參考譜面\n可設定開啟或關閉顯示參考譜面。\n開啟時，參考譜面將以淡色顯示於中央的譜面製作區域。\n\n▼自動儲存\n可設定開啟或關閉製作畫面的自動儲存功能。\n※若譜面無法儲存與公開，例如未設置任何音符，將不會進行自動儲存，請務必留意。\n\n▼BGM\n可設定開啟或關閉製作畫面的專用BGM。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-13-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-13-title",
+            "text": "關於譜面製作「其他設定」"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-14-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-14-text",
+            "text": "可以透過［▶ PLAY］體驗遊玩。\n除了手動操作之外，體驗遊玩也可以使用AUTO遊玩。\n此外，可以從樂曲開頭或設定的Cue位置開始遊玩。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-14-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-14-title",
+            "text": "關於譜面製作「體驗遊玩」"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-15-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-15-text",
+            "text": "可以在「檔案」中儲存或公開已製作譜面。\n請注意，若僅儲存，譜面不會被公開。\n需要設定標題、縮圖及譜面難度等資訊後，才可以進行公開。\n已公開的譜面，需稍候一段時間才會顯示於「最新」、「熱門」一覽。\n\n▼標題\n可以為已製作譜面設定標題。\n\n▼難易度Lv\n可以設定譜面的難度。\n\n▼縮圖\n可以透過截取譜面中的部分畫面設定縮圖。\n\n▼標籤\n可以從「適合新手」「適合高階玩家」「經典」「趣味」「自由繪圖」「徵求挑戰者」中設定最多2項標籤。\n\n▼類型\n若有配置傷害音符，或3個以上的同時按壓音符時，系統會自動設定各自對應的類型。\n\n▼遊玩公開範圍\n可以設定已製作譜面的遊玩範圍，包含「全公開」「好友」「已知譜面ID的玩家」「非公開」。\n\n▼譜面引用範圍\n可以設定已製作譜面的引用範圍，包含「全公開」「好友」「已知譜面ID的玩家」「非公開」。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-15-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-15-title",
+            "text": "關於譜面製作「公開方式」"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-2-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-2-text",
+            "text": "若要遊玩其他玩家製作的譜面，可於個人LIVE選曲畫面的喜好樂曲中，點擊「CREATE」，或在LIVE入口畫面點擊［▶遊玩］，並選擇創作譜面進行遊玩。\n\n※遊玩創作譜面時，不會消耗LIVE能量，也不會獲得達成獎勵、過關Live的獎勵及經驗值。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-2-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-2-title",
+            "text": "關於遊玩方式"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-3-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-3-text",
+            "text": "創作譜面可以透過以下三種方式製作。\n\n▼參考官方譜面製作\n選擇樂曲與譜面難度後，引用官方已公開的譜面進行製作。\n\n▼從零開始製作\n選擇樂曲後，從零開始製作譜面。\n\n▼參考玩家譜面製作\n可以引用玩家製作的譜面進行創作。\n※僅可選擇已被允許引用的譜面。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-3-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-3-title",
+            "text": "關於譜面製作"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-4-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-4-text",
+            "text": "選擇音符種類後，點擊欲放置的位置即可配置音符。\n\n▼以下情況將顯示提醒訊息。\n・部分種類的音符發生部分重疊時\n・1小節內設置了128個以上、256個以下的音符時\n・有3個以上音符需同時按壓時\n※即使顯示提醒訊息，仍可造常進行儲存及公開\n\n▼以下情況將無法放置長條音符。\n・總Combo數超過9999時\n・1小節內的音符超過256個時\n\n▼以下情況將無法進行體驗遊玩或公開。\n・未放置任何音符時\n・有6個以上音符需同時按壓時\n・部分種類的音符完全重疊時\n・傷害音符完全覆蓋判定對象音符，或持續中的長條音符時\n・總Combo數超過9999時\n・1小節內放置超過256個音符時"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-4-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-4-title",
+            "text": "關於譜面製作「編輯器」"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-5-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-5-text",
+            "text": "▼選擇工具\n在選擇工具啟用狀態下，點擊編輯器中的音符即可進入選取狀態。\n選取音符後，可以從選項中進行各項調整。\n※詳情請參閱「關於譜面製作『選項』」說明。\n\n可以透過已選取音符側邊的箭頭，調整音符寬度。\n可以同時選取多個音符。\n\n此外，選取選擇工具後，再次點擊選擇工具圖示，可切換為範圍選取模式。\n\n▼橡皮擦工具\n在選擇橡皮擦工具的狀態下，點擊編輯器中的音符即可刪除。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-5-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-5-title",
+            "text": "關於譜面製作「選擇工具與橡皮擦工具」"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-6-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-6-text",
+            "text": "▼一般音符\n可以放置一般音符。\n\n▼重音音符\n可以放置較容易出現PERFECT判定，且具特殊點擊音效的黃色重音音符。\n\n選取重音音符後，點擊已配置的一般音符，可變更為重音音符；點擊重音音符，則可變更為一般音符。\n點擊長條音符，可變更為重音長條音符；點擊重音長條音符，則可變更為長條音符。\n點擊滑動音符，可變更為重音滑動音符；點擊重音滑動音符，則可變更為滑動音符。\n\n▼滑動音符\n可以放置滑動音符。\n\n選取滑動音符後，點擊已配置的一般音符，可變更為滑動音符；點擊滑動音符，則可變更為一般音符。\n點擊長條音符，可將其末端變更為滑動音符；點擊末端為滑動音符的長條音符末端，則可變更為一般長條音符。\n點擊重音音符，可變更為重音滑動音符；點擊重音滑動音符，則可變更為重音音符。\n\n▼長條音符\n可以放置長條音符。\n※詳情請參閱「關於譜面製作「長條音符與中間音符」」說明。\n\n▼中間音符\n可以在長條音符的起點與終點之間放置中間音符。\n※詳情請參閱「關於譜面製作「長條音符與中間音符」」說明。\n\n▼裝飾音符\n可以放置僅用於視覺呈現，不需要點擊的裝飾音符。\n可以和長條音符一樣進行放置。\n此外，裝飾音符還可以變換顏色。\n\n▼傷害音符\n可以放置觸碰後會中斷Combo並減少生命值的傷害音符。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-6-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-6-title",
+            "text": "關於譜面製作「各類音符」"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-7-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-7-text",
+            "text": "使用選擇工具選取長條音符時，會顯示選項。\n可以透過選擇「直線」「曲線1」「曲線2」來調整長條音符的角度。\n\n此外，若使用選擇工具選取長條音符的中間音符，可於選項中將中間音符變更為以下類型。\n\n▼一般\n音符會正常顯示，成功點擊時不僅會增加Combo，還會播放音效並觸發判定特效。\n放置於長條音符路徑上，可使長條音符經過該位置。\n\n▼不可見\n音符不會顯示，也不會產生Combo等成功判定。\n放置於長條音符路徑上，可使長條音符經過該位置。\n可以在不播放音效，不增加Combo的情況下，繪製複雜的曲線或圖形。\n\n▼忽略\n音符會正常顯示，成功點擊時不僅會增加Combo，還會播放音效並觸發判定特效。\n但即使放置於長條音符路徑上，長條音符也不會經過該位置。\n可以在不改變長條音符角度等設定的情況下，放置中間音符。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-7-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-7-title",
+            "text": "關於譜面製作「長條音符與中間音符」"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-8-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-8-text",
+            "text": "使用選擇工具選取音符後，可以開啟該音符的選項。\n在選項中，可以對音符進行複製或剪下操作。\n此外，也能將選取的多個音符儲存為範本，或進行左右、上下翻轉等操作。\n\n只需要長按編輯器畫面就可以貼上，或者鏡像貼上已複製或剪下的音符。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-8-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-8-title",
+            "text": "關於譜面製作「選項」"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-9-text",
+        "data": {
+            "id": "la-help_category-help-creative-chart-9-text",
+            "text": "▼推定難易度\n會依據音符密度顯示推定難易度（Lv）。\n推定難易度達30以上時，統一顯示為Lv30+。\n儲存譜面時，製作者可以自行設定譜面的Lv作為參考Lv。\n\n▼統計資訊\n點擊推定難易度的［i］按鈕，將顯示當前製作譜面的統計資訊。\n可以查看當前製作譜面中的音符數量及總Combo數。\n此外，也可透過全螢幕檢視方式，查看整體譜面的音符配置資訊。"
+        }
+    },
+    {
+        "id": "la-help_category-help-creative-chart-9-title",
+        "data": {
+            "id": "la-help_category-help-creative-chart-9-title",
+            "text": "關於譜面製作「推定難易度與統計資訊」"
+        }
+    },
+    {
+        "id": "la-help_category-help-exchange-1-text",
+        "data": {
+            "id": "la-help_category-help-exchange-1-text",
+            "text": "可在音波菈牡市場使用Holo金幣兌換道具及出售持有的道具。\n部分道具設有兌換期限。"
+        }
+    },
+    {
+        "id": "la-help_category-help-exchange-1-title",
+        "data": {
+            "id": "la-help_category-help-exchange-1-title",
+            "text": "關於音波菈牡市場"
+        }
+    },
+    {
+        "id": "la-help_category-help-exchange-2-text",
+        "data": {
+            "id": "la-help_category-help-exchange-2-text",
+            "text": "可在電玩巨蛋城硬幣兌換所使用電玩巨蛋城硬幣兌換各種道具。\n也可將小遊戲能量轉換為電玩巨蛋城硬幣。"
+        }
+    },
+    {
+        "id": "la-help_category-help-exchange-2-title",
+        "data": {
+            "id": "la-help_category-help-exchange-2-title",
+            "text": "關於電玩巨蛋城硬幣兌換所"
+        }
+    },
+    {
+        "id": "la-help_category-help-friend-1-text",
+        "data": {
+            "id": "la-help_category-help-friend-1-text",
+            "text": "成為好友後，即可邀請好友進入在多人遊玩模式中創建的房間，以及從好友清單查看對方的個人檔案。\n\n▼如何新增好友\n・向其他玩家發送好友申請並獲得同意\n・同意其他玩家發送的好友申請\n\n可在其他玩家的個人檔案中發送好友申請。\n可在新增好友中查看來自其他玩家的好友申請。\n\n※可在好友中的「搜尋ID」搜尋玩家ID，查看對方的個人檔案。\n※好友數量上限為100人。已達上限時，將無法發送與同意好友申請，也無法接收來自其他玩家的好友申請。"
+        }
+    },
+    {
+        "id": "la-help_category-help-friend-1-title",
+        "data": {
+            "id": "la-help_category-help-friend-1-title",
+            "text": "關於好友"
+        }
+    },
+    {
+        "id": "la-help_category-help-gacha-1-text",
+        "data": {
+            "id": "la-help_category-help-gacha-1-text",
+            "text": "消耗鑽石與轉蛋券，即可抽取轉蛋，獲得成員。\n可獲得的角色與出現機率，請查看各轉蛋的「轉蛋詳情」。\n\n每抽取1次轉蛋，即可獲得該轉蛋的轉蛋點數1Pt。\n收集轉蛋Pt達一定數量時，即可在指定的兌換所兌換特定成員。\n※轉蛋Pt與兌換所內容會依舉辦中的轉蛋活動而有所不同。\n\n獲得已持有的成員時，將自動轉換為該成員的綻放Pt。"
+        }
+    },
+    {
+        "id": "la-help_category-help-gacha-1-title",
+        "data": {
+            "id": "la-help_category-help-gacha-1-title",
+            "text": "關於轉蛋"
+        }
+    },
+    {
+        "id": "la-help_category-help-gacha-2-text",
+        "data": {
+            "id": "la-help_category-help-gacha-2-text",
+            "text": "可在轉蛋紀錄中查看抽取轉蛋的歷史紀錄。\n可查看過去30天內，最多100筆資料。"
+        }
+    },
+    {
+        "id": "la-help_category-help-gacha-2-title",
+        "data": {
+            "id": "la-help_category-help-gacha-2-title",
+            "text": "關於轉蛋紀錄"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-1-text",
+        "data": {
+            "id": "la-help_category-help-game-1-text",
+            "text": "夢幻樂園中有各種可遊玩小遊戲的設施。\n遊玩小遊戲，即可獲得可用於指定區域的道具等獎勵。\n部分小遊戲可支援多人遊玩。\n\n多人小遊戲設有隱藏模式。開啟後可隱藏玩家名稱與個人檔案。\n※不適用於私人房間。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-1-title",
+        "data": {
+            "id": "la-help_category-help-game-1-title",
+            "text": "關於小遊戲"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-2-text",
+        "data": {
+            "id": "la-help_category-help-game-2-text",
+            "text": "部分小遊戲可在開始前設定小遊戲能量。\n消耗的小遊戲能量越多，結算時可獲得的獎勵也會提升。\n※小遊戲能量將於結算時消耗。\n\n小遊戲能量每7分鐘回復1次，最多可回復至100。\n亦可將小遊戲能量果凍轉換為小遊戲能量。\n使用小遊戲能量果凍進行轉換的最高上限為999。\n轉換後超過999時，無法進行轉換。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-2-title",
+        "data": {
+            "id": "la-help_category-help-game-2-title",
+            "text": "關於小遊戲能量"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-3-text",
+        "data": {
+            "id": "la-help_category-help-game-3-text",
+            "text": "蹦蹦大跳繩是要避免被旋轉的大跳繩絆到，持續累積跳躍次數的小遊戲。\n在多人遊玩模式中，最多可5名玩家同遊。\n\n請點選蹦蹦大跳繩主畫面中的［？］查看遊戲規則等詳情。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-3-title",
+        "data": {
+            "id": "la-help_category-help-game-3-title",
+            "text": "關於蹦蹦大跳繩"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-4-text",
+        "data": {
+            "id": "la-help_category-help-game-4-text",
+            "text": "食材妙廚房是在限定時間內，收集指定食材完成料理的益智遊戲。\n僅支援單人遊玩。\n\n請點選食材妙廚房主畫面中的［？］查看遊戲規則等詳情。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-4-title",
+        "data": {
+            "id": "la-help_category-help-game-4-title",
+            "text": "關於食材妙廚房"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-5-text",
+        "data": {
+            "id": "la-help_category-help-game-5-text",
+            "text": "極限跑道是最多可支援16名玩家同時參與的障礙競速遊戲。\n僅支援多人遊玩。\n\n請點選極限跑道主畫面中的［？］查看遊戲規則等詳情。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-5-title",
+        "data": {
+            "id": "la-help_category-help-game-5-title",
+            "text": "關於極限跑道"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-6-text",
+        "data": {
+            "id": "la-help_category-help-game-6-text",
+            "text": "撲克屋！是可4人同遊的卡牌遊戲。\n可使用手牌組成牌型，並根據完成的牌型賺取硬幣。\n\n請點選撲克屋！主畫面中的［？］查看遊戲規則等詳情。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-6-title",
+        "data": {
+            "id": "la-help_category-help-game-6-title",
+            "text": "關於撲克屋！"
+        }
+    },
+    {
+        "id": "la-help_category-help-item-1-text",
+        "data": {
+            "id": "la-help_category-help-item-1-text",
+            "text": "可在持有物中查看持有的各種道具數量、用途與獲得方法。\n設有使用期限的道具，會顯示使用期限。\n※超過使用期限的道具將會消失。"
+        }
+    },
+    {
+        "id": "la-help_category-help-item-1-title",
+        "data": {
+            "id": "la-help_category-help-item-1-title",
+            "text": "關於持有物"
+        }
+    },
+    {
+        "id": "la-help_category-help-item-2-text",
+        "data": {
+            "id": "la-help_category-help-item-2-text",
+            "text": "自選禮盒是可自選1個心愛道具的獎勵盒。\n選擇持有物中的自選禮盒，即可選擇道具。"
+        }
+    },
+    {
+        "id": "la-help_category-help-item-2-title",
+        "data": {
+            "id": "la-help_category-help-item-2-title",
+            "text": "關於自選禮盒？"
+        }
+    },
+    {
+        "id": "la-help_category-help-option-1-text",
+        "data": {
+            "id": "la-help_category-help-option-1-text",
+            "text": "可在選項中設定控制、畫面、音效、通知、系統與檔案。"
+        }
+    },
+    {
+        "id": "la-help_category-help-option-1-title",
+        "data": {
+            "id": "la-help_category-help-option-1-title",
+            "text": "關於選項"
+        }
+    },
+    {
+        "id": "la-help_category-help-option-2-text",
+        "data": {
+            "id": "la-help_category-help-option-2-text",
+            "text": "可在Live選項中設定Live中設定、外觀、音效與詳細設定。"
+        }
+    },
+    {
+        "id": "la-help_category-help-option-2-title",
+        "data": {
+            "id": "la-help_category-help-option-2-title",
+            "text": "關於Live選項"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-1-text",
+        "data": {
+            "id": "la-help_category-help-park-1-text",
+            "text": "可在夢幻樂園控制任意holo成員、遊玩Live與小遊戲，並建造設施開拓樂園。\n\n推進劇情還可解鎖新區域，遊玩該區域限定的小遊戲與利用設施。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-1-title",
+        "data": {
+            "id": "la-help_category-help-park-1-title",
+            "text": "關於夢幻樂園？"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-10-text",
+        "data": {
+            "id": "la-help_category-help-park-10-text",
+            "text": "時間分「早晨」「傍晚」「夜晚」三個時段。\n夢幻樂園內設有可自由變更時間的設施。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-10-title",
+        "data": {
+            "id": "la-help_category-help-park-10-title",
+            "text": "關於時間"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-11-text",
+        "data": {
+            "id": "la-help_category-help-park-11-text",
+            "text": "可變更在夢幻樂園內控制的holo成員的服裝與配件。\n可透過［夢幻樂園］→［holo成員圖示］→［服裝圖示］的步驟變更holo成員的服裝。\n※僅可選擇已過關Holo成員關卡的holo成員。\n\n服裝可透過轉蛋或會員資格，配件可透過任務通行證等方式獲得。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-11-title",
+        "data": {
+            "id": "la-help_category-help-park-11-title",
+            "text": "關於變更樂園服裝與配件"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-12-text",
+        "data": {
+            "id": "la-help_category-help-park-12-text",
+            "text": "寶箱會隨劇情推進，設置於夢幻樂園中的各個地點。\n開啟寶箱，即可獲得各種道具。\n\n可在地圖中查看設置的寶箱數量。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-12-title",
+        "data": {
+            "id": "la-help_category-help-park-12-title",
+            "text": "關於寶箱"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-13-text",
+        "data": {
+            "id": "la-help_category-help-park-13-text",
+            "text": "隱藏寶箱會隨劇情推進，出現於夢幻樂園中的各個地點。\n拾取隱藏寶箱，即可獲得各種道具。\n\n隱藏寶箱每天會在各個地點出現。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-13-title",
+        "data": {
+            "id": "la-help_category-help-park-13-title",
+            "text": "關於隱藏寶箱"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-2-text",
+        "data": {
+            "id": "la-help_category-help-park-2-text",
+            "text": "獲得的夢幻RankExp達一定量時，即可提升夢幻Rank。\n可透過遊玩Live與過關關卡獲得夢幻RankEXP。\n夢幻Rank提升後，即可領取Rank提升獎勵。\n\n可透過［選單］→［個人檔案］→［夢幻Rank］→［全部領取］的步驟領取Rank提升獎勵。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-2-title",
+        "data": {
+            "id": "la-help_category-help-park-2-title",
+            "text": "關於夢幻Rank"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-3-text",
+        "data": {
+            "id": "la-help_category-help-park-3-text",
+            "text": "可變更在夢幻樂園內控制的holo成員。\n可透過［夢幻樂園］→［holo成員圖示］的步驟變更holo成員。\n※僅可選擇已過關Holo成員關卡的holo成員。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-3-title",
+        "data": {
+            "id": "la-help_category-help-park-3-title",
+            "text": "關於變更holo成員"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-4-text",
+        "data": {
+            "id": "la-help_category-help-park-4-text",
+            "text": "可在夢幻樂園內建造設施。\n消耗指定素材建造設施後，即可使用該設施。\n\n部分設施可進行升級，升級後將會新增增益效果。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-4-title",
+        "data": {
+            "id": "la-help_category-help-park-4-title",
+            "text": "關於設施"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-5-text",
+        "data": {
+            "id": "la-help_category-help-park-5-text",
+            "text": "可在地圖中查看夢幻樂園內的設施與正在進行的關卡。\n選擇地圖中的圖示，點選［移動］，即可移動至選擇的地點。\n\n可透過［夢幻樂園］→［地圖圖示］的步驟查看地圖。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-5-title",
+        "data": {
+            "id": "la-help_category-help-park-5-title",
+            "text": "關於地圖"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-6-text",
+        "data": {
+            "id": "la-help_category-help-park-6-text",
+            "text": "可在攝影模式中控制鏡頭，在夢幻樂園內自由拍攝。\n\n可透過拖曳調整鏡頭角度，使用雙指縮放鏡頭，並點擊畫面進行對焦。\n另外還具備對焦holo成員及切換顯示與隱藏等多種功能。\n\n拍攝的照片可儲存至裝置中。\n※若要儲存至裝置，將會顯示相簿存取權限的確認畫面。\n\n可透過［夢幻樂園］→［鏡頭圖示］的步驟開啟攝影模式。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-6-title",
+        "data": {
+            "id": "la-help_category-help-park-6-title",
+            "text": "關於攝影模式"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-7-text",
+        "data": {
+            "id": "la-help_category-help-park-7-text",
+            "text": "在表情選單中選擇表情，holo成員將會擺出各種姿勢與動作。\n可在夢幻樂園中拍攝時，或多人遊玩互動時，活用表情功能增添樂趣。\n\n可透過［夢幻樂園］→［表情圖示］的步驟查看表情選單。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-7-title",
+        "data": {
+            "id": "la-help_category-help-park-7-title",
+            "text": "關於表情"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-8-text",
+        "data": {
+            "id": "la-help_category-help-park-8-text",
+            "text": "隨身物品是holo成員可持有的道具。\n每位holo成員皆有專屬的隨身物品。\n可在夢幻樂園內的商店使用Holo獎牌獲得隨身物品。\n\n可透過［夢幻樂園］→［表情圖示］→［包包圖示］的步驟查看隨身物品選單。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-8-title",
+        "data": {
+            "id": "la-help_category-help-park-8-title",
+            "text": "關於隨身物品"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-9-text",
+        "data": {
+            "id": "la-help_category-help-park-9-text",
+            "text": "在貼圖選單中選擇貼圖，holo成員頭上將會顯示貼圖。\n可在多人遊玩互動時，活用貼圖功能增添樂趣。\n可在自訂個人檔案中設置已持有的貼圖。\n\n可透過［夢幻樂園］→［表情圖示］→［貼圖圖示］的步驟查看貼圖選單。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-9-title",
+        "data": {
+            "id": "la-help_category-help-park-9-title",
+            "text": "關於貼圖"
+        }
+    },
+    {
+        "id": "la-help_category-help-poster-1-text",
+        "data": {
+            "id": "la-help_category-help-poster-1-text",
+            "text": "持有回憶卡時，隊伍能力將會提升。\n持有的回憶卡越多，提升值越高。"
+        }
+    },
+    {
+        "id": "la-help_category-help-poster-1-title",
+        "data": {
+            "id": "la-help_category-help-poster-1-title",
+            "text": "關於回憶卡"
+        }
+    },
+    {
+        "id": "la-help_category-help-poster-2-text",
+        "data": {
+            "id": "la-help_category-help-poster-2-text",
+            "text": "可在回憶卡展示架查看持有的回憶卡。\n可在回憶展示架設置1～4張持有的成員與回憶卡。\n設置的成員與回憶卡，將會顯示在回憶卡展示架上。"
+        }
+    },
+    {
+        "id": "la-help_category-help-poster-2-title",
+        "data": {
+            "id": "la-help_category-help-poster-2-title",
+            "text": "關於回憶卡展示架"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-1-text",
+        "data": {
+            "id": "la-help_category-help-profile-1-text",
+            "text": "可在個人檔案中查看ID、玩家名稱、個人狀態、稱號與最佳隊伍等資訊。\n可編輯玩家名稱、個人狀態、自訂個人檔案與稱號。"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-1-title",
+        "data": {
+            "id": "la-help_category-help-profile-1-title",
+            "text": "關於個人檔案"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-2-text",
+        "data": {
+            "id": "la-help_category-help-profile-2-text",
+            "text": "自訂個人檔案將會顯示於個人檔案、排名與多人遊玩等畫面。\n可以成員與回憶卡為模板，在上面自由設置稱號與貼圖物件。\n最多可儲存20個已建立的自訂個人檔案（含預設檔案）。"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-2-title",
+        "data": {
+            "id": "la-help_category-help-profile-2-title",
+            "text": "關於自訂個人檔案"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-3-text",
+        "data": {
+            "id": "la-help_category-help-profile-3-text",
+            "text": "個人檔案的基本資訊、holo成員、Live、遊戲可切換為公開/非公開。\n可在各項資訊下方進行切換。"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-3-title",
+        "data": {
+            "id": "la-help_category-help-profile-3-title",
+            "text": "關於公開設定"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-4-text",
+        "data": {
+            "id": "la-help_category-help-profile-4-text",
+            "text": "可在5個欄位內自由設置個人檔案的稱號。\n稱號占用的欄位數將依尺寸而定。\n\n▼各種尺寸占用的欄位數\n・S尺寸：1個欄位\n・M尺寸：2個欄位\n・L尺寸：3個欄位"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-4-title",
+        "data": {
+            "id": "la-help_category-help-profile-4-title",
+            "text": "關於稱號"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-5-text",
+        "data": {
+            "id": "la-help_category-help-profile-5-text",
+            "text": "可在其他玩家的個人檔案中將該玩家封鎖。\n封鎖後將設有以下限制。\n\n▼限制內容\n・雙方無法在多人遊玩中進行配對\n・雙方無法進入彼此創建的私人房間\n\n可在好友畫面的封鎖清單中查看已封鎖的玩家。\n可在封鎖清單或對方的個人檔案中解除對玩家的封鎖。\n\n※已成為好友的玩家無法封鎖。\n※封鎖人數上限為100人。"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-5-title",
+        "data": {
+            "id": "la-help_category-help-profile-5-title",
+            "text": "關於封鎖清單"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-6-text",
+        "data": {
+            "id": "la-help_category-help-profile-6-text",
+            "text": "可在其他玩家的個人檔案中檢舉該玩家。\n違規帳號將視內容及情節嚴重程度，暫時或永久停權。"
+        }
+    },
+    {
+        "id": "la-help_category-help-profile-6-title",
+        "data": {
+            "id": "la-help_category-help-profile-6-title",
+            "text": "關於檢舉"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-1-text",
+        "data": {
+            "id": "la-help_category-help-quest-1-text",
+            "text": "過關關卡，即可推進劇情、獲得獎勵與解鎖新關卡等。\n\n可透過［夢幻樂園］→［書本圖示］的步驟，查看正在進行的關卡。\n可透過［關卡］→［追蹤］的步驟切換追蹤的關卡。\n\n以達成目標Live分數為過關條件的關卡，會在Live開始前的隊伍編組畫面顯示過關標準。\n過關標準依「★＞〇＞△＞×」的順序顯示，越接近★則代表越容易過關。\n※若過關標準顯示為「×」，則無法挑戰該Live。只要滿足必要的隊伍分數條件即可進行挑戰。"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-1-title",
+        "data": {
+            "id": "la-help_category-help-quest-1-title",
+            "text": "關於關卡"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-2-text",
+        "data": {
+            "id": "la-help_category-help-quest-2-text",
+            "text": "主線關卡是遊戲的主要劇情關卡。\n過關關卡後，除推進劇情與獲得獎勵外，還可解鎖新功能。"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-2-title",
+        "data": {
+            "id": "la-help_category-help-quest-2-title",
+            "text": "關於主線關卡"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-3-text",
+        "data": {
+            "id": "la-help_category-help-quest-3-text",
+            "text": "區域關卡是在各區域觸發的關卡。\n過關關卡，即可推進劇情與獲得獎勵。"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-3-title",
+        "data": {
+            "id": "la-help_category-help-quest-3-title",
+            "text": "關於區域關卡"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-4-text",
+        "data": {
+            "id": "la-help_category-help-quest-4-text",
+            "text": "Holo成員關卡是每位holo成員的專屬關卡。\n與今日可會面的holo成員對話，即可開始進行Holo成員關卡。\n\n可會面的holo成員每天會更新。\n使用holo成員邀請函邀請holo成員，該holo成員將會登場。\n過關holo成員關卡，即可解鎖該holo成員與專屬樂曲。\n可在變更holo成員中選擇已解鎖的holo成員。\n\n※日期變更後，正在進行的Holo成員關卡將會重置（已邀請的holo成員除外）"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-4-title",
+        "data": {
+            "id": "la-help_category-help-quest-4-title",
+            "text": "關於Holo成員關卡"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-5-text",
+        "data": {
+            "id": "la-help_category-help-quest-5-text",
+            "text": "每日關卡每天都會更新。\n過關即可獲得獎勵。\n日期變更重置後，即可再次挑戰！"
+        }
+    },
+    {
+        "id": "la-help_category-help-quest-5-title",
+        "data": {
+            "id": "la-help_category-help-quest-5-title",
+            "text": "關於每日關卡"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-1-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-1-text",
+            "text": "可在Live遊玩節奏遊戲。\n過關Live，即可獲得獎勵與成員EXP。\n\n難易度分「EASY」「NORMAL」「HARD」「EXPERT」四階段。\n各樂曲均設樂曲等級，樂曲等級越高，難度也會提升。\n\n可遊玩單人模式，以及最多可5人同遊的多人模式。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-1-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-1-title",
+            "text": "關於Live"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-10-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-10-text",
+            "text": "可在Live開始前設定Live能量。\n消耗的Live能量越多，過關Live時可獲得的獎勵與成員EXP也會提升。\n※Live能量將於過關Live時消耗。中途結束Live，將不會消耗Live能量。\n\nLive能量每45分鐘回復1次，最多可回復至10。\n亦可將Live能量飲料與鑽石轉換為Live能量。\n使用Live能量飲料與鑽石進行轉換的最高上限為99。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-10-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-10-title",
+            "text": "關於Live能量"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-11-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-11-text",
+            "text": "多人Live最多可5人同遊。\n多人Live包含以下選單。\n\n▼多人Live選單\n・自由模式：所有玩家皆可遊玩，採隨機配對\n・進階模式：隊伍分數達一定標準後即可遊玩，會與隊伍分數相近的玩家配對\n・創建房間：僅限受邀請或輸入房間ID的玩家可遊玩\n\n多人Live的樂曲，將從每位玩家各自選擇的樂曲中抽選。\n\n此外，多人Live設有隱藏模式，開啟後將隱藏玩家名稱或個人檔案。\n※此功能不適用於私人房間。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-11-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-11-title",
+            "text": "關於多人Live"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-12-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-12-text",
+            "text": "自動Live是消耗自動票券自動遊玩Live的功能。\n在Live前的隊伍編組畫面開啟「AUTO」設定即可使用。\n\n遊玩自動Live，判定僅限專用「AUTO」，不會觸發Combo分數加成。\n判定等資訊亦不會顯示於結算畫面。\n\n※遊玩自動Live，無法達成部分成就。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-12-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-12-title",
+            "text": "關於自動Live？"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-2-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-2-text",
+            "text": "隊伍中可編入1名holo成員為隊長與5名隊員。\n每位holo成員最多可編入10組隊伍。\n\n隊伍分數是影響Live分數的指標參數。\n隊伍分數越高，獲得分數也會提升。\n隊長的服裝技能、成員的能力與技能等皆會影響隊伍分數。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-2-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-2-title",
+            "text": "關於隊伍"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-3-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-3-text",
+            "text": "音符是在Live中沿著軌道流動的圖示。\n當軌道上流動的音符與判定線重合時，依不同音符的操作方式進行操作，即會進行判定。\n\n判定種類分PERFECT、GREAT、GOOD、BAD、MISS，將會影響分數與Combo。\n判定為GREAT以上時，將持續累積Combo。判定為GOOD、BAD、MISS時，則會中斷Combo。\n判定為BAD、MISS時，生命值會同步減少。\n\n音符分為以下幾種。\n\n▼藍色一般音符\n需與判定線重合時點擊\n\n▼粉紅色滑動音符\n音符落下時滑動\n※當連續出現滑動音符時，可以將手指放在畫面上連續進行滑動。\n\n▼綠色長條音符\n長按音符並沿著軌跡滑動\n※長條音符到達終點時，即使沒有抓準時機放開手指，也不會影響判定。\n※長條音符途中短暫鬆開手指仍可持續，因此在需要滑動的譜面中，可以切換手指接續操作。\n\n▼黃色重音音符\n較容易出現PERFECT判定，且具特殊點擊音效的音符\n\n▼灰色音符\n開啟Live選項的節奏輔助後，反拍等節奏的一般音符將會變成灰色，有助於更準確地掌握節奏。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-3-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-3-title",
+            "text": "關於音符與判定"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-4-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-4-text",
+            "text": "生命值是持續進行Live所需的數值。\n\n判定為BAD、MISS時，生命值會減少。生命值歸零時，Live將會結束。\nLive結束時，可選擇「退出」「重新挑戰」「繼續」。\n\n▼退出\n選擇退出將會結束Live。\n※無法獲得Live獎勵。\n\n▼重新挑戰\n選擇重新挑戰將會重新開始Live。\n\n▼繼續\n選擇繼續將會繼續進行Live，且生命值完全回復。\n需消耗20個鑽石才可繼續進行Live。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-4-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-4-title",
+            "text": "關於生命值"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-5-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-5-text",
+            "text": "分數是根據音符判定獲得的點數。\n音符判定評價越高、Combo數越多，能獲得的分數也越高。\n獲得的分數將會影響分數Rank。\n分數Rank越高，過關Live時的獎勵越豐厚。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-5-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-5-title",
+            "text": "關於分數與分數Rank"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-6-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-6-text",
+            "text": "分數排名將依單人模式中每首樂曲的最高分排序。\n樂曲所有難度中的最高分將記錄為樂曲的最高分。\n※若分數排名的分數與其他玩家相同，將依達成先後排序。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-6-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-6-title",
+            "text": "關於分數排名"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-7-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-7-text",
+            "text": "Holo成員評級是依最高分來結算的數值。\n每首樂曲僅在列入評級的holo成員編組為隊長時才會儲存紀錄。\n每位holo成員最高分的前3首樂曲評分總和，將會列入該holo成員的評級中。\n\n※遊玩steam版不計入Holo成員評級。\n\n此外，在Holo成員評級中，排名稱號會根據每週的排名結果進行更新！\n※排名稱號將依統計時的排名發放，若在下次統計時已不在排名稱號的適用名次範圍內，該稱號將會被移除。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-7-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-7-title",
+            "text": "關於Holo成員評級"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-8-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-8-text",
+            "text": "每首樂曲皆有達成獎勵。達成條件包含分數Rank、最大Combo數、Full Combo達成難易度與過關次數。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-8-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-8-title",
+            "text": "關於達成獎勵"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-9-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-9-text",
+            "text": "可在樂曲商店使用音樂光碟兌換樂曲。\n已兌換的樂曲可在Live中遊玩。\n\n可透過主線關卡等方式獲得音樂光碟。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-9-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-9-title",
+            "text": "關於樂曲商店"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-1-text",
+        "data": {
+            "id": "la-help_category-help-shop-1-text",
+            "text": "可在商店購買藍鑽石、禮包、Holo通行證、豪華任務通行證與加入會員資格。\n\n還可在兌換Holo貼紙中使用兌換Holo貼紙道具，在兌換特殊Holo貼紙中使用兌換特殊Holo貼紙道具。"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-1-title",
+        "data": {
+            "id": "la-help_category-help-shop-1-title",
+            "text": "關於商店"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-2-text",
+        "data": {
+            "id": "la-help_category-help-shop-2-text",
+            "text": "Holo通行證是支付月費即可享有各種特典的月費制服務。\n\n▼有效期限內的特典\n・獎勵加成：過關Live與小遊戲的獎勵提升為2倍。\n・提升能量上限：Live能量與小遊戲能量上限值提升為2倍。\n\n▼購買/續訂的特典\n・購買/續訂時，將獲得藍鑽石×360。\n\n▼注意事項\n・Holo通行證的有效期限為購買/續訂日起1個月。\n・訂閱中的Holo通行證在有效期限結束後將會自動續訂。\n・Steam版無法購買。但在iOS、Android版購買的Holo通行證效果同樣適用於Steam版。\n・請透過［夢幻樂園］→［選單］→［商店］→［Holo通行證］，點選「＋」後，從畫面中顯示的「詳情」中查看Holo通行證的取消方法。"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-2-title",
+        "data": {
+            "id": "la-help_category-help-shop-2-title",
+            "text": "關於Holo通行證"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-3-text",
+        "data": {
+            "id": "la-help_category-help-shop-3-text",
+            "text": "會員資格是支付月費即可享有各種特典的訂閱制服務。\n每位holo成員皆有專屬的會員資格與特典內容。\n\n▼有效期間內的特典\n・加入特典貼圖\n・加入特典稱號\n・官方粉絲標誌\n※每位holo成員的特典內容各有不同。\n※超過有效期限將無法使用。\n\n▼加入/續訂的特典\n▽初次訂閱時\n・該名holo成員的會員獎牌×6（其中3枚為初次訂閱特典）\n\n▽第二次起訂閱時\n・該名holo成員的會員獎牌×3\n\n▽續訂時\n・該名holo成員的會員獎牌×3\n\n※於加入/續訂後登入時發放。\n※會員獎牌可兌換會員專區的道具。\n※使用會員獎牌兌換的特典，取消會員資格後仍可使用。\n※解鎖指定的holo成員後，即可使用會員特典的表情與樂園服裝。\n\n▼注意事項\n・會員資格的有效期限為加入/續訂日起1個月。\n・訂閱中的會員資格在有效期限結束後將會自動續訂。\n・Steam版無法加入。但在iOS、Android版加入會員資格的特典同樣適用於Steam版。\n・請透過［夢幻樂園］→［選單］→［商店］→［會員資格］，點選「＋」後，從畫面中顯示的「詳情」中查看會員資格的取消方法。"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-3-title",
+        "data": {
+            "id": "la-help_category-help-shop-3-title",
+            "text": "關於會員資格"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-4-text",
+        "data": {
+            "id": "la-help_category-help-shop-4-text",
+            "text": "任務通行證可透過提升任務等級獲得各種獎勵。\n可透過達成任務收集任務Pt，提升任務等級。\n\n任務通行證分免費通行證與需購買才可解鎖的豪華通行證。\n解鎖豪華通行證後，可一併領取已達成的等級獎勵。\n任務通行證設有期限，超過期限，賽季將會結束。\n有效期限結束後，未領取的獎勵將會自動送至禮物盒。 \n※任務Pt、任務等級、豪華通行證不會繼承到下個賽季。"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-4-title",
+        "data": {
+            "id": "la-help_category-help-shop-4-title",
+            "text": "關於任務通行證"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-5-text",
+        "data": {
+            "id": "la-help_category-help-shop-5-text",
+            "text": "可在兌換Holo貼紙中使用兌換Holo貼紙各種商品。\n\n可透過以下方法獲得Holo貼紙。\n\n▼Holo貼紙的獲得方法與獲得張數\n・轉蛋Pt的兌換期限到期時：每1Pt可換1張\n・獲得已綻放至最後階段的3★成員：1張\n・獲得已綻放至最後階段的4★成員：20張\n※獲得已持有的綻放Pt足以使其綻放至最後階段的3★、4★成員，亦可適用。"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-5-title",
+        "data": {
+            "id": "la-help_category-help-shop-5-title",
+            "text": "關於兌換Holo貼紙"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-6-text",
+        "data": {
+            "id": "la-help_category-help-shop-6-text",
+            "text": "可在兌換特殊Holo貼紙中使用特殊Holo貼紙兌換各種商品。\n\n可透過以下方法獲得特殊Holo貼紙。\n\n▼特殊Holo貼紙的獲得方法與獲得張數\n・獲得5★成員：30張\n・獲得已綻放至最後階段的5★成員：100張\n※若獲得的5★成員已綻放至最後階段，將可獲得合計130張。\n※獲得已持有的綻放Pt足以使其綻放至最後階段的5★成員，亦可適用。"
+        }
+    },
+    {
+        "id": "la-help_category-help-shop-6-title",
+        "data": {
+            "id": "la-help_category-help-shop-6-title",
+            "text": "關於兌換特殊Holo貼紙"
+        }
+    },
+    {
+        "id": "la-help_category-help-work-1-text",
+        "data": {
+            "id": "la-help_category-help-work-1-text",
+            "text": "在Holowork編組成員進行活動，即可獲得獎勵。\n編組成員的總合力越高，結束時越容易獲得更高評價。\n各項活動開始後經過指定時間，即可領取獎勵。\n獎勵將依結束時的評價決定。\n各項活動中皆有狀態極佳的成員，該成員的能力將會提升。\n\nHolowork的活動內容將於更新時間歸零時進行更新。\n若更新時仍在進行活動，將於活動結束時進行更新。\n可於Holowork主畫面查看更新時間。"
+        }
+    },
+    {
+        "id": "la-help_category-help-work-1-title",
+        "data": {
+            "id": "la-help_category-help-work-1-title",
+            "text": "Holowork"
+        }
+    }
+]

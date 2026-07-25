@@ -1,0 +1,44 @@
+[
+    {
+        "id": "la-semi_resource_type_detail-card_potential_upgrade_point-description",
+        "data": {
+            "id": "la-semi_resource_type_detail-card_potential_upgrade_point-description",
+            "text": "用於成員才能綻放的Pt。"
+        }
+    },
+    {
+        "id": "la-semi_resource_type_detail-card_potential_upgrade_point-name",
+        "data": {
+            "id": "la-semi_resource_type_detail-card_potential_upgrade_point-name",
+            "text": "成員綻放Pt"
+        }
+    },
+    {
+        "id": "la-semi_resource_type_detail-live_reward_up_stamina-description",
+        "data": {
+            "id": "la-semi_resource_type_detail-live_reward_up_stamina-description",
+            "text": "提升Live獎勵的道具。"
+        }
+    },
+    {
+        "id": "la-semi_resource_type_detail-live_reward_up_stamina-name",
+        "data": {
+            "id": "la-semi_resource_type_detail-live_reward_up_stamina-name",
+            "text": "Live能量"
+        }
+    },
+    {
+        "id": "la-semi_resource_type_detail-mini_game_reward_up_stamina-description",
+        "data": {
+            "id": "la-semi_resource_type_detail-mini_game_reward_up_stamina-description",
+            "text": "提升小遊戲獎勵的道具。"
+        }
+    },
+    {
+        "id": "la-semi_resource_type_detail-mini_game_reward_up_stamina-name",
+        "data": {
+            "id": "la-semi_resource_type_detail-mini_game_reward_up_stamina-name",
+            "text": "小遊戲能量"
+        }
+    }
+]

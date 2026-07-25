@@ -1,0 +1,79 @@
+[
+    {
+        "id": "la-tutorial-card_level_limit_break-01",
+        "data": {
+            "id": "la-tutorial-card_level_limit_break-01",
+            "text": "可透過特訓讓成員進一步提升能力"
+        }
+    },
+    {
+        "id": "la-tutorial-custom_palette-01",
+        "data": {
+            "id": "la-tutorial-custom_palette-01",
+            "text": "先選擇模板吧！"
+        }
+    },
+    {
+        "id": "la-tutorial-custom_palette-02",
+        "data": {
+            "id": "la-tutorial-custom_palette-02",
+            "text": "也可全自動生成卡片！"
+        }
+    },
+    {
+        "id": "la-tutorial-game_start-07",
+        "data": {
+            "id": "la-tutorial-game_start-07",
+            "text": "依照指示推進關卡吧"
+        }
+    },
+    {
+        "id": "la-tutorial-game_start-12-1",
+        "data": {
+            "id": "la-tutorial-game_start-12-1",
+            "text": "開啟地圖查看目的地吧"
+        }
+    },
+    {
+        "id": "la-tutorial-game_start-12-2",
+        "data": {
+            "id": "la-tutorial-game_start-12-2",
+            "text": "前往標記的位置吧"
+        }
+    },
+    {
+        "id": "la-tutorial-live-01-1",
+        "data": {
+            "id": "la-tutorial-live-01-1",
+            "text": "可隨時於此處開始遊玩Live"
+        }
+    },
+    {
+        "id": "la-tutorial-live-01-2",
+        "data": {
+            "id": "la-tutorial-live-01-2",
+            "text": "繼續推進關卡吧"
+        }
+    },
+    {
+        "id": "la-tutorial-park_character_quest-01",
+        "data": {
+            "id": "la-tutorial-park_character_quest-01",
+            "text": "查看新關卡吧"
+        }
+    },
+    {
+        "id": "la-tutorial-park_character_set-01",
+        "data": {
+            "id": "la-tutorial-park_character_set-01",
+            "text": "嘗試變更控制的holo成員吧"
+        }
+    },
+    {
+        "id": "la-tutorial-skill_tree-01-1",
+        "data": {
+            "id": "la-tutorial-skill_tree-01-1",
+            "text": "在Holo成員面板進一步培育holo成員們的能力吧"
+        }
+    }
+]

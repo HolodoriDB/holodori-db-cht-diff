@@ -1,0 +1,583 @@
+[
+    {
+        "id": "la-generated-live_skill_effect_target-all-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-all-description",
+            "text": "全體成員的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_1-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_1-1-description",
+            "text": "1名[attribute=cute]可愛類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_1-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_1-2-description",
+            "text": "2名[attribute=cute]可愛類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_1-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_1-3-description",
+            "text": "3名[attribute=cute]可愛類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_1-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_1-4-description",
+            "text": "4名[attribute=cute]可愛類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_1-5-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_1-5-description",
+            "text": "5名[attribute=cute]可愛類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_2-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_2-1-description",
+            "text": "1名[attribute=pure]清純類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_2-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_2-2-description",
+            "text": "2名[attribute=pure]清純類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_2-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_2-3-description",
+            "text": "3名[attribute=pure]清純類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_2-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_2-4-description",
+            "text": "4名[attribute=pure]清純類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_2-5-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_2-5-description",
+            "text": "5名[attribute=pure]清純類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_3-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_3-1-description",
+            "text": "1名[attribute=happy]快樂類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_3-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_3-2-description",
+            "text": "2名[attribute=happy]快樂類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_3-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_3-3-description",
+            "text": "3名[attribute=happy]快樂類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_3-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_3-4-description",
+            "text": "4名[attribute=happy]快樂類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-attribute-attribute_3-5-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-attribute-attribute_3-5-description",
+            "text": "5名[attribute=happy]快樂類型[/attribute]的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-1-description",
+            "text": "1名Advent的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-2-description",
+            "text": "2名Advent的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-3-description",
+            "text": "3名Advent的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-4-description",
+            "text": "4名Advent的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-5-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-advent-5-description",
+            "text": "5名Advent的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-1-description",
+            "text": "1名GAMERS的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-2-description",
+            "text": "2名GAMERS的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-3-description",
+            "text": "3名GAMERS的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gamers-4-description",
+            "text": "4名GAMERS的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-1-description",
+            "text": "1名0期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-2-description",
+            "text": "2名0期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-3-description",
+            "text": "3名0期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-4-description",
+            "text": "4名0期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-5-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_0-5-description",
+            "text": "5名0期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-1-description",
+            "text": "1名1期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-2-description",
+            "text": "2名1期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-3-description",
+            "text": "3名1期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_1-4-description",
+            "text": "4名1期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-1-description",
+            "text": "1名2期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-2-description",
+            "text": "2名2期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-3-description",
+            "text": "3名2期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_2-4-description",
+            "text": "4名2期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-1-description",
+            "text": "1名3期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-2-description",
+            "text": "2名3期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-3-description",
+            "text": "3名3期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_3-4-description",
+            "text": "4名3期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-1-description",
+            "text": "1名4期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-2-description",
+            "text": "2名4期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-3-description",
+            "text": "3名4期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_4-4-description",
+            "text": "4名4期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-1-description",
+            "text": "1名5期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-2-description",
+            "text": "2名5期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-3-description",
+            "text": "3名5期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-gen_5-4-description",
+            "text": "4名5期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-1-description",
+            "text": "1名holoX的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-2-description",
+            "text": "2名holoX的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-3-description",
+            "text": "3名holoX的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-holox-4-description",
+            "text": "4名holoX的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-description",
+            "text": "0名hololive ID的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-1-description",
+            "text": "1名hololive ID的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-2-description",
+            "text": "2名hololive ID的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-3-description",
+            "text": "3名hololive ID的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-4-description",
+            "text": "4名hololive ID的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-5-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-5-description",
+            "text": "5名hololive ID的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-1-description",
+            "text": "1名ID1期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-2-description",
+            "text": "2名ID1期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_1-3-description",
+            "text": "3名ID1期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-1-description",
+            "text": "1名ID2期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-2-description",
+            "text": "2名ID2期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_2-3-description",
+            "text": "3名ID2期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-1-description",
+            "text": "1名ID3期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-2-description",
+            "text": "2名ID3期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-indonesia-gen_3-3-description",
+            "text": "3名ID3期生的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-1-description",
+            "text": "1名Myth的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-2-description",
+            "text": "2名Myth的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-3-description",
+            "text": "3名Myth的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-myth-4-description",
+            "text": "4名Myth的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-1-description",
+            "text": "1名Promise的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-2-description",
+            "text": "2名Promise的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-3-description",
+            "text": "3名Promise的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-promise-4-description",
+            "text": "4名Promise的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-1-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-1-description",
+            "text": "1名ReGLOSS的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-2-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-2-description",
+            "text": "2名ReGLOSS的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-3-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-3-description",
+            "text": "3名ReGLOSS的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-4-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-4-description",
+            "text": "4名ReGLOSS的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-5-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-character_grouping-grp-regloss-5-description",
+            "text": "5名ReGLOSS的"
+        }
+    },
+    {
+        "id": "la-generated-live_skill_effect_target-self-description",
+        "data": {
+            "id": "la-generated-live_skill_effect_target-self-description",
+            "text": "自己的"
+        }
+    }
+]

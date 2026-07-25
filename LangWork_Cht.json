@@ -1,0 +1,30 @@
+[
+    {
+        "id": "ls-work-slot-1",
+        "data": {
+            "id": "ls-work-slot-1",
+            "text": "歌回直播"
+        }
+    },
+    {
+        "id": "ls-work-slot-2",
+        "data": {
+            "id": "ls-work-slot-2",
+            "text": "遊戲實況"
+        }
+    },
+    {
+        "id": "ls-work-slot-3",
+        "data": {
+            "id": "ls-work-slot-3",
+            "text": "收錄"
+        }
+    },
+    {
+        "id": "ls-work-slot-4",
+        "data": {
+            "id": "ls-work-slot-4",
+            "text": "聊天直播"
+        }
+    }
+]

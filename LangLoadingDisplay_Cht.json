@@ -1,0 +1,702 @@
+[
+    {
+        "id": "la-loading_display-tips-achievement-001-text",
+        "data": {
+            "id": "la-loading_display-tips-achievement-001-text",
+            "text": "達成條件，獲得Holo成員Exp與稱號等獎勵吧！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-achievement-001-title",
+        "data": {
+            "id": "la-loading_display-tips-achievement-001-title",
+            "text": "成就"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-001-text",
+        "data": {
+            "id": "la-loading_display-tips-card-001-text",
+            "text": "提升等級可以提升能力值喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-001-title",
+        "data": {
+            "id": "la-loading_display-tips-card-001-title",
+            "text": "成員等級"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-002-text",
+        "data": {
+            "id": "la-loading_display-tips-card-002-text",
+            "text": "透過Holowork等方式可以獲得訓練Pt喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-002-title",
+        "data": {
+            "id": "la-loading_display-tips-card-002-title",
+            "text": "訓練Pt"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-003-text",
+        "data": {
+            "id": "la-loading_display-tips-card-003-text",
+            "text": "解鎖範圍內的欄位可以獲得加成喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-003-title",
+        "data": {
+            "id": "la-loading_display-tips-card-003-title",
+            "text": "協力欄位"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-004-text",
+        "data": {
+            "id": "la-loading_display-tips-card-004-text",
+            "text": "透過特殊訓練可以提升最高等級！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-004-title",
+        "data": {
+            "id": "la-loading_display-tips-card-004-title",
+            "text": "成員特訓"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-005-text",
+        "data": {
+            "id": "la-loading_display-tips-card-005-text",
+            "text": "透過過關Live的獎勵等方式可以獲得特訓道具喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-005-title",
+        "data": {
+            "id": "la-loading_display-tips-card-005-title",
+            "text": "特訓道具"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-006-text",
+        "data": {
+            "id": "la-loading_display-tips-card-006-text",
+            "text": "您可以透過綻放來增強您的技能！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-006-title",
+        "data": {
+            "id": "la-loading_display-tips-card-006-title",
+            "text": "成員綻放"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-007-text",
+        "data": {
+            "id": "la-loading_display-tips-card-007-text",
+            "text": "培育成員可以提升隊伍分數喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-007-title",
+        "data": {
+            "id": "la-loading_display-tips-card-007-title",
+            "text": "隊伍分數"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-008-text",
+        "data": {
+            "id": "la-loading_display-tips-card-008-text",
+            "text": "成員類型分三種喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-008-title",
+        "data": {
+            "id": "la-loading_display-tips-card-008-title",
+            "text": "成員類型"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-009-text",
+        "data": {
+            "id": "la-loading_display-tips-card-009-text",
+            "text": "Live中會發動技能效果喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-card-009-title",
+        "data": {
+            "id": "la-loading_display-tips-card-009-title",
+            "text": "成員技能"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-character-001-text",
+        "data": {
+            "id": "la-loading_display-tips-character-001-text",
+            "text": "提升Rank可以獲得Holo成員面板解鎖素材喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-character-001-title",
+        "data": {
+            "id": "la-loading_display-tips-character-001-title",
+            "text": "Holo成員Rank"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-character-002-text",
+        "data": {
+            "id": "la-loading_display-tips-character-002-text",
+            "text": "您可以透過釋放方塊來增強您的單位！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-character-002-title",
+        "data": {
+            "id": "la-loading_display-tips-character-002-title",
+            "text": "Holo成員面板"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-character-003-text",
+        "data": {
+            "id": "la-loading_display-tips-character-003-text",
+            "text": "您可以透過更換服裝來改變您的領導技能！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-character-003-title",
+        "data": {
+            "id": "la-loading_display-tips-character-003-title",
+            "text": "服裝技能"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-exchange-001-text",
+        "data": {
+            "id": "la-loading_display-tips-exchange-001-text",
+            "text": "道具不足時，不妨前往音波菈牡市場看看吧！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-exchange-001-title",
+        "data": {
+            "id": "la-loading_display-tips-exchange-001-title",
+            "text": "兌換道具"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-exchange-coin-001-text",
+        "data": {
+            "id": "la-loading_display-tips-exchange-coin-001-text",
+            "text": "在電玩巨蛋城硬幣兌換所將能量轉換為硬幣吧！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-exchange-coin-001-title",
+        "data": {
+            "id": "la-loading_display-tips-exchange-coin-001-title",
+            "text": "轉換硬幣"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-friend-001-text",
+        "data": {
+            "id": "la-loading_display-tips-friend-001-text",
+            "text": "一旦你們成為朋友，你就可以邀請他們玩多人遊戲！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-friend-001-title",
+        "data": {
+            "id": "la-loading_display-tips-friend-001-title",
+            "text": "好友"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-friend-002-text",
+        "data": {
+            "id": "la-loading_display-tips-friend-002-text",
+            "text": "可在對方的個人檔案中發送好友申請喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-friend-002-title",
+        "data": {
+            "id": "la-loading_display-tips-friend-002-title",
+            "text": "好友申請"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-gacha-001-text",
+        "data": {
+            "id": "la-loading_display-tips-gacha-001-text",
+            "text": "收集轉蛋Pt可以兌換成員喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-gacha-001-title",
+        "data": {
+            "id": "la-loading_display-tips-gacha-001-title",
+            "text": "轉蛋Pt"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-001-text",
+        "data": {
+            "id": "la-loading_display-tips-live-001-text",
+            "text": "難易度分四階段喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-001-title",
+        "data": {
+            "id": "la-loading_display-tips-live-001-title",
+            "text": "Live難易度"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-002-text",
+        "data": {
+            "id": "la-loading_display-tips-live-002-text",
+            "text": "每首樂曲都有專屬的Live達成獎勵喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-002-title",
+        "data": {
+            "id": "la-loading_display-tips-live-002-title",
+            "text": "Live達成獎勵"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-003-text",
+        "data": {
+            "id": "la-loading_display-tips-live-003-text",
+            "text": "使用音樂光碟兌換的樂曲可以在Live中遊玩喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-003-title",
+        "data": {
+            "id": "la-loading_display-tips-live-003-title",
+            "text": "樂曲商店"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-004-text",
+        "data": {
+            "id": "la-loading_display-tips-live-004-text",
+            "text": "消費自動票即可自動播放現場表演！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-004-title",
+        "data": {
+            "id": "la-loading_display-tips-live-004-title",
+            "text": "自動Live"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-005-text",
+        "data": {
+            "id": "la-loading_display-tips-live-005-text",
+            "text": "您可以從“MULTI”開始玩！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-005-title",
+        "data": {
+            "id": "la-loading_display-tips-live-005-title",
+            "text": "即時多人遊戲"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-006-text",
+        "data": {
+            "id": "la-loading_display-tips-live-006-text",
+            "text": "消耗能量可以提升獎勵喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-006-title",
+        "data": {
+            "id": "la-loading_display-tips-live-006-title",
+            "text": "Live能量"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-007-text",
+        "data": {
+            "id": "la-loading_display-tips-live-007-text",
+            "text": "自由創作並公開譜面，或遊玩大家製作的譜面吧！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live-007-title",
+        "data": {
+            "id": "la-loading_display-tips-live-007-title",
+            "text": "創作譜面"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-001-text",
+            "text": "消耗能量可以提升獎勵喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-001-title",
+            "text": "小遊戲能量"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-circuit-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-circuit-001-text",
+            "text": "善用衝刺避開障礙物吧！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-circuit-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-circuit-001-title",
+            "text": "極限跑道的提示"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-combo-card-game-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-combo-card-game-001-text",
+            "text": "組成同色牌型獲得額外獎勵吧！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-combo-card-game-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-combo-card-game-001-title",
+            "text": "撲克屋！的提示"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-cooking-puzzle-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-cooking-puzzle-001-text",
+            "text": "如果某種材料被隱藏了，請嘗試按下Shuffle按鈕！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-cooking-puzzle-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-cooking-puzzle-001-title",
+            "text": "食材妙廚房的提示"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-high-low-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-high-low-001-text",
+            "text": "善用翻倍機會獲得大量硬幣吧！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-high-low-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-high-low-001-title",
+            "text": "貪婪卡牌的提示"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-jump-rope-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-jump-rope-001-text",
+            "text": "當旋轉繩子的人改變時，旋轉的速度和方式也會改變！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-jump-rope-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-jump-rope-001-title",
+            "text": "跳繩技巧"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mission-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mission-001-text",
+            "text": "完成任務並升級！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mission-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mission-001-title",
+            "text": "任務通行證"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-001-text",
+        "data": {
+            "id": "la-loading_display-tips-park-001-text",
+            "text": "提升Rank可以獲得獎勵喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-001-title",
+        "data": {
+            "id": "la-loading_display-tips-park-001-title",
+            "text": "夢幻Rank"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-002-text",
+        "data": {
+            "id": "la-loading_display-tips-park-002-text",
+            "text": "您每天可以在 holo之家 領取一次！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-002-title",
+        "data": {
+            "id": "la-loading_display-tips-park-002-title",
+            "text": "禮物"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-003-text",
+        "data": {
+            "id": "la-loading_display-tips-park-003-text",
+            "text": "升級後將會新增效果喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-003-title",
+        "data": {
+            "id": "la-loading_display-tips-park-003-title",
+            "text": "升級設施"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-004-text",
+        "data": {
+            "id": "la-loading_display-tips-park-004-text",
+            "text": "園區內可以自由拍照！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-004-title",
+        "data": {
+            "id": "la-loading_display-tips-park-004-title",
+            "text": "攝影模式"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-005-text",
+        "data": {
+            "id": "la-loading_display-tips-park-005-text",
+            "text": "選擇您要前往的設施，然後按“移動”按鈕即可立即移動到那裡！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-005-title",
+        "data": {
+            "id": "la-loading_display-tips-park-005-title",
+            "text": "地圖"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-006-text",
+        "data": {
+            "id": "la-loading_display-tips-park-006-text",
+            "text": "在誓約之塔可以變更時間喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-006-title",
+        "data": {
+            "id": "la-loading_display-tips-park-006-title",
+            "text": "時間"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-007-text",
+        "data": {
+            "id": "la-loading_display-tips-park-007-text",
+            "text": "在多人遊玩互動時，活用貼圖功能增添樂趣吧！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-007-title",
+        "data": {
+            "id": "la-loading_display-tips-park-007-title",
+            "text": "貼圖"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-008-text",
+        "data": {
+            "id": "la-loading_display-tips-park-008-text",
+            "text": "收集回憶卡可以提升隊伍能力喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-008-title",
+        "data": {
+            "id": "la-loading_display-tips-park-008-title",
+            "text": "回憶卡"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-009-text",
+        "data": {
+            "id": "la-loading_display-tips-park-009-text",
+            "text": "您可以在HOLO影城重溫這個故事！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-009-title",
+        "data": {
+            "id": "la-loading_display-tips-park-009-title",
+            "text": "劇情"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-010-text",
+        "data": {
+            "id": "la-loading_display-tips-park-010-text",
+            "text": "寶箱遍布於區域內，四處找找看吧！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-010-title",
+        "data": {
+            "id": "la-loading_display-tips-park-010-title",
+            "text": "寶箱"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-011-text",
+        "data": {
+            "id": "la-loading_display-tips-park-011-text",
+            "text": "可在地圖中查看區域內的寶箱數量喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-park-011-title",
+        "data": {
+            "id": "la-loading_display-tips-park-011-title",
+            "text": "寶箱數量"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-profile-001-text",
+        "data": {
+            "id": "la-loading_display-tips-profile-001-text",
+            "text": "可在個人檔案中設定已獲得的稱號喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-profile-001-title",
+        "data": {
+            "id": "la-loading_display-tips-profile-001-title",
+            "text": "稱號"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-001-text",
+        "data": {
+            "id": "la-loading_display-tips-quest-001-text",
+            "text": "過關關卡可以推進劇情喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-001-title",
+        "data": {
+            "id": "la-loading_display-tips-quest-001-title",
+            "text": "主線關卡"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-002-text",
+        "data": {
+            "id": "la-loading_display-tips-quest-002-text",
+            "text": "過關關卡可以解鎖holo成員喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-002-title",
+        "data": {
+            "id": "la-loading_display-tips-quest-002-title",
+            "text": "Holo成員關卡"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-003-text",
+        "data": {
+            "id": "la-loading_display-tips-quest-003-text",
+            "text": "過關關卡可以獲得各種獎勵喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-003-title",
+        "data": {
+            "id": "la-loading_display-tips-quest-003-title",
+            "text": "區域關卡"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-004-text",
+        "data": {
+            "id": "la-loading_display-tips-quest-004-text",
+            "text": "每日關卡會每天更新喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-004-title",
+        "data": {
+            "id": "la-loading_display-tips-quest-004-title",
+            "text": "每日關卡"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-005-text",
+        "data": {
+            "id": "la-loading_display-tips-quest-005-text",
+            "text": "關卡分四種喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-quest-005-title",
+        "data": {
+            "id": "la-loading_display-tips-quest-005-title",
+            "text": "關卡類型"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-work-001-text",
+        "data": {
+            "id": "la-loading_display-tips-work-001-text",
+            "text": "組織您的團隊並參與活動來贏取獎勵！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-work-001-title",
+        "data": {
+            "id": "la-loading_display-tips-work-001-title",
+            "text": "holowork"
+        }
+    }
+]
