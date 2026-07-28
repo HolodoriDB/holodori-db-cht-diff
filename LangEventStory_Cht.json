@@ -1,1 +1,44 @@
-[]
+[
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-1",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-1",
+            "text": "Where is 夏日假期？"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-2",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-2",
+            "text": "夏天！大海！度假！！"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-3",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-3",
+            "text": "海上全面戰爭"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-4",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-4",
+            "text": "危險的沙灘遊戲♪"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-5",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-5",
+            "text": "開鼠了！海灘BBQ"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-6",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-001-chapter-01-6",
+            "text": "夕陽照映的夏日假期"
+        }
+    }
+]

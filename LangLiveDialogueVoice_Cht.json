@@ -1,5 +1,40 @@
 [
     {
+        "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00012_00012-5-uniq-0062-00_myself",
+            "text": "【Energetic水花！ 昴】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_00021-5-uniq-0064-00_myself",
+            "text": "【sparks sunset 芙蕾雅】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00022-5-uniq-0063-00_myself",
+            "text": "【披著浪花的慵懶愜意Knight 諾艾爾】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00026_00026-5-uniq-0065-00_myself",
+            "text": "【盛夏的毛茸茸漂浮時光 綿芽】SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_06002-5-uniq-0066-00_myself",
+            "text": "【笑容交織的旋律乘海風飛揚 奏】SP技能"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00001-5-uniq-0000-00_00001-to-00002",
         "data": {
             "id": "la-name_live_dial_voice_card_00001-5-uniq-0000-00_00001-to-00002",
@@ -266,6 +301,62 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00012-to-00021",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00012-to-00021",
+            "text": "【Energetic水花！ 昴】昴&芙蕾雅"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00012-to-00022",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00012-to-00022",
+            "text": "【Energetic水花！ 昴】昴&諾艾爾"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00012-to-00026",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00012-to-00026",
+            "text": "【Energetic水花！ 昴】昴&綿芽"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00012-to-06002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00012-to-06002",
+            "text": "【Energetic水花！ 昴】昴&奏"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00021-to-00012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00021-to-00012",
+            "text": "【Energetic水花！ 昴】芙蕾雅&昴"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00022-to-00012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00022-to-00012",
+            "text": "【Energetic水花！ 昴】諾艾爾&昴"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00026-to-00012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_00026-to-00012",
+            "text": "【Energetic水花！ 昴】綿芽&昴"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_06002-to-00012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00012-5-uniq-0062-00_06002-to-00012",
+            "text": "【Energetic水花！ 昴】奏&昴"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00013-5-uniq-0002-00_00013-to-00001",
         "data": {
             "id": "la-name_live_dial_voice_card_00013-5-uniq-0002-00_00013-to-00001",
@@ -511,6 +602,62 @@
         }
     },
     {
+        "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00012-to-00021",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00012-to-00021",
+            "text": "【sparks sunset 芙蕾雅】昴&芙蕾雅"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00021-to-00012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00021-to-00012",
+            "text": "【sparks sunset 芙蕾雅】芙蕾雅&昴"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00021-to-00022",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00021-to-00022",
+            "text": "【sparks sunset 芙蕾雅】芙蕾雅&諾艾爾"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00021-to-00026",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00021-to-00026",
+            "text": "【sparks sunset 芙蕾雅】芙蕾雅&綿芽"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00021-to-06002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00021-to-06002",
+            "text": "【sparks sunset 芙蕾雅】芙蕾雅&奏"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00022-to-00021",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00022-to-00021",
+            "text": "【sparks sunset 芙蕾雅】諾艾爾&芙蕾雅"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00026-to-00021",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_00026-to-00021",
+            "text": "【sparks sunset 芙蕾雅】綿芽&芙蕾雅"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_06002-to-00021",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00021-5-uniq-0064-00_06002-to-00021",
+            "text": "【sparks sunset 芙蕾雅】奏&芙蕾雅"
+        }
+    },
+    {
         "id": "la-name_live_dial_voice_card_00022-5-uniq-0018-00_00022-to-00019",
         "data": {
             "id": "la-name_live_dial_voice_card_00022-5-uniq-0018-00_00022-to-00019",
@@ -536,6 +683,62 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00022-5-uniq-0018-00_myself",
             "text": "【帶著清新氣息的溫和騎士 諾艾爾】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00012-to-00022",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00012-to-00022",
+            "text": "【披著浪花的慵懶愜意Knight 諾艾爾】昴&諾艾爾"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00021-to-00022",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00021-to-00022",
+            "text": "【披著浪花的慵懶愜意Knight 諾艾爾】芙蕾雅&諾艾爾"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00022-to-00012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00022-to-00012",
+            "text": "【披著浪花的慵懶愜意Knight 諾艾爾】諾艾爾&昴"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00022-to-00021",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00022-to-00021",
+            "text": "【披著浪花的慵懶愜意Knight 諾艾爾】諾艾爾&芙蕾雅"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00022-to-00026",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00022-to-00026",
+            "text": "【披著浪花的慵懶愜意Knight 諾艾爾】諾艾爾&綿芽"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00022-to-06002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00022-to-06002",
+            "text": "【披著浪花的慵懶愜意Knight 諾艾爾】諾艾爾&奏"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00026-to-00022",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_00026-to-00022",
+            "text": "【披著浪花的慵懶愜意Knight 諾艾爾】綿芽&諾艾爾"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_06002-to-00022",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00022-5-uniq-0063-00_06002-to-00022",
+            "text": "【披著浪花的慵懶愜意Knight 諾艾爾】奏&諾艾爾"
         }
     },
     {
@@ -585,6 +788,62 @@
         "data": {
             "id": "la-name_live_dial_voice_card_00026-5-uniq-0021-00_myself",
             "text": "【Woolly Smile Festival 綿芽】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00012-to-00026",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00012-to-00026",
+            "text": "【盛夏的毛茸茸漂浮時光 綿芽】昴&綿芽"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00021-to-00026",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00021-to-00026",
+            "text": "【盛夏的毛茸茸漂浮時光 綿芽】芙蕾雅&綿芽"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00022-to-00026",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00022-to-00026",
+            "text": "【盛夏的毛茸茸漂浮時光 綿芽】諾艾爾&綿芽"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00026-to-00012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00026-to-00012",
+            "text": "【盛夏的毛茸茸漂浮時光 綿芽】綿芽&昴"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00026-to-00021",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00026-to-00021",
+            "text": "【盛夏的毛茸茸漂浮時光 綿芽】綿芽&芙蕾雅"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00026-to-00022",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00026-to-00022",
+            "text": "【盛夏的毛茸茸漂浮時光 綿芽】綿芽&諾艾爾"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00026-to-06002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_00026-to-06002",
+            "text": "【盛夏的毛茸茸漂浮時光 綿芽】綿芽&奏"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_06002-to-00026",
+        "data": {
+            "id": "la-name_live_dial_voice_card_00026-5-uniq-0065-00_06002-to-00026",
+            "text": "【盛夏的毛茸茸漂浮時光 綿芽】奏&綿芽"
         }
     },
     {
@@ -1369,6 +1628,62 @@
         "data": {
             "id": "la-name_live_dial_voice_card_06002-5-uniq-0058-00_myself",
             "text": "【在遊行中傳遞笑容 奏】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_00012-to-06002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_00012-to-06002",
+            "text": "【笑容交織的旋律乘海風飛揚 奏】昴&奏"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_00021-to-06002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_00021-to-06002",
+            "text": "【笑容交織的旋律乘海風飛揚 奏】芙蕾雅&奏"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_00022-to-06002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_00022-to-06002",
+            "text": "【笑容交織的旋律乘海風飛揚 奏】諾艾爾&奏"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_00026-to-06002",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_00026-to-06002",
+            "text": "【笑容交織的旋律乘海風飛揚 奏】綿芽&奏"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_06002-to-00012",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_06002-to-00012",
+            "text": "【笑容交織的旋律乘海風飛揚 奏】奏&昴"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_06002-to-00021",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_06002-to-00021",
+            "text": "【笑容交織的旋律乘海風飛揚 奏】奏&芙蕾雅"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_06002-to-00022",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_06002-to-00022",
+            "text": "【笑容交織的旋律乘海風飛揚 奏】奏&諾艾爾"
+        }
+    },
+    {
+        "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_06002-to-00026",
+        "data": {
+            "id": "la-name_live_dial_voice_card_06002-5-uniq-0066-00_06002-to-00026",
+            "text": "【笑容交織的旋律乘海風飛揚 奏】奏&綿芽"
         }
     },
     {
