@@ -10633,6 +10633,13 @@
         }
     },
     {
+        "id": "la-mission-event-beginner_mission-increment_mini_game_play_count-circuit-name",
+        "data": {
+            "id": "la-mission-event-beginner_mission-increment_mini_game_play_count-circuit-name",
+            "text": "遊玩{0}次極限跑道"
+        }
+    },
+    {
         "id": "la-mission-event-beginner_mission-increment_mini_game_stamina_consumption-name",
         "data": {
             "id": "la-mission-event-beginner_mission-increment_mini_game_stamina_consumption-name",

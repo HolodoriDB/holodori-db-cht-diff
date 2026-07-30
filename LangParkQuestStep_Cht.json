@@ -178,7 +178,7 @@
         "id": "la-quest-area-a01-09-1-4",
         "data": {
             "id": "la-quest-area-a01-09-1-4",
-            "text": "與在玩家驛站的佩克拉對話後，送她離開吧"
+            "text": "與在玩家驛站的{character}對話後，送她離開吧"
         }
     },
     {
