@@ -1288,6 +1288,48 @@
         }
     },
     {
+        "id": "la-tips-hint-marathon_mission-description-1",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-1",
+            "text": "<color=#ff3bc8>分數挑戰活動</color>是挑戰活動指定曲，以高分為目標的活動喔！\n\n在高分排行榜中取得名次，或於活動期間內遊玩Live與小遊戲，即可獲得活動徽章喔！\n\n收集活動徽章，即可在兌換所兌換活動回憶卡等道具喔！\n\n每次活動皆有多首活動指定曲，可於樂曲選擇畫面查看喔！"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-2",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-2",
+            "text": "<color=#ff3bc8>合計高分排行榜</color>將依活動指定曲的期間限定分數合計值進行排名喔！\n\n在排行榜中取得名次，即可獲得活動限定稱號等獎勵喔！\n\n※活動指定曲的活動期間限定分數與一般分數將各別儲存。\n\n※請依序點選［活動］→［排行榜］→［合計高分排行榜］查看詳情。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-3",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-3",
+            "text": "每首活動指定曲，皆設有<color=#ff3bc8>以期間限定分數進行競賽的高分排行榜</color>喔！\n\n在排行榜中取得名次，即可獲得活動限定稱號喔！\n\n※請依序點選［活動］→［排行榜］→［高分排行榜］查看詳情。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-4",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-4",
+            "text": "善用<color=#ff3bc8>活動加成</color>可獲得更高分數喔！\n\n活動加成含<color=#ff3bc8>分數加成效果</color>。編入加成指定成員挑戰活動指定曲，即可提升期間限定分數喔！\n\n每首活動指定曲的分數加成指定成員各有不同喔！\n\n※請依序點選［活動］→［活動加成］查看詳情。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-5",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-5",
+            "text": "善用<color=#ff3bc8>活動加成</color>，獲得更多活動Pt與活動徽章吧！\n\n活動加成含<color=#ff3bc8>獲得加成效果</color>，可提升遊玩Live獲得的活動Pt與活動徽章數量喔！\n\n獲得加成分3種喔！\n\n▼成員加成\n・編入指定成員挑戰Live，即可提升獲得量\n\n▼holo成員加成\n・編入指定holo成員挑戰Live，即可提升獲得量\n\n▼綻放加成\n・挑戰Live時的獲得量，將依編入成員的綻放階段提升\n\n活動加成亦可提升遊玩小遊戲獲得的活動Pt與活動徽章數量喔！\n\n▼小遊戲加成\n・挑戰指定的小遊戲，即可提升獲得量\n\n▼成員加成\n・持有指定成員，即可提升獲得量\n\n※請依序點選［活動］→［活動加成］查看詳情。"
+        }
+    },
+    {
+        "id": "la-tips-hint-marathon_mission-description-6",
+        "data": {
+            "id": "la-tips-hint-marathon_mission-description-6",
+            "text": "<color=#ff3bc8>分數越高，活動Pt與活動徽章的獲得量也會提升</color>喔！\n\n▼關於獲得活動Pt與活動徽章\n・自動Live也可獲得！\n・消耗的Live能量越多，獲得量也會提升\n・將依據遊玩的樂曲長度提升獲得量"
+        }
+    },
+    {
         "id": "la-tips-hint-marathon_nomal-description-1",
         "data": {
             "id": "la-tips-hint-marathon_nomal-description-1",

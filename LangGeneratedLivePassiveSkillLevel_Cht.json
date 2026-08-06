@@ -70,6 +70,34 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.1-description",
+            "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物2名[attribute=pure]清純類型[/attribute]的表現力提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00015-5-uniq-0067-00.2-description",
+            "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物2名[attribute=pure]清純類型[/attribute]的表現力提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.1-description",
+            "text": "若編入2名以上0期生2名0期生的分數加成效果9% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00018-5-uniq-0068-00.2-description",
+            "text": "若編入2名以上0期生2名0期生的分數加成效果[highlight]12[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

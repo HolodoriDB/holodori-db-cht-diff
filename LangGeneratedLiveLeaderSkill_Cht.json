@@ -35,6 +35,20 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill-card-00015-5-uniq-0067-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00015-5-uniq-0067-00-description",
+            "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物全體成員的表現力提升80% 若編入2名以上[attribute=pure]清純類型[/attribute]的人物全體成員的分數加成效果25%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00018-5-uniq-0068-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00018-5-uniq-0068-00-description",
+            "text": "若編入2名以上0期生全體成員的品味提升135% "
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
