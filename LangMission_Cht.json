@@ -9835,6 +9835,48 @@
         }
     },
     {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_key_use_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_key_use_count-description",
+            "text": "使用{0}次鑰匙"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_laser_gimmick_release_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_laser_gimmick_release_count-description",
+            "text": "解除{0}次雷射機關"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-description",
+            "text": "被抓到{0}次"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-name",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_mischief_team_restrained_count-name",
+            "text": "喜歡拘束系嗎？"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_patrol_team_restraint_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_patrol_team_restraint_count-description",
+            "text": "抓到{0}次"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_chase_win_count-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_chase_win_count-description",
+            "text": "獲勝{0}次"
+        }
+    },
+    {
         "id": "la-mission-achievement-common-increment_circuit_crash_count-korone-description",
         "data": {
             "id": "la-mission-achievement-common-increment_circuit_crash_count-korone-description",
@@ -10140,6 +10182,13 @@
         "data": {
             "id": "la-mission-achievement-common-increment_login_count-description",
             "text": "登入{0}天"
+        }
+    },
+    {
+        "id": "la-mission-achievement-common-increment_mini_game_play_count-chase-description",
+        "data": {
+            "id": "la-mission-achievement-common-increment_mini_game_play_count-chase-description",
+            "text": "遊玩{0}次"
         }
     },
     {
@@ -10654,6 +10703,76 @@
         }
     },
     {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_mischief_team_key_use_count",
+            "text": "在夜色追逐戰使用{0}次鑰匙吧"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_patrol_team_restraint_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_patrol_team_restraint_count",
+            "text": "在夜色追逐戰成功逮捕{0}次吧"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_win_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_chase_win_count",
+            "text": "在夜色追逐戰獲勝{0}次吧"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_live_play_count",
+            "text": "遊玩{0}次Live吧"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_play_count-chase",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_play_count-chase",
+            "text": "遊玩{0}次夜色追逐戰吧"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_stamina_consumption",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_mini_game_stamina_consumption",
+            "text": "消耗小遊戲能量合計{0}吧"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_mission_clear_count-event_normal-mission_grp-chase_celebration-260828",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_mission_clear_count-event_normal-mission_grp-chase_celebration-260828",
+            "text": "完成全部任務吧"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_multi_live_play_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_multi_live_play_count",
+            "text": "遊玩{0}次多人Live吧"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_park_present_receive_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_park_present_receive_count",
+            "text": "領取{0}次holo成員的贈禮吧"
+        }
+    },
+    {
+        "id": "la-mission-event_mission-chase_celebration-260828-increment_work_finish_count",
+        "data": {
+            "id": "la-mission-event_mission-chase_celebration-260828-increment_work_finish_count",
+            "text": "完成{0}次holowork吧"
+        }
+    },
+    {
         "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
         "data": {
             "id": "la-mission-event_mission-training_support-260816-absolute_character_get_count",
@@ -10979,6 +11098,181 @@
         "id": "la-mission-mission_pass-0001-weekly-increment_work_start_count-name",
         "data": {
             "id": "la-mission-mission_pass-0001-weekly-increment_work_start_count-name",
+            "text": "進行{0}次Holowork吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_card_level_up_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_card_level_up_count-name",
+            "text": "強化{0}次成員Lv吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_drop_item_get_count-name",
+            "text": "拾取{0}個隱藏寶箱吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_live_play_count-name",
+            "text": "遊玩{0}次Live吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_mini_game_play_count-name",
+            "text": "遊玩{0}次小遊戲吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_multi_live_play_count-name",
+            "text": "遊玩{0}次多人Live吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_park_present_receive_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_park_present_receive_count-name",
+            "text": "領取{0}次holo成員的贈禮吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_park_quest_clear_count-daily-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_park_quest_clear_count-daily-name",
+            "text": "過關{0}次每日關卡吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-daily-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-daily-increment_work_start_count-name",
+            "text": "進行{0}次Holowork吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-exchangebooth-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-exchangebooth-name",
+            "text": "升級{0}次音波菈牡市場的設施Lv"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-station-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a01-facility-a01-station-name",
+            "text": "升級{0}次玩家驛站的設施Lv"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a02-facility-a02-station-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_facility_level_up_count-area_group-a02-facility-a02-station-name",
+            "text": "升級{0}次超級雲霄飛車的設施Lv"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-absolute_live_clear_music_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-absolute_live_clear_music_count-name",
+            "text": "過關{0}種類型的Live吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-increment_chase_mischief_team_key_use_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-increment_chase_mischief_team_key_use_count-name",
+            "text": "在夜色追逐戰使用{0}次鑰匙吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-season-increment_chase_patrol_team_restraint_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-season-increment_chase_patrol_team_restraint_count-name",
+            "text": "在夜色追逐戰成功逮捕{0}次吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_card_level_limit_break_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_card_level_limit_break_count-name",
+            "text": "進行{0}次成員特訓吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_drop_item_get_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_drop_item_get_count-name",
+            "text": "拾取{0}個隱藏寶箱吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_exchange_purchase_count-exchange_booth-facility-a01-exchangebooth-name",
+            "text": "在音波菈牡市場使用Holo金幣兌換{0}次吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_live_play_count-name",
+            "text": "遊玩{0}次Live吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_live_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_live_stamina_consumption-name",
+            "text": "累計消耗Live能量{0}吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_mini_game_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_mini_game_play_count-name",
+            "text": "遊玩{0}次小遊戲吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_mini_game_stamina_consumption-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_mini_game_stamina_consumption-name",
+            "text": "消耗小遊戲能量合計{0}吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_multi_live_play_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_multi_live_play_count-name",
+            "text": "遊玩{0}次多人Live吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_music_creative_chart_live_clear_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_music_creative_chart_live_clear_count-name",
+            "text": "過關{0}次創作譜面的樂曲吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_skill_tree_release_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_skill_tree_release_count-name",
+            "text": "解鎖{0}個Holo成員面板吧"
+        }
+    },
+    {
+        "id": "la-mission-missionpass-260901-weekly-increment_work_start_count-name",
+        "data": {
+            "id": "la-mission-missionpass-260901-weekly-increment_work_start_count-name",
             "text": "進行{0}次Holowork吧"
         }
     },

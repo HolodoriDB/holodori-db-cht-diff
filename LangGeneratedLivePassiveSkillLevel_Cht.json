@@ -168,6 +168,62 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00006-5-uniq-0074-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00006-5-uniq-0074-00.1-description",
+            "text": "2名[attribute=cute]可愛類型[/attribute]的分數加成效果8% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00006-5-uniq-0074-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00006-5-uniq-0074-00.2-description",
+            "text": "2名[attribute=cute]可愛類型[/attribute]的分數加成效果[highlight]11[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00014-5-uniq-0075-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00014-5-uniq-0075-00.1-description",
+            "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物2名[attribute=pure]清純類型[/attribute]的技巧提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00014-5-uniq-0075-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00014-5-uniq-0075-00.2-description",
+            "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物2名[attribute=pure]清純類型[/attribute]的技巧提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00016-5-uniq-0076-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00016-5-uniq-0076-00.1-description",
+            "text": "2名GAMERS的表現力提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00016-5-uniq-0076-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00016-5-uniq-0076-00.2-description",
+            "text": "2名GAMERS的表現力提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00017-5-uniq-0077-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00017-5-uniq-0077-00.1-description",
+            "text": "2名[attribute=pure]清純類型[/attribute]的分數加成效果8% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00017-5-uniq-0077-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00017-5-uniq-0077-00.2-description",
+            "text": "2名[attribute=pure]清純類型[/attribute]的分數加成效果[highlight]11[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

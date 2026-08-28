@@ -42,6 +42,48 @@
         }
     },
     {
+        "id": "la-event_story_chapter-marathon_event-normal-003-chapter-01-1",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-003-chapter-01-1",
+            "text": "出發度假去吧！"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-003-chapter-01-2",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-003-chapter-01-2",
+            "text": "GAMERS in 無人島"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-003-chapter-01-3",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-003-chapter-01-3",
+            "text": "久居則安？"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-003-chapter-01-4",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-003-chapter-01-4",
+            "text": "時限"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-003-chapter-01-5",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-003-chapter-01-5",
+            "text": "穿越叢林"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-normal-003-chapter-01-6",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-normal-003-chapter-01-6",
+            "text": "能否逃出生天？！"
+        }
+    },
+    {
         "id": "la-event_story_chapter-marathon_event-relay-001-chapter-01-01",
         "data": {
             "id": "la-event_story_chapter-marathon_event-relay-001-chapter-01-01",

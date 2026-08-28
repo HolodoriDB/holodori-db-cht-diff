@@ -14,6 +14,13 @@
         }
     },
     {
+        "id": "la-cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a01-exchangebooth-facility_item-unlock",
+            "text": "自10月起每月重置"
+        }
+    },
+    {
         "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
         "data": {
             "id": "la-cd-exchange_booth-facility-a02-exchangebooth3-initial_lineup",
@@ -116,6 +123,13 @@
         "data": {
             "id": "la-cd-marathon_event",
             "text": "過關主線關卡1章4話即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-perm-a01-chase",
+        "data": {
+            "id": "la-cd-perm-a01-chase",
+            "text": "夜色追逐戰"
         }
     },
     {
@@ -298,6 +312,20 @@
         "data": {
             "id": "la-cd-quest-area-a01-28-unlock-description",
             "text": "遊玩關卡與Live吧"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-29",
+        "data": {
+            "id": "la-cd-quest-area-a01-29",
+            "text": "過關協奏花園主線關卡EP24即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-quest-area-a01-29-description",
+        "data": {
+            "id": "la-cd-quest-area-a01-29-description",
+            "text": "過關協奏花園主線關卡EP24後即可解鎖"
         }
     },
     {
@@ -501,6 +529,13 @@
         "data": {
             "id": "la-locktestdesc-cd-quest-area-a01-03",
             "text": "推進主線關卡即可解鎖"
+        }
+    },
+    {
+        "id": "la-music_lock_description-m0301",
+        "data": {
+            "id": "la-music_lock_description-m0301",
+            "text": "解鎖條件：通關主線關卡2章"
         }
     },
     {

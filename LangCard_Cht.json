@@ -1,5 +1,12 @@
 [
     {
+        "id": "la-card_flavor-00006-5-uniq-0074-00",
+        "data": {
+            "id": "la-card_flavor-00006-5-uniq-0074-00",
+            "text": "於海濱綻放的twinkle"
+        }
+    },
+    {
         "id": "la-card_flavor-00010-5-uniq-0069-00",
         "data": {
             "id": "la-card_flavor-00010-5-uniq-0069-00",
@@ -14,10 +21,31 @@
         }
     },
     {
+        "id": "la-card_flavor-00014-5-uniq-0075-00",
+        "data": {
+            "id": "la-card_flavor-00014-5-uniq-0075-00",
+            "text": "在夏日小憩的Wolf Heart"
+        }
+    },
+    {
         "id": "la-card_flavor-00015-5-uniq-0067-00",
         "data": {
             "id": "la-card_flavor-00015-5-uniq-0067-00",
             "text": "在海灘上炸裂的閃耀射擊！"
+        }
+    },
+    {
+        "id": "la-card_flavor-00016-5-uniq-0076-00",
+        "data": {
+            "id": "la-card_flavor-00016-5-uniq-0076-00",
+            "text": "遮陽傘下的奔放小貓"
+        }
+    },
+    {
+        "id": "la-card_flavor-00017-5-uniq-0077-00",
+        "data": {
+            "id": "la-card_flavor-00017-5-uniq-0077-00",
+            "text": "在密林飛舞的狂野夏天！"
         }
     },
     {

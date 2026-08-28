@@ -224,6 +224,20 @@
         }
     },
     {
+        "id": "la-help_category-faq-live-6-text",
+        "data": {
+            "id": "la-help_category-faq-live-6-text",
+            "text": "若具有相同效果的主動技能重複發動，將優先套用效果較高者。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-live-6-title",
+        "data": {
+            "id": "la-help_category-faq-live-6-title",
+            "text": "若同時發動多個具有相同效果的主動技能，效果會疊加嗎？"
+        }
+    },
+    {
         "id": "la-help_category-faq-others-1-text",
         "data": {
             "id": "la-help_category-faq-others-1-text",
@@ -382,6 +396,20 @@
         "data": {
             "id": "la-help_category-faq-questions-2-text",
             "text": "取消會員資格及holo通行證等訂閱服務，可依以下步驟進行。\n\n【iOS作業系統】\n1. 於裝置的［設定］中，點選你的名稱。\n2.點選［訂閱項目］。\n3.點選［hololive Dreams］。\n4.點選［取消訂閱］即可完成取消。\n\n【Android作業系統】\n1.開啟［Google Play 商店應用程式］，點選使用者圖示。\n2.點選［付款與訂閱］。\n3.點選［訂閱］。\n4.點選［hololive Dreams］。\n5.點選［取消訂閱］。\n\n▼注意事項\n・若對操作步驟有疑問，請洽詢使用平台客服。\n・刪除應用程式或遊戲檔案（帳號），仍不會取消訂閱，請務必留意。\n・若要取消訂閱，請於自動續訂前3天（72小時）完成取消。\n※若超過自動續訂前3天（72小時），可能因系統延遲，導致無法於預期時間內完成取消。\n・於有效期限內取消，仍可享有訂閱服務至有效期限結束。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-2-text-android",
+        "data": {
+            "id": "la-help_category-faq-questions-2-text-android",
+            "text": "取消會員資格及holo通行證等訂閱服務，可依以下步驟進行。\n\n1.開啟［Google Play 商店應用程式］，點選使用者圖示。\n2.點選［付款與訂閱］。\n3.點選［訂閱］。\n4.點選［hololive Dreams］。\n5.點選［取消訂閱］。\n\n▼注意事項\n・若對操作步驟有疑問，請洽詢使用平台客服。\n・刪除應用程式或遊戲檔案（帳號），仍不會取消訂閱，請務必留意。\n・若要取消訂閱，請於自動續訂前3天（72小時）完成取消。\n※若超過自動續訂前3天（72小時），可能因系統延遲，導致無法於預期時間內完成取消。\n・於有效期限內取消，仍可享有訂閱服務至有效期限結束。"
+        }
+    },
+    {
+        "id": "la-help_category-faq-questions-2-text-ios",
+        "data": {
+            "id": "la-help_category-faq-questions-2-text-ios",
+            "text": "取消會員資格及holo通行證等訂閱服務，可依以下步驟進行。\n\n1. 於裝置的［設定］中，點選你的名稱。\n2.點選［訂閱項目］。\n3.點選［hololive Dreams］。\n4.點選［取消訂閱］即可完成取消。\n\n\n▼注意事項\n・若對操作步驟有疑問，請洽詢使用平台客服。\n・刪除應用程式或遊戲檔案（帳號），仍不會取消訂閱，請務必留意。\n・若要取消訂閱，請於自動續訂前3天（72小時）完成取消。\n※若超過自動續訂前3天（72小時），可能因系統延遲，導致無法於預期時間內完成取消。\n・於有效期限內取消，仍可享有訂閱服務至有效期限結束。"
         }
     },
     {
@@ -577,7 +605,7 @@
         "id": "la-help_category-help-card-2-text",
         "data": {
             "id": "la-help_category-help-card-2-text",
-            "text": "每位成員皆具備以下三種技能。\n\n▼成員持有技能\n・特殊技能：Live中僅可發動1次的強力技能（發動順序依編組順序決定）\n・主動技能：Live中每經過一段時間會以固定機率發動的技能\n・被動技能：滿足條件即可持續發揮效果的技能\n\n成員綻放即可提升技能效果。"
+            "text": "每位成員皆具備以下三種技能。\n\n▼成員持有技能\n・特殊技能：Live中僅可發動1次的強力技能（發動順序依編組順序決定）\n・主動技能：Live中每經過一段時間會以固定機率發動的技能\n・被動技能：滿足條件即可持續發揮效果的技能\n\n※若具有相同效果的主動技能重複發動，將優先套用效果較高者。\n\n成員綻放即可提升技能效果。"
         }
     },
     {
@@ -1061,6 +1089,20 @@
         "data": {
             "id": "la-help_category-help-game-6-title",
             "text": "關於撲克屋！"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-7-text",
+        "data": {
+            "id": "la-help_category-help-game-7-text",
+            "text": "夜色追逐戰是由惡作劇組與巡邏小隊分組對抗的鬼抓人小遊戲。\n惡作劇組需避開巡邏小隊的追捕，開放指定數量的設施，即可獲勝。巡邏小隊則需在時限內守住設施不被開放，或成功逮捕所有惡作劇組成員，即可獲勝。\n無論勝負，皆可依分數獲得獎勵。\n\n此遊戲僅支援「多人遊玩」，最多可10人同遊。\n\n請點選夜色追逐戰主畫面中的［？］查看遊戲規則等詳情。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-7-title",
+        "data": {
+            "id": "la-help_category-help-game-7-title",
+            "text": "關於夜色追逐戰"
         }
     },
     {

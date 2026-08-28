@@ -364,6 +364,34 @@
         }
     },
     {
+        "id": "la-loading_display-tips-mg-chase-001-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-001-text",
+            "text": "連續使用鑰匙可縮短開鎖時間喔！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-001-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-001-title",
+            "text": "夜色追逐戰的提示（惡作劇組）"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-002-text",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-002-text",
+            "text": "抓準時機發動技能吧！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-mg-chase-002-title",
+        "data": {
+            "id": "la-loading_display-tips-mg-chase-002-title",
+            "text": "夜色追逐戰的提示（巡邏小隊）"
+        }
+    },
+    {
         "id": "la-loading_display-tips-mg-circuit-001-text",
         "data": {
             "id": "la-loading_display-tips-mg-circuit-001-text",

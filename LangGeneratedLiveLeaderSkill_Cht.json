@@ -84,6 +84,34 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill-card-00006-5-uniq-0074-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00006-5-uniq-0074-00-description",
+            "text": "若編入2名以上[attribute=cute]可愛類型[/attribute]的人物全體成員的品味提升130% "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00014-5-uniq-0075-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00014-5-uniq-0075-00-description",
+            "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物全體成員的技巧提升130% "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00016-5-uniq-0076-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00016-5-uniq-0076-00-description",
+            "text": "若編入2名以上GAMERS全體成員的表現力提升135% "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00017-5-uniq-0077-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00017-5-uniq-0077-00-description",
+            "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物全體成員的技巧提升80% 若編入2名以上[attribute=pure]清純類型[/attribute]的人物全體成員的分數加成效果25%"
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",

@@ -49,6 +49,69 @@
         }
     },
     {
+        "id": "la-tips-chase-description-1",
+        "data": {
+            "id": "la-tips-chase-description-1",
+            "text": "隨時可在<color=#ff3bc8>holoX據點</color>遊玩夜色追逐戰喔！"
+        }
+    },
+    {
+        "id": "la-tips-chase-description-2",
+        "data": {
+            "id": "la-tips-chase-description-2",
+            "text": "無論勝負，皆可依分數獲得獎勵！\n\n還能獲得<color=#ff3bc8>協奏花園硬幣</color>作為獎勵！\n\n協奏花園硬幣可在音波菈牡市場兌換各種道具。"
+        }
+    },
+    {
+        "id": "la-tips-chase-description-3",
+        "data": {
+            "id": "la-tips-chase-description-3",
+            "text": "將以<color=#ff3bc8>惡作劇組、巡邏小隊各自的最佳分數</color>記入排名喔！\n\n※若最佳分數相同，將依達成先後排序。"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-1",
+        "data": {
+            "id": "la-tips-chase-quest-description-1",
+            "text": "夜色追逐戰是分為<color=#ff3bc8>負責逃跑的惡作劇組</color>與<color=#ff3bc8>負責抓人的巡邏小隊</color>兩隊進行對戰的小遊戲！"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-2",
+        "data": {
+            "id": "la-tips-chase-quest-description-2",
+            "text": "惡作劇組必須躲避巡邏小隊的追捕，同時<color=#ff3bc8>開啟5座設施即可獲勝！</color>\n\n開啟設施必須使用散落在在樂園內的鑰匙！\n\n▼操作方法\n拾取：靠近鑰匙後點擊，即可拾取\n\n使用：持有鑰匙時靠近設施並長按，即可使用鑰匙\n※按鍵會在持有鑰匙靠近設施時切換。"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-3",
+        "data": {
+            "id": "la-tips-chase-quest-description-3",
+            "text": "巡邏小隊只要<color=#ff3bc8>將惡作劇組的成員全部逮捕，即可獲勝！</color>\n\n靠近惡作劇組成員後點擊逮捕，即可抓住對方\n\n此外，<color=#ff3bc8>惡作劇組沒有在時間結束前開啟5座設施</color>，則由巡邏小隊獲勝！"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-4",
+        "data": {
+            "id": "la-tips-chase-quest-description-4",
+            "text": "惡作劇組可以救出被逮捕的夥伴！\n\n<color=#ff3bc8>靠近被逮捕的夥伴後長按「救援」</color>，即可救出對方！"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-5",
+        "data": {
+            "id": "la-tips-chase-quest-description-5",
+            "text": "惡作劇組如果能善用雷射機關，就能在比賽中取得優勢！\n\n成功解除雷射機關後，<color=#ff3bc8>開啟各設施所需的鑰匙數量可以減少1把！</color>\n\n踩在雷射機關前方的開關上，即可解除雷射機關！\n\n開關共有2個，<color=#ff3bc8>2人同時去踩，就能更快解除！</color>"
+        }
+    },
+    {
+        "id": "la-tips-chase-quest-description-6",
+        "data": {
+            "id": "la-tips-chase-quest-description-6",
+            "text": "巡邏小隊可以使用技能！\n\n可使用的技能共有3種，會隨機分配給各位巡邏小隊的玩家！\n\n▼技能說明\n・速度提升：\n<color=#ff3bc8>提升移動速度</color>\n\n・雷達探測：\n<color=#ff3bc8>可以探知附近惡作劇組成員的位置</color>\n\n・隱身：\n<color=#ff3bc8>身體變為半透明，讓惡作劇組更難發現</color>\n\n※技能效果僅持續一段時間。\n※使用技能後，需等計量條滿格才可再次使用。"
+        }
+    },
+    {
         "id": "la-tips-circuit-description-1",
         "data": {
             "id": "la-tips-circuit-description-1",
@@ -710,7 +773,7 @@
         "id": "la-tips-game_screen-park_high_low_top-description-2",
         "data": {
             "id": "la-tips-game_screen-park_high_low_top-description-2",
-            "text": "在翻倍機會期間，需猜中抽到的牌比前一張抽到的牌大還是小！\n\n<color=#ff3bc8>若挑戰成功，獲得的硬幣將會翻倍</color>喔！"
+            "text": "在翻倍機會期間，需猜中抽到的牌比前一張抽到的牌「大」還是「小」！\n\n▼牌面的大小\nA ＞ K ＞ Q ＞ J ＞ 10 ＞ 9 ＞ 8 ＞ 7 ＞ 6 ＞ 5 ＞ 4 ＞ 3 ＞ 2\n\n<color=#ff3bc8>若挑戰成功，獲得的硬幣將會翻倍</color>喔！"
         }
     },
     {
@@ -1718,7 +1781,7 @@
         "id": "la-tips-park-high-low-area02-description-2",
         "data": {
             "id": "la-tips-park-high-low-area02-description-2",
-            "text": "在翻倍機會期間，需猜中抽到的牌比前一張抽到的牌大還是小！\n\n<color=#ff3bc8>若挑戰成功，獲得的硬幣將會翻倍</color>喔！"
+            "text": "在翻倍機會期間，需猜中抽到的牌比前一張抽到的牌「大」還是「小」！\n\n▼牌面的大小\nA ＞ K ＞ Q ＞ J ＞ 10 ＞ 9 ＞ 8 ＞ 7 ＞ 6 ＞ 5 ＞ 4 ＞ 3 ＞ 2\n\n<color=#ff3bc8>若挑戰成功，獲得的硬幣將會翻倍</color>喔！"
         }
     },
     {

@@ -35,6 +35,13 @@
         }
     },
     {
+        "id": "la-instant_tips-exchange_booth-facility-a01-exchangebooth-facility_item",
+        "data": {
+            "id": "la-instant_tips-exchange_booth-facility-a01-exchangebooth-facility_item",
+            "text": "音波菈牡市場已新增「協奏花園硬幣兌換所」"
+        }
+    },
+    {
         "id": "la-instant_tips-jump_rope-normal",
         "data": {
             "id": "la-instant_tips-jump_rope-normal",

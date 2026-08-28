@@ -8519,6 +8519,20 @@
         }
     },
     {
+        "id": "la-park_talk-area-a01-29-1-2-chr-00037",
+        "data": {
+            "id": "la-park_talk-area-a01-29-1-2-chr-00037",
+            "text": "呵呵，究竟會是哪一隊獲勝呢～～～？"
+        }
+    },
+    {
+        "id": "la-park_talk-area-a01-29-1-2-chr-00039",
+        "data": {
+            "id": "la-park_talk-area-a01-29-1-2-chr-00039",
+            "text": "請大家盡情享受夜色追逐戰！"
+        }
+    },
+    {
         "id": "la-park_talk-area-a02-01-1-1-1",
         "data": {
             "id": "la-park_talk-area-a02-01-1-1-1",
@@ -27339,6 +27353,90 @@
         "data": {
             "id": "la-park_talk-perm-a01-candystore-chr-06005",
             "text": "有想買的東西就告訴我吧！"
+        }
+    },
+    {
+        "id": "la-park_talk-perm-a01-chase-chr-00010",
+        "data": {
+            "id": "la-park_talk-perm-a01-chase-chr-00010",
+            "text": "好～要開始囉～♪"
+        }
+    },
+    {
+        "id": "la-park_talk-perm-a01-chase-chr-00014",
+        "data": {
+            "id": "la-park_talk-perm-a01-chase-chr-00014",
+            "text": "歡迎你來～♪好孩子好孩子。"
+        }
+    },
+    {
+        "id": "la-park_talk-perm-a01-chase-chr-00026",
+        "data": {
+            "id": "la-park_talk-perm-a01-chase-chr-00026",
+            "text": "真是讓人心跳加速呢～♪"
+        }
+    },
+    {
+        "id": "la-park_talk-perm-a01-chase-chr-00035",
+        "data": {
+            "id": "la-park_talk-perm-a01-chase-chr-00035",
+            "text": "哈囉——！　玩得開心點啊！"
+        }
+    },
+    {
+        "id": "la-park_talk-perm-a01-chase-chr-00036",
+        "data": {
+            "id": "la-park_talk-perm-a01-chase-chr-00036",
+            "text": "要開始囉～！"
+        }
+    },
+    {
+        "id": "la-park_talk-perm-a01-chase-chr-00037",
+        "data": {
+            "id": "la-park_talk-perm-a01-chase-chr-00037",
+            "text": "準備好了喔——！"
+        }
+    },
+    {
+        "id": "la-park_talk-perm-a01-chase-chr-00039",
+        "data": {
+            "id": "la-park_talk-perm-a01-chase-chr-00039",
+            "text": "歡迎～！　很高興你來了♪"
+        }
+    },
+    {
+        "id": "la-park_talk-perm-a01-chase-chr-03003",
+        "data": {
+            "id": "la-park_talk-perm-a01-chase-chr-03003",
+            "text": "要開始囉～♪"
+        }
+    },
+    {
+        "id": "la-park_talk-perm-a01-chase-chr-03006",
+        "data": {
+            "id": "la-park_talk-perm-a01-chase-chr-03006",
+            "text": "一起好好享受吧！"
+        }
+    },
+    {
+        "id": "la-park_talk-perm-a01-chase-chr-04001",
+        "data": {
+            "id": "la-park_talk-perm-a01-chase-chr-04001",
+            "text": "Here we go！"
+        }
+    },
+    {
+        "id": "la-park_talk-perm-a01-chase-chr-04014",
+        "data": {
+            "id": "la-park_talk-perm-a01-chase-chr-04014",
+            "text": "Go、Go、Go！"
+        }
+    },
+    {
+        "id": "la-park_talk-perm-a01-chase-chr-06005",
+        "data": {
+            "id": "la-park_talk-perm-a01-chase-chr-06005",
+            "text": "拿出幹勁上吧！"
         }
     },
     {
