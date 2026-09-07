@@ -224,6 +224,48 @@
         }
     },
     {
+        "id": "la-generated-live_special_skill-card-00036-5-uniq-0078-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00036-5-uniq-0078-00.1-description",
+            "text": "在 11 秒內分數加成效果110%且若編入2名以上holoX技能發動機率提升40%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00036-5-uniq-0078-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00036-5-uniq-0078-00.2-description",
+            "text": "在 11 秒內分數加成效果[highlight]130[/highlight]%且若編入2名以上holoX技能發動機率提升[highlight]50[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04016-5-uniq-0079-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04016-5-uniq-0079-00.1-description",
+            "text": "在 12 秒內分數加成效果100%技能發動機率提升35%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04016-5-uniq-0079-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04016-5-uniq-0079-00.2-description",
+            "text": "在 12 秒內分數加成效果[highlight]120[/highlight]%技能發動機率提升[highlight]40[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04017-5-uniq-0080-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04017-5-uniq-0080-00.1-description",
+            "text": "在 10 秒內分數加成效果120%技能發動機率提升40%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04017-5-uniq-0080-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04017-5-uniq-0080-00.2-description",
+            "text": "在 10 秒內分數加成效果[highlight]145[/highlight]%技能發動機率提升[highlight]50[/highlight]%"
+        }
+    },
+    {
         "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
         "data": {
             "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",

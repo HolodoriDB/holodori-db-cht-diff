@@ -112,6 +112,27 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill-card-00036-5-uniq-0078-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00036-5-uniq-0078-00-description",
+            "text": "若編入2名以上holoX全體成員的品味提升135% "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-04016-5-uniq-0079-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-04016-5-uniq-0079-00-description",
+            "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物全體成員的全能力提升30% 若編入2名以上[attribute=pure]清純類型[/attribute]的人物全體成員的分數加成效果25%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-04017-5-uniq-0080-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-04017-5-uniq-0080-00-description",
+            "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物全體成員的表現力提升80% 若編入2名以上[attribute=pure]清純類型[/attribute]的人物全體成員的分數加成效果25%"
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",

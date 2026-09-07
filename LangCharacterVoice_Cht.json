@@ -1927,6 +1927,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-detail",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】對話"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-01",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】綻放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-02",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】綻放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-03",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】綻放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-04",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】綻放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-05",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】綻放5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00037_00037-5-uniq-0030-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00037_00037-5-uniq-0030-00_card-detail",
@@ -3079,6 +3127,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-detail",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】對話"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-01",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】綻放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-02",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】綻放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-03",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】綻放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-04",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】綻放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-05",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】綻放5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0056-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0056-00_card-detail",
@@ -3124,6 +3220,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0056-00_card-potential-05",
             "text": "【悠閒愜意的甜甜圈派對♪ Mococo】 綻放5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-detail",
+            "text": "【Mococo的Breezy Summer Mococo】對話"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-01",
+            "text": "【Mococo的Breezy Summer Mococo】綻放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-02",
+            "text": "【Mococo的Breezy Summer Mococo】綻放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-03",
+            "text": "【Mococo的Breezy Summer Mococo】綻放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-04",
+            "text": "【Mococo的Breezy Summer Mococo】綻放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-05",
+            "text": "【Mococo的Breezy Summer Mococo】綻放5"
         }
     },
     {
@@ -4305,6 +4449,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_skill-card",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_start-card",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】Live開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-00036_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-00036_myself-001",
@@ -4935,6 +5093,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_skill-card",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_start-card",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】Live開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-04016_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-04016_myself-001",
@@ -4960,6 +5132,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-04017_04017-5-uniq-0056-00_start-card",
             "text": "【悠閒愜意的甜甜圈派對♪ Mococo】 Live開始"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_skill-card",
+            "text": "【Mococo的Breezy Summer Mococo】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_start-card",
+            "text": "【Mococo的Breezy Summer Mococo】Live開始"
         }
     },
     {
@@ -27888,6 +28074,41 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04016",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】琉依&Fuwawa"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04017",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】琉依&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04016-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04016-to-00036",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】Fuwawa&琉依"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04017-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04017-to-00036",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】Mococo&琉依"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00036_00036-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-00036_00036-to-00001",
@@ -28413,10 +28634,38 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00036_04016-5-uniq-0079-00_00036-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_04016-5-uniq-0079-00_00036-to-04016",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】琉依&Fuwawa"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_04016-5-uniq-0079-00_04016-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_04016-5-uniq-0079-00_04016-to-00036",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】Fuwawa&琉依"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00036_04016-to-00036",
         "data": {
             "id": "la-name_cv-live_dial_chr-00036_04016-to-00036",
             "text": "Fuwawa&琉依"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_04017-5-uniq-0080-00_00036-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_04017-5-uniq-0080-00_00036-to-04017",
+            "text": "【Mococo的Breezy Summer Mococo】琉依&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00036_04017-5-uniq-0080-00_04017-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00036_04017-5-uniq-0080-00_04017-to-00036",
+            "text": "【Mococo的Breezy Summer Mococo】Mococo&琉依"
         }
     },
     {
@@ -44625,6 +44874,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04016_00036-5-uniq-0078-00_00036-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_00036-5-uniq-0078-00_00036-to-04016",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】琉依&Fuwawa"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_00036-5-uniq-0078-00_04016-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_00036-5-uniq-0078-00_04016-to-00036",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】Fuwawa&琉依"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04016_00036-to-04016",
         "data": {
             "id": "la-name_cv-live_dial_chr-04016_00036-to-04016",
@@ -44825,6 +45088,41 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0055-00_myself",
             "text": "【蓬鬆甜甜圈派對♪ Fuwawa】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_00036-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_00036-to-04016",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】琉依&Fuwawa"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-00036",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】Fuwawa&琉依"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-04017",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】Fuwawa&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04017-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04017-to-04016",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】Mococo&Fuwawa"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】SP技能"
         }
     },
     {
@@ -45206,6 +45504,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04016-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04016-to-04017",
+            "text": "【Mococo的Breezy Summer Mococo】Fuwawa&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04017-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04017-to-04016",
+            "text": "【Mococo的Breezy Summer Mococo】Mococo&Fuwawa"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04016_04017-to-04016",
         "data": {
             "id": "la-name_cv-live_dial_chr-04016_04017-to-04016",
@@ -45430,6 +45742,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04017_00036-5-uniq-0078-00_00036-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_00036-5-uniq-0078-00_00036-to-04017",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】琉依&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_00036-5-uniq-0078-00_04017-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_00036-5-uniq-0078-00_04017-to-00036",
+            "text": "【享受療癒海浪聲的幹練幹部 琉依】Mococo&琉依"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04017_00036-to-04017",
         "data": {
             "id": "la-name_cv-live_dial_chr-04017_00036-to-04017",
@@ -45605,6 +45931,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04016-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04016-to-04017",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】Fuwawa&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04017-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04017-to-04016",
+            "text": "【Fuwawa的Flowing Summer Fuwawa】Mococo&Fuwawa"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04017_04016-to-04017",
         "data": {
             "id": "la-name_cv-live_dial_chr-04017_04016-to-04017",
@@ -45644,6 +45984,41 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0056-00_myself",
             "text": "【悠閒愜意的甜甜圈派對♪ Mococo】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_00036-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_00036-to-04017",
+            "text": "【Mococo的Breezy Summer Mococo】琉依&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04016-to-04017",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04016-to-04017",
+            "text": "【Mococo的Breezy Summer Mococo】Fuwawa&Mococo"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-00036",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-00036",
+            "text": "【Mococo的Breezy Summer Mococo】Mococo&琉依"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-04016",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-04016",
+            "text": "【Mococo的Breezy Summer Mococo】Mococo&Fuwawa"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself",
+            "text": "【Mococo的Breezy Summer Mococo】SP技能"
         }
     },
     {
@@ -95095,6 +95470,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-detail",
+            "text": "淡淡的海潮味掠過鼻尖……平靜的海浪聲在耳邊輕輕迴蕩……再加上雙胞胎在海中嬉戲的身影……！\n咦，這裡是樂園嗎？這麼美麗的景色真的可以免費看嗎？\n啊，咦咦咦咦？！FUWAMOCO在對我招手～～～？！\n怎、怎麼辦？！喂，我該怎麼辦才好？！\n……我、我知道了。像什麼事都沒發生一樣，若無其事地揮手回應就好，對吧……\n啊、啊————？！她們揮手揮得比剛才更熱情了～～～？！\n天啊……牆壁真的可以這麼幸福嗎……！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-get",
+            "text": "能跟大家一起度過這個夏天真是太好了……一起享受到最後一刻吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-01",
+            "text": "這份幸福再繼續攝取下去，心臟真的會吃不消……！我去散步一下……"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-02",
+            "text": "哈啊～好舒服的風～嗯～～是夏天的味道……♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-03",
+            "text": "你說我散發著一股過人的透明感？呵呵，就算誇我，也得不到什麼好處喔～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-04",
+            "text": "喂，我明白你想下水玩的心情，但還是忍忍吧～你沒有帶毛巾來吧？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00036_00036-5-uniq-0078-00_card-potential-05",
+            "text": "下次來散步時，順便帶個便當好了～讓你嚐嚐我做的馬鈴薯沙拉和三明治♪"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00037_00037-5-uniq-0030-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00037_00037-5-uniq-0030-00_card-detail",
@@ -96271,6 +96695,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-detail",
+            "text": "啪噠啪噠啪噠～♪打著水花向前游～BAU BAU♪\n嘿嘿嘿嘿嘿，海邊真好玩。\n啊，你該不會很在意這個泳圈嗎？\n還是說，對我的泳裝打扮……感到心跳加速了呢？\n嘿嘿嘿嘿嘿♪這個泳圈是琉依姐前輩幫我們挑的，她說這個圖案很適合我們。\n所以Moco醬也有一個同款不同色的！\n咦，看起來很好吃？NO～NO～！不可以，這個甜甜圈吃了會扁掉～！\n要吃的話，就去吃Moco醬的～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-get",
+            "text": "要是熱過頭，就讓我來幫大家吹涼♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-01",
+            "text": "在泳圈上輕輕地漂浮真舒服……BAU BAU♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-02",
+            "text": "南國的花真漂亮……你喜歡哪種顏色的花呢？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-03",
+            "text": "呀～！泳圈被沖走了～！哇，神救援～！簡直就是救圈員呢～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-04",
+            "text": "我在這邊喔，這邊～！嘿嘿嘿嘿嘿♪有本事就過來抓我啊～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04016_04016-5-uniq-0079-00_card-potential-05",
+            "text": "我今天有讓你臉紅心跳嗎？如果有的話，我會很開心……"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0056-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0056-00_card-detail",
@@ -96317,6 +96790,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0056-00_card-potential-05",
             "text": "嗚嗚，突然有點睏了……欸，肩膀借我靠……嘿嘿嘿，好溫暖……BAU BAU……"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-detail",
+            "text": "喂～喂～接下來要玩什麼？\n我們還沒玩過狗爬式比賽、堆沙堡、找漂亮貝殼～還有……\n咦，沙灘排球？好啊～！剛好琉依姐前輩和Fuwawa也能一起玩，贊成～！\n話說，沙灘球跑到哪裡去了？啊，被海浪沖走了～！\nOK～交給我吧～！現在正是甜甜圈泳圈派上用場的時刻！\n來，用力把裝備泳圈的我推向大海吧，快點～！\n好，上啊～！還差一點、還差一點……拿到了，BAU BAU！！！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-get",
+            "text": "不管多熱，我都會讓你們變得毛茸茸！做好覺悟吧，BAU BAU！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-01",
+            "text": "一直這樣盯著我看，我會害羞啦……這身泳裝適合我嗎？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-02",
+            "text": "托球！殺球——！！！呼，沙灘排球的意象訓練已經準備萬全了♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-03",
+            "text": "看招！看招！打水仗囉～！準備變成落湯雞吧～！BAU BAU！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-04",
+            "text": "啊，居然在沙灘上睡著了～！機會來了，埋起來埋起來～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04017_04017-5-uniq-0080-00_card-potential-05",
+            "text": "回去之前，我們一起去找貝殼吧！如果發現了漂亮的貝殼，要送我喔♪"
         }
     },
     {
@@ -97503,6 +98025,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_skill-card",
+            "text": "夏日鷹眼，發動……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00036_00036-5-uniq-0078-00_start-card",
+            "text": "準備好了嗎～！讓我們一起打造最棒的夏日回憶吧～！"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-00036_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-00036_myself-001",
@@ -98133,6 +98669,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_skill-card",
+            "text": "火熱的夏天，Come on！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04016_04016-5-uniq-0079-00_start-card",
+            "text": "越是覺得熱，就越要喊出聲來！BAU BAU！"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-04016_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-04016_myself-001",
@@ -98158,6 +98708,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-04017_04017-5-uniq-0056-00_start-card",
             "text": "要上囉～！我們一定辦得到！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_skill-card",
+            "text": "我是人魚狗喔，BAU BAU！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04017_04017-5-uniq-0080-00_start-card",
+            "text": "嘩啦～♪Mococo漂流到Live會場了～♪"
         }
     },
     {
@@ -121086,6 +121650,41 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04016",
+            "text": "雙胞胎的笑容，比夏日的天空還要美麗……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_00036-to-04017",
+            "text": "雙胞胎的笑容，比夏天的太陽更加絢麗……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04016-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04016-to-00036",
+            "text": "主廚！來一碗中華涼麵！主廚～～～！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04017-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_04017-to-00036",
+            "text": "我是牆壁、我是牆壁、我是牆壁……"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_00036-5-uniq-0078-00_myself",
+            "text": "能跟大家一起度過這個夏天真是太好了……一起享受到最後一刻吧！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00036_00036-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-00036_00036-to-00001",
@@ -121611,10 +122210,38 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00036_04016-5-uniq-0079-00_00036-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_04016-5-uniq-0079-00_00036-to-04016",
+            "text": "來～大家把應援棒調成藍色～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_04016-5-uniq-0079-00_04016-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_04016-5-uniq-0079-00_04016-to-00036",
+            "text": "有有有！我想！！！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00036_04016-to-00036",
         "data": {
             "id": "la-text_cv-live_dial_chr-00036_04016-to-00036",
             "text": "妳居然這麼為大家著想⋯⋯難不成妳是天使嗎？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_04017-5-uniq-0080-00_00036-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_04017-5-uniq-0080-00_00036-to-04017",
+            "text": "泳裝Mococo……就由我來守護……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00036_04017-5-uniq-0080-00_04017-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00036_04017-5-uniq-0080-00_04017-to-00036",
+            "text": "這下要熱成熱狗了，開玩笑的。哈哈！"
         }
     },
     {
@@ -137823,6 +138450,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04016_00036-5-uniq-0078-00_00036-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_00036-5-uniq-0078-00_00036-to-04016",
+            "text": "大家要記得隨時補充水分喔～BAU BAU♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_00036-5-uniq-0078-00_04016-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_00036-5-uniq-0078-00_04016-to-00036",
+            "text": "大家喜歡中華涼麵嗎～？很好吃吧～♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04016_00036-to-04016",
         "data": {
             "id": "la-text_cv-live_dial_chr-04016_00036-to-04016",
@@ -138023,6 +138664,41 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0055-00_myself",
             "text": "我今後也會繼續守護大家的笑容。跟著我一起……BAU BAU！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_00036-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_00036-to-04016",
+            "text": "好厲害！簡直就像南國的大海一樣漂亮～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-00036",
+            "text": "大家～想跟我一起打造夏天的回憶嗎～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04016-to-04017",
+            "text": "Moco醬，我們來辦一場南國海上Live怎麼樣？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04017-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_04017-to-04016",
+            "text": "雖、雖然很高興……但有點害羞呢，BAU BAU♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04016-5-uniq-0079-00_myself",
+            "text": "要是熱過頭，就讓我來幫大家吹涼♪"
         }
     },
     {
@@ -138404,6 +139080,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04016-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04016-to-04017",
+            "text": "哇哇？！Moco醬，妳怎麼滿身大汗！沒事吧？！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04017-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04016_04017-5-uniq-0080-00_04017-to-04016",
+            "text": "可、可愛……Moco醬很性感！！！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04016_04017-to-04016",
         "data": {
             "id": "la-text_cv-live_dial_chr-04016_04017-to-04016",
@@ -138628,6 +139318,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04017_00036-5-uniq-0078-00_00036-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_00036-5-uniq-0078-00_00036-to-04017",
+            "text": "大家～！別輸給夏天的暑氣～！BAU BAU♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_00036-5-uniq-0078-00_04017-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_00036-5-uniq-0078-00_04017-to-00036",
+            "text": "琉依姐的泳裝打扮好可愛！髮帶也超時尚的～♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04017_00036-to-04017",
         "data": {
             "id": "la-text_cv-live_dial_chr-04017_00036-to-04017",
@@ -138803,6 +139507,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04016-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04016-to-04017",
+            "text": "好主意，在海上蓋個舞台吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04017-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04016-5-uniq-0079-00_04017-to-04016",
+            "text": "大家～！Fuwawa的泳裝很可愛，對吧～？！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04017_04016-to-04017",
         "data": {
             "id": "la-text_cv-live_dial_chr-04017_04016-to-04017",
@@ -138842,6 +139560,41 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0056-00_myself",
             "text": "我今後也會繼續守護大家的笑容。跟著我一起……BAU BAU♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_00036-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_00036-to-04017",
+            "text": "琉依姐前輩～！Live還沒結束喔～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04016-to-04017",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04016-to-04017",
+            "text": "區區暑氣，對我來說根本不算什麼——！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-00036",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-00036",
+            "text": "好熱喔～！琉依姐前輩，拜託想想辦法～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-04016",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_04017-to-04016",
+            "text": "Fuwawa，妳懂吧？泳裝打扮的Mococo很～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04017_04017-5-uniq-0080-00_myself",
+            "text": "不管多熱，我都會讓你們變得毛茸茸！做好覺悟吧，BAU BAU！"
         }
     },
     {
