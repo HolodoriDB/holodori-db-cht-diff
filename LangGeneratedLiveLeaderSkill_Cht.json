@@ -133,6 +133,34 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill-card-00004-5-uniq-0081-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00004-5-uniq-0081-00-description",
+            "text": "若編入2名以上1期生全體成員的技巧提升135% "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00035-5-uniq-0082-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00035-5-uniq-0082-00-description",
+            "text": "若編入2名以上[attribute=cute]可愛類型[/attribute]的人物全體成員的表現力提升80% 若編入2名以上[attribute=cute]可愛類型[/attribute]的人物全體成員的分數加成效果25%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-03005-5-uniq-0084-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-03005-5-uniq-0084-00-description",
+            "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物全體成員的表現力提升130% "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-04013-5-uniq-0083-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-04013-5-uniq-0083-00-description",
+            "text": "若編入2名以上[attribute=cute]可愛類型[/attribute]的人物全體成員的全能力提升30% 若編入2名以上[attribute=cute]可愛類型[/attribute]的人物全體成員的分數加成效果25%"
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",

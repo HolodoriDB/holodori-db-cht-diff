@@ -47,5 +47,33 @@
             "id": "la-event_story_chapter-marathon_event-relay-001-chapter-05",
             "text": "WAHderful的夏日☆"
         }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-002-chapter-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-002-chapter-01",
+            "text": "亞綺羅森流，享受暑假的方式"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-002-chapter-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-002-chapter-02",
+            "text": "暑氣與泳池與書痴"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-002-chapter-03",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-002-chapter-03",
+            "text": "統帥的樂園侵略作戰！"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-002-chapter-04",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-002-chapter-04",
+            "text": "幹練監督的聖地巡禮"
+        }
     }
 ]

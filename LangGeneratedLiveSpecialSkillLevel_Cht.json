@@ -266,6 +266,62 @@
         }
     },
     {
+        "id": "la-generated-live_special_skill-card-00004-5-uniq-0081-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00004-5-uniq-0081-00.1-description",
+            "text": "在 12 秒內分數加成效果100%且若編入2名以上1期生技能發動機率提升40%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00004-5-uniq-0081-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00004-5-uniq-0081-00.2-description",
+            "text": "在 12 秒內分數加成效果[highlight]120[/highlight]%且若編入2名以上1期生技能發動機率提升[highlight]45[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00035-5-uniq-0082-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00035-5-uniq-0082-00.1-description",
+            "text": "在 15 秒內分數加成效果80%技能發動機率提升25%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-00035-5-uniq-0082-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-00035-5-uniq-0082-00.2-description",
+            "text": "在 15 秒內分數加成效果[highlight]95[/highlight]%技能發動機率提升[highlight]35[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03005-5-uniq-0084-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03005-5-uniq-0084-00.1-description",
+            "text": "在 10 秒內分數加成效果135%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03005-5-uniq-0084-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03005-5-uniq-0084-00.2-description",
+            "text": "在 10 秒內分數加成效果[highlight]160[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04013-5-uniq-0083-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04013-5-uniq-0083-00.1-description",
+            "text": "在 12 秒內分數加成效果100%技能發動機率提升35%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-04013-5-uniq-0083-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-04013-5-uniq-0083-00.2-description",
+            "text": "在 12 秒內分數加成效果[highlight]120[/highlight]%技能發動機率提升[highlight]40[/highlight]%"
+        }
+    },
+    {
         "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
         "data": {
             "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",

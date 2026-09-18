@@ -21,6 +21,13 @@
         }
     },
     {
+        "id": "la-character_story-chr-00004-002",
+        "data": {
+            "id": "la-character_story-chr-00004-002",
+            "text": "亞綺羅森流，享受暑假的方式"
+        }
+    },
+    {
         "id": "la-character_story-chr-00005-001",
         "data": {
             "id": "la-character_story-chr-00005-001",
@@ -203,6 +210,13 @@
         }
     },
     {
+        "id": "la-character_story-chr-00035-002",
+        "data": {
+            "id": "la-character_story-chr-00035-002",
+            "text": "統帥的樂園侵略作戰！"
+        }
+    },
+    {
         "id": "la-character_story-chr-00036-001",
         "data": {
             "id": "la-character_story-chr-00036-001",
@@ -263,6 +277,13 @@
         "data": {
             "id": "la-character_story-chr-03005-001",
             "text": "冷酷精明的古代武器"
+        }
+    },
+    {
+        "id": "la-character_story-chr-03005-002",
+        "data": {
+            "id": "la-character_story-chr-03005-002",
+            "text": "幹練監督的聖地巡禮"
         }
     },
     {
@@ -354,6 +375,13 @@
         "data": {
             "id": "la-character_story-chr-04013-001",
             "text": "愉快收藏家的奇怪失物"
+        }
+    },
+    {
+        "id": "la-character_story-chr-04013-002",
+        "data": {
+            "id": "la-character_story-chr-04013-002",
+            "text": "暑氣與泳池與書痴"
         }
     },
     {
