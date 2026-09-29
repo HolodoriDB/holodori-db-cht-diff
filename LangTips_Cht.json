@@ -231,6 +231,34 @@
         }
     },
     {
+        "id": "la-tips-game_screen-park-fishing-fish-list-area03",
+        "data": {
+            "id": "la-tips-game_screen-park-fishing-fish-list-area03",
+            "text": "釣魚圖鑑"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park-fishing-rod-level",
+        "data": {
+            "id": "la-tips-game_screen-park-fishing-rod-level",
+            "text": "Bae's 雜貨小舖"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park-fishing-top-area03",
+        "data": {
+            "id": "la-tips-game_screen-park-fishing-top-area03",
+            "text": "釣魚"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-park-time-period-area03",
+        "data": {
+            "id": "la-tips-game_screen-park-time-period-area03",
+            "text": "時間變更"
+        }
+    },
+    {
         "id": "la-tips-game_screen-park_change_playable-title",
         "data": {
             "id": "la-tips-game_screen-park_change_playable-title",
@@ -277,6 +305,13 @@
         "data": {
             "id": "la-tips-game_screen-skill_tree-title",
             "text": "Holo成員面板"
+        }
+    },
+    {
+        "id": "la-tips-game_screen-splash_ball",
+        "data": {
+            "id": "la-tips-game_screen-splash_ball",
+            "text": "水花飛球"
         }
     },
     {
@@ -518,6 +553,13 @@
         }
     },
     {
+        "id": "la-tips-hint-live_option_detail_special_skill_timing_display-title",
+        "data": {
+            "id": "la-tips-hint-live_option_detail_special_skill_timing_display-title",
+            "text": "SP技能發動時機顯示"
+        }
+    },
+    {
         "id": "la-tips-hint-live_option_detail_tap_effect-title",
         "data": {
             "id": "la-tips-hint-live_option_detail_tap_effect-title",
@@ -529,6 +571,34 @@
         "data": {
             "id": "la-tips-hint-live_option_detail_tap_vibration-title",
             "text": "點擊時震動"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_judgement_display_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_judgement_display_setting-title",
+            "text": "顯示判定"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_judgement_display_type-title",
+        "data": {
+            "id": "la-tips-hint-live_option_judgement_display_type-title",
+            "text": "判定顯示類型"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_judgement_position-title",
+        "data": {
+            "id": "la-tips-hint-live_option_judgement_position-title",
+            "text": "判定顯示位置"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_judgement_timing_position-title",
+        "data": {
+            "id": "la-tips-hint-live_option_judgement_timing_position-title",
+            "text": "FAST、SLOW顯示位置"
         }
     },
     {
@@ -560,10 +630,31 @@
         }
     },
     {
+        "id": "la-tips-hint-live_option_lane_split-title",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_split-title",
+            "text": "軌道分割數"
+        }
+    },
+    {
         "id": "la-tips-hint-live_option_lane_top_cut-title",
         "data": {
             "id": "la-tips-hint-live_option_lane_top_cut-title",
             "text": "裁切軌道上方"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_lane_width_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_lane_width_setting-title",
+            "text": "軌道寬度"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_low_life_warning_effect-title",
+        "data": {
+            "id": "la-tips-hint-live_option_low_life_warning_effect-title",
+            "text": "低生命值時的警示效果"
         }
     },
     {
@@ -588,10 +679,24 @@
         }
     },
     {
+        "id": "la-tips-hint-live_option_note_height_pct_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_note_height_pct_setting-title",
+            "text": "音符長度（％）"
+        }
+    },
+    {
         "id": "la-tips-hint-live_option_note_speed-title",
         "data": {
             "id": "la-tips-hint-live_option_note_speed-title",
             "text": "音符速度"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_note_width_pct_setting-title",
+        "data": {
+            "id": "la-tips-hint-live_option_note_width_pct_setting-title",
+            "text": "音符寬度（％）"
         }
     },
     {
@@ -634,6 +739,13 @@
         "data": {
             "id": "la-tips-hint-live_option_skin_note-title",
             "text": "音符外觀"
+        }
+    },
+    {
+        "id": "la-tips-hint-live_option_skin_penlight-title",
+        "data": {
+            "id": "la-tips-hint-live_option_skin_penlight-title",
+            "text": "應援棒設定"
         }
     },
     {
@@ -826,6 +938,20 @@
         }
     },
     {
+        "id": "la-tips-park-boat-area03",
+        "data": {
+            "id": "la-tips-park-boat-area03",
+            "text": "快艇"
+        }
+    },
+    {
+        "id": "la-tips-park-boat-level-area03",
+        "data": {
+            "id": "la-tips-park-boat-level-area03",
+            "text": "小夜實驗室海洋分部"
+        }
+    },
+    {
         "id": "la-tips-park-character-shop-area01-balloon-title",
         "data": {
             "id": "la-tips-park-character-shop-area01-balloon-title",
@@ -851,6 +977,48 @@
         "data": {
             "id": "la-tips-park-character-shop-area02-hair-accessory-title",
             "text": "高帽商店"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-area03",
+        "data": {
+            "id": "la-tips-park-fishing-area03",
+            "text": "釣魚"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-fish-list-area03",
+        "data": {
+            "id": "la-tips-park-fishing-fish-list-area03",
+            "text": "釣魚圖鑑"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-rod-level-area03",
+        "data": {
+            "id": "la-tips-park-fishing-rod-level-area03",
+            "text": "Bae's 雜貨小舖"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-rod-level-up--area03-title",
+        "data": {
+            "id": "la-tips-park-fishing-rod-level-up--area03-title",
+            "text": "強化釣竿吧！"
+        }
+    },
+    {
+        "id": "la-tips-park-fishing-top-area03",
+        "data": {
+            "id": "la-tips-park-fishing-top-area03",
+            "text": "釣魚"
+        }
+    },
+    {
+        "id": "la-tips-park-fishingshop-area03",
+        "data": {
+            "id": "la-tips-park-fishingshop-area03",
+            "text": "Bae's 雜貨小舖"
         }
     },
     {
@@ -935,6 +1103,20 @@
         "data": {
             "id": "la-tips-skill-tree-title",
             "text": "Holo成員面板"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball",
+        "data": {
+            "id": "la-tips-splash_ball",
+            "text": "水花飛球"
+        }
+    },
+    {
+        "id": "la-tips-splash_ball-quest",
+        "data": {
+            "id": "la-tips-splash_ball-quest",
+            "text": "水花飛球"
         }
     },
     {

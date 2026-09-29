@@ -1106,6 +1106,20 @@
         }
     },
     {
+        "id": "la-help_category-help-game-8-text",
+        "data": {
+            "id": "la-help_category-help-game-8-text",
+            "text": "水花飛球是分成3隊，每隊3人，操控快艇將球射入對手球門的水上小遊戲。\n任一隊伍達到指定分數、分數歸零或限定時間歸零，遊戲即結束。\n可依隊伍排名與個人成績獲得獎勵。\n此遊戲僅支援「多人遊玩」，最多可9人同遊。\n\n請點選水花飛球主畫面中的［？］查看遊戲規則等詳情。"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-8-title",
+        "data": {
+            "id": "la-help_category-help-game-8-title",
+            "text": "關於水花飛球"
+        }
+    },
+    {
         "id": "la-help_category-help-item-1-text",
         "data": {
             "id": "la-help_category-help-item-1-text",
@@ -1159,6 +1173,20 @@
         "data": {
             "id": "la-help_category-help-option-2-title",
             "text": "關於Live選項"
+        }
+    },
+    {
+        "id": "la-help_category-help-option-3-text",
+        "data": {
+            "id": "la-help_category-help-option-3-text",
+            "text": "若遊戲出現延遲，建議降低品質設定以減輕系統負載。\n但當品質設定低於標準時，樂園中登場的holo成員可能會減少。請依據遊戲運作情況調整設定，以提升遊戲體驗的流暢度。"
+        }
+    },
+    {
+        "id": "la-help_category-help-option-3-title",
+        "data": {
+            "id": "la-help_category-help-option-3-title",
+            "text": "關於品質設定"
         }
     },
     {
@@ -1229,6 +1257,34 @@
         "data": {
             "id": "la-help_category-help-park-13-title",
             "text": "關於隱藏寶箱"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-14-text",
+        "data": {
+            "id": "la-help_category-help-park-14-text",
+            "text": "在汽水泡泡灣可搭乘快艇於海上移動。\n靠近快艇即可搭乘。\n搭船時靠近可登陸點，即可上岸。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-14-title",
+        "data": {
+            "id": "la-help_category-help-park-14-title",
+            "text": "關於快艇"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-15-text",
+        "data": {
+            "id": "la-help_category-help-park-15-text",
+            "text": "可在汽水泡泡灣的釣魚場釣魚。\n釣起的魚可依種類與大小獲得「汽水泡泡硬幣」。\n獲得的硬幣可在「一條VIP會所」兌換各種道具。\n\n▼如何釣魚\n當魚上鉤時，點擊畫面即可開始小遊戲。\n操作畫面顯示的「捲線按鈕」，將魚釣起吧。\n\n▽基本操作\n按住捲線按鈕時可提升「捕獲條」，放開手指則會下降。\n\n▽釣魚技巧\n將捕獲條持續對準上下移動的「魚」，即可累積「釣魚計量條」。\n\n▽成功與失敗\n釣魚計量條滿格，即可成功將魚釣起。\n釣魚計量條歸零，魚會逃走，釣魚失敗。\n※各類魚種的行動方式與難易度各有不同。\n\n▼關於釣魚場\n可在汽水泡泡灣內的釣魚場開始釣魚。\n每個釣魚場可能出現不同魚種。\n\n▼關於釣竿\n消耗Holo金幣，即可強化釣竿。\n強化後將更容易釣到魚，操作體驗更順暢。\n\n▼關於魚餌\n釣魚所需的魚餌，可在「Bae's 雜貨小舖」兌換。\n每種魚偏好的魚餌各有不同。\n※魚餌為消耗型道具。釣到魚或失敗時都會消耗魚餌。\n\n▼關於釣魚圖鑑\n成功釣起的魚種資訊，將會記錄於「釣魚圖鑑」。\n與釣魚設施內的「holo成員」對話，即可查看圖鑑。\n記錄於圖鑑中的魚種，收集達一定數量，即可獲得獎勵。"
+        }
+    },
+    {
+        "id": "la-help_category-help-park-15-title",
+        "data": {
+            "id": "la-help_category-help-park-15-title",
+            "text": "關於釣魚"
         }
     },
     {
@@ -1585,7 +1641,7 @@
         "id": "la-help_category-help-rhythm-2-text",
         "data": {
             "id": "la-help_category-help-rhythm-2-text",
-            "text": "隊伍中可編入1名holo成員為隊長與5名隊員。\n每位holo成員最多可編入10組隊伍。\n\n隊伍分數是影響Live分數的指標參數。\n隊伍分數越高，獲得分數也會提升。\n隊長的服裝技能、成員的能力與技能等皆會影響隊伍分數。"
+            "text": "隊伍中可編入1名holo成員為隊長與5名隊員。\n每位holo成員最多可編入10組隊伍。\n\n隊伍分數是影響Live分數的指標參數。\n隊伍分數越高，獲得分數也會提升。\n隊長的服裝技能、成員的能力與技能等皆會影響隊伍分數。\n\n※主動技能是否平均發動，將會影響隊伍分數，因此依編組不同，解鎖Holo成員面板的「提升技能發動頻率」可能導致數值下降。"
         }
     },
     {

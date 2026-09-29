@@ -749,6 +749,13 @@
         }
     },
     {
+        "id": "la-sdcos-00023-uniq-0085-00",
+        "data": {
+            "id": "la-sdcos-00023-uniq-0085-00",
+            "text": "幽海航海士"
+        }
+    },
+    {
         "id": "la-sdcos-00024-nrml-0020-00",
         "data": {
             "id": "la-sdcos-00024-nrml-0020-00",
@@ -910,6 +917,13 @@
         }
     },
     {
+        "id": "la-sdcos-00030-uniq-0089-00",
+        "data": {
+            "id": "la-sdcos-00030-uniq-0089-00",
+            "text": "甜美藍色夏威夷"
+        }
+    },
+    {
         "id": "la-sdcos-00031-cmmn-0000-00",
         "data": {
             "id": "la-sdcos-00031-cmmn-0000-00",
@@ -1012,6 +1026,13 @@
         "data": {
             "id": "la-sdcos-00034-uniq-0027-00",
             "text": "快樂馬戲團長"
+        }
+    },
+    {
+        "id": "la-sdcos-00034-uniq-0090-00",
+        "data": {
+            "id": "la-sdcos-00034-uniq-0090-00",
+            "text": "活力四射小動物"
         }
     },
     {
@@ -1131,6 +1152,13 @@
         "data": {
             "id": "la-sdcos-00037-uniq-0030-00",
             "text": "魅惑實驗室"
+        }
+    },
+    {
+        "id": "la-sdcos-00037-uniq-0086-00",
+        "data": {
+            "id": "la-sdcos-00037-uniq-0086-00",
+            "text": "海濱幾何學"
         }
     },
     {
@@ -1505,6 +1533,13 @@
         }
     },
     {
+        "id": "la-sdcos-03009-uniq-0088-00",
+        "data": {
+            "id": "la-sdcos-03009-uniq-0088-00",
+            "text": "漣漪歌姬"
+        }
+    },
+    {
         "id": "la-sdcos-04001-cmmn-0000-00",
         "data": {
             "id": "la-sdcos-04001-cmmn-0000-00",
@@ -1754,6 +1789,13 @@
         "data": {
             "id": "la-sdcos-04012-uniq-0051-00",
             "text": "閃亮起司"
+        }
+    },
+    {
+        "id": "la-sdcos-04012-uniq-0087-00",
+        "data": {
+            "id": "la-sdcos-04012-uniq-0087-00",
+            "text": "泡泡狂歡"
         }
     },
     {
@@ -2034,6 +2076,13 @@
         "data": {
             "id": "la-sdcos-06003-uniq-0059-00",
             "text": "菁英潮女"
+        }
+    },
+    {
+        "id": "la-sdcos-06003-uniq-0091-00",
+        "data": {
+            "id": "la-sdcos-06003-uniq-0091-00",
+            "text": "奢華微風"
         }
     },
     {

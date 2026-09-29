@@ -26,5 +26,12 @@
             "id": "ls-work-slot-4",
             "text": "聊天直播"
         }
+    },
+    {
+        "id": "ls-work-slot-5",
+        "data": {
+            "id": "ls-work-slot-5",
+            "text": "釣魚"
+        }
     }
 ]

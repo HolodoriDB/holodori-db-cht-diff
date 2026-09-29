@@ -1,1 +1,114 @@
-[]
+[
+    {
+        "id": "la-park_fishing_bait-001-description",
+        "data": {
+            "id": "la-park_fishing_bait-001-description",
+            "text": "能夠釣到特定魚種的魚餌，不會消耗。"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-001-name",
+        "data": {
+            "id": "la-park_fishing_bait-001-name",
+            "text": "練餌"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-002-description",
+        "data": {
+            "id": "la-park_fishing_bait-002-description",
+            "text": "能夠釣到特定魚種的魚餌"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-002-name",
+        "data": {
+            "id": "la-park_fishing_bait-002-name",
+            "text": "魚片（黃色）"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-003-description",
+        "data": {
+            "id": "la-park_fishing_bait-003-description",
+            "text": "能夠釣到特定魚種的魚餌"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-003-name",
+        "data": {
+            "id": "la-park_fishing_bait-003-name",
+            "text": "魚片（紅色）"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-004-description",
+        "data": {
+            "id": "la-park_fishing_bait-004-description",
+            "text": "能夠釣到特定魚種的魚餌"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-004-name",
+        "data": {
+            "id": "la-park_fishing_bait-004-name",
+            "text": "小魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-005-description",
+        "data": {
+            "id": "la-park_fishing_bait-005-description",
+            "text": "能夠釣到特定魚種的魚餌"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-005-name",
+        "data": {
+            "id": "la-park_fishing_bait-005-name",
+            "text": "南極蝦"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-006-description",
+        "data": {
+            "id": "la-park_fishing_bait-006-description",
+            "text": "能夠釣到特定魚種的魚餌"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-006-name",
+        "data": {
+            "id": "la-park_fishing_bait-006-name",
+            "text": "香腸"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-007-description",
+        "data": {
+            "id": "la-park_fishing_bait-007-description",
+            "text": "能夠釣到特定魚種的魚餌"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-007-name",
+        "data": {
+            "id": "la-park_fishing_bait-007-name",
+            "text": "炸雞"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-008-description",
+        "data": {
+            "id": "la-park_fishing_bait-008-description",
+            "text": "能夠釣到特定魚種的魚餌"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-008-name",
+        "data": {
+            "id": "la-park_fishing_bait-008-name",
+            "text": "海藻"
+        }
+    }
+]

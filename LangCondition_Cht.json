@@ -35,6 +35,48 @@
         }
     },
     {
+        "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup",
+            "text": "過關主線關卡「Build Up！開拓釣點！」後即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup-description",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-fishingshop-initial_lineup-description",
+            "text": "過關主線關卡「Build Up！開拓釣點！」後即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a03-resortshop-first_time_limited-next_lineup_view",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-resortshop-first_time_limited-next_lineup_view",
+            "text": "11月起每月重置"
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup",
+            "text": "過關主線關卡「水上的奢華設施」後即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup-description",
+        "data": {
+            "id": "la-cd-exchange_booth-facility-a03-resortshop-initial_lineup-description",
+            "text": "過關主線關卡「水上的奢華設施」後即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-exchange_booth_fixed_item_unlock-item-mini-game-chase-coin",
+        "data": {
+            "id": "la-cd-exchange_booth_fixed_item_unlock-item-mini-game-chase-coin",
+            "text": "解鎖條件：過關區域關卡「夜色盛宴，火花四射的追逐戰」"
+        }
+    },
+    {
         "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
         "data": {
             "id": "la-cd-exchange_fixed_item_purchase_all-exchange_booth_fixed_item-exchange_booth-facility-a02-exchangebooth3-item-card_limit_break-cmn-sr-001",
@@ -123,6 +165,27 @@
         "data": {
             "id": "la-cd-marathon_event",
             "text": "過關主線關卡1章4話即可解鎖"
+        }
+    },
+    {
+        "id": "la-cd-park_fishing_rod-02",
+        "data": {
+            "id": "la-cd-park_fishing_rod-02",
+            "text": "解鎖條件：過關主線關卡3章5話"
+        }
+    },
+    {
+        "id": "la-cd-park_fishing_rod-03",
+        "data": {
+            "id": "la-cd-park_fishing_rod-03",
+            "text": "解鎖條件：釣起20種魚"
+        }
+    },
+    {
+        "id": "la-cd-park_fishing_rod-04",
+        "data": {
+            "id": "la-cd-park_fishing_rod-04",
+            "text": "解鎖條件：釣起50種魚"
         }
     },
     {
@@ -571,6 +634,34 @@
         "data": {
             "id": "la-quest-main-w1-02-09-unlock-description",
             "text": "挑戰區域關卡與Holo成員關卡\n即可提升夢幻Rank"
+        }
+    },
+    {
+        "id": "la-unlock-player_level-30",
+        "data": {
+            "id": "la-unlock-player_level-30",
+            "text": "達到夢幻Rank30後即可解鎖。"
+        }
+    },
+    {
+        "id": "la-unlock-player_level-34",
+        "data": {
+            "id": "la-unlock-player_level-34",
+            "text": "達到夢幻Rank34後即可解鎖。"
+        }
+    },
+    {
+        "id": "la-unlock-player_level-35",
+        "data": {
+            "id": "la-unlock-player_level-35",
+            "text": "達到夢幻Rank35後即可解鎖。"
+        }
+    },
+    {
+        "id": "la-unlock_description-quest_live_play",
+        "data": {
+            "id": "la-unlock_description-quest_live_play",
+            "text": "遊玩關卡與Live吧"
         }
     }
 ]

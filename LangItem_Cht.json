@@ -924,6 +924,20 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-description",
+            "text": "可兌換活動兌換所道具的徽章。\n超過有效期限後，將自動轉換為holo金幣。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-005-chapter-01-name",
+            "text": "活動徽章"
+        }
+    },
+    {
         "id": "la-item-event_badge-marathon_event-relay-001-all-description",
         "data": {
             "id": "la-item-event_badge-marathon_event-relay-001-all-description",
@@ -1204,6 +1218,48 @@
         }
     },
     {
+        "id": "la-item-facility-area_a03-001-1-description",
+        "data": {
+            "id": "la-item-facility-area_a03-001-1-description",
+            "text": "用於建造與強化設施等用途的道具"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a03-001-1-name",
+        "data": {
+            "id": "la-item-facility-area_a03-001-1-name",
+            "text": "貝殼"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a03-002-1-description",
+        "data": {
+            "id": "la-item-facility-area_a03-002-1-description",
+            "text": "用於建造與強化設施等用途的道具"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a03-002-1-name",
+        "data": {
+            "id": "la-item-facility-area_a03-002-1-name",
+            "text": "漂流金屬"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a03-003-1-description",
+        "data": {
+            "id": "la-item-facility-area_a03-003-1-description",
+            "text": "用於建造與強化設施等用途的道具"
+        }
+    },
+    {
+        "id": "la-item-facility-area_a03-003-1-name",
+        "data": {
+            "id": "la-item-facility-area_a03-003-1-name",
+            "text": "漂流木"
+        }
+    },
+    {
         "id": "la-item-gacha-cmn_sticker-01-description",
         "data": {
             "id": "la-item-gacha-cmn_sticker-01-description",
@@ -1344,6 +1400,20 @@
         }
     },
     {
+        "id": "la-item-mini_game_fishing_coin-description",
+        "data": {
+            "id": "la-item-mini_game_fishing_coin-description",
+            "text": "用於汽水泡泡灣的兌換所等處的道具。"
+        }
+    },
+    {
+        "id": "la-item-mini_game_fishing_coin-name",
+        "data": {
+            "id": "la-item-mini_game_fishing_coin-name",
+            "text": "汽水泡泡硬幣"
+        }
+    },
+    {
         "id": "la-item-mini_game_reward_up_stamina_recover-description",
         "data": {
             "id": "la-item-mini_game_reward_up_stamina_recover-description",
@@ -1397,6 +1467,34 @@
         "data": {
             "id": "la-item-quest-area-a01-17-1-2-name",
             "text": "打掃用具"
+        }
+    },
+    {
+        "id": "la-item-quest-area-a03-05-1-1-description",
+        "data": {
+            "id": "la-item-quest-area-a03-05-1-1-description",
+            "text": "拉普拉斯遺落的釣竿。釣魚時不可或缺的重要夥伴。"
+        }
+    },
+    {
+        "id": "la-item-quest-area-a03-05-1-1-name",
+        "data": {
+            "id": "la-item-quest-area-a03-05-1-1-name",
+            "text": "拉普拉斯的釣竿"
+        }
+    },
+    {
+        "id": "la-item-quest-area-a03-12-1-1-description",
+        "data": {
+            "id": "la-item-quest-area-a03-12-1-1-description",
+            "text": "被波爾卡一記大暴投扔進海裡的沙灘球。得趕快帶回去獻給公主！"
+        }
+    },
+    {
+        "id": "la-item-quest-area-a03-12-1-1-name",
+        "data": {
+            "id": "la-item-quest-area-a03-12-1-1-name",
+            "text": "沙灘球"
         }
     },
     {

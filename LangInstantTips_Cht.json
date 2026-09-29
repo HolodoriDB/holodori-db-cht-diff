@@ -42,6 +42,13 @@
         }
     },
     {
+        "id": "la-instant_tips-fishingshop",
+        "data": {
+            "id": "la-instant_tips-fishingshop",
+            "text": "已可在Bae's 雜貨小舖交換新的魚餌喔！"
+        }
+    },
+    {
         "id": "la-instant_tips-jump_rope-normal",
         "data": {
             "id": "la-instant_tips-jump_rope-normal",
@@ -53,6 +60,27 @@
         "data": {
             "id": "la-instant_tips-jump_rope-score_attack",
             "text": "已解鎖蹦蹦大跳繩高分挑戰模式"
+        }
+    },
+    {
+        "id": "la-instant_tips-park_fishing_rod_upgrade_lv2",
+        "data": {
+            "id": "la-instant_tips-park_fishing_rod_upgrade_lv2",
+            "text": "已可在Bae's 雜貨小舖強化釣竿至Lv2喔！"
+        }
+    },
+    {
+        "id": "la-instant_tips-park_fishing_rod_upgrade_lv3",
+        "data": {
+            "id": "la-instant_tips-park_fishing_rod_upgrade_lv3",
+            "text": "已可在Bae's 雜貨小舖強化釣竿至Lv3喔！"
+        }
+    },
+    {
+        "id": "la-instant_tips-park_fishing_rod_upgrade_lv4",
+        "data": {
+            "id": "la-instant_tips-park_fishing_rod_upgrade_lv4",
+            "text": "已可在Bae's 雜貨小舖強化釣竿至Lv4喔！"
         }
     },
     {

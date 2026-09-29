@@ -138,5 +138,33 @@
             "id": "la-mini_game-jump_rope-ranking_view_description_lang_id",
             "text": "最佳分數 顯示前100名"
         }
+    },
+    {
+        "id": "la-mini_game-splash_ball-description",
+        "data": {
+            "id": "la-mini_game-splash_ball-description",
+            "text": "團隊遊戲，目標是將球射入球門。"
+        }
+    },
+    {
+        "id": "la-mini_game-splash_ball-name",
+        "data": {
+            "id": "la-mini_game-splash_ball-name",
+            "text": "水花飛球"
+        }
+    },
+    {
+        "id": "la-mini_game-splash_ball-ranking_score_type_lang_id",
+        "data": {
+            "id": "la-mini_game-splash_ball-ranking_score_type_lang_id",
+            "text": "分數"
+        }
+    },
+    {
+        "id": "la-mini_game-splash_ball-ranking_view_description_lang_id",
+        "data": {
+            "id": "la-mini_game-splash_ball-ranking_view_description_lang_id",
+            "text": "顯示前100名最佳成績。"
+        }
     }
 ]

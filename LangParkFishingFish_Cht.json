@@ -1,1 +1,1136 @@
-[]
+[
+    {
+        "id": "la-park_fishing_fish-0001-description",
+        "data": {
+            "id": "la-park_fishing_fish-0001-description",
+            "text": "擁有「七星」別稱的海中魔術師。看似纖細的身軀，居然能迸發出令人難以想像的鮮美滋味，與蒲燒醬汁完美融合。今晚，就好好品味釣起這顆星的幸運吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0001-name",
+        "data": {
+            "id": "la-park_fishing_fish-0001-name",
+            "text": "沙丁魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0002-description",
+        "data": {
+            "id": "la-park_fishing_fish-0002-description",
+            "text": "名字會隨著體型成長而改變，是個野心勃勃、讓人又愛又恨的傢伙。體型最大的「巨無霸竹夾魚」只要一經火烤，香氣四溢的油脂就會直擊你的味蕾，牢牢擄獲你的胃！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0002-name",
+        "data": {
+            "id": "la-park_fishing_fish-0002-name",
+            "text": "竹夾魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0003-description",
+        "data": {
+            "id": "la-park_fishing_fish-0003-description",
+            "text": "因其美麗動人的外表而有著「海濱貴婦」的美名。但別被那副外表騙了，牠上鉤時的強勁拉力，總能喚醒釣手的狩獵本能。做成天婦羅後外酥內軟、入口即化，堪稱人間美味！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0003-name",
+        "data": {
+            "id": "la-park_fishing_fish-0003-name",
+            "text": "沙梭"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0004-description",
+        "data": {
+            "id": "la-park_fishing_fish-0004-description",
+            "text": "總能巧妙偷走釣魚高手的魚餌，是海裡的頭號搗蛋鬼。但只要吃過一口沾了肝臟醬油的極品生魚片，再多的不甘都會煙消雲散！魚餌小偷和釣手之間，正展開一場激烈的鬥智大戰！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0004-name",
+        "data": {
+            "id": "la-park_fishing_fish-0004-name",
+            "text": "剝皮魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0005-description",
+        "data": {
+            "id": "la-park_fishing_fish-0005-description",
+            "text": "圓滾滾的外表，簡直是療癒系代表。但如果由外行人操刀，這頓飯可能就會變成人生最後的晚餐！唯有盡得真傳的日料師傅，才能料理這道禁忌的美味。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0005-name",
+        "data": {
+            "id": "la-park_fishing_fish-0005-name",
+            "text": "河豚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0006-description",
+        "data": {
+            "id": "la-park_fishing_fish-0006-description",
+            "text": "海中的拳擊手，能釋放出足以粉碎貝殼的衝擊波。但牠那強而有力的雙螯中充滿了濃郁的鮮味，要用鹽水煮過才能發揮其真正的價值！鮮甜多汁的滋味，是連老饕都讚不絕口的極品美味。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0006-name",
+        "data": {
+            "id": "la-park_fishing_fish-0006-name",
+            "text": "蝦蛄"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0007-description",
+        "data": {
+            "id": "la-park_fishing_fish-0007-description",
+            "text": "棲息在海中的星形生物。有些品種非常適合作為下酒菜，是內行人才知道的頂級珍饈。只要克服牠獨特的外表，就能品嚐到唯有老饕才懂的海中鮮味！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0007-name",
+        "data": {
+            "id": "la-park_fishing_fish-0007-name",
+            "text": "海星"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0008-description",
+        "data": {
+            "id": "la-park_fishing_fish-0008-description",
+            "text": "躍出海面，在陸地上活蹦亂跳的表演者。擁有大大的眼睛與嘴巴，外表非常可愛。牠不只可以用鰓呼吸，更可以用皮膚呼吸，是呼吸的專家喔。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0008-name",
+        "data": {
+            "id": "la-park_fishing_fish-0008-name",
+            "text": "彈塗魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0009-description",
+        "data": {
+            "id": "la-park_fishing_fish-0009-description",
+            "text": "優雅舞動的身姿，簡直就是水族館裡的偶像。雖然名字裡的「珍珠」容易讓人聯想到貝類，但牠其實是不折不扣的水母。看著牠，就讓人不禁聯想到沾上柚子醋後，那絕妙的Q彈口感，但牠終究只能用來觀賞！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0009-name",
+        "data": {
+            "id": "la-park_fishing_fish-0009-name",
+            "text": "珍珠水母"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0010-description",
+        "data": {
+            "id": "la-park_fishing_fish-0010-description",
+            "text": "水族館的明星，能從雌魚轉變成美麗的雄魚。牠偷吃釣手魚餌的俐落身手堪稱一流，無論拿來燉煮或炸成天婦羅，都能品嚐到高雅的甜味，讓味蕾隨之舞動。是釣到時會讓人意外開心的隱藏主角！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0010-name",
+        "data": {
+            "id": "la-park_fishing_fish-0010-name",
+            "text": "隆頭魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0011-description",
+        "data": {
+            "id": "la-park_fishing_fish-0011-description",
+            "text": "如同「報春魚」這個名字，牠是為人們捎來春天消息的魚。吸飽湯汁的鬆軟魚肉，不僅讓人感受到春天的到來，美妙的滋味更是讓人忍不住一口接著一口吧。牠視力其實差得驚人，這種反差也非常討喜。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0011-name",
+        "data": {
+            "id": "la-park_fishing_fish-0011-name",
+            "text": "平鮋"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0012-description",
+        "data": {
+            "id": "la-park_fishing_fish-0012-description",
+            "text": "在珊瑚花海間翩翩起舞的身影，宛如海中蝴蝶。過去在部分地區，牠曾是人們餐桌上熟悉的美味，如今則已在觀賞魚界奠立了不可動搖的地位。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0012-name",
+        "data": {
+            "id": "la-park_fishing_fish-0012-name",
+            "text": "蝴蝶魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0013-description",
+        "data": {
+            "id": "la-park_fishing_fish-0013-description",
+            "text": "常被誤以為是鯛魚的一種，但其實隸屬於金眼鯛科，與真正的鯛魚截然不同。在被那雙金色大眼迷住之前，不妨先拿去燉煮，再配上一杯小酒吧。軟嫩的魚肉肯定會入口即化！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0013-name",
+        "data": {
+            "id": "la-park_fishing_fish-0013-name",
+            "text": "紅金眼鯛"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0014-description",
+        "data": {
+            "id": "la-park_fishing_fish-0014-description",
+            "text": "為珊瑚礁「染上一抹鮮紅的花鮨」。那絢麗的身姿，唯有在水族箱這座舞台上才能發揮真正的價值。牠並非用來滿足口腹之欲，而是為釣手們的內心注入鮮豔色彩的南國偶像！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0014-name",
+        "data": {
+            "id": "la-park_fishing_fish-0014-name",
+            "text": "刺蓋擬花鮨"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0015-description",
+        "data": {
+            "id": "la-park_fishing_fish-0015-description",
+            "text": "雖有「海中寶石」的美稱，其真面目卻是一種外貌變化多端的軟體動物。奇特的觸角和五彩繽紛的身軀，簡直就像來自異世界的生物！即使不能吃，還是會強烈勾起人們的收藏欲！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0015-name",
+        "data": {
+            "id": "la-park_fishing_fish-0015-name",
+            "text": "海蛞蝓"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0016-description",
+        "data": {
+            "id": "la-park_fishing_fish-0016-description",
+            "text": "憑著在海底漫步、鼓動魚鰾發出聲響的那副模樣，牠在海中也算是特立獨行的怪魚。曾因深受權貴喜愛而聞名，但最美味的吃法還是生魚片！越嚼越鮮甜，帶人直達幸福的巔峰！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0016-name",
+        "data": {
+            "id": "la-park_fishing_fish-0016-name",
+            "text": "魴鮄魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0017-description",
+        "data": {
+            "id": "la-park_fishing_fish-0017-description",
+            "text": "家喻戶曉的魚界巨星登場。口感Q彈的生魚片、香氣濃郁的鯛魚飯，無論怎麼料理都有主角級的美味，為喜慶的宴席增添光彩。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0017-name",
+        "data": {
+            "id": "la-park_fishing_fish-0017-name",
+            "text": "鯛魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0018-description",
+        "data": {
+            "id": "la-park_fishing_fish-0018-description",
+            "text": "只因為外表看起來很老……就被取了這個可憐的名字，但牠就像在主張「別小看老頭子」般，替各式料理增添鮮味，是真正的高級魚。讓我們為牠打破偏見的實力拍拍手！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0018-name",
+        "data": {
+            "id": "la-park_fishing_fish-0018-name",
+            "text": "老爺魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0019-description",
+        "data": {
+            "id": "la-park_fishing_fish-0019-description",
+            "text": "從沙子裡探出頭的可愛模樣，牢牢抓住了粉絲的心。牠那舞動起來搖搖晃晃的可愛身影，比任何高級魚都更能滿足釣魚高手的心。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0019-name",
+        "data": {
+            "id": "la-park_fishing_fish-0019-name",
+            "text": "花園鰻"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0020-description",
+        "data": {
+            "id": "la-park_fishing_fish-0020-description",
+            "text": "年幼時用來迷惑天敵的漩渦花紋，長大後就搖身一變，換成了條紋裝，簡直是令人驚艷的時尚達人。身為相貌最出眾的海中成員，絕對能夠滿足每一位觀賞者的審美品味。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0020-name",
+        "data": {
+            "id": "la-park_fishing_fish-0020-name",
+            "text": "皇后神仙幼魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0022-description",
+        "data": {
+            "id": "la-park_fishing_fish-0022-description",
+            "text": "鮮豔的橘黑花紋，宛如熊熊燃燒的火焰。明明長著一張可愛的臉，個性卻十分火爆，經常和別人搶地盤。那如火焰般耀眼的光輝，光是看著就讓人內心澎湃！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0022-name",
+        "data": {
+            "id": "la-park_fishing_fish-0022-name",
+            "text": "火焰神仙魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0023-description",
+        "data": {
+            "id": "la-park_fishing_fish-0023-description",
+            "text": "在2017年被認定為新物種後，終於告別了被當成亞種的日子！可別因為牠是觀賞魚就小看牠，在某些地區，牠無論被做成油炸料理或燉煮料理都大受歡迎，是匹後來才嶄露頭角的黑馬！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0023-name",
+        "data": {
+            "id": "la-park_fishing_fish-0023-name",
+            "text": "髮帶光鰓魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0024-description",
+        "data": {
+            "id": "la-park_fishing_fish-0024-description",
+            "text": "擁有不老傳說的海中長壽王。用蒜頭調味，豪邁地烤過後，濃郁的蝦膏和Q彈的肉質，瞬間就能緊緊抓住品嚐者的心！這份美味不分國界。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0024-name",
+        "data": {
+            "id": "la-park_fishing_fish-0024-name",
+            "text": "龍蝦"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0027-description",
+        "data": {
+            "id": "la-park_fishing_fish-0027-description",
+            "text": "憑藉討喜的外型，在水族館裡穩坐最受歡迎的寶座。在部分地區，牠自古以來就是深受喜愛的食材。既能看得療癒，又能吃得驚艷，這份雙重享受，是由深海所孕育出的奇蹟。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0027-name",
+        "data": {
+            "id": "la-park_fishing_fish-0027-name",
+            "text": "翻車魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0028-description",
+        "data": {
+            "id": "la-park_fishing_fish-0028-description",
+            "text": "總有一天想親手釣到的夢想之魚。牠會在海底漫步，或是張開胸鰭嚇人，簡直就像個搞笑藝人。然而，牠揮動巨大的胸鰭，宛如振翅般游動的身影，卻顯得十分帥氣。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0028-name",
+        "data": {
+            "id": "la-park_fishing_fish-0028-name",
+            "text": "魅力魴鮄魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0029-description",
+        "data": {
+            "id": "la-park_fishing_fish-0029-description",
+            "text": "總有一天想親手釣到的夢想之魚。牠的大腦極為發達，聰明到堪稱「魚類界的智囊」。當牠優雅地游過，用那雙充滿智慧的眼睛凝視著你時，任誰都會為之屏息。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0029-name",
+        "data": {
+            "id": "la-park_fishing_fish-0029-name",
+            "text": "學院鬼蝠魟"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0030-description",
+        "data": {
+            "id": "la-park_fishing_fish-0030-description",
+            "text": "牠是釣魚高手們夢寐以求、色彩鮮豔且外型華麗的蝦子。雖然外表充滿名流氣質，但一受到驚嚇，就會縮起身子往後跳，那「奇妙的動作」總讓人忍不住笑出來。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0030-name",
+        "data": {
+            "id": "la-park_fishing_fish-0030-name",
+            "text": "卡哇伊勢龍蝦"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0034-description",
+        "data": {
+            "id": "la-park_fishing_fish-0034-description",
+            "text": "雖然頂著曾獲將軍家認可的高貴光環，但牠實際上是在嚴酷環境中頑強求生的平民派。冬天將牠炸成金黃酥脆的天婦羅，一口咬下，就能嚐到連高級料理都難以匹敵的奢華滋味！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0034-name",
+        "data": {
+            "id": "la-park_fishing_fish-0034-name",
+            "text": "西太公魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0035-description",
+        "data": {
+            "id": "la-park_fishing_fish-0035-description",
+            "text": "以「秋之刀」為名，閃耀著銀色光芒的迴游魚。在屋簷下烤魚時，油脂在烤爐上滋滋作響的聲音，宣告著秋天的到來。做成生魚片時入口即化，做成烤魚時香氣四溢，是平民的好夥伴！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0035-name",
+        "data": {
+            "id": "la-park_fishing_fish-0035-name",
+            "text": "秋刀魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0036-description",
+        "data": {
+            "id": "la-park_fishing_fish-0036-description",
+            "text": "被稱為「報春魚」的海洋信使。金黃色的光澤充滿喜氣，讓人不禁感受到春天的氣息。只要做成甘露煮放在蕎麥麵上，熬過漫長冬日的喜悅便會湧上心頭！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0036-name",
+        "data": {
+            "id": "la-park_fishing_fish-0036-name",
+            "text": "鯡魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0037-description",
+        "data": {
+            "id": "la-park_fishing_fish-0037-description",
+            "text": "海岸線上的藍色奇蹟，同時也是讓人忍不住一杯接一杯的優秀下酒菜。無論是採用經典的醬油醃漬作法，還是拌醋味噌來吃，濃縮的海潮香氣都會直衝鼻腔，徹底征服你的胃！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0037-name",
+        "data": {
+            "id": "la-park_fishing_fish-0037-name",
+            "text": "螢烏賊"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0038-description",
+        "data": {
+            "id": "la-park_fishing_fish-0038-description",
+            "text": "揮舞蟹螯、跳著求偶舞蹈的海中表演者。雖然直接水煮到通紅也很美味，但做成火鍋也同樣讓人難以抗拒！最後再用吸飽濃郁鮮味的湯汁煮成粥，一滴都別浪費，好好享用到最後吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0038-name",
+        "data": {
+            "id": "la-park_fishing_fish-0038-name",
+            "text": "螃蟹"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0039-description",
+        "data": {
+            "id": "la-park_fishing_fish-0039-description",
+            "text": "被視為長壽和避邪象徵的吉祥食材。可以做成充滿香辣滋味的乾燒蝦，也能做成口感酥脆的天婦羅，一口氣吃個精光，讓運氣爆棚吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0039-name",
+        "data": {
+            "id": "la-park_fishing_fish-0039-name",
+            "text": "蝦子"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0040-description",
+        "data": {
+            "id": "la-park_fishing_fish-0040-description",
+            "text": "穿著布滿尖刺的黑色鎧甲，有時甚至會把海藻吃個精光的海中大胃王！然而，只要把用海藻養肥的海膽鋪在白飯上，濃郁的海味和甜味一定能夠徹底擄獲你的胃！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0040-name",
+        "data": {
+            "id": "la-park_fishing_fish-0040-name",
+            "text": "海膽"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0041-description",
+        "data": {
+            "id": "la-park_fishing_fish-0041-description",
+            "text": "雖然詭異的外表和帶有劇毒的尖刺會讓人心生畏懼，但底下卻隱藏著雪白的魚肉，是貨真價實的高級魚。炸得酥酥脆脆後，連骨頭都能直接吃，在嘴裡迸發出濃郁的海味！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0041-name",
+        "data": {
+            "id": "la-park_fishing_fish-0041-name",
+            "text": "鬼鮋"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0042-description",
+        "data": {
+            "id": "la-park_fishing_fish-0042-description",
+            "text": "潛伏在沙中，一擊解決獵物的天生獵人。將獵人特有的緊實魚肉切成薄片，搭配辣蘿蔔泥一起享用，一定連你的味蕾都會徹底淪陷！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0042-name",
+        "data": {
+            "id": "la-park_fishing_fish-0042-name",
+            "text": "比目魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0043-description",
+        "data": {
+            "id": "la-park_fishing_fish-0043-description",
+            "text": "牠會藏身在平靜海域的沙中，靜靜等待出手的時機。這股韌性，孕育出緊實的極品肉質。吸滿濃郁醬汁的魚肉，好吃到讓人停不下筷子，簡直就是燉煮魚的王者！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0043-name",
+        "data": {
+            "id": "la-park_fishing_fish-0043-name",
+            "text": "鰈魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0044-description",
+        "data": {
+            "id": "la-park_fishing_fish-0044-description",
+            "text": "在冰冷海域中閃耀的活水晶。牠流著無色透明血液的模樣，強烈地激發了觀賞者的求知慾。只要釣到一次，一定就會深深迷上牠的神祕魅力！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0044-name",
+        "data": {
+            "id": "la-park_fishing_fish-0044-name",
+            "text": "冰魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0045-description",
+        "data": {
+            "id": "la-park_fishing_fish-0045-description",
+            "text": "明明名字的由來是惹人憐愛的「花之魚」，這些傢伙卻在岩礁間把自己養得肥肥胖胖，只要搭配蘿蔔泥一起享用，就會變得超級下飯！不愧是北方的實力派！在居酒屋裡也是超級經典的菜色！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0045-name",
+        "data": {
+            "id": "la-park_fishing_fish-0045-name",
+            "text": "花魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0046-description",
+        "data": {
+            "id": "la-park_fishing_fish-0046-description",
+            "text": "外形宛如鋒利的日本刀，內在則是油脂豐厚的白肉魚王子！可以做成外皮酥脆的烤魚，但如果用奶油煎成西式風味，一定能讓你的味蕾留下深刻的印象！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0046-name",
+        "data": {
+            "id": "la-park_fishing_fish-0046-name",
+            "text": "白帶魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0047-description",
+        "data": {
+            "id": "la-park_fishing_fish-0047-description",
+            "text": "隨著潮流自在漂浮的身影，宛如一件活生生的玻璃藝術品。在水族館燈光的照耀下，牠輕輕搖曳的美麗身影，必定能深深療癒你的心。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0047-name",
+        "data": {
+            "id": "la-park_fishing_fish-0047-name",
+            "text": "海月水母"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0048-description",
+        "data": {
+            "id": "la-park_fishing_fish-0048-description",
+            "text": "雖然被稱為「帝王」，但有個像武士的日本名字「鱒之介」。厚切後用奶油煎成魚排，滿溢而出的油脂，保證一刀就能擊潰你的味蕾防線！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0048-name",
+        "data": {
+            "id": "la-park_fishing_fish-0048-name",
+            "text": "帝王鮭"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0049-description",
+        "data": {
+            "id": "la-park_fishing_fish-0049-description",
+            "text": "雖然外表樸素且體型巨大，卻是被譽為「全身都跟鮪魚肚一樣肥美」的深海大鐵桶！只要切一片送進嘴裡，極度濃郁的油脂就會在嘴裡瞬間爆發。但千萬要小心，別吃太多了！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0049-name",
+        "data": {
+            "id": "la-park_fishing_fish-0049-name",
+            "text": "白斑光裸頭魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0050-description",
+        "data": {
+            "id": "la-park_fishing_fish-0050-description",
+            "text": "牠直立著在水中輕輕搖曳的身影，在水族館裡也是名列前茅的人氣明星。雄魚接下雌魚託付的生命後，會滿懷愛意地悉心照料。長久以來，都在海中以「育兒好爸爸」的形象大放異彩！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0050-name",
+        "data": {
+            "id": "la-park_fishing_fish-0050-name",
+            "text": "海馬"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0051-description",
+        "data": {
+            "id": "la-park_fishing_fish-0051-description",
+            "text": "身軀龐大，但游速依然能超過時速100公里的速度狂！要是被牠撞到一定會很慘，但從腹部到下巴，每個部位都能盡情品嚐，堪稱美食的巔峰！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0051-name",
+        "data": {
+            "id": "la-park_fishing_fish-0051-name",
+            "text": "鮪魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0052-description",
+        "data": {
+            "id": "la-park_fishing_fish-0052-description",
+            "text": "棲息在深不見底的黑暗中，身材扁平的神祕生物。因為平常都居住在深海中，不僅怕光，還非常嬌弱。如果奇蹟般的遇見牠，就將那虛幻的美麗身影烙印在眼底吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0052-name",
+        "data": {
+            "id": "la-park_fishing_fish-0052-name",
+            "text": "扁面蛸"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0054-description",
+        "data": {
+            "id": "la-park_fishing_fish-0054-description",
+            "text": "跨越5億年的歲月，從深海中浮上來的活化石。這讓人深刻體會到，對歷經漫長歲月的牠們來說，人類歷史不過是短暫的一瞬間。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0054-name",
+        "data": {
+            "id": "la-park_fishing_fish-0054-name",
+            "text": "鸚鵡螺"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0055-description",
+        "data": {
+            "id": "la-park_fishing_fish-0055-description",
+            "text": "牠是海中的惡霸，只要敢闖入牠的地盤，就算是人類，牠也照樣會撲上來攻擊。雖然這種高級魚無論捕撈還是料理都十分棘手，但只要一下油鍋，等待你的便是一場頂級美食饗宴！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0055-name",
+        "data": {
+            "id": "la-park_fishing_fish-0055-name",
+            "text": "蠕紋裸胸鯙"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0056-description",
+        "data": {
+            "id": "la-park_fishing_fish-0056-description",
+            "text": "散發著與其名稱相符的神聖氣息，宛如一條銀色的緞帶。最長可達8公尺的龐大身軀，美得宛如都市傳說般不可思議！快找出這位從寂靜的深海中現身的稀有角色吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0056-name",
+        "data": {
+            "id": "la-park_fishing_fish-0056-name",
+            "text": "皇帶魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0057-description",
+        "data": {
+            "id": "la-park_fishing_fish-0057-description",
+            "text": "長達18公尺的龐大身軀，在從漆黑的海域中浮現出來時，簡直就像神話中的生物。然而，牠的壽命只有短短3年，短暫得令人驚訝。如果有幸遇見牠，就溫柔地對牠說聲「辛苦了」吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0057-name",
+        "data": {
+            "id": "la-park_fishing_fish-0057-name",
+            "text": "大王魷魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0060-description",
+        "data": {
+            "id": "la-park_fishing_fish-0060-description",
+            "text": "光是名字就夠可怕了，最長可達7公尺的龐大身軀和血盆大口，更是加深了人們對牠的恐懼。然而，牠的生態至今仍籠罩著一層神祕的面紗，如果釣到牠，要趕緊聯絡相關單位喔！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0060-name",
+        "data": {
+            "id": "la-park_fishing_fish-0060-name",
+            "text": "巨口鯊"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0061-description",
+        "data": {
+            "id": "la-park_fishing_fish-0061-description",
+            "text": "釣魚高手們夢寐以求的目標。那美麗的身姿簡直就像「冰之妖精」，但其實個性相當活潑，要是看見你在發呆，牠可是會狠狠地用觸手戳醒你，請務必小心。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0061-name",
+        "data": {
+            "id": "la-park_fishing_fish-0061-name",
+            "text": "雪花海天使"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0062-description",
+        "data": {
+            "id": "la-park_fishing_fish-0062-description",
+            "text": "總有一天想親手釣到的夢想之魚。性感的嘴唇和可愛的花紋，是牠最大的特色。至於牠頭上那宛如海盜帽的部位究竟「能不能摘下來」，偶爾會在漁夫之間引發爭論。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0062-name",
+        "data": {
+            "id": "la-park_fishing_fish-0062-name",
+            "text": "性感阿波魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0063-description",
+        "data": {
+            "id": "la-park_fishing_fish-0063-description",
+            "text": "總有一天想親手釣到的夢想之魚。雖然長著一對老鼠耳朵，卻是不折不扣的魚；外表長得像沙梭，但又不是沙梭的親戚，簡直是「混沌」的化身。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0063-name",
+        "data": {
+            "id": "la-park_fishing_fish-0063-name",
+            "text": "舞動鼠鱚魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0067-description",
+        "data": {
+            "id": "la-park_fishing_fish-0067-description",
+            "text": "擁有「狼」的別稱。如果因為牠是竹夾魚就小看牠，肯定會被牠上鉤時的強勁拉力嚇一跳。在經過精彩對決後品嚐到的勝利滋味，就是足以匹敵鮪魚腹肉的頂級油脂！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0067-name",
+        "data": {
+            "id": "la-park_fishing_fish-0067-name",
+            "text": "黃帶擬鰺"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0068-description",
+        "data": {
+            "id": "la-park_fishing_fish-0068-description",
+            "text": "捨棄魚鰾、專為速度而生的高速貴公子。透過驚濤駭浪鍛鍊出來的緊實肉質，做成西京燒後將會發揮出真正的價值。聞到那股誘人的香氣後，你應該也會跟著加速吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0068-name",
+        "data": {
+            "id": "la-park_fishing_fish-0068-name",
+            "text": "藍點馬鮫"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0069-description",
+        "data": {
+            "id": "la-park_fishing_fish-0069-description",
+            "text": "身為出世魚，只有歷經狂風巨浪的洗禮並攀上巔峰的強者，才能獲得「鱸魚」的稱號。是無論做成生魚片、奶油香煎還是燉煮料理都很適合的幸運魚！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0069-name",
+        "data": {
+            "id": "la-park_fishing_fish-0069-name",
+            "text": "日本花鱸"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0070-description",
+        "data": {
+            "id": "la-park_fishing_fish-0070-description",
+            "text": "一瞬間就能加速到時速40公里——這種烏賊是藉由名為漏斗的器官噴射前進，化身為海中的速度之星。晶瑩剔透的生魚片讓無數釣魚高手為之著迷，而牠今天也持續和他們展開一場速度競賽。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0070-name",
+        "data": {
+            "id": "la-park_fishing_fish-0070-name",
+            "text": "萊氏擬烏賊"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0071-description",
+        "data": {
+            "id": "la-park_fishing_fish-0071-description",
+            "text": "統治南方海域的獵人。雖然以美味聞名，但在某些地區，也存在著帶有毒性的個體。或許正是因為有這種風險，才讓牠成為只有勇者才能品嚐的禁忌美食？！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0071-name",
+        "data": {
+            "id": "la-park_fishing_fish-0071-name",
+            "text": "尖吻龍占"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0072-description",
+        "data": {
+            "id": "la-park_fishing_fish-0072-description",
+            "text": "身披千根尖刺擊退敵人的戰士。然而，那副鎧甲其實只有大約400根刺，這種偷偷灌水的行為實在太可愛了。如果遇見牠，就別不識趣地戳破真相了，盡全力替牠加油吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0072-name",
+        "data": {
+            "id": "la-park_fishing_fish-0072-name",
+            "text": "刺河豚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0073-description",
+        "data": {
+            "id": "la-park_fishing_fish-0073-description",
+            "text": "牠被譽為南國的掛毯，美麗又修長的角十分醒目。據說這種魚能為人帶來幸運，讓運勢節節高升，在觀賞魚界廣受喜愛！只要養一條，生活就會充滿希望吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0073-name",
+        "data": {
+            "id": "la-park_fishing_fish-0073-name",
+            "text": "鐮魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0074-description",
+        "data": {
+            "id": "la-park_fishing_fish-0074-description",
+            "text": "牠優雅地揮動魚鰭的身影，宛如在海中綻放的花朵，讓所有觀賞者為之著迷。然而，那美麗的魚鰭中卻暗藏毒刺，為靠近牠的人送上死亡的擁抱。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0074-name",
+        "data": {
+            "id": "la-park_fishing_fish-0074-name",
+            "text": "魔鬼蓑鮋"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0075-description",
+        "data": {
+            "id": "la-park_fishing_fish-0075-description",
+            "text": "雖然因其獨特的外形而被稱為團扇，但實際上可是身價足以媲美伊勢龍蝦的高級甲殼類！如果奢侈地做成生魚片或味噌湯品嚐，一定會徹底顛覆你對美食的既定印象！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0075-name",
+        "data": {
+            "id": "la-park_fishing_fish-0075-name",
+            "text": "團扇蝦"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0076-description",
+        "data": {
+            "id": "la-park_fishing_fish-0076-description",
+            "text": "本來以為牠會如同「名字」所示披著一身黑，沒想到情緒一激動就會變成白色，尾鰭上粉紅色，也巧妙地發揮了點綴的效果！牠正是隱藏在「黑邊」名下、變幻自如的時尚達人！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0076-name",
+        "data": {
+            "id": "la-park_fishing_fish-0076-name",
+            "text": "黑邊角鱗魨"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0077-description",
+        "data": {
+            "id": "la-park_fishing_fish-0077-description",
+            "text": "從深海被拉上岸時，牠的眼球會因為水壓變化而凸出，因此也被稱為「凸眼魚」。其肉質彷彿在深海中經歷過熟成般鮮美，因此被視為高級魚。要是釣不到牠，就直接去高級日本料理店大快朵頤吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0077-name",
+        "data": {
+            "id": "la-park_fishing_fish-0077-name",
+            "text": "松原平鮋"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0078-description",
+        "data": {
+            "id": "la-park_fishing_fish-0078-description",
+            "text": "牠在上鉤時展現的強勁拉力，能夠激起釣魚高手的鬥志。雖然在各地都有不同的稱呼，讓人有點容易混淆，但味道絕對是一等一的特級品！無論做成生魚片或壽司，都能替味蕾帶來強烈的震撼！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0078-name",
+        "data": {
+            "id": "la-park_fishing_fish-0078-name",
+            "text": "紅魽"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0079-description",
+        "data": {
+            "id": "la-park_fishing_fish-0079-description",
+            "text": "用稻草的火焰炙烤過後，再豪邁地鋪上生薑和茗荷大口品嚐，就能體驗到江戶人過去所鍾愛的那份瀟灑！再加上高蛋白、低脂肪、富含鐵質，又有助於消除疲勞，怎麼能不切成厚厚一塊好好享用呢！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0079-name",
+        "data": {
+            "id": "la-park_fishing_fish-0079-name",
+            "text": "鰹魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0080-description",
+        "data": {
+            "id": "la-park_fishing_fish-0080-description",
+            "text": "從波濤洶湧的冬日海域中捕撈上岸的寒鰤。將魚肉泡進熱騰騰的高湯中涮一下後，再沾柚子醋享用，這道鰤魚涮涮鍋帶來的美味衝擊，簡直是超乎想像！一口氣吃光這道吉祥美味，讓好運衝到最高點吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0080-name",
+        "data": {
+            "id": "la-park_fishing_fish-0080-name",
+            "text": "鰤魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0081-description",
+        "data": {
+            "id": "la-park_fishing_fish-0081-description",
+            "text": "牠用細長的吻部將獵物吸入口中的模樣，就像一位吹奏小號的爵士樂手。有時偽裝自己，有時混入大魚群中，牠今天也把海洋當成爵士酒吧，享受著自己的即興演奏。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0081-name",
+        "data": {
+            "id": "la-park_fishing_fish-0081-name",
+            "text": "喇叭魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0082-description",
+        "data": {
+            "id": "la-park_fishing_fish-0082-description",
+            "text": "潛伏在陰暗的岩礁深處的巨大身影。由於在市面上極為罕見，被譽為夢幻的高級魚。比河豚還要白嫩的魚肉富含滿滿的膠原蛋白，先做成火鍋，再用剩下的湯汁煮粥，保證會徹底顛覆你的味覺認知！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0082-name",
+        "data": {
+            "id": "la-park_fishing_fish-0082-name",
+            "text": "褐石斑魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0083-description",
+        "data": {
+            "id": "la-park_fishing_fish-0083-description",
+            "text": "外型就像一隻巨大的鼠婦，擁有「深海清道夫」別名。曾經創下將近5年沒有進食的紀錄，有時會過著極度節能的生活。如果發現牠，就好好瞻仰一下那副彷彿已經大徹大悟的模樣吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0083-name",
+        "data": {
+            "id": "la-park_fishing_fish-0083-name",
+            "text": "大王具足蟲"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0085-description",
+        "data": {
+            "id": "la-park_fishing_fish-0085-description",
+            "text": "牠總是緊跟在大型魚身旁，等著分一杯羹，就連名字都借用了鯊魚的名號，但其實是鰺形目的一員。無論做成生魚片還是烤魚，油脂豐富的頂級鮮味都會在嘴裡滿溢而出，在部分釣手之間是極受歡迎的珍品！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0085-name",
+        "data": {
+            "id": "la-park_fishing_fish-0085-name",
+            "text": "吸鯊魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0086-description",
+        "data": {
+            "id": "la-park_fishing_fish-0086-description",
+            "text": "牠們分成魚類和爬蟲類，其中部分魚類可以食用。爬蟲類在某些地區也會被做成高級藥膳料理，但因為具有毒性，需要特別注意！簡直就是潛藏在海中的禁忌果實！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0086-name",
+        "data": {
+            "id": "la-park_fishing_fish-0086-name",
+            "text": "海蛇"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0088-description",
+        "data": {
+            "id": "la-park_fishing_fish-0088-description",
+            "text": "牠擁有約2公尺的龐大身軀，卻能飆出時速50公里的高速，堪稱「海中火箭」。在海裡遇到牠時，就連人類也免不了被牠冷眼相待，再加上還有中毒的風險……這傢伙真的是刺激滿點！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0088-name",
+        "data": {
+            "id": "la-park_fishing_fish-0088-name",
+            "text": "金梭魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0089-description",
+        "data": {
+            "id": "la-park_fishing_fish-0089-description",
+            "text": "這種魟魚會揮舞著巨大的披風，在遼闊的大海中自在遨遊。在部分地區也會被當成食材，特別是兩側的魚鰭最受喜愛。據說如果做成油炸料理，口感會和雞肉十分相近。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0089-name",
+        "data": {
+            "id": "la-park_fishing_fish-0089-name",
+            "text": "鬼蝠魟"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0091-description",
+        "data": {
+            "id": "la-park_fishing_fish-0091-description",
+            "text": "牠那造型過於奇特的槌型頭部，經常讓人覺得非常可愛，但其實功能強大。不僅是潛藏在海中的生物心跳，就連微弱的電流都能感測到。此外，無論是裹麵粉或麵包粉油炸，還是加工成魚板都很美味，作為食材的功能也同樣非常強大！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0091-name",
+        "data": {
+            "id": "la-park_fishing_fish-0091-name",
+            "text": "雙髻鯊"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0093-description",
+        "data": {
+            "id": "la-park_fishing_fish-0093-description",
+            "text": "最大體長可達20公尺，是世界上體型最大的魚類。其最大的特徵，就是每一隻都擁有獨一無二、宛如「甚平」服飾般的花紋。牠率領著一群小魚、悠然自得地游動的身影，確實配得上「海中王者」的稱號。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0093-name",
+        "data": {
+            "id": "la-park_fishing_fish-0093-name",
+            "text": "鯨鯊"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0094-description",
+        "data": {
+            "id": "la-park_fishing_fish-0094-description",
+            "text": "總有一天想親手釣到的夢想之魚。雖然長得像鴛鴦砲彈，但調皮搗蛋的程度卻更勝一籌。總是頂著討喜的模樣四處招惹別人，是個讓人討厭不起來的臭小鬼。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0094-name",
+        "data": {
+            "id": "la-park_fishing_fish-0094-name",
+            "text": "暴風鴛鴦砲彈"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0095-description",
+        "data": {
+            "id": "la-park_fishing_fish-0095-description",
+            "text": "這種螃蟹身上有著像手裡劍一樣的標記，是這一帶所有釣魚高手夢寐以求的目標。最大的特色，是牠引以為傲的那雙夾力超過50公斤的蟹螯。牠會狠狠夾住獵物不放，因此被當成海中大猩猩而受人畏懼。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0095-name",
+        "data": {
+            "id": "la-park_fishing_fish-0095-name",
+            "text": "天使鋸緣青蟹"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0096-description",
+        "data": {
+            "id": "la-park_fishing_fish-0096-description",
+            "text": "牠是釣魚高手們夢寐以求的魚。最大的特色，就是那宛如小丑帽般花俏的頭部。平時會偽裝成沙底或岩石的模樣，悄悄潛伏其中，偶爾會突然探出頭喊「在喔～！」，逗得潛水員們會心一笑。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0096-name",
+        "data": {
+            "id": "la-park_fishing_fish-0096-name",
+            "text": "小丑條紋躄魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-item-facility-area_a03-002-1-description",
+        "data": {
+            "id": "la-park_fishing_fish-item-facility-area_a03-002-1-description",
+            "text": "漂流金屬"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-item-facility-area_a03-002-1-name",
+        "data": {
+            "id": "la-park_fishing_fish-item-facility-area_a03-002-1-name",
+            "text": "漂流金屬"
+        }
+    }
+]

@@ -931,6 +931,384 @@
         }
     },
     {
+        "id": "la-quest-area-a03-01-1-1",
+        "data": {
+            "id": "la-quest-area-a03-01-1-1",
+            "text": "吹來勝利的海風！在靛青釣場與挑戰釣魚的{character}會合"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-01-1-2",
+        "data": {
+            "id": "la-quest-area-a03-01-1-2",
+            "text": "留意水面的動靜！觀察波紋，釣起2隻2★以上的魚吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-01-1-3",
+        "data": {
+            "id": "la-quest-area-a03-01-1-3",
+            "text": "手感如何？在靛青釣場向{character}確認釣魚成果吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-02-1-1",
+        "data": {
+            "id": "la-quest-area-a03-02-1-1",
+            "text": "海浪聲為兩人的背景音樂。向聚在海邊的瑪琳與菈米打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-02-1-2",
+        "data": {
+            "id": "la-quest-area-a03-02-1-2",
+            "text": "借助海風之力，順利完成Live練習吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-02-1-3",
+        "data": {
+            "id": "la-quest-area-a03-02-1-3",
+            "text": "在碧藍大海刻下努力的印記。在海邊向滿懷成就感的瑪琳與菈米搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-03-1-1",
+        "data": {
+            "id": "la-quest-area-a03-03-1-1",
+            "text": "為釣大魚先下重本？與在Bae's 雜貨小舖的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-03-1-2",
+        "data": {
+            "id": "la-quest-area-a03-03-1-2",
+            "text": "以大豐收為目標！磨練釣技，收集1000個汽水泡泡硬幣吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-03-1-3",
+        "data": {
+            "id": "la-quest-area-a03-03-1-3",
+            "text": "這就是釣魚高手的實力！在靛青釣場直擊仍處於興奮中的{character}"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-04-1-1",
+        "data": {
+            "id": "la-quest-area-a03-04-1-1",
+            "text": "被爽朗的笑聲吸引。在海邊向心情愉快的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-04-1-2",
+        "data": {
+            "id": "la-quest-area-a03-04-1-2",
+            "text": "追尋尚未出現的身影。透過不斷拋竿，收集15種魚吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-04-1-3",
+        "data": {
+            "id": "la-quest-area-a03-04-1-3",
+            "text": "好想知道水桶裝了什麼！向在菈米的冰天雪堡的{character}問問看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-05-1-1",
+        "data": {
+            "id": "la-quest-area-a03-05-1-1",
+            "text": "向在菈米的冰天雪堡附近東張西望的Kobo與拉普拉斯打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-05-1-2",
+        "data": {
+            "id": "la-quest-area-a03-05-1-2",
+            "text": "這下可以繼續釣魚了！在區域入口附近找到釣竿後，交給{character}吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-05-1-3",
+        "data": {
+            "id": "la-quest-area-a03-05-1-3",
+            "text": "找回愛用的釣竿，事情總算順利解決。前往在菈米的冰天雪堡的Kobo與拉普拉斯身邊"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-06-1-1",
+        "data": {
+            "id": "la-quest-area-a03-06-1-1",
+            "text": "空與波爾卡好像在Live舞台唱歌。循著歌聲去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-06-1-2",
+        "data": {
+            "id": "la-quest-area-a03-06-1-2",
+            "text": "在水花運動場與{character}對話後，一起遊玩水花飛球吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-06-1-3",
+        "data": {
+            "id": "la-quest-area-a03-06-1-3",
+            "text": "戲水的餘韻？向激戰後正在放鬆的空與波爾卡搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-07-1-1",
+        "data": {
+            "id": "la-quest-area-a03-07-1-1",
+            "text": "洋溢笑容的海邊。前往愉快交談的Ninomae Ina'nis與Kronii身邊吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-07-1-2",
+        "data": {
+            "id": "la-quest-area-a03-07-1-2",
+            "text": "邁向更高境界。解鎖150個Holo成員面板吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-07-1-3",
+        "data": {
+            "id": "la-quest-area-a03-07-1-3",
+            "text": "歡樂時光尚未結束？在海邊向嬉戲打鬧的Ninomae Ina'nis與Kronii搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-08-1-1",
+        "data": {
+            "id": "la-quest-area-a03-08-1-1",
+            "text": "以海浪聲為背景音樂進行討論。與在瑪琳公主號的小夜璃和瑪琳會合"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-08-1-2",
+        "data": {
+            "id": "la-quest-area-a03-08-1-2",
+            "text": "海上的大型投資？！與{character}對話後，將瑪琳公主號改造得光鮮亮麗吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-08-1-3",
+        "data": {
+            "id": "la-quest-area-a03-08-1-3",
+            "text": "與全新升級的船體擊掌！與完成改造的小夜璃＆瑪琳對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-09-1-1",
+        "data": {
+            "id": "la-quest-area-a03-09-1-1",
+            "text": "拯救釣不到魚的危機！與在菈米的冰天雪堡的菈米＆巫女會合"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-09-1-2",
+        "data": {
+            "id": "la-quest-area-a03-09-1-2",
+            "text": "讓捲線器發出極限哀號的大對決！運用拿手的釣竿技巧，釣起1隻4★以上的大魚吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-09-1-3",
+        "data": {
+            "id": "la-quest-area-a03-09-1-3",
+            "text": "這才是專業的釣竿技巧？！在菈米的冰天雪堡向菈米與巫女問問釣魚成果吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-10-1-1",
+        "data": {
+            "id": "la-quest-area-a03-10-1-1",
+            "text": "飛濺的水花與歡笑聲！在海邊向純真玩耍的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-10-1-2",
+        "data": {
+            "id": "la-quest-area-a03-10-1-2",
+            "text": "邁向水光閃爍的舞台！與在Live舞台的{character}一起合唱吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-10-1-3",
+        "data": {
+            "id": "la-quest-area-a03-10-1-3",
+            "text": "跳舞跳到衣服乾了？在Live舞台向心滿意足的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-11-1-1",
+        "data": {
+            "id": "la-quest-area-a03-11-1-1",
+            "text": "看見劃破水面的巨影？去拜訪在波可波可燈塔交談的亞綺與綾目吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-11-1-2",
+        "data": {
+            "id": "la-quest-area-a03-11-1-2",
+            "text": "看準上鉤的時機！保持專注，釣起1隻5★的魚吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-11-1-3",
+        "data": {
+            "id": "la-quest-area-a03-11-1-3",
+            "text": "前往魚獲豐收而熱鬧歡騰的波可波可燈塔，與樂開懷的亞綺＆綾目會合吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-12-1-1",
+        "data": {
+            "id": "la-quest-area-a03-12-1-1",
+            "text": "出狀況了？！趕快前往在啵啵啵快樂營地的波爾卡＆璐娜身邊吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-12-1-2",
+        "data": {
+            "id": "la-quest-area-a03-12-1-2",
+            "text": "漂浮的圓影。尋找漂浮到烏帕歐天堂的沙灘球吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-12-1-3",
+        "data": {
+            "id": "la-quest-area-a03-12-1-3",
+            "text": "順利救回沙灘球！在啵啵啵快樂營地向波爾卡＆璐娜打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-13-1-1",
+        "data": {
+            "id": "la-quest-area-a03-13-1-1",
+            "text": "月光下追尋浪漫。與在一條VIP會所的{character}會合吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-13-1-2",
+        "data": {
+            "id": "la-quest-area-a03-13-1-2",
+            "text": "月夜下的奇遇。挑戰釣起在夜晚的海中現身的魚吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-13-1-3",
+        "data": {
+            "id": "la-quest-area-a03-13-1-3",
+            "text": "聽聽對夜晚的靛青釣場感到興奮的{character}的感想吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-14-1-1",
+        "data": {
+            "id": "la-quest-area-a03-14-1-1",
+            "text": "望著浮標的時光也是特別回憶。在波可波可燈塔與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-14-1-2",
+        "data": {
+            "id": "la-quest-area-a03-14-1-2",
+            "text": "這就是釣魚高手的證明！記錄未知魚種，將魚類圖鑑收集至60種吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-14-1-3",
+        "data": {
+            "id": "la-quest-area-a03-14-1-3",
+            "text": "目標達成？！在波可波可燈塔與{character}分享喜悅吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-15-1-1",
+        "data": {
+            "id": "la-quest-area-a03-15-1-1",
+            "text": "在海浪的旋律中療癒身心？與在海邊放鬆休息的小夜璃＆一對話吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-15-1-2",
+        "data": {
+            "id": "la-quest-area-a03-15-1-2",
+            "text": "為正式演出培養默契吧！與在舞台等候的{character}展開特訓！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-15-1-3",
+        "data": {
+            "id": "la-quest-area-a03-15-1-3",
+            "text": "綻放笑容揮灑汗水！聽聽練習後在舞台休息的小夜璃＆一的感想吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-16-1-1",
+        "data": {
+            "id": "la-quest-area-a03-16-1-1",
+            "text": "正在構思最精彩的表演？！與在Live舞台交談的Baelz和Kobo會合"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-16-1-2",
+        "data": {
+            "id": "la-quest-area-a03-16-1-2",
+            "text": "喚醒潛能！將1名成員特訓至階段4吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-16-1-3",
+        "data": {
+            "id": "la-quest-area-a03-16-1-3",
+            "text": "努力不會辜負你。趕快前往在舞台更加閃耀的Baelz與Kobo身邊吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-17-1-1",
+        "data": {
+            "id": "la-quest-area-a03-17-1-1",
+            "text": "還有改善的空間？在瑪琳公主號與{character}聊聊吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-17-1-2",
+        "data": {
+            "id": "la-quest-area-a03-17-1-2",
+            "text": "將夢想藍圖化為現實！與{character}對話後，升級瑪琳公主號吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-18-1-1",
+        "data": {
+            "id": "la-quest-area-a03-18-1-1",
+            "text": "靈光一閃雀躍無比！在瑪琳公主號聽聽{character}想出的好點子吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-18-1-2",
+        "data": {
+            "id": "la-quest-area-a03-18-1-2",
+            "text": "打造最佳特等席！與{character}一起升級瑪琳公主號吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-19-1-1",
+        "data": {
+            "id": "la-quest-area-a03-19-1-1",
+            "text": "用極品飲料增添色彩。與在瑪琳公主號的{character}會合吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-19-1-2",
+        "data": {
+            "id": "la-quest-area-a03-19-1-2",
+            "text": "讓海上特等席變得更豪華！與{character}一起強化瑪琳公主號吧"
+        }
+    },
+    {
         "id": "la-quest-chr-00001-1-1",
         "data": {
             "id": "la-quest-chr-00001-1-1",
@@ -2919,6 +3297,153 @@
         }
     },
     {
+        "id": "la-quest-daily-fishing_coin-a03-00023-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00023-1-1",
+            "text": "{character}好像在波可波可燈塔釣魚。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00023-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00023-1-2",
+            "text": "抓住勝利！透過釣魚獲得汽水泡泡硬幣吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00023-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00023-1-3",
+            "text": "贏家誕生！向發出勝利吶喊的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00030-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00030-1-1",
+            "text": "好像在Bae's 雜貨小舖取得了新釣竿。向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00030-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00030-1-2",
+            "text": "新釣竿的手感如何？透過釣魚獲得汽水泡泡硬幣吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00030-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00030-1-3",
+            "text": "新釣竿真是太厲害了！向心情愉快的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00034-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00034-1-1",
+            "text": "在靛青釣場的{character}的釣竿毫無動靜。向她搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00034-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00034-1-2",
+            "text": "好戲現在才開始！透過釣魚獲得汽水泡泡硬幣吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00034-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00034-1-3",
+            "text": "魚獲大豐收！向滿臉喜悅的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00037-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00037-1-1",
+            "text": "釣魚成果掛蛋？去看看在菈米的冰天雪堡垂頭喪氣的{character}的情況吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00037-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00037-1-2",
+            "text": "相信自己！ 透過釣魚獲得汽水泡泡硬幣吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-00037-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-00037-1-3",
+            "text": "一切都在預料中？向笑容滿面的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-03009-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-03009-1-1",
+            "text": "好像在啵啵啵快樂營地睡得很香。與睡眼惺忪的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-03009-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-03009-1-2",
+            "text": "盡情享受釣魚樂趣！透過釣魚獲得汽水泡泡硬幣吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-03009-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-03009-1-3",
+            "text": "天才般的技巧？與心情愉快的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-04012-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-04012-1-1",
+            "text": "看起來好像很興奮？與在波可波可燈塔的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-04012-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-04012-1-2",
+            "text": "老鼠出馬保證大豐收！透過釣魚獲得汽水泡泡硬幣吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-04012-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-04012-1-3",
+            "text": "這就是釣魚女王的實力！與得意洋洋的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-06003-1-1",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-06003-1-1",
+            "text": "向在菈米的冰天雪堡裡好像著涼的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-06003-1-2",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-06003-1-2",
+            "text": "熱情足以融化雪？透過釣魚獲得汽水泡泡硬幣吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-fishing_coin-a03-06003-1-3",
+        "data": {
+            "id": "la-quest-daily-fishing_coin-a03-06003-1-3",
+            "text": "是時候高呼勝利了！向熱血沸騰的{character}搭話吧"
+        }
+    },
+    {
         "id": "la-quest-daily-group-04016-1-1",
         "data": {
             "id": "la-quest-daily-group-04016-1-1",
@@ -3714,6 +4239,104 @@
         "data": {
             "id": "la-quest-daily-live-06005-1-2",
             "text": "好多練習想嘗試！在Live舞台與{character}一起開始訓練"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00023-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-00023-1-1",
+            "text": "{character}好像在一條VIP會所放鬆休息。向她搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00023-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-00023-1-2",
+            "text": "時間來得及嗎？與在Live舞台的{character}一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00030-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-00030-1-1",
+            "text": "{character}好像正在烏帕歐天堂構思Live的演出內容。過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00030-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-00030-1-2",
+            "text": "演出的構想結果如何？與前往Live舞台的{character}一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00034-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-00034-1-1",
+            "text": "好像在瑪琳公主號開了直播。向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00034-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-00034-1-2",
+            "text": "向在Live舞台開心準備的{character}搭話後，開始練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00037-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-00037-1-1",
+            "text": "{character}好像正在Live舞台練習。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-00037-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-00037-1-2",
+            "text": "向幹勁十足的{character}搭話後，展開智囊！的練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-03009-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-03009-1-1",
+            "text": "{character}正在笑著揉肚子。去看看情況吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-03009-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-03009-1-2",
+            "text": "點心能量全開！與在Live舞台的{character}一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-04012-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-04012-1-1",
+            "text": "{character}好像在小夜實驗室海洋分部維修快艇。過去看看吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-04012-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-04012-1-2",
+            "text": "與搭乘閃亮的快艇前往Live舞台的{character}一起練習吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-06003-1-1",
+        "data": {
+            "id": "la-quest-daily-live-a03-06003-1-1",
+            "text": "{character}好像燃起了鬥志。前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-daily-live-a03-06003-1-2",
+        "data": {
+            "id": "la-quest-daily-live-a03-06003-1-2",
+            "text": "駕馭不擅長的舞步！與{character}一起開始練習吧"
         }
     },
     {
@@ -5373,6 +5996,468 @@
         "data": {
             "id": "la-quest-main-w1-02-12-1-5",
             "text": "讓情感融入旋律。在大家等待的賭場區域呈現最精彩的Live吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-01-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-01-1-1",
+            "text": "傳來愉快的歡笑聲。前往熱鬧的holo之家與大家會合吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-01-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-01-1-2",
+            "text": "飄來海風的氣息。前往開闊的新區域吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-02-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-02-1-1",
+            "text": "別浪費等待時間！在快艇抵達前，讓美妙的音樂響起吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-02-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-02-1-2",
+            "text": "外海藏著什麼驚喜呢？搭乘快艇，航向未知海域吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-1",
+            "text": "發生意外狀況？！在入口區與不知所措的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-2",
+            "text": "在海上建起希望！在入口區向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-3",
+            "text": "滿心期待大魚上鉤！完成靛青釣場吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-4",
+            "text": "專注於水面上的浮標！釣起大魚，展現釣魚技巧吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-5",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-5",
+            "text": "釣到魚了！與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-6",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-6",
+            "text": "講究派都滿意的店面裝潢！完成Bae's 雜貨小舖，為大魚上鉤做好準備吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-7",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-7",
+            "text": "連魚兒都難以抗拒！在Bae's 雜貨小舖取得頂級魚餌吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-8",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-8",
+            "text": "上鉤率提升？！善用新魚餌，在靛青釣場釣起3隻魚吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-03-1-9",
+        "data": {
+            "id": "la-quest-main-w1-03-03-1-9",
+            "text": "釣到魚了！與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-04-1-1",
+            "text": "此起彼落的敲打聲！向努力施工的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-04-1-2",
+            "text": "將極致的舒適化為現實！完成一條VIP會所，舉杯慶祝吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-04-1-3",
+            "text": "在一條VIP會所兌換頂級精品吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-04-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-04-1-4",
+            "text": "在一條VIP會所向優雅佇立（？）的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-05-1-1",
+            "text": "加入熱鬧的對話圈。與在一條VIP會所的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-05-1-2",
+            "text": "海岸最前線！完成小夜實驗室海洋分部，開始進行研究吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-05-1-3",
+            "text": "滿懷期待☆全副裝備！在小夜實驗室海洋分部改造快艇吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-05-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-05-1-4",
+            "text": "出發前往未知海域！搭乘全新快艇，航向遙遠的外海吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-06-1-1",
+            "text": "迎風邁向新天地。掌舵航向未知海域吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-06-1-2",
+            "text": "源源不絕的靈感！在入口區向{character}搭話後，參加會議吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-06-1-3",
+            "text": "想像熱烈的舞台！前往在舞台預定地構想計畫的{character}身邊"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-06-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-06-1-4",
+            "text": "向在Live舞台的{character}打招呼後，在最棒的舞台上進行首次練習！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-07-1-1",
+            "text": "設施的打掃進度是否順利？與在靛青釣場的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-07-1-2",
+            "text": "離理想的釣魚場只差一步！趕快完成菈米的冰天雪堡吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-07-1-3",
+            "text": "在菈米的冰天雪堡，漂亮釣起3隻魚吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-07-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-07-1-4",
+            "text": "釣魚大會即將進入尾聲！與在菈米的冰天雪堡的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-08-1-1",
+            "text": "釣魚大會的結果如何？！在菈米的冰天雪堡與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-08-1-2",
+            "text": "這個聲音聽起來像準備開始運動？循著球聲前往入口區吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-08-1-3",
+            "text": "夢想殿堂即將誕生！完成水花運動場，迎接歡慶時刻吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-08-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-08-1-4",
+            "text": "寫下歷史新的一頁！與在完成的運動場等候的{character}會合吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-09-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-09-1-1",
+            "text": "入口區好像熱鬧起來了。向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-09-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-09-1-2",
+            "text": "將大家的羈絆化為實體。一口氣完成瑪琳公主號吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-1",
+            "text": "正式開始前1分鐘！在入口區向準備公告直播的{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-10",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-10",
+            "text": "升級快艇吧！與在小夜實驗室海洋分部的{character}會合"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-2",
+            "text": "釣魚高手的激戰！前往在靛青釣場準備上場的{character}身邊"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-3",
+            "text": "現在正是展現特訓成果的時刻！以釣魚大會的主角為目標，釣起3隻魚吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-4",
+            "text": "釣魚大會仍在進行中。在靛青釣場與伺機奪勝的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-5",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-5",
+            "text": "劃破寂靜的一竿。釣起1隻2★以上的魚吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-6",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-6",
+            "text": "接著與在菈米的冰天雪堡的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-7",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-7",
+            "text": "透過螢幕傳遞熱情吧！在公告直播上公開Live！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-8",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-8",
+            "text": "即將正式開始！趕快前往在水花運動場準備的{character}身邊吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-10-1-9",
+        "data": {
+            "id": "la-quest-main-w1-03-10-1-9",
+            "text": "意想不到的巨大訪客？！趁鯨魚下潛時，在holo之家與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-1",
+            "text": "測試全新快艇的真實性能！搭乘升級後的快艇，全速航向未知海域！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-2",
+            "text": "潛入鯨魚的棲息地！前往海灣，一探究竟吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-3",
+            "text": "讓海灣煥然一新。在水花運動場進行討論吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-4",
+            "text": "巨大的鄰居來訪？！在水花運動場與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-5",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-5",
+            "text": "打掃作戰，正式展開！在入口區向準備就緒的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-11-1-6",
+        "data": {
+            "id": "la-quest-main-w1-03-11-1-6",
+            "text": "命運般的前後大改變！再去看看海灣吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-1",
+            "text": "大家好像都在入口區。向{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-2",
+            "text": "精彩的激烈對決！在熱情未散的大海與{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-3",
+            "text": "即將完成！與在波可波可燈塔的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-4",
+            "text": "抓準上鉤的一瞬間！在波可波可燈塔釣起3隻魚吧！"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-12-1-5",
+        "data": {
+            "id": "la-quest-main-w1-03-12-1-5",
+            "text": "激戰過後，笑到最後的贏家會是誰？！在波可波可燈塔向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-13-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-13-1-1",
+            "text": "Live舞台好像很熱鬧。與興奮的{character}對話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-13-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-13-1-2",
+            "text": "離聖地誕生只差一步！趕快前往在烏帕歐天堂坐鎮指揮的{character}身邊吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-14-1-1",
+            "text": "向正在舞台上為開幕Live進行調整的{character}打招呼吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-14-1-2",
+            "text": "即將啟航！別遲到，趕快在入口區與{character}會合吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-14-1-3",
+            "text": "夢想成真就在眼前！與在啵啵啵快樂營地的{character}進行最後確認"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-14-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-14-1-4",
+            "text": "慶祝完成！在啵啵啵快樂營地與{character}享受極品烤肉吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-1-1",
+        "data": {
+            "id": "la-quest-main-w1-03-15-1-1",
+            "text": "與大家一起迎來開幕時刻！在Live舞台向{character}搭話吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-1-2",
+        "data": {
+            "id": "la-quest-main-w1-03-15-1-2",
+            "text": "即將正式開幕。在入口區與有點緊張的{character}會合吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-1-3",
+        "data": {
+            "id": "la-quest-main-w1-03-15-1-3",
+            "text": "會場爆滿，盛況空前！前往Live舞台吧"
+        }
+    },
+    {
+        "id": "la-quest-main-w1-03-15-1-4",
+        "data": {
+            "id": "la-quest-main-w1-03-15-1-4",
+            "text": "開幕Live正式登場！與大家一起讓活動圓滿成功吧！"
         }
     }
 ]

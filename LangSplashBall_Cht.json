@@ -1,1 +1,30 @@
-[]
+[
+    {
+        "id": "la-splash_ball-game_playing_display_clear_condition-normal",
+        "data": {
+            "id": "la-splash_ball-game_playing_display_clear_condition-normal",
+            "text": "盡量把球踢進對方球門！以0分獲勝！"
+        }
+    },
+    {
+        "id": "la-splash_ball-game_playing_display_clear_condition-quest",
+        "data": {
+            "id": "la-splash_ball-game_playing_display_clear_condition-quest",
+            "text": "玩到最後即可通關！ 0 分獲勝！"
+        }
+    },
+    {
+        "id": "la-splash_ball-game_start_display_clear_condition-normal",
+        "data": {
+            "id": "la-splash_ball-game_start_display_clear_condition-normal",
+            "text": "盡量把球踢進對方球門！"
+        }
+    },
+    {
+        "id": "la-splash_ball-game_start_display_clear_condition-quest",
+        "data": {
+            "id": "la-splash_ball-game_start_display_clear_condition-quest",
+            "text": "盡量把球踢進對方球門！"
+        }
+    }
+]

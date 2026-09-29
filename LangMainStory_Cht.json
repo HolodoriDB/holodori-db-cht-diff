@@ -250,5 +250,110 @@
             "id": "la-main_story_chapter_area-a02-012",
             "text": "熱鬧的時光永不落幕"
         }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-001",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-001",
+            "text": "描繪海洋的設計圖"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-002",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-002",
+            "text": "Unknown Ocean"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-003",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-003",
+            "text": "Build Up！開拓釣點！"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-004",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-004",
+            "text": "海上的奢華設施"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-005",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-005",
+            "text": "打造快艇征服海域！"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-006",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-006",
+            "text": "Water Stage！"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-007",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-007",
+            "text": "銀色世界的頂尖釣手"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-008",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-008",
+            "text": "海上賽場開戰！"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-009",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-009",
+            "text": "海盜船上的悠閒時光"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-010",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-010",
+            "text": "不可錯過！來自海上的重大發表"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-011",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-011",
+            "text": "Mission “Cove”"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-012",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-012",
+            "text": "未知魚種的New Spot"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-013",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-013",
+            "text": "我推代表色點綴的商店"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-014",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-014",
+            "text": "星空大海環抱的露營區"
+        }
+    },
+    {
+        "id": "la-main_story_chapter_area-a03-015",
+        "data": {
+            "id": "la-main_story_chapter_area-a03-015",
+            "text": "響徹浪潮的海上Live！"
+        }
     }
 ]
