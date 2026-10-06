@@ -1470,6 +1470,13 @@
         }
     },
     {
+        "id": "la-tips-hint-marathon_area-description-1",
+        "data": {
+            "id": "la-tips-hint-marathon_area-description-1",
+            "text": "於<color=#ff3bc8>集點活動</color>期間內，可透過遊玩Live與小遊戲獲得活動Pt與活動徽章喔！\n\n收集活動徽章，即可在兌換所兌換活動回憶卡等道具喔！"
+        }
+    },
+    {
         "id": "la-tips-hint-marathon_mission-description-1",
         "data": {
             "id": "la-tips-hint-marathon_mission-description-1",
