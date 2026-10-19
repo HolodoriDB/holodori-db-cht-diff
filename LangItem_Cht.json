@@ -1120,6 +1120,76 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-relay-003-all-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-003-all-description",
+            "text": "可兌換活動兌換所（通用）道具的徽章。\n超過有效期限後，將自動轉換為Holo金幣。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-003-all-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-003-all-name",
+            "text": "活動徽章（通用）"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-003-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-003-chapter-01-description",
+            "text": "可兌換活動兌換所（永遠）道具的徽章。\n超過有效期限後，將自動轉換為Holo金幣。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-003-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-003-chapter-01-name",
+            "text": "活動徽章（永遠）"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-003-chapter-02-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-003-chapter-02-description",
+            "text": "可兌換活動兌換所（Kaela）道具的徽章。\n超過有效期限後，將自動轉換為Holo金幣。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-003-chapter-02-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-003-chapter-02-name",
+            "text": "活動徽章（Kaela）"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-003-chapter-03-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-003-chapter-03-description",
+            "text": "可兌換活動兌換所（牡丹）道具的徽章。\n超過有效期限後，將自動轉換為Holo金幣。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-003-chapter-03-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-003-chapter-03-name",
+            "text": "活動徽章（牡丹）"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-003-chapter-04-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-003-chapter-04-description",
+            "text": "可兌換活動兌換所（Bijou）道具的徽章。\n超過有效期限後，將自動轉換為Holo金幣。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-relay-003-chapter-04-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-relay-003-chapter-04-name",
+            "text": "活動徽章（Bijou）"
+        }
+    },
+    {
         "id": "la-item-exchange-holomedal-description",
         "data": {
             "id": "la-item-exchange-holomedal-description",

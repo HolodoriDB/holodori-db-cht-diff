@@ -420,6 +420,62 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00027-5-uniq-0092-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00027-5-uniq-0092-00.1-description",
+            "text": "若編入2名以上[attribute=cute]可愛類型[/attribute]的人物2名[attribute=cute]可愛類型[/attribute]的技巧提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00027-5-uniq-0092-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00027-5-uniq-0092-00.2-description",
+            "text": "若編入2名以上[attribute=cute]可愛類型[/attribute]的人物2名[attribute=cute]可愛類型[/attribute]的技巧提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00032-5-uniq-0093-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00032-5-uniq-0093-00.1-description",
+            "text": "2名[attribute=cute]可愛類型[/attribute]的分數加成效果8% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00032-5-uniq-0093-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00032-5-uniq-0093-00.2-description",
+            "text": "2名[attribute=cute]可愛類型[/attribute]的分數加成效果[highlight]11[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03008-5-uniq-0095-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03008-5-uniq-0095-00.1-description",
+            "text": "2名ID3期生的品味提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03008-5-uniq-0095-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03008-5-uniq-0095-00.2-description",
+            "text": "2名ID3期生的品味提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04014-5-uniq-0094-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04014-5-uniq-0094-00.1-description",
+            "text": "若編入2名以上Advent2名Advent的分數加成效果9% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04014-5-uniq-0094-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04014-5-uniq-0094-00.2-description",
+            "text": "若編入2名以上Advent2名Advent的分數加成效果[highlight]12[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

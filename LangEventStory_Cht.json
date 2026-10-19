@@ -208,5 +208,61 @@
             "id": "la-event_story_chapter-marathon_event-relay-002-chapter-04-02",
             "text": "前往推的世界！"
         }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-01-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-01-01",
+            "text": "一起去泳池吧！"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-01-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-01-02",
+            "text": "盡情享受！接下來……"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-02-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-02-01",
+            "text": "快樂的預感"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-02-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-02-02",
+            "text": "海邊的沙灘就是工坊"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-03-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-03-01",
+            "text": "海味佳餚的誘惑"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-03-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-03-02",
+            "text": "吃飽喝足，香甜入眠"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-04-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-04-01",
+            "text": "海灘上的漂亮一擊！"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-04-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-04-02",
+            "text": "沉眠洞窟的藍色祕寶"
+        }
     }
 ]

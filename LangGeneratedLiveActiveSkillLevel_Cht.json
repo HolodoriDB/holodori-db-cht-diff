@@ -448,6 +448,62 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-00027-5-uniq-0092-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00027-5-uniq-0092-00.1-description",
+            "text": "每 26 秒以中機率在 9 秒內分數提升55% 若編入2名以上[attribute=cute]可愛類型[/attribute]的人物分數提升105% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00027-5-uniq-0092-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00027-5-uniq-0092-00.2-description",
+            "text": "每 26 秒以中機率在 9 秒內分數提升[highlight]65[/highlight]% 若編入2名以上[attribute=cute]可愛類型[/attribute]的人物分數提升[highlight]125[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00032-5-uniq-0093-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00032-5-uniq-0093-00.1-description",
+            "text": "每 32 秒以中機率在 11 秒內分數提升55% 若編入2名以上[attribute=cute]可愛類型[/attribute]的人物分數提升105% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-00032-5-uniq-0093-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-00032-5-uniq-0093-00.2-description",
+            "text": "每 32 秒以中機率在 11 秒內分數提升[highlight]65[/highlight]% 若編入2名以上[attribute=cute]可愛類型[/attribute]的人物分數提升[highlight]125[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03008-5-uniq-0095-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03008-5-uniq-0095-00.1-description",
+            "text": "每 34 秒以高機率在 12 秒內分數提升95% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03008-5-uniq-0095-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03008-5-uniq-0095-00.2-description",
+            "text": "每 34 秒以高機率在 12 秒內分數提升[highlight]115[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04014-5-uniq-0094-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04014-5-uniq-0094-00.1-description",
+            "text": "每 19 秒以高機率在 7 秒內分數提升90% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-04014-5-uniq-0094-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-04014-5-uniq-0094-00.2-description",
+            "text": "每 19 秒以高機率在 7 秒內分數提升[highlight]110[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",

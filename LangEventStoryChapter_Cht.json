@@ -75,5 +75,33 @@
             "id": "la-event_story_chapter-marathon_event-relay-002-chapter-04",
             "text": "幹練監督的聖地巡禮"
         }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-01",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-01",
+            "text": "熱情奔放的惡魔泳池派對☆"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-02",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-02",
+            "text": "鐵匠的建築美學！"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-03",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-03",
+            "text": "么兒白獅的美食札記"
+        }
+    },
+    {
+        "id": "la-event_story_chapter-marathon_event-relay-003-chapter-04",
+        "data": {
+            "id": "la-event_story_chapter-marathon_event-relay-003-chapter-04",
+            "text": "Biboo的刺激☆大冒險"
+        }
     }
 ]
