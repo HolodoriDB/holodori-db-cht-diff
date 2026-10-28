@@ -476,6 +476,76 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00007-5-uniq-0096-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00007-5-uniq-0096-00.1-description",
+            "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物2名[attribute=pure]清純類型[/attribute]的品味提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00007-5-uniq-0096-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00007-5-uniq-0096-00.2-description",
+            "text": "若編入2名以上[attribute=pure]清純類型[/attribute]的人物2名[attribute=pure]清純類型[/attribute]的品味提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03007-5-uniq-0100-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03007-5-uniq-0100-00.1-description",
+            "text": "2名[attribute=pure]清純類型[/attribute]的分數加成效果8% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03007-5-uniq-0100-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03007-5-uniq-0100-00.2-description",
+            "text": "2名[attribute=pure]清純類型[/attribute]的分數加成效果[highlight]11[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04015-5-uniq-0099-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04015-5-uniq-0099-00.1-description",
+            "text": "若編入2名以上[attribute=happy]快樂類型[/attribute]的人物2名[attribute=happy]快樂類型[/attribute]的表現力提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04015-5-uniq-0099-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04015-5-uniq-0099-00.2-description",
+            "text": "若編入2名以上[attribute=happy]快樂類型[/attribute]的人物2名[attribute=happy]快樂類型[/attribute]的表現力提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06004-5-uniq-0098-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06004-5-uniq-0098-00.1-description",
+            "text": "若編入2名以上ReGLOSS2名ReGLOSS的分數加成效果9% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06004-5-uniq-0098-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06004-5-uniq-0098-00.2-description",
+            "text": "若編入2名以上ReGLOSS2名ReGLOSS的分數加成效果[highlight]12[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06005-5-uniq-0097-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06005-5-uniq-0097-00.1-description",
+            "text": "若編入2名以上ReGLOSS自己的全能力提升25% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-06005-5-uniq-0097-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-06005-5-uniq-0097-00.2-description",
+            "text": "若編入2名以上ReGLOSS自己的全能力提升[highlight]33[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
