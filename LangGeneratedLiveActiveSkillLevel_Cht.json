@@ -574,6 +574,48 @@
         }
     },
     {
+        "id": "la-generated-live_active_skill-card-03001-5-uniq-0114-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03001-5-uniq-0114-00.1-description",
+            "text": "每 26 秒以中機率在 10 秒內分數提升90% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03001-5-uniq-0114-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03001-5-uniq-0114-00.2-description",
+            "text": "每 26 秒以中機率在 10 秒內分數提升[highlight]110[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03002-5-uniq-0113-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03002-5-uniq-0113-00.1-description",
+            "text": "每 33 秒以中機率在 12 秒內分數提升50% 若編入2名以上[attribute=happy]快樂類型[/attribute]的人物分數提升100% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03002-5-uniq-0113-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03002-5-uniq-0113-00.2-description",
+            "text": "每 33 秒以中機率在 12 秒內分數提升[highlight]60[/highlight]% 若編入2名以上[attribute=happy]快樂類型[/attribute]的人物分數提升[highlight]120[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03003-5-uniq-0115-00.1-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03003-5-uniq-0115-00.1-description",
+            "text": "每 20 秒以高機率在 7 秒內分數提升95% "
+        }
+    },
+    {
+        "id": "la-generated-live_active_skill-card-03003-5-uniq-0115-00.2-description",
+        "data": {
+            "id": "la-generated-live_active_skill-card-03003-5-uniq-0115-00.2-description",
+            "text": "每 20 秒以高機率在 7 秒內分數提升[highlight]115[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",
         "data": {
             "id": "la-generated-live_active_skill-card-04003-5-uniq-0044-00.1-description",

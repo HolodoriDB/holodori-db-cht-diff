@@ -2551,6 +2551,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-detail",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】對話"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-01",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】綻放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-02",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】綻放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-03",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】綻放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-04",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】綻放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-05",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】綻放5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0034-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0034-00_card-detail",
@@ -2599,6 +2647,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-detail",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】對話"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-01",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】綻放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-02",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】綻放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-03",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】綻放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-04",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】綻放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-05",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】綻放5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0035-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0035-00_card-detail",
@@ -2644,6 +2740,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0035-00_card-potential-05",
             "text": "【陽光灑落的Cosmos Palette Iofi】 綻放5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-detail",
+            "text": "【暖陽下的溫柔微笑 Iofi】對話"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-01",
+            "text": "【暖陽下的溫柔微笑 Iofi】綻放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-02",
+            "text": "【暖陽下的溫柔微笑 Iofi】綻放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-03",
+            "text": "【暖陽下的溫柔微笑 Iofi】綻放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-04",
+            "text": "【暖陽下的溫柔微笑 Iofi】綻放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-05",
+            "text": "【暖陽下的溫柔微笑 Iofi】綻放5"
         }
     },
     {
@@ -5633,6 +5777,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-03001_03001-5-uniq-0114-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03001_03001-5-uniq-0114-00_skill-card",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-03001_03001-5-uniq-0114-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03001_03001-5-uniq-0114-00_start-card",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】Live開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-03001_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-03001_myself-001",
@@ -5661,6 +5819,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-03002_03002-5-uniq-0113-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03002_03002-5-uniq-0113-00_skill-card",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-03002_03002-5-uniq-0113-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03002_03002-5-uniq-0113-00_start-card",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】Live開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-03002_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-03002_myself-001",
@@ -5686,6 +5858,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-03003_03003-5-uniq-0035-00_start-card",
             "text": "【陽光灑落的Cosmos Palette Iofi】 Live開始"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-03003_03003-5-uniq-0115-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03003_03003-5-uniq-0115-00_skill-card",
+            "text": "【暖陽下的溫柔微笑 Iofi】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-03003_03003-5-uniq-0115-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03003_03003-5-uniq-0115-00_start-card",
+            "text": "【暖陽下的溫柔微笑 Iofi】Live開始"
         }
     },
     {
@@ -33080,6 +33266,41 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03002",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】Risu&Moona"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03003",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】Risu&Iofi"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03002-to-03001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03002-to-03001",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】Moona&Risu"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03003-to-03001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03003-to-03001",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】Iofi&Risu"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03001_03001-5-uniq-0114-00_myself",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03001_03001-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-03001_03001-to-00001",
@@ -33458,6 +33679,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03001_03002-5-uniq-0113-00_03001-to-03002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03001_03002-5-uniq-0113-00_03001-to-03002",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】Risu&Moona"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03001_03002-5-uniq-0113-00_03002-to-03001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03001_03002-5-uniq-0113-00_03002-to-03001",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】Moona&Risu"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03001_03002-to-03001",
         "data": {
             "id": "la-name_cv-live_dial_chr-03001_03002-to-03001",
@@ -33469,6 +33704,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03001_03003-5-uniq-0035-00_03003-to-03001",
             "text": "【陽光灑落的Cosmos Palette Iofi】Iofi&Risu"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03001_03003-5-uniq-0115-00_03001-to-03003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03001_03003-5-uniq-0115-00_03001-to-03003",
+            "text": "【暖陽下的溫柔微笑 Iofi】Risu&Iofi"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03001_03003-5-uniq-0115-00_03003-to-03001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03001_03003-5-uniq-0115-00_03003-to-03001",
+            "text": "【暖陽下的溫柔微笑 Iofi】Iofi&Risu"
         }
     },
     {
@@ -33857,6 +34106,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03002_03001-5-uniq-0114-00_03001-to-03002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03001-5-uniq-0114-00_03001-to-03002",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】Risu&Moona"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03002_03001-5-uniq-0114-00_03002-to-03001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03001-5-uniq-0114-00_03002-to-03001",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】Moona&Risu"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03002_03001-to-03002",
         "data": {
             "id": "la-name_cv-live_dial_chr-03002_03001-to-03002",
@@ -33882,6 +34145,41 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0034-00_myself",
             "text": "【Lunar Songstress Moona】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03001-to-03002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03001-to-03002",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】Risu&Moona"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03001",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】Moona&Risu"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03003",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】Moona&Iofi"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03003-to-03002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03003-to-03002",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】Iofi&Moona"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03002-5-uniq-0113-00_myself",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】SP技能"
         }
     },
     {
@@ -34260,6 +34558,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03002_03003-5-uniq-0035-00_03003-to-03002",
             "text": "【陽光灑落的Cosmos Palette Iofi】Iofi&Moona"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03002_03003-5-uniq-0115-00_03002-to-03003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03003-5-uniq-0115-00_03002-to-03003",
+            "text": "【暖陽下的溫柔微笑 Iofi】Moona&Iofi"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03002_03003-5-uniq-0115-00_03003-to-03002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03003-5-uniq-0115-00_03003-to-03002",
+            "text": "【暖陽下的溫柔微笑 Iofi】Iofi&Moona"
         }
     },
     {
@@ -34648,6 +34960,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03003_03001-5-uniq-0114-00_03001-to-03003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03003_03001-5-uniq-0114-00_03001-to-03003",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】Risu&Iofi"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03003_03001-5-uniq-0114-00_03003-to-03001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03003_03001-5-uniq-0114-00_03003-to-03001",
+            "text": "【帶著朦朧睡意梳妝打扮 Risu】Iofi&Risu"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03003_03001-to-03003",
         "data": {
             "id": "la-name_cv-live_dial_chr-03003_03001-to-03003",
@@ -34659,6 +34985,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03003_03002-5-uniq-0034-00_03002-to-03003",
             "text": "【Lunar Songstress Moona】Moona&Iofi"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03003_03002-5-uniq-0113-00_03002-to-03003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03003_03002-5-uniq-0113-00_03002-to-03003",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】Moona&Iofi"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03003_03002-5-uniq-0113-00_03003-to-03002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03003_03002-5-uniq-0113-00_03003-to-03002",
+            "text": "【繁星閃耀之夜的悠閒沐浴時光 Moona】Iofi&Moona"
         }
     },
     {
@@ -34687,6 +35027,41 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0035-00_myself",
             "text": "【陽光灑落的Cosmos Palette Iofi】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03001-to-03003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03001-to-03003",
+            "text": "【暖陽下的溫柔微笑 Iofi】Risu&Iofi"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03002-to-03003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03002-to-03003",
+            "text": "【暖陽下的溫柔微笑 Iofi】Moona&Iofi"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03001",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03001",
+            "text": "【暖陽下的溫柔微笑 Iofi】Iofi&Risu"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03002",
+            "text": "【暖陽下的溫柔微笑 Iofi】Iofi&Moona"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03003_03003-5-uniq-0115-00_myself",
+            "text": "【暖陽下的溫柔微笑 Iofi】SP技能"
         }
     },
     {
@@ -105838,6 +106213,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-detail",
+            "text": "嗯～刷完牙後換好洋裝……\n呵呵，才一大早，Moona和Iofi就說想出去散步，感覺她們已經迫不及待了！\n雖然我也能理解來民宿玩會特別興奮的心情啦？\n但她們兩個一早就興奮成這樣，還真像小孩子呢～真是的～！\n……嘻嘻嘻，真沒辦法，就讓Risu姐姐陪她們玩吧～\n哈啊～今天要怎麼對她們惡作劇呢～一邊準備一邊想吧～～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-get",
+            "text": "你太放鬆的話，小心我會對你惡作劇喔～？嘻嘻嘻♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-01",
+            "text": "這副眼罩怎麼樣？是不是跟我一樣超級可愛～～？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-02",
+            "text": "還沒醒嗎？那就交給我吧！看我使出提神醒腦的……搔癢癢攻擊～～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-03",
+            "text": "咦～我要換的衣服到哪去了……啊，你幫我找到了嗎？！謝啦～～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-04",
+            "text": "準備好後，首先要突襲Moona和Iofi的房間，嘻嘻嘻……"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03001_03001-5-uniq-0114-00_card-potential-05",
+            "text": "一早就能待在一起，感覺真好。我現在超有精神的！好，今天也要玩個痛快——！！"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0034-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0034-00_card-detail",
@@ -105887,6 +106311,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-detail",
+            "text": "哈呼～好舒服～♡玩完之後泡個澡真是太棒了～\n……呵呵，感覺好懷念呢。雖然是民宿，但和Risu、Yopi在同一屋簷下生活，就好像回到過去一起住的那段日子。\n話說回來，謝謝你幫我燒水喔，水溫剛剛好♪嘿嘿嘿。\n……啊，你要回房間了嗎？當然沒問題啊……只是可以的話，希望你能在門前多待一會兒……\n該怎麼說呢，和你聊天真的很開心……\n所以再多陪我一下！好不好嘛？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-get",
+            "text": "MoonMoon，大家今天一定會夢見可愛的Moona吧～"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-01",
+            "text": "泡完澡後，就要穿上毛茸茸的睡衣～♪呵呵，等不及想看了嗎～？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-02",
+            "text": "（咕噥咕噥）啊！不行，舒服到差點睡著了……"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-03",
+            "text": "能聽清楚我的聲音嗎～？可以離門再近一點喔～～？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-04",
+            "text": "啊，我忘了拿浴巾……抱歉～～能幫忙遞給我嗎～～？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03002_03002-5-uniq-0113-00_card-potential-05",
+            "text": "好像泡得有點頭暈……因為跟你聊得太開心了……下次我們再一起聊吧♪"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0035-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0035-00_card-detail",
@@ -105933,6 +106406,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0035-00_card-potential-05",
             "text": "下次要不要跟我一起創作呀？主題就選個……「愛」之類的♡"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-detail",
+            "text": "啊，哈囉～～\n嘿嘿嘿，這間民宿的採光太棒了～我正在曬太陽……\n稍微偷懶一下也沒關係吧？反正Risu和Moona一定也在自己的房間做同樣的事吧♪\n……呵呵，三人住在同一個地方，果然會讓人想起以前同居的那段日子呢。\n嘻嘻，從那時候開始，我們的感情就一直很要好，這真是非常美好的事呢♪\n……嘿嘿嘿，突然好想和Risu還有Moona聊聊天♪\n再放空一下，就去找她們兩個囉～～♡"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-get",
+            "text": "在夢裡也要相見喔♡這是和我的約、定♡"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-01",
+            "text": "我穿睡衣的樣子，怎麼樣？是不是讓你心跳加速了？呵呵♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-02",
+            "text": "一躺下去就很難再爬起來……暖呼呼的太陽魔力真是太可怕了……"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-03",
+            "text": "Zzz……騙你的啦～！我才沒睡著呢～～～～～～"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-04",
+            "text": "我旁邊有空位，要不要一起躺下來～？來嘛，快過來快過來～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03003_03003-5-uniq-0115-00_card-potential-05",
+            "text": "今天能這麼放鬆真是太開心了♪下次再一起曬太陽吧♡"
         }
     },
     {
@@ -108960,6 +109482,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-03001_03001-5-uniq-0114-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03001_03001-5-uniq-0114-00_skill-card",
+            "text": "這種興奮感，不是在做夢～～！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-03001_03001-5-uniq-0114-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03001_03001-5-uniq-0114-00_start-card",
+            "text": "嗯！因為睡得很飽，現在超級有活力！！"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-03001_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-03001_myself-001",
@@ -108988,6 +109524,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-03002_03002-5-uniq-0113-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03002_03002-5-uniq-0113-00_skill-card",
+            "text": "讓我帶給大家一段夢幻時光吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-03002_03002-5-uniq-0113-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03002_03002-5-uniq-0113-00_start-card",
+            "text": "今天感覺能輕鬆地放聲歌唱呢♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-03002_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-03002_myself-001",
@@ -109013,6 +109563,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-03003_03003-5-uniq-0035-00_start-card",
             "text": "夢想和希望，我都會親手描繪！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-03003_03003-5-uniq-0115-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03003_03003-5-uniq-0115-00_skill-card",
+            "text": "睡著還是醒著都在一起喔♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-03003_03003-5-uniq-0115-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03003_03003-5-uniq-0115-00_start-card",
+            "text": "今天就輕～～鬆地享受我們的Live吧♪"
         }
     },
     {
@@ -136407,6 +136971,41 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03002",
+            "text": "快睡著的時候，就用妳的光芒照耀我吧♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03001-to-03003",
+            "text": "呵呵，讓我帶給妳一場夢幻般的Live♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03002-to-03001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03002-to-03001",
+            "text": "累了吃這些橡果就能恢復體力喔！開玩笑的啦～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03003-to-03001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_03003-to-03001",
+            "text": "嘿嘿嘿～穿著這套睡衣就覺得很放鬆嘛～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03001_03001-5-uniq-0114-00_myself",
+            "text": "你太放鬆的話，小心我會對你惡作劇喔～？嘻嘻嘻♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03001_03001-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-03001_03001-to-00001",
@@ -136785,6 +137384,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03001_03002-5-uniq-0113-00_03001-to-03002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03001_03002-5-uniq-0113-00_03001-to-03002",
+            "text": "好～！我現在要摘下妳的眼罩！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03001_03002-5-uniq-0113-00_03002-to-03001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03001_03002-5-uniq-0113-00_03002-to-03001",
+            "text": "不要啊～～～快逃、快逃啊～～～！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03001_03002-to-03001",
         "data": {
             "id": "la-text_cv-live_dial_chr-03001_03002-to-03001",
@@ -136796,6 +137409,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03001_03003-5-uniq-0035-00_03003-to-03001",
             "text": "我最喜歡Iofi了！呀～♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03001_03003-5-uniq-0115-00_03001-to-03003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03001_03003-5-uniq-0115-00_03001-to-03003",
+            "text": "嗚～～～～嗯，肩帶好性感♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03001_03003-5-uniq-0115-00_03003-to-03001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03001_03003-5-uniq-0115-00_03003-to-03001",
+            "text": "呼啊～被妳傳染了，欸嘿♪"
         }
     },
     {
@@ -137184,6 +137811,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03002_03001-5-uniq-0114-00_03001-to-03002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03002_03001-5-uniq-0114-00_03001-to-03002",
+            "text": "交給我吧～～？！光芒閃耀——————！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03002_03001-5-uniq-0114-00_03002-to-03001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03002_03001-5-uniq-0114-00_03002-to-03001",
+            "text": "唔嗯？妳的睡衣上有好多橡果！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03002_03001-to-03002",
         "data": {
             "id": "la-text_cv-live_dial_chr-03002_03001-to-03002",
@@ -137209,6 +137850,41 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0034-00_myself",
             "text": "多虧大家，我才能如此閃耀。謝謝你們照亮了我。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03001-to-03002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03001-to-03002",
+            "text": "妳要是真這麼做，應該知道會有什麼後果吧？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03001",
+            "text": "Risu！毛茸茸的我要把妳包裹起來囉。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03002-to-03003",
+            "text": "請仔細聽，我要來唱催眠曲了！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03003-to-03002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_03003-to-03002",
+            "text": "是很舒服喔！妳要摸摸看嗎～？嘿嘿嘿♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03002_03002-5-uniq-0113-00_myself",
+            "text": "MoonMoon，大家今天一定會夢見可愛的Moona吧～"
         }
     },
     {
@@ -137587,6 +138263,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03002_03003-5-uniq-0035-00_03003-to-03002",
             "text": "那當然！到天長地久都可以！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03002_03003-5-uniq-0115-00_03002-to-03003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03002_03003-5-uniq-0115-00_03002-to-03003",
+            "text": "星星的刺繡徽章真可愛呢♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03002_03003-5-uniq-0115-00_03003-to-03002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03002_03003-5-uniq-0115-00_03003-to-03002",
+            "text": "在這裡說出來就不算祕密了不是嗎？！"
         }
     },
     {
@@ -137975,6 +138665,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03003_03001-5-uniq-0114-00_03001-to-03003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03003_03001-5-uniq-0114-00_03001-to-03003",
+            "text": "而且還是最甜美的……對吧♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03003_03001-5-uniq-0114-00_03003-to-03001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03003_03001-5-uniq-0114-00_03003-to-03001",
+            "text": "妳啊～竟然睡到Live快開始前才醒來～"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03003_03001-to-03003",
         "data": {
             "id": "la-text_cv-live_dial_chr-03003_03001-to-03003",
@@ -137986,6 +138690,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03003_03002-5-uniq-0034-00_03002-to-03003",
             "text": "當然，妳是我的驕傲哦。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03003_03002-5-uniq-0113-00_03002-to-03003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03003_03002-5-uniq-0113-00_03002-to-03003",
+            "text": "啊哈哈，這樣大家都會睡著啦～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03003_03002-5-uniq-0113-00_03003-to-03002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03003_03002-5-uniq-0113-00_03003-to-03002",
+            "text": "妳的睡衣看起來好柔軟、好舒服喔～～♪"
         }
     },
     {
@@ -138014,6 +138732,41 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0035-00_myself",
             "text": "謝謝大家的支持！作為獎勵……就把我送給你們吧♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03001-to-03003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03001-to-03003",
+            "text": "Risu～～～♪妳真懂～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03002-to-03003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03002-to-03003",
+            "text": "這身裝扮很適合站在月之女神旁邊吧？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03001",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03001",
+            "text": "呼啊～不小心打了個哈欠，欸嘿♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_03003-to-03002",
+            "text": "睡衣談心的時間到了！Moona，我們來聊點祕密吧～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03003_03003-5-uniq-0115-00_myself",
+            "text": "在夢裡也要相見喔♡這是和我的約、定♡"
         }
     },
     {

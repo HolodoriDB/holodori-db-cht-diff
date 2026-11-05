@@ -546,6 +546,48 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-03001-5-uniq-0114-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03001-5-uniq-0114-00.1-description",
+            "text": "2名ID1期生的品味提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03001-5-uniq-0114-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03001-5-uniq-0114-00.2-description",
+            "text": "2名ID1期生的品味提升[highlight]43[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03002-5-uniq-0113-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03002-5-uniq-0113-00.1-description",
+            "text": "2名[attribute=happy]快樂類型[/attribute]的分數加成效果8% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03002-5-uniq-0113-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03002-5-uniq-0113-00.2-description",
+            "text": "2名[attribute=happy]快樂類型[/attribute]的分數加成效果[highlight]11[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03003-5-uniq-0115-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03003-5-uniq-0115-00.1-description",
+            "text": "若編入2名以上[attribute=cute]可愛類型[/attribute]的人物2名[attribute=cute]可愛類型[/attribute]的表現力提升32% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-03003-5-uniq-0115-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-03003-5-uniq-0115-00.2-description",
+            "text": "若編入2名以上[attribute=cute]可愛類型[/attribute]的人物2名[attribute=cute]可愛類型[/attribute]的表現力提升[highlight]43[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

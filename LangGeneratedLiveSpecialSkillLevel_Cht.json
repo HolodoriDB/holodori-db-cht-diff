@@ -546,6 +546,48 @@
         }
     },
     {
+        "id": "la-generated-live_special_skill-card-03001-5-uniq-0114-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03001-5-uniq-0114-00.1-description",
+            "text": "在 10 秒內分數加成效果120%且若編入2名以上ID1期生技能發動機率提升45%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03001-5-uniq-0114-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03001-5-uniq-0114-00.2-description",
+            "text": "在 10 秒內分數加成效果[highlight]145[/highlight]%且若編入2名以上ID1期生技能發動機率提升[highlight]55[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03002-5-uniq-0113-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03002-5-uniq-0113-00.1-description",
+            "text": "在 15 秒內分數加成效果80%技能發動機率提升25%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03002-5-uniq-0113-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03002-5-uniq-0113-00.2-description",
+            "text": "在 15 秒內分數加成效果[highlight]95[/highlight]%技能發動機率提升[highlight]35[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03003-5-uniq-0115-00.1-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03003-5-uniq-0115-00.1-description",
+            "text": "在 14 秒內分數加成效果95%"
+        }
+    },
+    {
+        "id": "la-generated-live_special_skill-card-03003-5-uniq-0115-00.2-description",
+        "data": {
+            "id": "la-generated-live_special_skill-card-03003-5-uniq-0115-00.2-description",
+            "text": "在 14 秒內分數加成效果[highlight]115[/highlight]%"
+        }
+    },
+    {
         "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
         "data": {
             "id": "la-generated-live_special_skill-card-00036-5-uniq-0029-00.2-description",
