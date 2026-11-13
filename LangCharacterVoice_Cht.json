@@ -103,6 +103,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-detail",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】對話"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-01",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】綻放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-02",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】綻放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-03",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】綻放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-04",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】綻放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-05",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】綻放5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00004_00004-5-uniq-0005-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00004_00004-5-uniq-0005-00_card-detail",
@@ -1255,6 +1303,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-detail",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】對話"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-01",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】綻放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-02",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】綻放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-03",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】綻放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-04",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】綻放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-05",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】綻放5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0017-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-00021_00021-5-uniq-0017-00_card-detail",
@@ -1972,6 +2068,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0025-00_card-potential-05",
             "text": "【一起唱吧！純真節奏 音音】 綻放5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-detail",
+            "text": "【沐浴在維他命色的落葉下 音音】對話"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-01",
+            "text": "【沐浴在維他命色的落葉下 音音】綻放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-02",
+            "text": "【沐浴在維他命色的落葉下 音音】綻放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-03",
+            "text": "【沐浴在維他命色的落葉下 音音】綻放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-04",
+            "text": "【沐浴在維他命色的落葉下 音音】綻放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-05",
+            "text": "【沐浴在維他命色的落葉下 音音】綻放5"
         }
     },
     {
@@ -3031,6 +3175,54 @@
         }
     },
     {
+        "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-detail",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】對話"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-01",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】綻放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-02",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】綻放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-03",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】綻放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-04",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】綻放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-05",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】綻放5"
+        }
+    },
+    {
         "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0039-00_card-detail",
         "data": {
             "id": "la-name_cv-cmn_chr-03007_03007-5-uniq-0039-00_card-detail",
@@ -3604,6 +3796,54 @@
         "data": {
             "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0047-00_card-potential-05",
             "text": "【nephilim sonority IRyS】 綻放5"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-detail",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-detail",
+            "text": "【讓希望在手中開花結果♪ IRyS】對話"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-get",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-get"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-01",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-01",
+            "text": "【讓希望在手中開花結果♪ IRyS】綻放1"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-02",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-02",
+            "text": "【讓希望在手中開花結果♪ IRyS】綻放2"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-03",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-03",
+            "text": "【讓希望在手中開花結果♪ IRyS】綻放3"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-04",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-04",
+            "text": "【讓希望在手中開花結果♪ IRyS】綻放4"
+        }
+    },
+    {
+        "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-05",
+        "data": {
+            "id": "la-name_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-05",
+            "text": "【讓希望在手中開花結果♪ IRyS】綻放5"
         }
     },
     {
@@ -4657,6 +4897,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-00002_00002-5-uniq-0104-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00002_00002-5-uniq-0104-00_skill-card",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00002_00002-5-uniq-0104-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00002_00002-5-uniq-0104-00_start-card",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】Live開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-00002_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-00002_myself-001",
@@ -5189,6 +5443,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-00019_00019-5-uniq-0108-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00019_00019-5-uniq-0108-00_skill-card",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00019_00019-5-uniq-0108-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00019_00019-5-uniq-0108-00_start-card",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】Live開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-00019_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-00019_myself-001",
@@ -5508,6 +5776,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-00031_00031-5-uniq-0025-00_start-card",
             "text": "【一起唱吧！純真節奏 音音】 Live開始"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00031_00031-5-uniq-0105-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00031_00031-5-uniq-0105-00_skill-card",
+            "text": "【沐浴在維他命色的落葉下 音音】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-00031_00031-5-uniq-0105-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-00031_00031-5-uniq-0105-00_start-card",
+            "text": "【沐浴在維他命色的落葉下 音音】Live開始"
         }
     },
     {
@@ -5987,6 +6269,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_cmn_chr-03006_03006-5-uniq-0107-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03006_03006-5-uniq-0107-00_skill-card",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-03006_03006-5-uniq-0107-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-03006_03006-5-uniq-0107-00_start-card",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】Live開始"
+        }
+    },
+    {
         "id": "la-name_cv-live_cmn_chr-03006_myself-001",
         "data": {
             "id": "la-name_cv-live_cmn_chr-03006_myself-001",
@@ -6250,6 +6546,20 @@
         "data": {
             "id": "la-name_cv-live_cmn_chr-04007_04007-5-uniq-0047-00_start-card",
             "text": "【nephilim sonority IRyS】 Live開始"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04007_04007-5-uniq-0106-00_skill-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04007_04007-5-uniq-0106-00_skill-card",
+            "text": "【讓希望在手中開花結果♪ IRyS】技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_cmn_chr-04007_04007-5-uniq-0106-00_start-card",
+        "data": {
+            "id": "la-name_cv-live_cmn_chr-04007_04007-5-uniq-0106-00_start-card",
+            "text": "【讓希望在手中開花結果♪ IRyS】Live開始"
         }
     },
     {
@@ -7566,6 +7876,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0001-00_myself",
             "text": "【高性能的勝利手勢 蘿蔔子】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-00011",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-00011",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】蘿蔔子&巧可"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-00035",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-00035",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】蘿蔔子&拉普拉斯"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-03005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-03005",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】蘿蔔子&Anya"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-06005",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】蘿蔔子&一"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00011-to-00002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00011-to-00002",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】巧可&蘿蔔子"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00035-to-00002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00035-to-00002",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】拉普拉斯&蘿蔔子"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_03005-to-00002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_03005-to-00002",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】Anya&蘿蔔子"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_06005-to-00002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_06005-to-00002",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】一&蘿蔔子"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00002_00002-5-uniq-0104-00_myself",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】SP技能"
         }
     },
     {
@@ -9862,6 +10235,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00005_03005-to-00005",
             "text": "Anya&心"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00005_03006-5-uniq-0107-00_00005-to-03006",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00005_03006-5-uniq-0107-00_00005-to-03006",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】心&Reine"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00005_03006-5-uniq-0107-00_03006-to-00005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00005_03006-5-uniq-0107-00_03006-to-00005",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】Reine&心"
         }
     },
     {
@@ -12427,6 +12814,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00010_00019-5-uniq-0108-00_00010-to-00019",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00010_00019-5-uniq-0108-00_00010-to-00019",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】綾目&佩克拉"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00010_00019-5-uniq-0108-00_00019-to-00010",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00010_00019-5-uniq-0108-00_00019-to-00010",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】佩克拉&綾目"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00010_00019-to-00010",
         "data": {
             "id": "la-name_cv-live_dial_chr-00010_00019-to-00010",
@@ -12704,6 +13105,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00011_00001-to-00011",
             "text": "空&巧可"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00011_00002-5-uniq-0104-00_00002-to-00011",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00011_00002-5-uniq-0104-00_00002-to-00011",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】蘿蔔子&巧可"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00011_00002-5-uniq-0104-00_00011-to-00002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00011_00002-5-uniq-0104-00_00011-to-00002",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】巧可&蘿蔔子"
         }
     },
     {
@@ -14972,6 +15387,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00013_00018-to-00013",
             "text": "彗星&AZKi"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00013_00019-5-uniq-0108-00_00013-to-00019",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00013_00019-5-uniq-0108-00_00013-to-00019",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】AZKi&佩克拉"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00013_00019-5-uniq-0108-00_00019-to-00013",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00013_00019-5-uniq-0108-00_00019-to-00013",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】佩克拉&AZKi"
         }
     },
     {
@@ -19441,6 +19870,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00018_00031-5-uniq-0105-00_00018-to-00031",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00031-5-uniq-0105-00_00018-to-00031",
+            "text": "【沐浴在維他命色的落葉下 音音】彗星&音音"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00018_00031-5-uniq-0105-00_00031-to-00018",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00018_00031-5-uniq-0105-00_00031-to-00018",
+            "text": "【沐浴在維他命色的落葉下 音音】音音&彗星"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00018_00031-to-00018",
         "data": {
             "id": "la-name_cv-live_dial_chr-00018_00031-to-00018",
@@ -19788,6 +20231,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0016-00_myself",
             "text": "【魅力滿溢的兔子領域 佩克拉】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00010-to-00019",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00010-to-00019",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】綾目&佩克拉"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00013-to-00019",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00013-to-00019",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】AZKi&佩克拉"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-00010",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-00010",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】佩克拉&綾目"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-00013",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-00013",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】佩克拉&AZKi"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-00022",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】佩克拉&諾艾爾"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-06002",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】佩克拉&奏"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00022-to-00019",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00022-to-00019",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】諾艾爾&佩克拉"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_06002-to-00019",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_06002-to-00019",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】奏&佩克拉"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00019_00019-5-uniq-0108-00_myself",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】SP技能"
         }
     },
     {
@@ -21289,6 +21795,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00021_04007-5-uniq-0106-00_00021-to-04007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_04007-5-uniq-0106-00_00021-to-04007",
+            "text": "【讓希望在手中開花結果♪ IRyS】芙蕾雅&IRyS"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00021_04007-5-uniq-0106-00_04007-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00021_04007-5-uniq-0106-00_04007-to-00021",
+            "text": "【讓希望在手中開花結果♪ IRyS】IRyS&芙蕾雅"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00021_04007-to-00021",
         "data": {
             "id": "la-name_cv-live_dial_chr-00021_04007-to-00021",
@@ -21510,6 +22030,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00022_00019-5-uniq-0016-00_00019-to-00022",
             "text": "【魅力滿溢的兔子領域 佩克拉】佩克拉&諾艾爾"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00019-5-uniq-0108-00_00019-to-00022",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00019-5-uniq-0108-00_00019-to-00022",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】佩克拉&諾艾爾"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00022_00019-5-uniq-0108-00_00022-to-00019",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00022_00019-5-uniq-0108-00_00022-to-00019",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】諾艾爾&佩克拉"
         }
     },
     {
@@ -23085,6 +23619,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00023_03005-to-00023",
             "text": "Anya&瑪琳"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00023_03006-5-uniq-0107-00_00023-to-03006",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_03006-5-uniq-0107-00_00023-to-03006",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】瑪琳&Reine"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00023_03006-5-uniq-0107-00_03006-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00023_03006-5-uniq-0107-00_03006-to-00023",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】Reine&瑪琳"
         }
     },
     {
@@ -24810,6 +25358,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00027_00031-5-uniq-0105-00_00027-to-00031",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00027_00031-5-uniq-0105-00_00027-to-00031",
+            "text": "【沐浴在維他命色的落葉下 音音】永遠&音音"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00027_00031-5-uniq-0105-00_00031-to-00027",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00027_00031-5-uniq-0105-00_00031-to-00027",
+            "text": "【沐浴在維他命色的落葉下 音音】音音&永遠"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00027_00031-to-00027",
         "data": {
             "id": "la-name_cv-live_dial_chr-00027_00031-to-00027",
@@ -25794,6 +26356,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00028_04003-to-00028",
             "text": "Ina'nis&璐娜"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00028_04007-5-uniq-0106-00_00028-to-04007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00028_04007-5-uniq-0106-00_00028-to-04007",
+            "text": "【讓希望在手中開花結果♪ IRyS】璐娜&IRyS"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00028_04007-5-uniq-0106-00_04007-to-00028",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00028_04007-5-uniq-0106-00_04007-to-00028",
+            "text": "【讓希望在手中開花結果♪ IRyS】IRyS&璐娜"
         }
     },
     {
@@ -27071,6 +27647,69 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00018-to-00031",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00018-to-00031",
+            "text": "【沐浴在維他命色的落葉下 音音】彗星&音音"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00027-to-00031",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00027-to-00031",
+            "text": "【沐浴在維他命色的落葉下 音音】永遠&音音"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-00018",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-00018",
+            "text": "【沐浴在維他命色的落葉下 音音】音音&彗星"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-00027",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-00027",
+            "text": "【沐浴在維他命色的落葉下 音音】音音&永遠"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-00032",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-00032",
+            "text": "【沐浴在維他命色的落葉下 音音】音音&牡丹"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-04003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-04003",
+            "text": "【沐浴在維他命色的落葉下 音音】音音&Ina'nis"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00032-to-00031",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00032-to-00031",
+            "text": "【沐浴在維他命色的落葉下 音音】牡丹&音音"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_04003-to-00031",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_04003-to-00031",
+            "text": "【沐浴在維他命色的落葉下 音音】Ina'nis&音音"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00031_00031-5-uniq-0105-00_myself",
+            "text": "【沐浴在維他命色的落葉下 音音】SP技能"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-00031_00031-to-00001",
         "data": {
             "id": "la-name_cv-live_dial_chr-00031_00031-to-00001",
@@ -27852,6 +28491,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00032_00031-5-uniq-0025-00_00031-to-00032",
             "text": "【一起唱吧！純真節奏 音音】音音&牡丹"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00032_00031-5-uniq-0105-00_00031-to-00032",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00032_00031-5-uniq-0105-00_00031-to-00032",
+            "text": "【沐浴在維他命色的落葉下 音音】音音&牡丹"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00032_00031-5-uniq-0105-00_00032-to-00031",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00032_00031-5-uniq-0105-00_00032-to-00031",
+            "text": "【沐浴在維他命色的落葉下 音音】牡丹&音音"
         }
     },
     {
@@ -29532,6 +30185,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-00035_00001-to-00035",
             "text": "空&拉普拉斯"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00035_00002-5-uniq-0104-00_00002-to-00035",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00035_00002-5-uniq-0104-00_00002-to-00035",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】蘿蔔子&拉普拉斯"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-00035_00002-5-uniq-0104-00_00035-to-00002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-00035_00002-5-uniq-0104-00_00035-to-00002",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】拉普拉斯&蘿蔔子"
         }
     },
     {
@@ -34610,6 +35277,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03002_03006-5-uniq-0107-00_03002-to-03006",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03006-5-uniq-0107-00_03002-to-03006",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】Moona&Reine"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03002_03006-5-uniq-0107-00_03006-to-03002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03002_03006-5-uniq-0107-00_03006-to-03002",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】Reine&Moona"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03002_03006-to-03002",
         "data": {
             "id": "la-name_cv-live_dial_chr-03002_03006-to-03002",
@@ -36444,6 +37125,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03005_00002-5-uniq-0104-00_00002-to-03005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03005_00002-5-uniq-0104-00_00002-to-03005",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】蘿蔔子&Anya"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03005_00002-5-uniq-0104-00_03005-to-00002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03005_00002-5-uniq-0104-00_03005-to-00002",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】Anya&蘿蔔子"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03005_00002-to-03005",
         "data": {
             "id": "la-name_cv-live_dial_chr-03005_00002-to-03005",
@@ -37193,6 +37888,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-03005_04007-5-uniq-0106-00_03005-to-04007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03005_04007-5-uniq-0106-00_03005-to-04007",
+            "text": "【讓希望在手中開花結果♪ IRyS】Anya&IRyS"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03005_04007-5-uniq-0106-00_04007-to-03005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03005_04007-5-uniq-0106-00_04007-to-03005",
+            "text": "【讓希望在手中開花結果♪ IRyS】IRyS&Anya"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-03005_04007-to-03005",
         "data": {
             "id": "la-name_cv-live_dial_chr-03005_04007-to-03005",
@@ -37568,6 +38277,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0038-00_myself",
             "text": "【與假正經孔雀細品一杯 Reine】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_00005-to-03006",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_00005-to-03006",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】心&Reine"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_00023-to-03006",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_00023-to-03006",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】瑪琳&Reine"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03002-to-03006",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03002-to-03006",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】Moona&Reine"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-00005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-00005",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】Reine&心"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-00023",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-00023",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】Reine&瑪琳"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-03002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-03002",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】Reine&Moona"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-04002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-04002",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】Reine&Kiara"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_04002-to-03006",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_04002-to-03006",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】Kiara&Reine"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-03006_03006-5-uniq-0107-00_myself",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】SP技能"
         }
     },
     {
@@ -41939,6 +42711,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04002_03006-5-uniq-0107-00_03006-to-04002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04002_03006-5-uniq-0107-00_03006-to-04002",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】Reine&Kiara"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04002_03006-5-uniq-0107-00_04002-to-03006",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04002_03006-5-uniq-0107-00_04002-to-03006",
+            "text": "【微風吹拂♪邁向銀杏大道的盡頭 Reine】Kiara&Reine"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04002_03006-to-04002",
         "data": {
             "id": "la-name_cv-live_dial_chr-04002_03006-to-04002",
@@ -42643,6 +43429,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04003_00030-to-04003",
             "text": "菈米&Ina'nis"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04003_00031-5-uniq-0105-00_00031-to-04003",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_00031-5-uniq-0105-00_00031-to-04003",
+            "text": "【沐浴在維他命色的落葉下 音音】音音&Ina'nis"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04003_00031-5-uniq-0105-00_04003-to-00031",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04003_00031-5-uniq-0105-00_04003-to-00031",
+            "text": "【沐浴在維他命色的落葉下 音音】Ina'nis&音音"
         }
     },
     {
@@ -43707,6 +44507,69 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0047-00_myself",
             "text": "【nephilim sonority IRyS】 SP技能"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_00021-to-04007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_00021-to-04007",
+            "text": "【讓希望在手中開花結果♪ IRyS】芙蕾雅&IRyS"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_00028-to-04007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_00028-to-04007",
+            "text": "【讓希望在手中開花結果♪ IRyS】璐娜&IRyS"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_03005-to-04007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_03005-to-04007",
+            "text": "【讓希望在手中開花結果♪ IRyS】Anya&IRyS"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-00021",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-00021",
+            "text": "【讓希望在手中開花結果♪ IRyS】IRyS&芙蕾雅"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-00028",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-00028",
+            "text": "【讓希望在手中開花結果♪ IRyS】IRyS&璐娜"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-03005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-03005",
+            "text": "【讓希望在手中開花結果♪ IRyS】IRyS&Anya"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-04014",
+            "text": "【讓希望在手中開花結果♪ IRyS】IRyS&Bijou"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04014-to-04007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04014-to-04007",
+            "text": "【讓希望在手中開花結果♪ IRyS】Bijou&IRyS"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_myself",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04007_04007-5-uniq-0106-00_myself",
+            "text": "【讓希望在手中開花結果♪ IRyS】SP技能"
         }
     },
     {
@@ -47105,6 +47968,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-04014_04007-5-uniq-0106-00_04007-to-04014",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04007-5-uniq-0106-00_04007-to-04014",
+            "text": "【讓希望在手中開花結果♪ IRyS】IRyS&Bijou"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-04014_04007-5-uniq-0106-00_04014-to-04007",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-04014_04007-5-uniq-0106-00_04014-to-04007",
+            "text": "【讓希望在手中開花結果♪ IRyS】Bijou&IRyS"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-04014_04007-to-04014",
         "data": {
             "id": "la-name_cv-live_dial_chr-04014_04007-to-04014",
@@ -50472,6 +51349,20 @@
         }
     },
     {
+        "id": "la-name_cv-live_dial_chr-06002_00019-5-uniq-0108-00_00019-to-06002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_00019-5-uniq-0108-00_00019-to-06002",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】佩克拉&奏"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06002_00019-5-uniq-0108-00_06002-to-00019",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06002_00019-5-uniq-0108-00_06002-to-00019",
+            "text": "【精心打扮，踏著輕快步伐出遊 佩克拉】奏&佩克拉"
+        }
+    },
+    {
         "id": "la-name_cv-live_dial_chr-06002_00019-to-06002",
         "data": {
             "id": "la-name_cv-live_dial_chr-06002_00019-to-06002",
@@ -53171,6 +54062,20 @@
         "data": {
             "id": "la-name_cv-live_dial_chr-06005_00001-to-06005",
             "text": "空&一"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_00002-5-uniq-0104-00_00002-to-06005",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_00002-5-uniq-0104-00_00002-to-06005",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】蘿蔔子&一"
+        }
+    },
+    {
+        "id": "la-name_cv-live_dial_chr-06005_00002-5-uniq-0104-00_06005-to-00002",
+        "data": {
+            "id": "la-name_cv-live_dial_chr-06005_00002-5-uniq-0104-00_06005-to-00002",
+            "text": "【與規格頂級的我在紅葉中的約會 蘿蔔子】一&蘿蔔子"
         }
     },
     {
@@ -103714,6 +104619,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-detail",
+            "text": "景色真棒～啊，快看！整個池塘都變得紅通通的耶♪我想去撿一片漂在水面上的落葉～♪\n嗯～還差一點……哇、哇啊～？！\n嗚嗚，謝謝……你要是沒抓住我，我人肯定已經在池塘裡面了……\n咦？我像個孩子似的很可愛？真是的～人家是成熟的大姐姐吧？\n之前一和Anya也說過我很可靠。\n算了，比起那個，其實我有買熱飲和三明治過來，要一起吃嗎？\n……真的嗎？！那我們去那邊坐著吃吧～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-get",
+            "text": "被我時髦的秋裝迷得神魂顛倒吧～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-01",
+            "text": "（得意得意～♪）毛茸茸的白色開襟毛衣很可愛吧～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-02",
+            "text": "咖啡很燙喔～拿的時候要小心……哇，怎麼比想像中還燙～？！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-03",
+            "text": "三明治好好吃～♪咦，我嘴巴沾到醬汁了？幫我擦掉幫我擦掉～"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-04",
+            "text": "謝謝招待！呼～好飽好飽♪欸欸，接下來要做什麼要做什麼～？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00002_00002-5-uniq-0104-00_card-potential-05",
+            "text": "哇，好大的哈欠～想睡了嗎？既然這樣～我的大腿借你躺吧♪"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00004_00004-5-uniq-0005-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00004_00004-5-uniq-0005-00_card-detail",
@@ -104890,6 +105844,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-detail",
+            "text": "嗯～～景色好漂亮～～♪\n除了前面看到的銀杏，這邊的楓葉也很漂亮呢～葉子的形狀像星星一樣，好有趣……\n呵呵，怎麼樣～～？我試著把它當成了髮飾，好看嗎PEKO～？\n……幹嘛啦，居然露出那種像是看到珍奇異獸般的表情！\n不，我才沒有興奮過頭PEKO！我只是看它形狀很漂亮，很適合拿來當髮飾……\n真、真是的！不要一直看我，去看楓葉啦PEKO！看、楓、葉～～～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-get",
+            "text": "紅蘿蔔是代表秋天的顏色～！\n換句話說，秋天是我的季節PEKO。"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-01",
+            "text": "偶爾換個優雅的黑兔子風格也不錯吧？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-02",
+            "text": "這片楓葉飛舞的景色……嗯嗯，感覺能寫出一首好詩PEKO～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-03",
+            "text": "我們去那邊的攤位看看吧～會賣什麼呢～會賣什麼呢～～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-04",
+            "text": "啊，等一下、等一下～有楓葉卡在你的頭髮上，別動喔……好，拿掉了！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00019_00019-5-uniq-0108-00_card-potential-05",
+            "text": "偶爾像這樣閒逛也很棒呢～如果你下次再邀我，我一定會來喔PEKO！"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0017-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-00021_00021-5-uniq-0017-00_card-detail",
@@ -105622,6 +106625,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0025-00_card-potential-05",
             "text": "你會一直陪在我身邊吧……？我們約好囉！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-detail",
+            "text": "看好囉～？把落葉集中在一起……啪唰～～～～！\n嗯～落葉隨風輕舞而下，真有情調呢～\n……啊，這座公園？是之前跟大家一起去買東西時，在回家路上發現的～！\n當時行李太多，沒能進來逛逛，今天能來真是太好了～♪\n好——興奮起來了！我們來玩躲落葉遊戲吧～！\n閃過所有落下的落葉，穿過這條林蔭大道的人就是贏家！\n準備好了嗎～～？！喝啊啊～～～～～！！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-get",
+            "text": "秋天是運動的季節！一起蹦蹦跳不停，炒熱這個秋天吧～！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-01",
+            "text": "怎麼樣怎麼樣～？是不是被我的秋裝迷得神魂顛倒了啊～～？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-02",
+            "text": "颯爽闊步地走在金黃銀杏大道上的我……嗚嗚～～真是美如畫～～～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-03",
+            "text": "不曉得能不能在落葉下找到稀有的蟲～？欸～可以陪我一起找找看嗎～？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-04",
+            "text": "我去長椅上休息一下～！來來來，你也過來我旁邊坐吧～～～♡"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-00031_00031-5-uniq-0105-00_card-potential-05",
+            "text": "鏘鏘！這片銀杏葉送給你，當作今天的紀念！要把它當成我好好珍惜喔♡"
         }
     },
     {
@@ -106703,6 +107755,55 @@
         }
     },
     {
+        "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-detail",
+            "text": "鏘～！這一整排銀杏樹是不是很壯觀呀？！再過一陣子，等落葉堆積起來，這一帶就會被徹底染成金黃色！\n……導覽手冊上是這樣寫的！\n呵呵呵，我很棒吧？我有先做過功課喔☆難得你約我出來，做點功課是應該的～♪\n那麼，接下來就拜託你當我的護花使者囉～！\n我都特地精心打扮，換上瑪琳前輩認可的完美穿搭了，你可要讓我玩得盡興喔？呵呵呵……♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-get",
+            "text": "我要用魔法讓大家的秋天變得七彩繽紛！要開始囉～～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-01",
+            "text": "這件披肩的花紋很漂亮吧～～？簡直就像是為孔雀少女量身打造的♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-02",
+            "text": "朝蓬鬆的落葉山飛撲～～～♪開玩笑的啦♪啊哈哈，別當真！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-03",
+            "text": "呵呵，有葉子掉到你頭上囉～～來，我幫你拿掉♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-04",
+            "text": "呼，開始有點冷了呢……要不要去那邊的咖啡廳喝點熱飲？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-03006_03006-5-uniq-0107-00_card-potential-05",
+            "text": "謝謝你今天當我的護花使者！給你～～～100分滿分！呵呵呵♪"
+        }
+    },
+    {
         "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0039-00_card-detail",
         "data": {
             "id": "la-text_cv-cmn_chr-03007_03007-5-uniq-0039-00_card-detail",
@@ -107288,6 +108389,55 @@
         "data": {
             "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0047-00_card-potential-05",
             "text": "耶～♪Live好開心～～～！謝謝大家♪最喜歡你們了～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-detail",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-detail",
+            "text": "嗚哇～～到處都聞得到葡萄香～♪\n這些全都可以免費吃到飽，對吧～？根本是天堂嘛～♪而且風景也好漂亮～\n……啊！好想讓之前買的那些壓克力立牌，也來欣賞一下這片美景～～～唉～好可惜！\n算了，反正下次還有機會♪比起這個～現在還是先好好享受秋天的美食吧♪\n走吧走吧，快點去摘葡萄吧！總之先把這個籃子裝滿再說♪\n之後……我們再來一起大快朵頤吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-get",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-get",
+            "text": "既然是秋天，我就化身為邱比特，用歌聲讓大家墜入情網吧♪\n準備好了嗎？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-01",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-01",
+            "text": "怎麼樣？這就是我的秋季時髦穿搭♪好看嗎、好看嗎？"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-02",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-02",
+            "text": "嗯～～～！還差一點……就能摘到那個葡萄了……哇啊啊啊～？！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-03",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-03",
+            "text": "謝謝你扶住我～♪好～葡萄也摘了不少，我們來吃吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-04",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-04",
+            "text": "好好吃～♪這個清爽的甜味真是讓人欲罷不能～♡啊，那顆好大？！給我吃～☆"
+        }
+    },
+    {
+        "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-05",
+        "data": {
+            "id": "la-text_cv-cmn_chr-04007_04007-5-uniq-0106-00_card-potential-05",
+            "text": "欸欸！再找時間一起去享受秋天的美食吧。約好囉。不可以反悔喔♪"
         }
     },
     {
@@ -108362,6 +109512,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-00002_00002-5-uniq-0104-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00002_00002-5-uniq-0104-00_skill-card",
+            "text": "喝啊！橡實滾呀滾～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00002_00002-5-uniq-0104-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00002_00002-5-uniq-0104-00_start-card",
+            "text": "就穿這件蓬鬆柔軟的毛衣去迎接大家吧～♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-00002_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-00002_myself-001",
@@ -108894,6 +110058,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-00019_00019-5-uniq-0108-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00019_00019-5-uniq-0108-00_skill-card",
+            "text": "要上囉～！1、2、秋刀魚！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00019_00019-5-uniq-0108-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00019_00019-5-uniq-0108-00_start-card",
+            "text": "食慾之秋、藝術之秋……以及Live之秋PEKO～！"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-00019_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-00019_myself-001",
@@ -109213,6 +110391,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-00031_00031-5-uniq-0025-00_start-card",
             "text": "大家快到我這裡集合，快來快來——！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00031_00031-5-uniq-0105-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00031_00031-5-uniq-0105-00_skill-card",
+            "text": "桃鈴蟲來囉～！鈴鈴鈴～～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-00031_00031-5-uniq-0105-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-00031_00031-5-uniq-0105-00_start-card",
+            "text": "咻嚕嚕嚕嚕～♪桃鈴音音，乘著秋風華麗登場～～！"
         }
     },
     {
@@ -109692,6 +110884,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_cmn_chr-03006_03006-5-uniq-0107-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03006_03006-5-uniq-0107-00_skill-card",
+            "text": "秋風重拳～～～！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-03006_03006-5-uniq-0107-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-03006_03006-5-uniq-0107-00_start-card",
+            "text": "咩咩咩♪在此宣布秋天的到來～♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_cmn_chr-03006_myself-001",
         "data": {
             "id": "la-text_cv-live_cmn_chr-03006_myself-001",
@@ -109955,6 +111161,20 @@
         "data": {
             "id": "la-text_cv-live_cmn_chr-04007_04007-5-uniq-0047-00_start-card",
             "text": "只要保持積極樂觀，希望自然會找上門。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04007_04007-5-uniq-0106-00_skill-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04007_04007-5-uniq-0106-00_skill-card",
+            "text": "葡萄最好吃的季節到啦～～～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_cmn_chr-04007_04007-5-uniq-0106-00_start-card",
+        "data": {
+            "id": "la-text_cv-live_cmn_chr-04007_04007-5-uniq-0106-00_start-card",
+            "text": "我將為舞台帶來優雅的深秋～～♪"
         }
     },
     {
@@ -111271,6 +112491,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0001-00_myself",
             "text": "一起享受這段奇蹟般的相遇吧！最喜歡你們了～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-00011",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-00011",
+            "text": "秋天真是個適合享受穿搭樂趣的好季節呢～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-00035",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-00035",
+            "text": "拉普，妳看！我找到一片好大的楓葉！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-03005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-03005",
+            "text": "下次試試看從落葉堆中蹦出來的演出如何？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00002-to-06005",
+            "text": "一、一～？秋天會讓妳聯想到什麼～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00011-to-00002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00011-to-00002",
+            "text": "嘿嘿，巧可老師也可以給我一個愛心嗎？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00035-to-00002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_00035-to-00002",
+            "text": "喂～！妳的角會把毛衣勾壞啦～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_03005-to-00002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_03005-to-00002",
+            "text": "好開心～♪我害妳的心跳漏一拍了嗎？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_06005-to-00002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_06005-to-00002",
+            "text": "嘿嘿嘿，很棒吧～♪要戴戴看嗎～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00002_00002-5-uniq-0104-00_myself",
+            "text": "被我時髦的秋裝迷得神魂顛倒吧～♪"
         }
     },
     {
@@ -113567,6 +114850,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00005_03005-to-00005",
             "text": "妳到底對幾個女人說了同樣的話？！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00005_03006-5-uniq-0107-00_00005-to-03006",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00005_03006-5-uniq-0107-00_00005-to-03006",
+            "text": "那邊那位可愛的孔雀～！我來幫妳實現願望吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00005_03006-5-uniq-0107-00_03006-to-00005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00005_03006-5-uniq-0107-00_03006-to-00005",
+            "text": "嘿～～！那個一年四季都吃得到吧～！"
         }
     },
     {
@@ -116132,6 +117429,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00010_00019-5-uniq-0108-00_00010-to-00019",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00010_00019-5-uniq-0108-00_00010-to-00019",
+            "text": "哎呀，佩克醬！妳今天打扮得真漂亮～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00010_00019-5-uniq-0108-00_00019-to-00010",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00010_00019-5-uniq-0108-00_00019-to-00010",
+            "text": "咦？佩克醬在感傷嗎……？"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00010_00019-to-00010",
         "data": {
             "id": "la-text_cv-live_dial_chr-00010_00019-to-00010",
@@ -116409,6 +117720,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00011_00001-to-00011",
             "text": "因為我現在超級開心的！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00011_00002-5-uniq-0104-00_00002-to-00011",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00011_00002-5-uniq-0104-00_00002-to-00011",
+            "text": "妳這個小可愛，還真是樂在其中嘛～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00011_00002-5-uniq-0104-00_00011-to-00002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00011_00002-5-uniq-0104-00_00011-to-00002",
+            "text": "哎呀，愛心的設計真可愛♡"
         }
     },
     {
@@ -118677,6 +120002,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00013_00018-to-00013",
             "text": "那低音的部分就拜託小彗囉！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00013_00019-5-uniq-0108-00_00013-to-00019",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00013_00019-5-uniq-0108-00_00013-to-00019",
+            "text": "佩克醬難不成覺醒病嬌屬性了嗎？！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00013_00019-5-uniq-0108-00_00019-to-00013",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00013_00019-5-uniq-0108-00_00019-to-00013",
+            "text": "那就一起去Guessr楓葉吧！"
         }
     },
     {
@@ -123146,6 +124485,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00018_00031-5-uniq-0105-00_00018-to-00031",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00031-5-uniq-0105-00_00018-to-00031",
+            "text": "喔，音音的打扮真時尚～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00018_00031-5-uniq-0105-00_00031-to-00018",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00018_00031-5-uniq-0105-00_00031-to-00018",
+            "text": "好～就這樣繼續轉個30分鐘看看吧？"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00018_00031-to-00018",
         "data": {
             "id": "la-text_cv-live_dial_chr-00018_00031-to-00018",
@@ -123493,6 +124846,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0016-00_myself",
             "text": "大家！今後也要繼續一起刻劃佩克拉的故事喔！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00010-to-00019",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00010-to-00019",
+            "text": "今天的我甜美又可愛♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00013-to-00019",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00013-to-00019",
+            "text": "不不不，那個位置還是讓給妳吧！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-00010",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-00010",
+            "text": "靜謐涼爽的風，悄悄宣告秋天的到來……感覺還不壞。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-00013",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-00013",
+            "text": "機會難得，好想多享受一點秋天的氣息PEKO。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-00022",
+            "text": "你們該不會都陷入感傷的氣氛了吧PEKO～？！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00019-to-06002",
+            "text": "秋天氣候宜人，真不錯呢～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00022-to-00019",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_00022-to-00019",
+            "text": "兔田佩可拉的秋天造型！（得意……！）"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_06002-to-00019",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_06002-to-00019",
+            "text": "喂！妳當我瞎了嗎PEKO！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00019_00019-5-uniq-0108-00_myself",
+            "text": "紅蘿蔔是代表秋天的顏色～！換句話說，秋天是我的季節PEKO。"
         }
     },
     {
@@ -124994,6 +126410,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00021_04007-5-uniq-0106-00_00021-to-04007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_04007-5-uniq-0106-00_00021-to-04007",
+            "text": "喔喔～這件優雅的大衣也很適合妳喔～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00021_04007-5-uniq-0106-00_04007-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00021_04007-5-uniq-0106-00_04007-to-00021",
+            "text": "老實順從妳的內心吧～忍耐對身體不好喔～～～"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00021_04007-to-00021",
         "data": {
             "id": "la-text_cv-live_dial_chr-00021_04007-to-00021",
@@ -125215,6 +126645,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00022_00019-5-uniq-0016-00_00019-to-00022",
             "text": "別擔心，有大家在一起，這點緊張根本不算什麼！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00019-5-uniq-0108-00_00019-to-00022",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00019-5-uniq-0108-00_00019-to-00022",
+            "text": "跟我們一起嗨起來，就會變得精神百倍太郎囉！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00022_00019-5-uniq-0108-00_00022-to-00019",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00022_00019-5-uniq-0108-00_00022-to-00019",
+            "text": "佩克拉姐像洋娃娃一樣，好可愛喔～♪"
         }
     },
     {
@@ -126790,6 +128234,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00023_03005-to-00023",
             "text": "不對啊，我可是走性感路線的耶？！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00023_03006-5-uniq-0107-00_00023-to-03006",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_03006-5-uniq-0107-00_00023-to-03006",
+            "text": "Reine！把會場的氣氛炒到最高點吧～～！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00023_03006-5-uniq-0107-00_03006-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00023_03006-5-uniq-0107-00_03006-to-00023",
+            "text": "這還用問嗎！當然喜歡～～～！！"
         }
     },
     {
@@ -128515,6 +129973,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00027_00031-5-uniq-0105-00_00027-to-00031",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00027_00031-5-uniq-0105-00_00027-to-00031",
+            "text": "音音，不覺得妳那套衣服很適合外出的時候穿嗎？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00027_00031-5-uniq-0105-00_00031-to-00027",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00027_00031-5-uniq-0105-00_00031-to-00027",
+            "text": "呵，太天真了，看我全部閃掉～～！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00027_00031-to-00027",
         "data": {
             "id": "la-text_cv-live_dial_chr-00027_00031-to-00027",
@@ -129499,6 +130971,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00028_04003-to-00028",
             "text": "嗯吶炭，一起唱歌吧的啦～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00028_04007-5-uniq-0106-00_00028-to-04007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00028_04007-5-uniq-0106-00_00028-to-04007",
+            "text": "喔喔～IRyS這身打扮，看起來意外地成熟的啦。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00028_04007-5-uniq-0106-00_04007-to-00028",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00028_04007-5-uniq-0106-00_04007-to-00028",
+            "text": "嗯吶～～！是IRyS和嗯吶炭的啦～♪"
         }
     },
     {
@@ -130776,6 +132262,69 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00018-to-00031",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00018-to-00031",
+            "text": "再多讚美我幾句～！一天至少要一次喔～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00027-to-00031",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00027-to-00031",
+            "text": "這、這這這這句話的意思是！妳想邀我去約會嗎？！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-00018",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-00018",
+            "text": "秋風之舞！轉啊轉啊轉～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-00027",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-00027",
+            "text": "必殺，落葉手裡劍！咻咻咻咻咻～☆"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-00032",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-00032",
+            "text": "肚子餓了，來吃空氣烤地瓜吧～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-04003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00031-to-04003",
+            "text": "既然正值藝術之秋！就來辦場Ina醬鑑賞會吧～♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00032-to-00031",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_00032-to-00031",
+            "text": "小音音滿月～！美觀又壯觀～～～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_04003-to-00031",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_04003-to-00031",
+            "text": "妳可以靠近一點，看個仔細喔～說說的啦☆"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00031_00031-5-uniq-0105-00_myself",
+            "text": "秋天是運動的季節！一起蹦蹦跳不停，炒熱這個秋天吧～！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-00031_00031-to-00001",
         "data": {
             "id": "la-text_cv-live_dial_chr-00031_00031-to-00001",
@@ -131557,6 +133106,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00032_00031-5-uniq-0025-00_00031-to-00032",
             "text": "我要狙擊愛惡作劇的孩子！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00032_00031-5-uniq-0105-00_00031-to-00032",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00032_00031-5-uniq-0105-00_00031-to-00032",
+            "text": "那我要吃……空氣拉麵！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00032_00031-5-uniq-0105-00_00032-to-00031",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00032_00031-5-uniq-0105-00_00032-to-00031",
+            "text": "請小音音來一段以秋天為主題的即興搞笑吧！"
         }
     },
     {
@@ -133237,6 +134800,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-00035_00001-to-00035",
             "text": "嗚喔喔喔喔！太可愛啦，空桑！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00035_00002-5-uniq-0104-00_00002-to-00035",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00035_00002-5-uniq-0104-00_00002-to-00035",
+            "text": "呵，吾的比妳更大～！是吾贏了～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-00035_00002-5-uniq-0104-00_00035-to-00002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-00035_00002-5-uniq-0104-00_00035-to-00002",
+            "text": "妳穿的這件毛衣很不錯嘛，讓吾把臉埋進去看看～！"
         }
     },
     {
@@ -138315,6 +139892,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03002_03006-5-uniq-0107-00_03002-to-03006",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03002_03006-5-uniq-0107-00_03002-to-03006",
+            "text": "唉～美食的誘惑也太多了吧～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03002_03006-5-uniq-0107-00_03006-to-03002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03002_03006-5-uniq-0107-00_03006-to-03002",
+            "text": "啊哈哈哈，傳遞秋意的孔雀是什麼啦！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03002_03006-to-03002",
         "data": {
             "id": "la-text_cv-live_dial_chr-03002_03006-to-03002",
@@ -140149,6 +141740,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03005_00002-5-uniq-0104-00_00002-to-03005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03005_00002-5-uniq-0104-00_00002-to-03005",
+            "text": "可別不小心被做成烤地瓜喔。"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03005_00002-5-uniq-0104-00_03005-to-00002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03005_00002-5-uniq-0104-00_03005-to-00002",
+            "text": "喂～蘿蔔子前輩可愛過頭了吧～？！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03005_00002-to-03005",
         "data": {
             "id": "la-text_cv-live_dial_chr-03005_00002-to-03005",
@@ -140898,6 +142503,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-03005_04007-5-uniq-0106-00_03005-to-04007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03005_04007-5-uniq-0106-00_03005-to-04007",
+            "text": "欸欸，IRyS～！推薦一些有趣的漫畫給我～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03005_04007-5-uniq-0106-00_04007-to-03005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03005_04007-5-uniq-0106-00_04007-to-03005",
+            "text": "妳看起來很享受時尚之秋呢～♪"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-03005_04007-to-03005",
         "data": {
             "id": "la-text_cv-live_dial_chr-03005_04007-to-03005",
@@ -141273,6 +142892,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0038-00_myself",
             "text": "謝謝大家一直以來的支持。為了表達感謝，我要用歌聲施展笑容魔法囉！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_00005-to-03006",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_00005-to-03006",
+            "text": "那麼～請帶我去妳推薦的秋天景點～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_00023-to-03006",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_00023-to-03006",
+            "text": "耶～！一起用歌聲和舞蹈一掃秋風吧～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03002-to-03006",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03002-to-03006",
+            "text": "把一切都怪到秋天頭上，我們去盡情享受美食吧♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-00005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-00005",
+            "text": "秋天的代表性美食就是……香辣麵！！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-00023",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-00023",
+            "text": "大家喜歡穿著華麗秋裝的大姐姐嗎～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-03002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-03002",
+            "text": "喝啊！傳遞秋意的孔雀……Pavolia Reine登場！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-04002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_03006-to-04002",
+            "text": "讓披肩隨風舞動～為大家獻上一段魅惑的舞蹈♡"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_04002-to-03006",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_04002-to-03006",
+            "text": "OK～～～主題當然是秋天對吧♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-03006_03006-5-uniq-0107-00_myself",
+            "text": "我要用魔法讓大家的秋天變得七彩繽紛！要開始囉～～♪"
         }
     },
     {
@@ -145644,6 +147326,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04002_03006-5-uniq-0107-00_03006-to-04002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04002_03006-5-uniq-0107-00_03006-to-04002",
+            "text": "這、這就是……孔雀的求偶舞嗎？！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04002_03006-5-uniq-0107-00_04002-to-03006",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04002_03006-5-uniq-0107-00_04002-to-03006",
+            "text": "Weine，跟我來一場時尚對決吧～～！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04002_03006-to-04002",
         "data": {
             "id": "la-text_cv-live_dial_chr-04002_03006-to-04002",
@@ -146348,6 +148044,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04003_00030-to-04003",
             "text": "該出手時就出手！這就是Ina的作風！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04003_00031-5-uniq-0105-00_00031-to-04003",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04003_00031-5-uniq-0105-00_00031-to-04003",
+            "text": "一、一直這樣盯著看，人家會害羞啦……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04003_00031-5-uniq-0105-00_04003-to-00031",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04003_00031-5-uniq-0105-00_04003-to-00031",
+            "text": "哇～那件格紋裙真好看～～♪"
         }
     },
     {
@@ -147412,6 +149122,69 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0047-00_myself",
             "text": "希望其實一直都在大家身邊。未來……也會永遠相伴♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_00021-to-04007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_00021-to-04007",
+            "text": "對吧對吧！要再多讚美我幾句也沒關係喔～"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_00028-to-04007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_00028-to-04007",
+            "text": "等一下～？意思是我平常看起來不成熟嗎～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_03005-to-04007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_03005-to-04007",
+            "text": "OK～！我來推薦一本最適合讀書之秋的作品吧～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-00021",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-00021",
+            "text": "秋天這個季節真是太危險了，四處都是美食的誘惑……！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-00028",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-00028",
+            "text": "在這個藝術之秋，將為大家獻上動人音樂的是誰呢～？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-03005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-03005",
+            "text": "這麼舒服的季節，穿什麼都愉快～～♪"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04007-to-04014",
+            "text": "大家看這裡～！我的秋裝打扮很漂亮吧？"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04014-to-04007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_04014-to-04007",
+            "text": "嗯，這個嘛～我不太喜歡運動之秋……"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_myself",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04007_04007-5-uniq-0106-00_myself",
+            "text": "既然是秋天，我就化身為邱比特，用歌聲讓大家墜入情網吧♪準備好了嗎？"
         }
     },
     {
@@ -150810,6 +152583,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-04014_04007-5-uniq-0106-00_04007-to-04014",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04007-5-uniq-0106-00_04007-to-04014",
+            "text": "超可愛！100分滿分～！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-04014_04007-5-uniq-0106-00_04014-to-04007",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-04014_04007-5-uniq-0106-00_04014-to-04007",
+            "text": "IRyS、IRyS！跟我比賽賽跑！"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-04014_04007-to-04014",
         "data": {
             "id": "la-text_cv-live_dial_chr-04014_04007-to-04014",
@@ -154177,6 +155964,20 @@
         }
     },
     {
+        "id": "la-text_cv-live_dial_chr-06002_00019-5-uniq-0108-00_00019-to-06002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_00019-5-uniq-0108-00_00019-to-06002",
+            "text": "喂～！妳那個語氣，該不會是在模仿我吧～？！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06002_00019-5-uniq-0108-00_06002-to-00019",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06002_00019-5-uniq-0108-00_06002-to-00019",
+            "text": "就算再多插一根紅蘿蔔上去，應該也不會被發現吧……"
+        }
+    },
+    {
         "id": "la-text_cv-live_dial_chr-06002_00019-to-06002",
         "data": {
             "id": "la-text_cv-live_dial_chr-06002_00019-to-06002",
@@ -156876,6 +158677,20 @@
         "data": {
             "id": "la-text_cv-live_dial_chr-06005_00001-to-06005",
             "text": "哈喵，不要看啦！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_00002-5-uniq-0104-00_00002-to-06005",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_00002-5-uniq-0104-00_00002-to-06005",
+            "text": "栗子！賞月！橡實！"
+        }
+    },
+    {
+        "id": "la-text_cv-live_dial_chr-06005_00002-5-uniq-0104-00_06005-to-00002",
+        "data": {
+            "id": "la-text_cv-live_dial_chr-06005_00002-5-uniq-0104-00_06005-to-00002",
+            "text": "是、是貝雷帽耶！真好～♪"
         }
     },
     {

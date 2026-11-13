@@ -147,6 +147,48 @@
         }
     },
     {
+        "id": "la-mission_grp-marathon_event-relay-004",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-004",
+            "text": "活動任務"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-004-chapter-01",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-004-chapter-01",
+            "text": "活動任務（蘿蔔子）"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-004-chapter-02",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-004-chapter-02",
+            "text": "活動任務（佩克拉）"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-004-chapter-03",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-004-chapter-03",
+            "text": "活動任務（IRyS）"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-004-chapter-04",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-004-chapter-04",
+            "text": "活動任務（音音）"
+        }
+    },
+    {
+        "id": "la-mission_grp-marathon_event-relay-004-chapter-05",
+        "data": {
+            "id": "la-mission_grp-marathon_event-relay-004-chapter-05",
+            "text": "活動任務（Reine）"
+        }
+    },
+    {
         "id": "la-mission_grp-mission_pass-0001-daily",
         "data": {
             "id": "la-mission_grp-mission_pass-0001-daily",
