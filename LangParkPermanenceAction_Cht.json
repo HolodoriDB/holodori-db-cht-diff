@@ -61,5 +61,54 @@
             "id": "la-perm-a03-resortshop-description-3",
             "text": "拜拜"
         }
+    },
+    {
+        "id": "la-perm-a03-resortshop-description-4",
+        "data": {
+            "id": "la-perm-a03-resortshop-description-4",
+            "text": "素材轉換"
+        }
+    },
+    {
+        "id": "la-perm-a03-shogi",
+        "data": {
+            "id": "la-perm-a03-shogi",
+            "text": "漂漂大亂鬥"
+        }
+    },
+    {
+        "id": "la-perm-a03-splashball",
+        "data": {
+            "id": "la-perm-a03-splashball",
+            "text": "水花飛球"
+        }
+    },
+    {
+        "id": "la-perm-a03-splashstadium-description-",
+        "data": {
+            "id": "la-perm-a03-splashstadium-description-",
+            "text": "取消"
+        }
+    },
+    {
+        "id": "la-perm-live_tower-description-1",
+        "data": {
+            "id": "la-perm-live_tower-description-1",
+            "text": "個人Live"
+        }
+    },
+    {
+        "id": "la-perm-live_tower-description-2",
+        "data": {
+            "id": "la-perm-live_tower-description-2",
+            "text": "挑戰Live"
+        }
+    },
+    {
+        "id": "la-perm-live_tower-description-3",
+        "data": {
+            "id": "la-perm-live_tower-description-3",
+            "text": "拜拜"
+        }
     }
 ]

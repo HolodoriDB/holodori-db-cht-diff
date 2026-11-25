@@ -378,6 +378,20 @@
         }
     },
     {
+        "id": "la-loading_display-tips-live_tower-001-text",
+        "data": {
+            "id": "la-loading_display-tips-live_tower-001-text",
+            "text": "善用加成成員編組隊伍達成目標分數吧！"
+        }
+    },
+    {
+        "id": "la-loading_display-tips-live_tower-001-title",
+        "data": {
+            "id": "la-loading_display-tips-live_tower-001-title",
+            "text": "挑戰Live的提示"
+        }
+    },
+    {
         "id": "la-loading_display-tips-mg-001-text",
         "data": {
             "id": "la-loading_display-tips-mg-001-text",

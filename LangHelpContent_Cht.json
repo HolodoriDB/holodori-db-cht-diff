@@ -451,7 +451,7 @@
         "id": "la-help_category-faq-questions-5-text",
         "data": {
             "id": "la-help_category-faq-questions-5-text",
-            "text": "禮物領取紀錄，最多顯示前100筆。\n超過100筆將依序刪除最早紀錄。"
+            "text": "禮物領取紀錄，最多顯示前500筆。\n超過500筆將依序刪除最早紀錄。"
         }
     },
     {
@@ -1120,6 +1120,20 @@
         }
     },
     {
+        "id": "la-help_category-help-game-9-text",
+        "data": {
+            "id": "la-help_category-help-game-9-text",
+            "text": "漂漂大亂鬥是操作移動方式各不相同的holo成員，設法讓對方隊長落水的小遊戲。\n讓對方隊長落水，或讓我方隊長衝鋒陷陣即可獲勝。\n\n可依勝負結果獲得獎勵。\n分「單人遊玩」與「多人遊玩」兩種遊玩模式。\n在「多人遊玩」模式中，最多可2人同遊。\n\n請點選漂漂大亂鬥主畫面中的［？］查看遊戲規則等詳情。\n\n▼監修\n漂漂大亂鬥採用「動物將棋」的遊戲規則。\n「動物將棋」遊戲設計及本遊戲監修：北尾まどか"
+        }
+    },
+    {
+        "id": "la-help_category-help-game-9-title",
+        "data": {
+            "id": "la-help_category-help-game-9-title",
+            "text": "關於漂漂大亂鬥"
+        }
+    },
+    {
         "id": "la-help_category-help-item-1-text",
         "data": {
             "id": "la-help_category-help-item-1-text",
@@ -1459,7 +1473,7 @@
         "id": "la-help_category-help-profile-3-text",
         "data": {
             "id": "la-help_category-help-profile-3-text",
-            "text": "個人檔案的基本資訊、holo成員、Live、遊戲可切換為公開/非公開。\n可在各項資訊下方進行切換。"
+            "text": "個人檔案的基本資訊、holo成員、Live、遊戲等各項目可切換為「公開」、「非公開」或「僅限好友可見」。\n\n公開設定可在個人檔案下方進行切換。"
         }
     },
     {
@@ -1638,6 +1652,20 @@
         }
     },
     {
+        "id": "la-help_category-help-rhythm-13-text",
+        "data": {
+            "id": "la-help_category-help-rhythm-13-text",
+            "text": "挑戰Live是挑戰各舞台的指定曲，並達成目標分數的Live玩法。\n達成目標分數即可過關舞台並獲得獎勵，前進至下一舞台。\n※已過關的舞台無法再次挑戰。\n\n編入各舞台設定的加成成員，即可獲得加成效果，提升隊伍分數。\n套用加成效果時，隊伍分數下方會顯示「＋加成效果值」。\n※加成效果值不會計入隊伍分數的合計數值。\n※判斷是否達成成就時，不會採計隊伍分數加上加成效果值後的數值。\n※不包含加成成員加成效果的分數，將會計入各樂曲的最高分等紀錄中。\n\n請點選挑戰Live主畫面中的［？］查看遊戲規則等詳情。"
+        }
+    },
+    {
+        "id": "la-help_category-help-rhythm-13-title",
+        "data": {
+            "id": "la-help_category-help-rhythm-13-title",
+            "text": "關於挑戰Live"
+        }
+    },
+    {
         "id": "la-help_category-help-rhythm-2-text",
         "data": {
             "id": "la-help_category-help-rhythm-2-text",
@@ -1767,7 +1795,7 @@
         "id": "la-help_category-help-shop-2-text",
         "data": {
             "id": "la-help_category-help-shop-2-text",
-            "text": "Holo通行證是支付月費即可享有各種特典的月費制服務。\n\n▼有效期限內的特典\n・獎勵加成：過關Live與小遊戲的獎勵提升為2倍。\n・提升能量上限：Live能量與小遊戲能量上限值提升為2倍。\n\n※活動Pt、活動徽章亦適用獎勵加成。\n\n▼購買/續訂的特典\n・購買/續訂時，將獲得藍鑽石×360。\n\n▼注意事項\n・Holo通行證的有效期限為購買/續訂日起1個月。\n・訂閱中的Holo通行證在有效期限結束後將會自動續訂。\n・Steam版無法購買。但在iOS、Android版購買的Holo通行證效果同樣適用於Steam版。\n・請透過［夢幻樂園］→［選單］→［商店］→［Holo通行證］，點選「＋」後，從畫面中顯示的「詳情」中查看Holo通行證的取消方法。"
+            "text": "Holo通行證是支付月費即可享有各種特典的月費制服務。\n\n▼有效期限內的特典\n・獎勵加成：Live與小遊戲的獎勵提升為2倍。\n・提升能量上限：Live能量與小遊戲能量上限值提升為2倍。\n\n※活動Pt、活動徽章亦適用獎勵加成。\n※每首樂曲的達成獎勵不適用獎勵加成。\n※關卡、多人遊玩的私人房間，以及漂漂大亂鬥的NORMAL模式不適用獎勵加成。  \n\n▼加入/續訂的特典\n・購買/續訂時，將獲得藍鑽石×360。\n\n▼注意事項\n・Holo通行證的有效期限為購買/續訂日起1個月。\n・訂閱中的Holo通行證在有效期限結束後將會自動續訂。\n・Steam版無法購買。但在iOS、Android版購買的Holo通行證效果同樣適用於Steam版。\n・請透過［夢幻樂園］→［選單］→［商店］→［Holo通行證］，點選「＋」後，從畫面中顯示的「詳情」中查看Holo通行證的取消方法。"
         }
     },
     {

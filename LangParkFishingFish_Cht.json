@@ -280,6 +280,20 @@
         }
     },
     {
+        "id": "la-park_fishing_fish-0021-description",
+        "data": {
+            "id": "la-park_fishing_fish-0021-description",
+            "text": "在驚濤駭浪中磨練出漆黑的條紋，讓俗稱「條石鯛」的牠贏得「礁岸王者」的威名。用筷子正面迎戰牠那足以咬碎貝殼的強韌下巴和牙齒吧！如果做成生魚片，那Q彈的口感絕對會讓人震驚不已！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0021-name",
+        "data": {
+            "id": "la-park_fishing_fish-0021-name",
+            "text": "石鯛"
+        }
+    },
+    {
         "id": "la-park_fishing_fish-0022-description",
         "data": {
             "id": "la-park_fishing_fish-0022-description",
@@ -319,6 +333,34 @@
         "data": {
             "id": "la-park_fishing_fish-0024-name",
             "text": "龍蝦"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0025-description",
+        "data": {
+            "id": "la-park_fishing_fish-0025-description",
+            "text": "這種鯊魚個性非常溫馴，在水族館裡基本上是負責療癒的角色。無論是觀賞牠晃動著貓耳在海底游動的模樣，還是隔著水族箱和牠對上眼，都一定會被那張呆萌的臉迷住！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0025-name",
+        "data": {
+            "id": "la-park_fishing_fish-0025-name",
+            "text": "寬紋虎鯊"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0026-description",
+        "data": {
+            "id": "la-park_fishing_fish-0026-description",
+            "text": "色彩鮮豔的頭頂，宛如一頂高貴的軍帽。然而，一旦和牠累積了深厚的情誼，這份印象就會徹底改觀！那毫無防備、主動貼近人的模樣，根本是海裡最強的反差萌！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0026-name",
+        "data": {
+            "id": "la-park_fishing_fish-0026-name",
+            "text": "蘇眉魚"
         }
     },
     {
@@ -375,6 +417,48 @@
         "data": {
             "id": "la-park_fishing_fish-0030-name",
             "text": "卡哇伊勢龍蝦"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0031-description",
+        "data": {
+            "id": "la-park_fishing_fish-0031-description",
+            "text": "長得像水母弟弟的布偶。雖然不知道為什麼，但據說偶爾會被釣上來。至於它嘴角到底有沒有一顆痣，也成了釣魚高手之間津津樂道的話題。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0031-name",
+        "data": {
+            "id": "la-park_fishing_fish-0031-name",
+            "text": "長得像水母弟弟的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0032-description",
+        "data": {
+            "id": "la-park_fishing_fish-0032-description",
+            "text": "讓人聯想到助手君的布偶。雖然不知道為什麼，但據說偶爾會被釣上來。它可愛的模樣，讓人一釣上來就忍不住發出讚嘆。在釣魚高手之間也是大受歡迎的珍品！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0032-name",
+        "data": {
+            "id": "la-park_fishing_fish-0032-name",
+            "text": "讓人聯想到助手君的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0033-description",
+        "data": {
+            "id": "la-park_fishing_fish-0033-description",
+            "text": "乍看之下以為是海膽弟弟的布偶。雖然不知道為什麼，但據說偶爾會被釣上來。軟綿綿的毛在釣手之間大受歡迎，甚至有人專程只想釣它。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0033-name",
+        "data": {
+            "id": "la-park_fishing_fish-0033-name",
+            "text": "乍看之下以為是海膽弟弟的布偶"
         }
     },
     {
@@ -644,6 +728,20 @@
         }
     },
     {
+        "id": "la-park_fishing_fish-0053-description",
+        "data": {
+            "id": "la-park_fishing_fish-0053-description",
+            "text": "在漆黑的深海中高舉著「燈籠」，搖曳著一縷微光的海洋魔術師。雄魚會依偎在雌魚身旁，最後與雌魚融為一體，是一種神奇的生物，簡直就像奇幻故事中的情節。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0053-name",
+        "data": {
+            "id": "la-park_fishing_fish-0053-name",
+            "text": "鞭冠鮟鱇"
+        }
+    },
+    {
         "id": "la-park_fishing_fish-0054-description",
         "data": {
             "id": "la-park_fishing_fish-0054-description",
@@ -700,6 +798,34 @@
         }
     },
     {
+        "id": "la-park_fishing_fish-0058-description",
+        "data": {
+            "id": "la-park_fishing_fish-0058-description",
+            "text": "擁有約4億年歷史的深海大前輩。這位外表4億年來似乎都沒變過的前輩，正是填補演化史上失落環節的重要關鍵。如果遇見牠，就懷著敬意向牠行個禮吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0058-name",
+        "data": {
+            "id": "la-park_fishing_fish-0058-name",
+            "text": "腔棘魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0059-description",
+        "data": {
+            "id": "la-park_fishing_fish-0059-description",
+            "text": "披著狼面具的孤獨守護者。牠為愛而活，打累了就躲進岩洞裡不出來的模樣，讓人看得十分疼惜。在部分地區，人們會把牠做成奶油香煎或直接炸來吃，深受老饕和漁夫們的喜愛。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0059-name",
+        "data": {
+            "id": "la-park_fishing_fish-0059-name",
+            "text": "白令狼魚"
+        }
+    },
+    {
         "id": "la-park_fishing_fish-0060-description",
         "data": {
             "id": "la-park_fishing_fish-0060-description",
@@ -753,6 +879,48 @@
         "data": {
             "id": "la-park_fishing_fish-0063-name",
             "text": "舞動鼠鱚魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0064-description",
+        "data": {
+            "id": "la-park_fishing_fish-0064-description",
+            "text": "雪民造型的布偶。雖然不知道為什麼，但據說偶爾會被釣上來。它那惹人憐愛的模樣吸引了越來越多的粉絲，特別是打滾時的姿態，更在社群平台上引發熱烈討論。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0064-name",
+        "data": {
+            "id": "la-park_fishing_fish-0064-name",
+            "text": "雪民造型的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0065-description",
+        "data": {
+            "id": "la-park_fishing_fish-0065-description",
+            "text": "有點像夥伴熊的布偶。雖然不知道為什麼，但據說偶爾會被釣上來。為了將來航向汪洋大海的那一天，如果發現它，就趕快邀請它成為夥伴吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0065-name",
+        "data": {
+            "id": "la-park_fishing_fish-0065-name",
+            "text": "有點像夥伴熊的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0066-description",
+        "data": {
+            "id": "la-park_fishing_fish-0066-description",
+            "text": "有幾分Mr.Squeaks神韻的布偶。雖然不知道為什麼，但據說偶爾會被釣上來。小小的蝴蝶結非常可愛，如果發現它，就跟其他釣手炫耀吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0066-name",
+        "data": {
+            "id": "la-park_fishing_fish-0066-name",
+            "text": "有幾分Mr.Squeaks神韻的布偶"
         }
     },
     {
@@ -994,6 +1162,20 @@
         }
     },
     {
+        "id": "la-park_fishing_fish-0084-description",
+        "data": {
+            "id": "la-park_fishing_fish-0084-description",
+            "text": "只有活著時會綻放出翠綠色的閃光！無論用奶油香煎，還是豪邁地拿去油炸，只要吃一口，滿嘴都會是南國海風的鮮美氣息。牠在夏威夷可是被稱作「mahi-mahi」的高級魚喔！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0084-name",
+        "data": {
+            "id": "la-park_fishing_fish-0084-name",
+            "text": "鬼頭刀"
+        }
+    },
+    {
         "id": "la-park_fishing_fish-0085-description",
         "data": {
             "id": "la-park_fishing_fish-0085-description",
@@ -1019,6 +1201,20 @@
         "data": {
             "id": "la-park_fishing_fish-0086-name",
             "text": "海蛇"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0087-description",
+        "data": {
+            "id": "la-park_fishing_fish-0087-description",
+            "text": "牠生性機警，只要稍微察覺到人影，就會感受到威脅並立刻銷聲匿跡。柔韌的肌肉蘊藏著絕佳口感，但想釣到牠簡直難如登天。可以說是所有釣魚高手追求的最高境界！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0087-name",
+        "data": {
+            "id": "la-park_fishing_fish-0087-name",
+            "text": "鐮鰭鯧鰺"
         }
     },
     {
@@ -1050,6 +1246,20 @@
         }
     },
     {
+        "id": "la-park_fishing_fish-0090-description",
+        "data": {
+            "id": "la-park_fishing_fish-0090-description",
+            "text": "牠的特色是如鋒利長槍般向前延伸的上顎，能以時速100公里的速度突破狂風巨浪！如果把那鍛鍊得極為結實的魚肉豪邁地做成香煎或照燒料理，會讓人陷入一種彷彿正在吸收大海能量的錯覺！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0090-name",
+        "data": {
+            "id": "la-park_fishing_fish-0090-name",
+            "text": "旗魚"
+        }
+    },
+    {
         "id": "la-park_fishing_fish-0091-description",
         "data": {
             "id": "la-park_fishing_fish-0091-description",
@@ -1061,6 +1271,20 @@
         "data": {
             "id": "la-park_fishing_fish-0091-name",
             "text": "雙髻鯊"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0092-description",
+        "data": {
+            "id": "la-park_fishing_fish-0092-description",
+            "text": "「白色死神」——牠曾因成為某部鯊魚電影的原型而一夕爆紅，是個危險的傢伙，只要碰上就死定了！一旦被牠那強而有力的嘴咬住，再怎麼祈禱也無濟於事！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0092-name",
+        "data": {
+            "id": "la-park_fishing_fish-0092-name",
+            "text": "大白鯊"
         }
     },
     {
@@ -1117,6 +1341,62 @@
         "data": {
             "id": "la-park_fishing_fish-0096-name",
             "text": "小丑條紋躄魚"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0097-description",
+        "data": {
+            "id": "la-park_fishing_fish-0097-description",
+            "text": "Cilus風格的布偶。雖然不知道為什麼，但據說偶爾會被釣上來。如雲朵般可愛的外表，讓它獲得許多釣手的支持，社群平台上也經常能看到它被釣起來的照片。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0097-name",
+        "data": {
+            "id": "la-park_fishing_fish-0097-name",
+            "text": "Cilus風格的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0098-description",
+        "data": {
+            "id": "la-park_fishing_fish-0098-description",
+            "text": "長得像Upao的布偶。雖然不知道為什麼，但據說偶爾會被釣上來。大家都覺得它純真的表情讓人感到很療癒，據說在釣魚高手之間，甚至還有人熱衷於收藏它。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0098-name",
+        "data": {
+            "id": "la-park_fishing_fish-0098-name",
+            "text": "令人想起Upao的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0099-description",
+        "data": {
+            "id": "la-park_fishing_fish-0099-description",
+            "text": "很有座員感的布偶。雖然不知道為什麼，但據說偶爾會被釣上來。高帽搭配氣派的鬍鬚，看起來充滿威嚴，如果運氣好釣到它，就拿來當擺飾欣賞吧！"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0099-name",
+        "data": {
+            "id": "la-park_fishing_fish-0099-name",
+            "text": "很有座員感的布偶"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0100-description",
+        "data": {
+            "id": "la-park_fishing_fish-0100-description",
+            "text": "偶爾才會被釣到的黃金鯛魚。因為非常稀有，所以能賣到好價錢。但作為食材，牠既不適合燉煮也不適合油炸……據說吃起來還沙沙的。"
+        }
+    },
+    {
+        "id": "la-park_fishing_fish-0100-name",
+        "data": {
+            "id": "la-park_fishing_fish-0100-name",
+            "text": "黃金鯛"
         }
     },
     {

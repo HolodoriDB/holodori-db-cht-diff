@@ -406,6 +406,20 @@
         }
     },
     {
+        "id": "la-quest-area-a01-30-description",
+        "data": {
+            "id": "la-quest-area-a01-30-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-30-title",
+        "data": {
+            "id": "la-quest-area-a01-30-title",
+            "text": "前進夢想舞台！任務開始"
+        }
+    },
+    {
         "id": "la-quest-area-a02-01-description",
         "data": {
             "id": "la-quest-area-a02-01-description",
@@ -893,6 +907,20 @@
         "data": {
             "id": "la-quest-area-a03-19-title",
             "text": "舉起喜愛的飲品乾杯吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-20-description",
+        "data": {
+            "id": "la-quest-area-a03-20-description",
+            "text": "-"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-20-title",
+        "data": {
+            "id": "la-quest-area-a03-20-title",
+            "text": "漂漂大亂鬥開戰！"
         }
     },
     {

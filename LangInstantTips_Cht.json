@@ -103,5 +103,12 @@
             "id": "la-instant_tips-random_reward-livehouse-1",
             "text": "【holo成員的隱藏寶箱】已升級"
         }
+    },
+    {
+        "id": "la-tips-instant_tips-exchange_booth-facility-a03-exchangebooth-release",
+        "data": {
+            "id": "la-tips-instant_tips-exchange_booth-facility-a03-exchangebooth-release",
+            "text": "一條VIP會所新增素材兌換功能，可以將特訓道具轉換成其他特訓道具！"
+        }
     }
 ]

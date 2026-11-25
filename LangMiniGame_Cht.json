@@ -140,6 +140,20 @@
         }
     },
     {
+        "id": "la-mini_game-shogi-description",
+        "data": {
+            "id": "la-mini_game-shogi-description",
+            "text": "在水上浮台讓對手落水的策略遊戲"
+        }
+    },
+    {
+        "id": "la-mini_game-shogi-name",
+        "data": {
+            "id": "la-mini_game-shogi-name",
+            "text": "漂漂大亂鬥"
+        }
+    },
+    {
         "id": "la-mini_game-splash_ball-description",
         "data": {
             "id": "la-mini_game-splash_ball-description",

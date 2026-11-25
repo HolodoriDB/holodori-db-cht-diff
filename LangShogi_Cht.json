@@ -1,0 +1,44 @@
+[
+    {
+        "id": "la-shogi-game_playing_display_clear_condition-quest",
+        "data": {
+            "id": "la-shogi-game_playing_display_clear_condition-quest",
+            "text": "盡情遊玩，直到分出勝負吧！"
+        }
+    },
+    {
+        "id": "la-shogi-game_start_display_clear_condition-quest",
+        "data": {
+            "id": "la-shogi-game_start_display_clear_condition-quest",
+            "text": "讓對方隊長落水，或讓我方隊長衝鋒陷陣，贏得勝利吧！"
+        }
+    },
+    {
+        "id": "la-shogi-game_start_display_clear_stage1",
+        "data": {
+            "id": "la-shogi-game_start_display_clear_stage1",
+            "text": "移動海豚，將對方隊長逼入絕境並贏得勝利吧！"
+        }
+    },
+    {
+        "id": "la-shogi-game_start_display_clear_stage2",
+        "data": {
+            "id": "la-shogi-game_start_display_clear_stage2",
+            "text": "移動隊長衝鋒陷陣，贏得勝利吧！"
+        }
+    },
+    {
+        "id": "la-shogi-game_start_display_clear_stage3",
+        "data": {
+            "id": "la-shogi-game_start_display_clear_stage3",
+            "text": "配置我方夥伴holo成員，贏得勝利吧！"
+        }
+    },
+    {
+        "id": "la-shogi-game_start_display_clear_stage4",
+        "data": {
+            "id": "la-shogi-game_start_display_clear_stage4",
+            "text": "強化烏龜（綠），贏得勝利吧！"
+        }
+    }
+]

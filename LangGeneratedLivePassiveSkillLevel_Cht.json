@@ -658,6 +658,62 @@
         }
     },
     {
+        "id": "la-generated-live_passive_skill-card-00015-5-uniq-0120-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00015-5-uniq-0120-00.1-description",
+            "text": "若編入3名以上[attribute=cute]可愛類型[/attribute]的人物3名[attribute=cute]可愛類型[/attribute]的技巧提升23% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00015-5-uniq-0120-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00015-5-uniq-0120-00.2-description",
+            "text": "若編入3名以上[attribute=cute]可愛類型[/attribute]的人物3名[attribute=cute]可愛類型[/attribute]的技巧提升[highlight]30[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00028-5-uniq-0121-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00028-5-uniq-0121-00.1-description",
+            "text": "若編入3名以上[attribute=cute]可愛類型[/attribute]的人物2名[attribute=cute]可愛類型[/attribute]的技能發動機率提升14% 若編入3名以上[attribute=cute]可愛類型[/attribute]的人物2名[attribute=cute]可愛類型[/attribute]的品味提升13%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-00028-5-uniq-0121-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-00028-5-uniq-0121-00.2-description",
+            "text": "若編入3名以上[attribute=cute]可愛類型[/attribute]的人物2名[attribute=cute]可愛類型[/attribute]的技能發動機率提升[highlight]19[/highlight]% 若編入3名以上[attribute=cute]可愛類型[/attribute]的人物2名[attribute=cute]可愛類型[/attribute]的品味提升[highlight]17[/highlight]%"
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04003-5-uniq-0122-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04003-5-uniq-0122-00.1-description",
+            "text": "若編入3名以上[attribute=cute]可愛類型[/attribute]的人物2名[attribute=cute]可愛類型[/attribute]的表現力提升34% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04003-5-uniq-0122-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04003-5-uniq-0122-00.2-description",
+            "text": "若編入3名以上[attribute=cute]可愛類型[/attribute]的人物2名[attribute=cute]可愛類型[/attribute]的表現力提升[highlight]45[/highlight]% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04013-5-uniq-0123-00.1-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04013-5-uniq-0123-00.1-description",
+            "text": "若編入3名以上[attribute=pure]清純類型[/attribute]的人物2名[attribute=pure]清純類型[/attribute]的技巧提升34% "
+        }
+    },
+    {
+        "id": "la-generated-live_passive_skill-card-04013-5-uniq-0123-00.2-description",
+        "data": {
+            "id": "la-generated-live_passive_skill-card-04013-5-uniq-0123-00.2-description",
+            "text": "若編入3名以上[attribute=pure]清純類型[/attribute]的人物2名[attribute=pure]清純類型[/attribute]的技巧提升[highlight]45[/highlight]% "
+        }
+    },
+    {
         "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",
         "data": {
             "id": "la-generated-live_passive_skill-card-00002-3-nrml-0001-00.1-description",

@@ -1617,6 +1617,20 @@
         }
     },
     {
+        "id": "la-tips-instant_tips-live_tower-quest-unlock-description-1",
+        "data": {
+            "id": "la-tips-instant_tips-live_tower-quest-unlock-description-1",
+            "text": "已解鎖區域關卡「<color=#ff3bc8>前進夢想舞台！任務開始</color>」喔！\n\n過關關卡即可遊玩「<color=#ff3bc8>挑戰Live</color>」喔！\n\n挑戰Live，是挑戰各舞台所設定的目標分數的Live玩法喔！"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-live_tower-quest-unlock-description-2",
+        "data": {
+            "id": "la-tips-instant_tips-live_tower-quest-unlock-description-2",
+            "text": "過關舞台，即可獲得<color=#ff3bc8>星形方塊</color>等獎勵與<color=#ff3bc8>達成稱號</color>喔！\n\n※可透過成就獲得達成稱號。"
+        }
+    },
+    {
         "id": "la-tips-instant_tips-present-facerock-2-description-1",
         "data": {
             "id": "la-tips-instant_tips-present-facerock-2-description-1",
@@ -1635,6 +1649,13 @@
         "data": {
             "id": "la-tips-instant_tips-random_reward-livehouse-2-description-1",
             "text": "ReGLOSS讓隱藏寶箱的種類變多了喔！\n\n<color=#ff3bc8>寶箱每天會隱藏在不同地點</color>，快來尋找吧！"
+        }
+    },
+    {
+        "id": "la-tips-instant_tips-skill_tree-upgrade-1-description-1",
+        "data": {
+            "id": "la-tips-instant_tips-skill_tree-upgrade-1-description-1",
+            "text": "已新增<color=#ff3bc8>強化隊長效果的欄位</color>喔！\n\n可透過<color=#ff3bc8>挑戰Live</color>獲得解鎖新增欄位所需的星形方塊喔！"
         }
     },
     {
@@ -1691,6 +1712,48 @@
         "data": {
             "id": "la-tips-live-description-1",
             "text": "隊伍中<color=#ff3bc8>可編入1名隊長與5名成員</color>喔！\n\n隊長的服裝技能與成員的能力、技能等將會影響隊伍分數喔！"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-description-1",
+        "data": {
+            "id": "la-tips-live_tower-description-1",
+            "text": "隨時可在<color=#ff3bc8>各區域的Live舞台</color>或<color=#ff3bc8>Live入口</color>遊玩挑戰Live喔！"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-description-2",
+        "data": {
+            "id": "la-tips-live_tower-description-2",
+            "text": "過關舞台，獲得各種獎勵吧！\n\n過關指定舞台，即可獲得<color=#ff3bc8>星方塊</color>與<color=#ff3bc8>達成稱號</color>喔！\n\n※可透過成就獲得達成稱號。"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-quest-description-1",
+        "data": {
+            "id": "la-tips-live_tower-quest-description-1",
+            "text": "挑戰Live，是<color=#ff3bc8>挑戰各舞台所設定的目標分數的Live玩法</color>喔！\n\n達成目標分數即可過關舞台！\n過關舞台即可獲得獎勵，並前進至下一舞台喔！\n\n※已過關的舞台無法再次挑戰。"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-quest-description-2",
+        "data": {
+            "id": "la-tips-live_tower-quest-description-2",
+            "text": "各舞台皆有多首指定曲喔！\n\n<color=#ff3bc8>只要1首樂曲達成目標分數即可過關舞台</color>喔！"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-quest-description-3",
+        "data": {
+            "id": "la-tips-live_tower-quest-description-3",
+            "text": "各舞台皆有設定加成成員喔！\n\n編入加成成員，<color=#ff3bc8>即可獲得加成效果，提升隊伍分數</color>喔！"
+        }
+    },
+    {
+        "id": "la-tips-live_tower-quest-description-4",
+        "data": {
+            "id": "la-tips-live_tower-quest-description-4",
+            "text": "<color=#ff3bc8>大幅超過目標分數時可跳過舞台</color>喔！\n\n跳過舞台仍可獲得該舞台的獎勵喔！\n\n<color=#ff3bc8>虹色舞台是必須挑戰</color>的舞台喔！"
         }
     },
     {
@@ -2118,6 +2181,174 @@
         "data": {
             "id": "la-tips-rhythm-game-description-5",
             "text": "開啟Live選項的節奏輔助後，<color=#ff3bc8>反拍等節奏的一般音符將會變成灰色</color>，更容易掌握節奏喔！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-description-1",
+        "data": {
+            "id": "la-tips-shogi-description-1",
+            "text": "隨時可在汽水泡泡灣的<color=#ff3bc8>水花運動場</color>遊玩漂漂大亂鬥喔！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-description-2",
+        "data": {
+            "id": "la-tips-shogi-description-2",
+            "text": "<color=#ff3bc8>過關NORMAL關卡即可獲得獎勵喔！</color>\n\n擊敗各關卡的holo成員，成功過關吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-description-3",
+        "data": {
+            "id": "la-tips-shogi-description-3",
+            "text": "<color=#ff3bc8>過關所有NORMAL關卡，即可遊玩CHALLENGE關卡喔！</color>\n\n在CHALLENGE關卡中，可與不同強度的holo成員進行對戰喔！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-1",
+        "data": {
+            "id": "la-tips-shogi-quest-description-1",
+            "text": "漂漂大亂鬥是<color=#ff3bc8>讓對方隊長落水即可獲勝</color>的小遊戲喔！\n\n讓對方隊長以外的holo成員落水，\n即可使其成為我方夥伴喔！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-2",
+        "data": {
+            "id": "la-tips-shogi-quest-description-2",
+            "text": "在我方回合中，可「移動浮台上的1名holo成員」，\n或將「成為夥伴的holo成員配置於空的浮台上」。<color=#ff3bc8>每回合僅可執行一次指令</color>喔！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-3",
+        "data": {
+            "id": "la-tips-shogi-quest-description-3",
+            "text": "讓對方隊長落水，贏得勝利吧！\n\n▼獲勝條件①（讓對方隊長落水）\n<color=#ff3bc8>讓對方隊長（王冠holo成員）落水即可獲勝！</color>\n靈活運用holo成員，將對方逼入絕境吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-4",
+        "data": {
+            "id": "la-tips-shogi-quest-description-4",
+            "text": "將我方隊長移動至最右排的浮台吧！\n\n▼獲勝條件②（衝鋒陷陣）\n我方隊長抵達最右排的浮台即有機會獲勝！\n抵達後，<color=#ff3bc8>只要我方隊長下一回合不會被推下水即可獲勝</color>喔！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-5",
+        "data": {
+            "id": "la-tips-shogi-quest-description-5",
+            "text": "<color=#ff3bc8>烏龜（綠）進入最右排後，將會強化為烏龜（金）喔！</color>\n\n將成為我方夥伴的holo成員直接配置於最右排的浮台上時，不會觸發強化，請多加注意！\n烏龜（金）落水後會變回烏龜（綠），記得留意喔！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-6",
+        "data": {
+            "id": "la-tips-shogi-quest-description-6",
+            "text": "<color=#ff3bc8>每種帽子可移動的方向都不同喔！</color>\n\n▼移動方式\n・隊長：向所有方向移動1格\n・鯨魚：斜向移動1格\n・海豚：向前後左右移動1格\n・烏龜（綠）：向前方移動1格\n・烏龜（金）：向斜後方以外的6個方向移動1格"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-7",
+        "data": {
+            "id": "la-tips-shogi-quest-description-7",
+            "text": "請注意不要重複相同的走法！\n\n▼和局\n若雙方反覆採取相同走法，導致<color=#ff3bc8>同一局面連續出現3次，就會判定為和局</color>喔！\n雙方陷入僵局時，不妨嘗試移動至其他浮台吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-quest-description-8",
+        "data": {
+            "id": "la-tips-shogi-quest-description-8",
+            "text": "只能在單人遊玩模式中使用「返回一步」喔！\n\n按下「返回一步」按鍵，<color=#ff3bc8>即可回到上一個我方回合</color>喔！\n但請注意使用次數有限！\n\n不小心走錯時，請善用此功能吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-catch-end-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-catch-end-description-1",
+            "text": "<color=#ff3bc8>讓對方隊長落水即可獲勝喔！</color>\n\n正式對戰時請挑戰看看吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-catch-start-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-catch-start-description-1",
+            "text": "<color=#ff3bc8>讓對方隊長（王冠）落水吧！</color>\n\n靈活運用我方holo成員，讓對方隊長落水，贏得小遊戲勝利吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-nakama-end-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-nakama-end-description-1",
+            "text": "<color=#ff3bc8>善用成為我方夥伴的holo成員，即可在小遊戲中取得優勢喔！</color>\n\n正式對戰時請積極活用吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-nakama-start-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-nakama-start-description-1",
+            "text": "<color=#ff3bc8>讓對方holo成員落水，即可使其成為我方夥伴喔！</color>\n\n可將成為我方夥伴的holo成員配置於空的浮台上！\n仔細思考配置位置，將對方逼入絕境吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-naru-end-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-naru-end-description-1",
+            "text": "<color=#ff3bc8>烏龜（綠）移動至最右排的浮台強化為「烏龜（金）」後，可移動的方向就會增加喔！</color>\n\n正式對戰時請挑戰看看吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-naru-start-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-naru-start-description-1",
+            "text": "<color=#ff3bc8>烏龜（綠）只要進入最右排的浮台，即可「強化」喔！</color>\n\n將烏龜移動至最右排的浮台，在小遊戲中取得優勢吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-try-end-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-try-end-description-1",
+            "text": "我方隊長<color=#ff3bc8>抵達最右排的浮台後，下一回合沒有落水即可「衝鋒陷陣」獲勝喔！</color>\n\n正式對戰時請挑戰看看吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage-try-start-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage-try-start-description-1",
+            "text": "<color=#ff3bc8>將我方隊長移動至最右排的浮台即可「衝鋒陷陣」獲勝喔！</color>\n\n抵達後，若我方隊長下一回合落水便無法衝鋒陷陣喔！\n抓住敵人的破綻，將我方隊長移動至最右排的浮台吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage1-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage1-hint-description-1",
+            "text": "先用海豚讓對方的烏龜（綠）落水吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage2-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage2-hint-description-1",
+            "text": "先讓隊長向前移動1格吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage3-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage3-hint-description-1",
+            "text": "先將成為我方夥伴的烏龜（綠）配置於對方隊長的正前方吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage4-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage4-hint-description-1",
+            "text": "先讓烏龜（綠）向前移動1格，強化為烏龜（金）吧！"
+        }
+    },
+    {
+        "id": "la-tips-shogi-stage5-hint-description-1",
+        "data": {
+            "id": "la-tips-shogi-stage5-hint-description-1",
+            "text": "先善用成為我方夥伴的holo成員吧！"
         }
     },
     {

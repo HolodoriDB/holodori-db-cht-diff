@@ -110,5 +110,47 @@
             "id": "la-park_fishing_bait-008-name",
             "text": "海藻"
         }
+    },
+    {
+        "id": "la-park_fishing_bait-009-description",
+        "data": {
+            "id": "la-park_fishing_bait-009-description",
+            "text": "可釣到特定魚種的魚餌"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-009-name",
+        "data": {
+            "id": "la-park_fishing_bait-009-name",
+            "text": "橘子"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-010-description",
+        "data": {
+            "id": "la-park_fishing_bait-010-description",
+            "text": "可釣到特定魚種的魚餌"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-010-name",
+        "data": {
+            "id": "la-park_fishing_bait-010-name",
+            "text": "軟糖"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-011-description",
+        "data": {
+            "id": "la-park_fishing_bait-011-description",
+            "text": "可釣到特定魚種的魚餌"
+        }
+    },
+    {
+        "id": "la-park_fishing_bait-011-name",
+        "data": {
+            "id": "la-park_fishing_bait-011-name",
+            "text": "星型練餌"
+        }
     }
 ]

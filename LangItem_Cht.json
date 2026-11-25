@@ -994,6 +994,20 @@
         }
     },
     {
+        "id": "la-item-event_badge-marathon_event-normal-010-chapter-01-description",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-010-chapter-01-description",
+            "text": "可兌換活動兌換所道具的徽章。\n超過有效期限後，將自動轉換為holo金幣。"
+        }
+    },
+    {
+        "id": "la-item-event_badge-marathon_event-normal-010-chapter-01-name",
+        "data": {
+            "id": "la-item-event_badge-marathon_event-normal-010-chapter-01-name",
+            "text": "活動徽章"
+        }
+    },
+    {
         "id": "la-item-event_badge-marathon_event-relay-001-all-description",
         "data": {
             "id": "la-item-event_badge-marathon_event-relay-001-all-description",
@@ -2069,6 +2083,20 @@
         "data": {
             "id": "la-item-skill_tree_leader-2-name",
             "text": "紅心方塊"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_leader-3-description",
+        "data": {
+            "id": "la-item-skill_tree_leader-3-description",
+            "text": "用於解鎖Holo成員面板欄位的道具。"
+        }
+    },
+    {
+        "id": "la-item-skill_tree_leader-3-name",
+        "data": {
+            "id": "la-item-skill_tree_leader-3-name",
+            "text": "紅星方塊"
         }
     }
 ]

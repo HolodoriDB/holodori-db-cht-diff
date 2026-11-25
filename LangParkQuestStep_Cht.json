@@ -595,6 +595,20 @@
         }
     },
     {
+        "id": "la-quest-area-a01-30-1-1",
+        "data": {
+            "id": "la-quest-area-a01-30-1-1",
+            "text": "前往協奏花園的舞台，向{character}搭話吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a01-30-1-2",
+        "data": {
+            "id": "la-quest-area-a01-30-1-2",
+            "text": "為盛大的開幕Live展開特訓！準備好後，與{character}對話吧！"
+        }
+    },
+    {
         "id": "la-quest-area-a02-01-1-1",
         "data": {
             "id": "la-quest-area-a02-01-1-1",
@@ -1306,6 +1320,20 @@
         "data": {
             "id": "la-quest-area-a03-19-1-2",
             "text": "讓海上特等席變得更豪華！與{character}一起強化瑪琳公主號吧"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-20-1-1",
+        "data": {
+            "id": "la-quest-area-a03-20-1-1",
+            "text": "holo成員正聚集在水花運動場。去看看情況吧！"
+        }
+    },
+    {
+        "id": "la-quest-area-a03-20-1-2",
+        "data": {
+            "id": "la-quest-area-a03-20-1-2",
+            "text": "漂漂大亂鬥開始！落湯雞女王的寶座將落入誰手？！"
         }
     },
     {

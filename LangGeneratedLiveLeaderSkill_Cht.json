@@ -329,6 +329,34 @@
         }
     },
     {
+        "id": "la-generated-live_leader_skill-card-00015-5-uniq-0120-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00015-5-uniq-0120-00-description",
+            "text": "若編入3名以上[attribute=cute]可愛類型[/attribute]的人物全體成員的技巧提升135% "
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-00028-5-uniq-0121-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-00028-5-uniq-0121-00-description",
+            "text": "若編入3名以上[attribute=cute]可愛類型[/attribute]的人物全體成員的分數加成效果45% 若編入3名以上[attribute=cute]可愛類型[/attribute]的人物全體成員的品味提升50%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-04003-5-uniq-0122-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-04003-5-uniq-0122-00-description",
+            "text": "若編入3名以上[attribute=cute]可愛類型[/attribute]的人物全體成員的表現力提升85% 若編入3名以上[attribute=cute]可愛類型[/attribute]的人物全體成員的分數加成效果25%"
+        }
+    },
+    {
+        "id": "la-generated-live_leader_skill-card-04013-5-uniq-0123-00-description",
+        "data": {
+            "id": "la-generated-live_leader_skill-card-04013-5-uniq-0123-00-description",
+            "text": "若編入3名以上[attribute=pure]清純類型[/attribute]的人物全體成員的技巧提升85% 若編入3名以上[attribute=pure]清純類型[/attribute]的人物全體成員的分數加成效果25%"
+        }
+    },
+    {
         "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",
         "data": {
             "id": "la-generated-live_leader_skill-card-00002-3-nrml-0001-00-description",

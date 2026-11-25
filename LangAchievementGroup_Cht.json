@@ -49,6 +49,13 @@
         }
     },
     {
+        "id": "la-achievement_grp-live_tower",
+        "data": {
+            "id": "la-achievement_grp-live_tower",
+            "text": "挑戰Live"
+        }
+    },
+    {
         "id": "la-achievement_grp-login",
         "data": {
             "id": "la-achievement_grp-login",
@@ -102,6 +109,13 @@
         "data": {
             "id": "la-achievement_grp-minigame_rope",
             "text": "蹦蹦大跳繩"
+        }
+    },
+    {
+        "id": "la-achievement_grp-minigame_shogi",
+        "data": {
+            "id": "la-achievement_grp-minigame_shogi",
+            "text": "漂漂大亂鬥"
         }
     },
     {
