@@ -2,7 +2,8 @@
     {
         "id": "la-cd-absolute_park_fishing_fish_unique_count_99",
         "data": {
-            "id": "la-cd-absolute_park_fishing_fish_unique_count_99"
+            "id": "la-cd-absolute_park_fishing_fish_unique_count_99",
+            "text": "解鎖條件：釣起99種魚"
         }
     },
     {
@@ -204,7 +205,8 @@
     {
         "id": "la-cd-perm-a03-shogi",
         "data": {
-            "id": "la-cd-perm-a03-shogi"
+            "id": "la-cd-perm-a03-shogi",
+            "text": "漂漂大亂鬥"
         }
     },
     {
@@ -406,13 +408,15 @@
     {
         "id": "la-cd-quest-area-a01-30",
         "data": {
-            "id": "la-cd-quest-area-a01-30"
+            "id": "la-cd-quest-area-a01-30",
+            "text": "推進區域關卡「前進夢想舞台！任務開始」即可解鎖"
         }
     },
     {
         "id": "la-cd-quest-area-a01-30-description",
         "data": {
-            "id": "la-cd-quest-area-a01-30-description"
+            "id": "la-cd-quest-area-a01-30-description",
+            "text": "推進區域關卡「前進夢想舞台！任務開始」後即可解鎖"
         }
     },
     {
@@ -460,13 +464,15 @@
     {
         "id": "la-cd-quest-area-a03-20",
         "data": {
-            "id": "la-cd-quest-area-a03-20"
+            "id": "la-cd-quest-area-a03-20",
+            "text": "過關汽水泡泡灣主線關卡EP15即可解鎖"
         }
     },
     {
         "id": "la-cd-quest-area-a03-20-description",
         "data": {
-            "id": "la-cd-quest-area-a03-20-description"
+            "id": "la-cd-quest-area-a03-20-description",
+            "text": "過關汽水泡泡灣主線關卡EP15後即可解鎖"
         }
     },
     {
